@@ -10,8 +10,8 @@ $imagedir:'/images/';
  */
 
 // Background for div
-@mixin background($filename,$position:0 0,$repeat: no-repeat) {
-    background: transparent url(#{$imagedir}#{$filename}) $repeat $position;
+@mixin background($color,$filename,$position:0 0,$repeat: no-repeat) {
+    background: $color url(#{$imagedir}#{$filename}) $repeat $position;
     background-size: cover;
 }
 
@@ -27,13 +27,11 @@ $imagedir:'/images/';
  * Site header
  */
 .home-banner {
-  background-color: $grey-color-dark;
   min-height: $spacing-unit * 3 * 1.865;
-
   padding-top: $spacing-unit * 1.865;
   margin-bottom: $spacing-unit * 1.865;
 
-  @include background('time-nomad-banner.jpg');
+  @include background($grey-color-dark, 'time-nomad-banner.jpg');
 
   // Positioning context for the mobile navigation icon
   position: relative;
