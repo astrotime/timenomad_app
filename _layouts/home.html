@@ -3,9 +3,11 @@ layout: default-home
 ---
 
 <div class="home">
+  {% comment %}
   {%- if page.title -%}
     <h2 class="page-heading">{{ page.title }}</h2>
   {%- endif -%}
+  {% endcomment %}
 
   {{ content }}
 
