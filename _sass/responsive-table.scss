@@ -1,0 +1,47 @@
+// Responsice table
+// https://codepen.io/geoffreyrose/pen/azdJNO
+// https://unrealnavigation.com/blog/responsive-tables
+
+@mixin table-responsive-full ($breakpoint: 768px, $name-column-width: 30%, $color-first: #fff, $color-second: #cecece) {
+
+    @media only screen and (max-width: $breakpoint) {
+        thead tr { // hide visually
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        thead, tbody, th, td, tr { 
+            display: block; 
+        }
+        
+        td {
+            position: relative;
+            width: auto;
+            padding-left: $name-column-width;
+        }
+        
+        td:before {
+            content: attr(data-label);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: $name-column-width;
+            height: 100%;
+        }
+        
+        tr:nth-of-type(odd), tr:nth-of-type(odd) td {
+            background-color: $color-first;
+        }
+        
+        tr:nth-of-type(even), tr:nth-of-type(even) td {
+            background-color: $color-second;
+        }
+    }
+
+}

@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Time Nomad astrology app
+title: Time Nomad
 email: hi.seqfx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Time Nomad is an astrology app for iPhone/iPad. Always in your pocket, 
+  Time Nomad is an astrology app for iPhone & iPad. Always in your pocket, 
   no need for a PC or login. A great tool for anybody practicing astrology, 
   from beginner to a serious astrologer. Easily scroll through time and 
   understand the motion of celestial bodies and astrological/astronomical 
@@ -24,7 +24,36 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timenomad.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  seqfx
+github_username: 
+
+# Time Nomad global variables
+# Reach via {{ site.my_app_... }}
+my_app_store_name: time-nomad/id1092841332?mt=8
+
+# Time Nomad collections directory
+collections_dir: collections
+
+# Time Nomad collections 
+# Each collection can be
+# reached via {{ site.my_collection }}
+collections:
+  documentation:
+    output: true
+    defaults:
+      - scope:
+          path: ""
+          type: documentation
+        values:
+          layout: page
+  news:
+    output: true
+    defaults:
+      - scope:
+          path: ""
+          type: news
+        values:
+          layout: page
+
 
 # Build settings
 markdown: kramdown

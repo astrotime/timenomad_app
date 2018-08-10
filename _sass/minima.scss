@@ -43,9 +43,19 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+// Custom
+
+$white-color:       #ffffff !default;
+
+
 // Import partials.
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+
+  // Custom additions
+  "simple-grid",
+  //"responsive-table",
+  "custom"
 ;

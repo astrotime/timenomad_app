@@ -1,0 +1,251 @@
+/**
+ * Global vars
+ */
+
+// Where all images stored
+$imagedir:'/images/'; 
+
+/**
+ * Mixins
+ */
+
+// Background for div
+@mixin background($filename,$position:0 0,$repeat: no-repeat) {
+    background: transparent url(#{$imagedir}#{$filename}) $repeat $position;
+    background-size: cover;
+}
+
+/**
+ * Site navigation
+ */
+
+.site-nav {
+  z-index: 1000;
+}
+
+/**
+ * Site header
+ */
+.home-banner {
+  background-color: $grey-color-dark;
+  min-height: $spacing-unit * 3 * 1.865;
+
+  padding-top: $spacing-unit * 1.865;
+  margin-bottom: $spacing-unit * 1.865;
+
+  @include background('time-nomad-banner.jpg');
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+
+  h1 {
+    color: $white-color;
+    text-shadow: rgba(black, 1.0) -1px -1px 0, rgba(black, 1.0) 1px 1px 0;
+  }
+
+  p {
+    color: $white-color;
+    text-shadow: rgba(black, 1.0) -1px -1px 0, rgba(black, 1.0) 1px 1px 0;
+  }
+
+  svg {
+    position: absolute; top: 1em; right: 10%;
+  }
+}
+
+// Hide main banner logo on mobile
+@include media-query($on-palm) {
+  .home-banner svg {
+    display: none;
+  }
+}
+
+
+.home-banner-title {
+  @include relative-font-size(1.625);
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  margin-bottom: 0;
+  float: left;
+  color: $white-color;
+}
+
+/**
+ * Page content
+ */
+.page-content-home {
+  padding: 0;
+  flex: 1;
+}
+
+/**
+ * Hyperlinks in top navigation
+ */
+
+a.site-title:hover {
+  text-decoration: none;
+}
+
+a.page-link:hover {
+  text-decoration: none;
+  padding-bottom: 4px;
+  border-bottom: 4px solid $grey-color-light;
+}
+
+a.page-link.active {
+  text-decoration: none;
+  padding-bottom: 4px;
+  border-bottom: 4px solid $grey-color-dark;
+}
+
+/**
+ * Lists
+ */
+ul, ol {
+  list-style-position: outside;
+  margin-left: 1em;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+    list-style-position: outside;
+    margin-left: 1em;
+  }
+}
+
+ul.bullet-inside, ol.bullet-inside {
+  list-style-position: inside;
+}
+
+/**
+ * Styling additions
+ */
+.bg-grey-light {
+  background-color: $grey-color-light;
+}
+
+/**
+ * Floating divs
+ */
+.float-left {
+  float: left;
+  margin-right: 2em;
+}
+
+.float-clear {
+  clear: both;
+  min-height: 1em;
+  margin: 1em 0;
+}
+
+.clearfix {
+    @extend %clearfix;
+}
+
+/**
+ * Spacing modifiers
+ */
+
+.space-before {
+  margin-top: 1em;
+}
+
+.space-before-zero {
+  margin-top: 0em;
+}
+
+.space-after {
+  margin-bottom: 1em;
+}
+
+.space-leading {
+  padding-left: 1em;
+}
+
+.space-trailing {
+  padding-right: 1em;
+}
+
+/**
+ * Grid modifiers
+ */
+
+.row {
+  .table-header {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    border-top: 1px $grey-color-dark solid;    
+    border-bottom: 1px $grey-color-dark solid;
+  }
+}
+
+.testimonial {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+.testimonial-star {
+  color: #F5A623;
+  font-style: normal;
+}
+
+/**
+ * Modify layout: footer
+ * Widening the middle column
+ */
+
+
+.footer-col-1 {
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+/**
+ * Content for page: feature
+ */
+
+.page-feature {
+
+  h1, h2, h3, h4, h5 {
+    clear: both;
+  }
+
+  hr {
+    margin-bottom: $spacing-unit;
+  }
+
+  ul {
+    list-style: outside;
+    margin-left: 1em;
+  }
+
+  ul li {
+      position: relative;
+      left: 1em;
+      padding-right: 1em;    
+  }
+
+  img {
+    float: left;
+    margin: $spacing-unit;
+    margin-top: 0;
+    margin-left: 0;
+    border-radius: 8px;
+  }
+}
+
