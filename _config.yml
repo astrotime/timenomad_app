@@ -29,6 +29,7 @@ github_username:
 # Time Nomad global variables
 # Reach via {{ site.my_app_... }}
 my_app_store_name: time-nomad/id1092841332?mt=8
+my_forum_url: https://www.reddit.com/r/TimeNomad/
 
 # Time Nomad collections directory
 collections_dir: collections
