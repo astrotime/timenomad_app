@@ -1,6 +1,7 @@
 ---
 layout: appfeed
-date:   2018-08-25 12:00:00 +1000
+uuid: 20180901
+date:   2018-09-01 12:00:00 +1000
 categories: social-vote
 title:  "Vote for Time Nomad"
 blurb: "Support Time Nomad by upvoting it in an online app directory"
