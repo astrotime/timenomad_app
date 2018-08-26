@@ -54,6 +54,14 @@ collections:
           type: news
         values:
           layout: page
+  appfeed:
+    output: true
+    defaults:
+      - scope:
+          path: ""
+          type: appfeed
+        values:
+          layout: appfeed
 
 
 # Build settings

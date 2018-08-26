@@ -1,0 +1,17 @@
+---
+layout: null
+---
+
+{
+	"items": [
+		{% for item in site.appfeed %}
+		{
+			"date": "{{ item.date | date_to_rfc822 }}",
+			"categories": "{{ item.categories}}",
+			"url": "{{ item.url | prepend: site.url }}",
+			"title": "{{ item.title }}",
+			"blurb": "{{ item.blurb }}"
+		},
+		{% endfor %}
+	]
+}

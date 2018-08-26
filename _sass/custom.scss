@@ -69,6 +69,17 @@ $imagedir:'/images/';
 }
 
 /**
+ * App Feed page header
+ */
+.site-header {
+  svg.logo {
+    float: left;
+    margin-top: 7px;
+    margin-right: 12px;
+  }
+}
+
+/**
  * Page content
  */
 .page-content-home {
