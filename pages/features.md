@@ -20,6 +20,8 @@ Time Nomad screen cosists of three areas. The iPad version below is shown for si
 
 ![Time Nomad astrology app screen layout](/images/features/time-nomad-features-screen-layout.png "Time Nomad app screen layout")
 
+<div class="clearfix"></div>
+
 * **Left panel** – create, select and edit profiles. 
 * **Right panel** – select an astrological report.
 * **Middle panel** – shows the view for selected action.
