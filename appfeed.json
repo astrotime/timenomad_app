@@ -4,12 +4,25 @@ tip_DateFormatter: "http://strftime.net"
 ---
 
 {
-	"items": [
+	"appFeed": [
 		{% for item in site.appfeed %}
 		{
-			"uuid": {{ item.uuid }},
+			"uuid": "{{ item.uuid }}",
 			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
-			"categories": "{{ item.categories}}",
+			{% if item.scope %}"scope": "{{ item.scope }}",{% endif %}
+			"url": "{{ item.url | prepend: site.url }}",
+			"title": "{{ item.title }}",
+			"blurb": "{{ item.blurb }}"
+		},
+		{% endfor %}
+	],
+
+	"posts": [
+		{% for item in site.posts %}
+		{
+			"uuid": "{{ item.uuid }}",
+			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
+			{% if item.scope %}"scope": "{{ item.scope }}",{% endif %}
 			"url": "{{ item.url | prepend: site.url }}",
 			"title": "{{ item.title }}",
 			"blurb": "{{ item.blurb }}"
