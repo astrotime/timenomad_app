@@ -6,6 +6,7 @@
         <header class="section-title">
           <h2>{% if site.data.comments[page.slug].size > 1 %}{{ site.data.comments[page.slug] | size | append: ' ' }}{% endif %}Comments</h2>
         </header>
+        <p>Filtering entries...</p>
         {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == ""' %}
 
         <p>List of entries:</p>
