@@ -1,6 +1,8 @@
 <div class="entry-comments">
   {% if site.staticman.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
+    <p>... comments are here...</p>
+    {% comment %}
       <!-- Start static comments -->
       <div id="comments" class="js-comments">
         <header class="section-title">
@@ -20,6 +22,7 @@
         {% endfor %}
       </div>
       <!-- End static comments -->
+    {% endcomment %}
     {% endif %}
 
     {% include comment-form.html %}
