@@ -1,19 +1,12 @@
 <div class="entry-comments">
-  {% if site.staticman.repository and site.staticman.branch %}
+  {% if site.repository and site.staticman.branch %}
     {% if site.data.comments[page.slug] %}
       <!-- Start static comments -->
       <div id="comments" class="js-comments">
         <header class="section-title">
-          <h2>{% if site.data.comments[page.slug].size > 1 %}{{ site.data.comments[page.slug] | size | append: ' ' }}{% endif %}Comments ...</h2>
+          <h3>{% if site.data.comments[page.slug].size > 1 %}{{ site.data.comments[page.slug] | size | append: ' ' }}{% endif %}Comments</h3>
         </header>
-        <p>Filtering entries...</p>
-        {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == ""' %}
-
-        <p>List of entries:</p>
-        <p>
-          {{ site.data.comments[page.slug] | inspect }}
-        </p>
-
+        {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == blank' %}
         {% for comment in comments %}
           {% assign index       = forloop.index %}
           {% assign replying_to = comment[1].replying_to | to_integer %}
