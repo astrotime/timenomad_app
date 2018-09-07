@@ -8,7 +8,6 @@
           <h3>{% if site.data.comments[page.slug].size > 1 %}{{ site.data.comments[page.slug] | size | append: ' ' }}{% endif %}Comments</h3>
         </header>
         {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == empty' %}
-    {% comment %}
         {% for comment in comments %}
           {% assign index       = forloop.index %}
           {% assign replying_to = comment[1].replying_to | to_integer %}
@@ -18,9 +17,10 @@
           {% assign url         = comment[1].url %}
           {% assign date        = comment[1].date %}
           {% assign message     = comment[1].message %}
+    {% comment %}
           {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
-        {% endfor %}
     {% endcomment %}
+        {% endfor %}
       </div>
       <!-- End static comments -->
     {% endif %}
