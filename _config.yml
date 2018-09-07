@@ -26,11 +26,6 @@ url: "https://timenomad.app" # the base hostname & protocol for your site, e.g. 
 twitter_username: 
 github_username: 
 
-# Time Nomad global variables
-# Reach via {{ site.my_app_... }}
-my_app_store_name: time-nomad/id1092841332?mt=8
-my_forum_url: https://www.reddit.com/r/TimeNomad/
-
 # Time Nomad collections directory
 collections_dir: collections
 
@@ -62,6 +57,16 @@ collections:
           type: appfeed
         values:
           layout: appfeed
+
+# Time Nomad global variables
+# Reach via {{ site.my_app_... }}
+my_app_store_name: time-nomad/id1092841332?mt=8
+my_forum_url: https://www.reddit.com/r/TimeNomad/
+
+staticman: 
+  username: astrotime
+  repository: timenomad_app
+  branch: master
 
 
 # Build settings

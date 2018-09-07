@@ -1,10 +1,87 @@
-<form method="POST" action="https://recruitloop.com/alien/staticman/v2/entry/astrotime/timenomad_app/master/comments">
-  <input name="options[redirect]" type="hidden" value="https://timenomad.app">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
-  
-  <button type="submit">Go!</button>
-</form>
+<div class="page__comments-form">
+  <h4 class="page__comments-title">Leave a Comment</h4>
+  <p class="small">Your email address will not be published. Required fields are marked <span class="required">*</span></p>
+  <form id="new_comment" class="page__comments-form js-form form" method="post" action="https://recruitloop.com/alien/staticman/v2/entry/{{ site.staticman.username }}/{{ site.staticman.repository }}/{{ site.staticman.branch }}/comments">
+    <div class="form__spinner">
+      <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
+      <span class="sr-only">Loading...</span>
+    </div>
+    <div class="form-group">
+      <label for="comment-form-message">Comment <small class="required">*</small></label>
+      <textarea type="text" rows="8" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
+      <div class="small help-block"><a href="https://daringfireball.net/projects/markdown/">Markdown is supported.</a></div>
+    </div>
+    <div class="form-group">
+      <label for="comment-form-name">Name <small class="required">*</small></label>
+      <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
+    </div>
+    <div class="form-group">
+      <label for="comment-form-email">Email address <small class="required">*</small></label>
+      <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
+    </div>
+    <div class="form-group">
+      <label for="comment-form-url">Website (optional)</label>
+      <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
+    </div>
+    <div class="form-group hidden" style="display: none;">
+      <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+      <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+      <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+      {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}
+      {% if site.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">{% endif %}
+    </div>
+    <div class="form-group form-inline" style="margin-bottom: 2em;">
+	    <label class="comment-reply-notifications" for="comment-form-reply"><input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email"> Notify me of replies by email.</label>
+	  </div>
+    <!-- Start comment form alert messaging -->
+    <p class="hidden js-notice">
+      <strong class="js-notice-text"></strong>
+    </p>
+    <!-- End comment form alert messaging -->
+    {% if site.reCaptcha.siteKey %}
+      <div class="form-group">
+        <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      </div>
+    {% endif %}
+	  <input name="options[redirect]" type="hidden" value="{{ page.url | absolute_url }}">
+    <div class="form-group">
+      <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">Submit Comment</button>
+    </div>
+  </form>
+</div>
+
+<script>
+  (function ($) {
+  var $comments = $('.js-comments');
+  $('#new_comment').submit(function () {
+    var form = this;
+    $(form).addClass('disabled');
+    $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> {{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}');
+    $.ajax({
+      type: $(this).attr('method'),
+      url: $(this).attr('action'),
+      data: $(this).serialize(),
+      contentType: 'application/x-www-form-urlencoded',
+      success: function (data) {
+        $('#comment-form-submit').html('{{ site.data.ui-text[site.locale].comment_btn_submitted | default: "Submitted" }}');
+        $('.page__comments-form .js-notice').removeClass('notice--danger');
+        $('.page__comments-form .js-notice').addClass('notice--success');
+        showAlert('{{ site.data.ui-text[site.locale].comment_success_msg | default: "Thanks for your comment! It will show on the site once it has been approved." }}');
+      },
+      error: function (err) {
+        console.log(err);
+        $('#comment-form-submit').html('{{ site.data.ui-text[site.locale].comment_btn_submit  | default: "Submit Comment" }}');
+        $('.page__comments-form .js-notice').removeClass('notice--success');
+        $('.page__comments-form .js-notice').addClass('notice--danger');
+        showAlert('{{ site.data.ui-text[site.locale].comment_error_msg | default: "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again." }}');
+        $(form).removeClass('disabled');
+      }
+    });
+    return false;
+  });
+  function showAlert(message) {
+    $('.page__comments-form .js-notice').removeClass('hidden');
+    $('.page__comments-form .js-notice-text').html(message);
+  }
+})(jQuery);
+</script>

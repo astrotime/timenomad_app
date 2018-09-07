@@ -23,7 +23,11 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  {%- include form-comment.html -%}
+  {% if page.comments == true %}
+    {% include comments.html %}
+    {%- include comment-script.html -%}
+  {% endif %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
