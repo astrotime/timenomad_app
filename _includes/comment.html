@@ -1,4 +1,5 @@
 <article id="comment{% unless include.r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endunless %}" class="js-comment comment {% if include.name == site.author.name %}admin{% endif %} {% unless include.replying_to == 0 %}child{% endunless %}">
+  {% comment %}
   <div class="comment-avatar">
     {% if include.avatar %}
       <noscript><img src="{{ include.avatar }}" alt=""></noscript>
@@ -11,6 +12,7 @@
       <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-srcset="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=60 1x, /assets/images/avatar-120.png 2x" alt="" class="lazyload blur-up">
     {% endif %}
   </div>
+  {% endcomment %}
   <h3 class="comment-author-name">
     {% unless include.url == blank %}
       <a rel="external nofollow" href="{{ include.url }}">{{ include.name | strip_html }}</a>
@@ -18,6 +20,7 @@
       {{ include.name | strip_html }}
     {% endunless %}
   </h3>
+  {% comment %}
   <div class="comment-timestamp">
     {% if include.date %}
       {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
@@ -25,6 +28,7 @@
       {% if include.index %}</a>{% endif %}
     {% endif %}
   </div>
+  {% endcomment %}
   <div class="comment-content">
     {{ include.message | markdownify }}
   </div>
@@ -35,6 +39,7 @@
   {% endunless %}
 </article>
 
+  {% comment %}
 {% capture i %}{{ include.index }}{% endcapture %}
 {% assign replies = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == i' %}
 {% for reply in replies %}
@@ -48,3 +53,4 @@
   {% assign message     = reply[1].message %}
   {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
 {% endfor %}
+{% endcomment %}

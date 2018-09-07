@@ -17,9 +17,7 @@
           {% assign url         = comment[1].url %}
           {% assign date        = comment[1].date %}
           {% assign message     = comment[1].message %}
-    {% comment %}
           {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
-    {% endcomment %}
         {% endfor %}
       </div>
       <!-- End static comments -->
