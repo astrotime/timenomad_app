@@ -8,6 +8,7 @@
         </header>
         {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == ""' %}
 
+        <p>List of entries:</p>
         <p>
           {{ site.data.comments[page.slug] | inspect }}
         </p>
