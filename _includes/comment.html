@@ -39,7 +39,6 @@
   {% endunless %}
 </article>
 
-  {% comment %}
 {% capture i %}{{ include.index }}{% endcapture %}
 {% assign replies = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == i' %}
 {% for reply in replies %}
@@ -53,4 +52,3 @@
   {% assign message     = reply[1].message %}
   {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
 {% endfor %}
-{% endcomment %}
