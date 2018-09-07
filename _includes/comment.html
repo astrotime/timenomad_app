@@ -20,7 +20,6 @@
       {{ include.name | strip_html }}
     {% endunless %}
   </h3>
-  {% comment %}
   <div class="comment-timestamp">
     {% if include.date %}
       {% if include.index %}<a href="#comment{% if r %}{{ index | prepend: '-' }}{% else %}{{ include.index | prepend: '-' }}{% endif %}" title="Permalink to this comment">{% endif %}
@@ -28,7 +27,6 @@
       {% if include.index %}</a>{% endif %}
     {% endif %}
   </div>
-  {% endcomment %}
   <div class="comment-content">
     {{ include.message | markdownify }}
   </div>
