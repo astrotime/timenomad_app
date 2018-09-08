@@ -62,9 +62,6 @@ comments:
     # Mailgun domain (encrypted)
     domain: "qkoKmAKHK+lKtfsNd9KenL2vKK/9iP7XCYmdWrIaST4DhAR8hXkDZf0/1WTslJ5xTDs7LDLI291bl0LuOTRL1jv08OsUABPII1w2egIx3D1XKiO2hhbd8Wwu9YIA6Ajj86BWVVzqbKq+xHze9JCRbKd9DuOP+3C0WYpfGA1keuFb1zip7kPI33SiBxTy8LEtkXT1RWep66bhpRhSt2uw06PJO/g6ceBqCF4QjKa5amQzIt0Ln4By9FLG5aTCGyQJVJtUZ1bsST+SsZF7g4iG5xk+qce2rZ0B9wBO/ieziwU3u1JLUSfJOA7MSy3N1yrdo1CPCdzsdrBBwYJTNx7c/Q=="
 
-    # Replying email is not available
-    fromAddress: "noreply@timenomad.app"
-
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
@@ -81,3 +78,7 @@ comments:
 
   # Some extra fields added by me
   pullRequestBody: "Accept or discard comment from Time Nomad website.\n\n---\n"
+
+  email:
+    fromAddress: "noreply@timenomad.app"
+
