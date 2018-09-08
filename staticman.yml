@@ -80,4 +80,4 @@ comments:
     email: md5
 
   # Some extra fields added by me
-  pullRequestBody: "Accept or discard comment from Time Nomad website."
+  pullRequestBody: "Accept or discard comment from Time Nomad website.\n\n---\n"
