@@ -63,11 +63,14 @@ collections:
 my_app_store_name: time-nomad/id1092841332?mt=8
 my_forum_url: https://www.reddit.com/r/TimeNomad/
 
+# Staticman commenting engine
 staticman: 
   username: astrotime
   repository: timenomad_app
   branch: master
 
+# Google Analytics
+google_analytics: UA-125404162-1
 
 # Build settings
 markdown: kramdown
