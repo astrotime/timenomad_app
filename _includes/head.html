@@ -19,7 +19,6 @@
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
   {%- seo -%}
-  {%- include google-analytics-gtag.html -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- if page.layout == 'post' -%}
   <script src="{{ "/assets/jquery-3.3.1.min.js" | relative_url }}"></script>
@@ -27,6 +26,6 @@
   {%- endif -%}
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+    {%- include google-analytics-gtag.html -%}
   {%- endif -%}
 </head>
