@@ -16,7 +16,7 @@ comments:
   branch: "master"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "Add Staticman data"
+  commitMessage: "Please moderate user comment (Staticman)"
 
   # (*) REQUIRED
   #
@@ -48,19 +48,22 @@ comments:
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
-  #notifications:
+  notifications:
     # Enable notifications
-    #enabled: true
+    enabled: true
 
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    #apiKey: "1q2w3e4r"
+    apiKey: "EKNMEXFXA6SyNZz3xXdXLrE50hEFl9AN4MdxkbdpGs+QLYJ4f2O240jM4gClDDvMvSZ5COYABExG1oBpIKi7fbAoBDlHwEF0510GrTkzeHgESsCeSgxkFPCfqj4vqE23tp0e2fDb2KkDD2hE1EvgqydKfUVfq8yjGjaBwRyldlkS4pN9aOZ/AuIOxxsC4gT8NAk3TAAw6aRKPbsgNFNYPu2nRJQ1lQpisXBs7tTELdiGVexQaD8hsK4l05Lb4785TNaUp1q5OVMHESNdQyShBTLGEw4mzcLh49wZYFiT3HBLEA7vXB+CPkTcoLvft7M465+8jLwH0I7SW+9sqac6ug=="
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    #domain: "4r3e2w1q"
+    domain: "qkoKmAKHK+lKtfsNd9KenL2vKK/9iP7XCYmdWrIaST4DhAR8hXkDZf0/1WTslJ5xTDs7LDLI291bl0LuOTRL1jv08OsUABPII1w2egIx3D1XKiO2hhbd8Wwu9YIA6Ajj86BWVVzqbKq+xHze9JCRbKd9DuOP+3C0WYpfGA1keuFb1zip7kPI33SiBxTy8LEtkXT1RWep66bhpRhSt2uw06PJO/g6ceBqCF4QjKa5amQzIt0Ln4By9FLG5aTCGyQJVJtUZ1bsST+SsZF7g4iG5xk+qce2rZ0B9wBO/ieziwU3u1JLUSfJOA7MSy3N1yrdo1CPCdzsdrBBwYJTNx7c/Q=="
+
+    # Replying email is not available
+    fromAddress: "noreply@timenomad.app"
 
   # (*) REQUIRED
   #
@@ -75,3 +78,6 @@ comments:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+
+  # Some extra fields added by me
+  pullRequestBody: "Accept or discard comment from Time Nomad website."
