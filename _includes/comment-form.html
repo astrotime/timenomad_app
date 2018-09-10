@@ -36,7 +36,7 @@
         <input type="url" id="comment-form-url" name="fields[url]" placeholder="">
       </div>
       <div class="form-group hidden" style="display: none;">
-        <input type="hidden" name="options[origin]" value="{{ page.url | relative_url }}">
+        <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
         <input type="hidden" name="options[parent]" value="{{ page.url | relative_url }}">
         <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
         <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
