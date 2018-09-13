@@ -60,7 +60,7 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    domain: "qRvXFw9TX4n2O+ccWckWO61qn3lhol0e2E9/bXJqD912v9wVpA6l8kDtpjTlf2lYVIfHD4GinnxvLLjfpGZJhGTnUlvl02FV9Meq5sVPQR+80+kSAQ9gP1rySdSI4OIWK64PYmQAQ8dxp0sGHz8US/0mlMjbZFGkMlyXQ5TN3oG8whrwCO03Jqh5rEiNHH+pOWl2QM7yycRQAJ7laZ76+tm91sQPYP5bIUkHmc/hZh9urNgIQQ+3y6JHf54Uu839rF8t7AplJvxVBN0Zrpw6EoV+FTz4H78WrlqsurboH20aXn0UyfcH1REJWOAQrKuFphalD+KpNQlYu8SHTybUHA=="
+    domain: "Bkg79llhKdQZFo4CGMIvF9L/7pqB4LaiyHGvNMhjdzZIHyupLbf8YSbux2nC7dI8FS41N7gksGaNCzeqBpU/gsrkm+EGJv4w93Mw+K/26yY8lumLw48XGReTD2zk0x+CA3RpOH/+3Wq4mWfymdbTw6D4oTbWQqp+5VJkuIG8Cr52c7Qx0VvMjRkotCv5XzNO418q9x/In0Rfc+qFygfYyobrl1yi6V9t/BjjpumFuN7vjbFaKKGOrRlurapQTowo6OLrfcZ61+E/bop1EAEK4BUZxxE8KVeFZ5hJacK/9eO7lZpdeJP8p+fAxR6AC39iPKqhz8Y3rWrO/SNHJBtonA=="
     fromName: "Time Nomad"
     fromAddress: "noreply@timenomad.app"
 

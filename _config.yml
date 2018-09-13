@@ -73,6 +73,7 @@ staticman:
 google_analytics: UA-125404162-1
 
 # Build settings
+future: true
 markdown: kramdown
 theme: minima
 plugins:
