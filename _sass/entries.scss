@@ -1,0 +1,28 @@
+/* ==========================================================================
+   Entries (Posts, collection documents, etc.)
+   ========================================================================== */
+
+.post-meta {
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .byline-item {
+    white-space: nowrap;
+
+    &:not(:first-child) {
+      margin-left: 1.5rem;
+    }
+  }
+
+  .icon {
+    margin-right: 0.5em;
+    fill: $grey-color;
+  }
+}
