@@ -1,6 +1,6 @@
 ---
 layout: page
-weight: 3
+weight: 4
 title: Contact
 permalink: /contact/
 ---

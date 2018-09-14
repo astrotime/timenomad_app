@@ -26,6 +26,9 @@ url: "https://timenomad.app" # the base hostname & protocol for your site, e.g. 
 twitter_username: 
 github_username: 
 
+# Settings
+show_excerpts: true
+
 # Time Nomad collections directory
 collections_dir: collections
 
