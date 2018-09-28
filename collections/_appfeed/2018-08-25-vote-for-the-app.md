@@ -2,6 +2,7 @@
 layout: appfeed
 uuid: AF-20180901
 date: 2018-08-25 12:00:00 +1000
+scope: dev
 present: must
 title: Vote for Time Nomad
 blurb: Support Time Nomad by upvoting it in an online app directory
