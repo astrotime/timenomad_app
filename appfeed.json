@@ -13,7 +13,8 @@ tip_DateFormatter: "http://strftime.net"
 			{% if item.present %}"present": "{{ item.present }}",{% endif %}
 			"url": "{{ item.url | prepend: site.url }}",
 			"title": "{{ item.title }}",
-			"blurb": "{{ item.blurb }}"
+			"description": "{{ item.description }}",
+			"blurb": "{{ item.description }}"
 		},
 		{% endfor %}
 	],
@@ -26,7 +27,8 @@ tip_DateFormatter: "http://strftime.net"
 			{% if item.scope %}"scope": "{{ item.scope }}",{% endif %}
 			"url": "{{ item.url | prepend: site.url }}",
 			"title": "{{ item.title }}",
-			"blurb": "{{ item.blurb }}"
+			"description": "{{ item.description }}",
+			"blurb": "{{ item.description }}"
 		},
 		{% endfor %}
 	]
