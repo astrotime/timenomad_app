@@ -1,7 +1,9 @@
 ---
 layout: blog
-weight: 3
 title: Blog
 permalink: /posts/
+image: /images/summary-cards/time-nomad-card.png
+# Nav order:
+weight: 3
 ---
 

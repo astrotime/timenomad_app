@@ -23,8 +23,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   phenomena like aspects, transits, phases, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timenomad.app" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: AstroTimeNomad
 github_username: 
+
+# For SEO tag plugin
+# https://github.com/jekyll/jekyll-seo-tag/
+twitter:
+  username: AstroTimeNomad
+  card: summary_large_image
 
 # Settings
 show_excerpts: true
@@ -81,6 +87,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Plugins documentation:
+# https://github.com/jekyll/jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

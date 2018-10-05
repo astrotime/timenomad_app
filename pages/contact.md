@@ -1,8 +1,10 @@
 ---
 layout: page
-weight: 4
 title: Contact
 permalink: /contact/
+image: /images/summary-cards/time-nomad-card.png
+# Nav order:
+weight: 4
 ---
 
 Questions, comments, suggestions? Send a message here and you will hear back very soon. If response hasn't arrived within a couple of days, **<span style="color: red;">check your spam folder</span> &mdash; response can be waiting for you there**.

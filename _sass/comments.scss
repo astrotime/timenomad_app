@@ -2,6 +2,22 @@
    Comments
    ========================================================================== */
 
+
+.post {
+  .entry-comments {
+    position: relative;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid $border-color;
+  }
+}
+
 .comment {
   font-size: 0.8em;
   margin-bottom: 4em;

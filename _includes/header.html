@@ -1,10 +1,10 @@
 <header class="site-header" role="navigation">
 
   <div class="wrapper">
-    {% include icon-time-nomad.html size="40" %}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{% include icon-time-nomad.html size="40" %}
     {%- assign default_paths = site.pages | sort: "weight" | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    {{ site.title | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">

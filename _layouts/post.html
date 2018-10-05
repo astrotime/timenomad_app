@@ -22,6 +22,8 @@ layout: default
     {{ content }}
   </div>
 
+  {% include social-share.html %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

@@ -1,8 +1,11 @@
 ---
 layout: page-generic
-weight: 1
 title: Features
 permalink: /features/
+image: /images/summary-cards/time-nomad-card.png
+# Nav order:
+weight: 1
+# Custom stuff:
 content_class: page-feature
 content_title: Time Nomad features overview
 ---
