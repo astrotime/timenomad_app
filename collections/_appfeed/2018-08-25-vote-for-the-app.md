@@ -6,8 +6,6 @@ scope: dev
 present: must
 title: Vote for Time Nomad
 description: Support Time Nomad by upvoting it in an online app directory.
-# Deprecated:
-blurb: Support Time Nomad by upvoting it in an online app directory.
 ---
 
 ## Support your favourite app by giving it your vote!
