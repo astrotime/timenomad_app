@@ -2,10 +2,13 @@
 layout: post
 uuid: P-20180928
 date: 2018-09-28 12:00:00 +1000
+image: /images/summary-cards/time-nomad-card-post-P-20180928.png
 title: Masculine, feminine and transgender in astrology.
-blurb: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principle.
+description: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principle.
 categories: posts astrology philosophy
 comments: true
+# Deprecated:
+blurb: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principle.
 ---
 
 The existence of the universe is based on the constant interplay between the male and female principles. Duality is the hallmark of the creation that is shaped by the forces of action and attraction.

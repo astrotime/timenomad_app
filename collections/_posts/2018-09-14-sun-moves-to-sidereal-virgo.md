@@ -2,10 +2,13 @@
 layout: post
 uuid: P-20180912
 date: 2018-09-14 12:00:00 +1000
+image: /images/summary-cards/time-nomad-card-post-P-20180912.png
 title: The Sun enters sidereal Virgo. Why does it matter?
-blurb: While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.
+description: While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.
 categories: posts astrology event
 comments: true
+# Deprecated:
+blurb: While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.
 ---
 
 > While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.
