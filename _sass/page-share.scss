@@ -15,7 +15,7 @@
 
 .page__share {
   //margin-top: 2em;
-  padding-top: 1em;
+  padding-top: 1.4em;
   border-top: 1px solid $border-color;
 
   a.btn svg {
@@ -45,6 +45,21 @@
 }
 
 .page__share-title {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-size: $base-font-size * 1.5;
+}
+
+@include media-query($on-palm) {
+  .post {
+    .page__share {
+      text-align: center;
+    }
+  }
+  .page__share-title {
+    margin-bottom: 20px;
+    font-size: $type-size-6;
+    span {
+      vertical-align: top;
+    }
+  }
 }
