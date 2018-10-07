@@ -35,7 +35,7 @@ One can see Mercury as androgynous being that represents both genders at once. S
 
 Here it gets a bit more complicated. Uranus, Neptune, Pluto and other distant bodies are all relatively recent additions to our knowledge. Those bodies are not visible by the naked eye and therefore can’t be experienced directly through human senses, perhaps for the rest of the 21st century, at least. Those planets are way too far for the current state of space technology.
 
-The trans-saturnian bodies relate to the hidden side of our psyche. They are often described as a higher octave of certain classical planets:
+The trans-Saturnian bodies relate to the hidden side of our psyche. They are often described as a higher octave of certain classical planets:
 
 |---+---|
 | Planet | Higher octave of |
@@ -44,7 +44,7 @@ The trans-saturnian bodies relate to the hidden side of our psyche. They are oft
 | Neptune | Moon
 | Pluto |  Mars
 
-What could this mean? Being very slowly moving planets, trans-saturnian bodies represent trends at the societal level, changes that germinate totally unseen until finally arrived and manifested.
+What could this mean? Being very slowly moving planets, trans-Saturnian bodies represent trends at the societal level, changes that germinate totally unseen until finally arrived and manifested.
 
 At the personal level, they are enhancers of the classical planets, they actively transform the dominant hue of the classical planets as well as their gender qualities.
 
