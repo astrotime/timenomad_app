@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy policy
-permalink: /contact/
+permalink: /privacy/
 image: /images/summary-cards/time-nomad-card.png
 ---
 
