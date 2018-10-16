@@ -41,7 +41,7 @@ The trans-Saturnian bodies relate to the hidden side of our psyche. They are oft
 | Planet | Higher octave of |
 |-|-|
 | Uranus | Mercury
-| Neptune | Moon
+| Neptune | Venus or Jupiter
 | Pluto |  Mars
 
 What could this mean? Being very slowly moving planets, trans-Saturnian bodies represent trends at the societal level, changes that germinate totally unseen until finally arrived and manifested.
