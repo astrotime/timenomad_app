@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   no need for a PC or login. A great tool for anybody practicing astrology, 
   from beginner to a serious astrologer. Easily scroll through time and 
   understand the motion of celestial bodies and astrological/astronomical 
-  phenomena like aspects, transits, phases, etc.
+  phenomena like aspects, transits, progressions and synastry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timenomad.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AstroTimeNomad
