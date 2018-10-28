@@ -16,8 +16,13 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <div class="post-meta">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="byline-item">{{ post.date | date: date_format }}</span>
+          {%- if site.data.comments[post.slug].size > 0 -%}
+          <span class="byline-item"><svg class="icon icon--stopwatch" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-comments' | prepend: 'assets/' | relative_url }}"></use></svg>{{ site.data.comments[post.slug] | size }}&nbsp;Comment{% if site.data.comments[post.slug].size > 1 %}s{% endif %}</span>
+          {%- endif -%}
+          </div>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
