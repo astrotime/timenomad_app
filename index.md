@@ -78,6 +78,7 @@ by FlameGuitar85 – Jul 24, 2018
         <li>Chart of synastry</li>
         <li>Progressed chart</li>
         <li>Heliocentric view</li>
+        <li>Planetary hours</li>
       </ul>
       <div class="row">
         <a href="{% link pages/features.md %}">and much more…</a>
