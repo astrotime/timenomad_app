@@ -4,12 +4,12 @@ uuid: P-20180928
 date: 2018-09-28 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post-P-20180928.png
 title: Masculine, feminine and transgender in astrology.
-description: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principle.
+description: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principles – masculine, feminine and oscillating transgender.
 categories: posts astrology philosophy
 comments: true
 ---
 
-The existence of the universe is based on the constant interplay between the male and female principles. Duality is the hallmark of the creation that is shaped by the forces of action and attraction.
+The existence of the universe is based on the constant interplay between the male and female principles. Duality is the hallmark of the creation that is shaped by the forces of action and attraction. Masculine and feminine categorisation is so ubiquitous that one may miss the third “sex”  — neither masculine nor feminine but the androgynous principle. The modern age offers a broad range of sexual orientations — heterosexual, homosexual, bisexual, asexual, or even the lack sexual orientation! Transgender is the principle of actively transgressing “assigned” sexual category and has a tangible relationship with both Mercury and Pluto.
 
 Hindu mythology provides us with a rich foundation for understanding and appreciation of the cosmic interplay of polarities. Classifying principles into male and female allows for an easier and yet deeper interpretation of an astrological chart.
 
@@ -26,6 +26,7 @@ Referring to the excellent classical work *Tetrabiblos* by Ptolemy, the planets 
 |-|-|
 | Moon, Venus | Feminine
 | Sun, Mars, Jupiter, Saturn | Masculine
+| Mercury | Androgynous
 
 Mercury is an interesting case, it’s neither masculine nor feminine. Being the messenger of the gods, Mercury is the agent of exchange between the two genders. Mercury energy is ubiquitous, it connects and makes principles communicate. 
 
@@ -47,6 +48,8 @@ The trans-Saturnian bodies relate to the hidden side of our psyche. They are oft
 What could this mean? Being very slowly moving planets, trans-Saturnian bodies represent trends at the societal level, changes that germinate totally unseen until finally arrived and manifested.
 
 At the personal level, they are enhancers of the classical planets, they actively transform the dominant hue of the classical planets as well as their gender qualities.
+
+Among other things, Pluto relates to the base chakra, the seat of sexual “configuration” and the forces of core attraction. Pluto-Mercury duo provides a rich base for sexual oscillations — when one is in touch their Pluto-Mercury they can be anything, actively transgressing any traditional view of what is considered to be “normal”.
 
 ## What about the stars?
 
