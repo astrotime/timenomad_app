@@ -253,11 +253,11 @@ Even though each aspect culminates at a specific moment in time, it’s hardly a
 **Solar System** view may offer a few additional insights into the planetary configuration. For example, it’s easy to see superior and inferior aspect – notice that the illustration shows Mercury and the Sun conjunct, specifically forming an inferior conjunction since Mercury (inferior planet) is in front of the Sun.
 
 
-## Planetary hour
+## Planetary hour calculator
 
-**Planetary Hour**, a tool in its own right, allows to explore the rhythm of planetary hours throughout the day.
+**Planetary Hour**, a tool in its own right, allows to explore the rhythm of planetary hours throughout the day. Planetary hour calculator provides precise planetary hours data for any date and location on Earth.
 
-![Time Nomad planetary hour watch face](/images/features/time-nomad-features-planetary-hour.png "Planetary hour watch face")
+![Time Nomad planetary hour calculator watch face](/images/features/time-nomad-features-planetary-hour-calculator.png "Planetary hour calculator watch face")
 
 Use the scroller to access:
 * planetary hour alarm
@@ -265,6 +265,13 @@ Use the scroller to access:
 * list of hours for current day
 * heptagrams
 
+![Time Nomad planetary hour calculator list view](/images/features/time-nomad-features-planetary-hour-calculator-list.png "Planetary hour calculator list view")
+
+Planetary hour calculator also offers two **heptagram views** — one based on the sequence of days of the week, another is based on the sequence of planetary hours. Heptagrams is a powerful tool that tells about the qualities of time at a specific moment.
+
+![Time Nomad planetary hour calculator heptagram ordered by weekdays](/images/features/time-nomad-features-planetary-hour-calculator-heptagram-by-weekdays.png "Planetary hour calculator heptagram ordered by weekdays")
+
+![Time Nomad planetary hour calculator heptagram ordered by hours](/images/features/time-nomad-features-planetary-hour-calculator-heptagram-by-hours.png "Planetary hour calculator heptagram ordered by hours")
 
 ## Chart of transits
 
