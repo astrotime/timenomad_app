@@ -5,7 +5,7 @@ image: /images/summary-cards/time-nomad-card.png
 # Nav order:
 weight: 0
 # Custom stuff:
-banner_title: Astrologer's toolkit app for iPhone & iPad
+banner_title: Astrologer’s toolkit app for iPhone & iPad
 banner_subtitle: Real-time astrological charts and transits explorer application.
 ---
 
@@ -34,9 +34,13 @@ banner_subtitle: Real-time astrological charts and transits explorer application
 
 ## Why Time Nomad is so convenient?
 
-Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning.
+Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning and interpretation. The app is a perfect companion for astrologers of any level — from **a student who is beginning to learn astrology to a professional astrologer** offering clients' charts reading and using prediction techiniques.
 
-Time Nomad keeps you in touch with ever changing configuration of planets. It’s a modern astrological tool designed to be in your pocket and give you answers in real time. Astronomical and astrological information is presented in unadorned, concise yet expressive manner to help you seeing the bigger picture.
+Time Nomad keeps you in touch with ever changing configuration of planets, minor bodies and asteriods. It’s a modern astrological tool designed to be in your pocket and give you **answers in real time**. Astronomical and astrological information is presented in unadorned, concise yet expressive manner to help you see the bigger picture.
+
+Time Nomad comes with useful iOS **event notifications** that notify about upcoming events — in advance — aspects, transits, solar and lunar returns, phases of the Moon and Moon Void of Course.
+
+The app supports both **tropical and sidereal Zodiac**. The sidereal Zodiac reporting comes with a variety of ayanamsa. 
 
 <div class="float-clear"></div>
 
@@ -78,7 +82,7 @@ by FlameGuitar85 – Jul 24, 2018
         <li>Chart of synastry</li>
         <li>Progressed chart</li>
         <li>Heliocentric view</li>
-        <li>Planetary hours</li>
+        <li>Planetary hours calculator</li>
       </ul>
       <div class="row">
         <a href="{% link pages/features.md %}">and much more…</a>

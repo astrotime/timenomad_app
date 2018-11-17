@@ -138,7 +138,13 @@ Lots of information presented in a compact way, ie:
 * Sun/Moon phases
 * Planetary hour
 * Ayanamsa
-* Locations of planets
+* Ecliptic and heliocentric coordinates of planets
+* Parallels and contra-paralles with declinations of planets
+* Planets in houses
+* Dignities
+* Triplicities
+* Quadruplicities
+* Mutual receptions
 
 
 ## Real-time dashboard
