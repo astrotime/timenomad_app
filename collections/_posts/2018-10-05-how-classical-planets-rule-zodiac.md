@@ -3,7 +3,7 @@ layout: post
 uuid: P-2018105
 date: 2018-10-05 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post-P-2018105.png
-title: How classical planets rule the zodiac signs.
+title: How the classical planets rule the zodiac signs.
 description: The seven classical planets — the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn — and their relationship to the signs of the zodiac present a surprisingly beautifully sophisticated model.
 categories: posts astrology philosophy
 comments: true
