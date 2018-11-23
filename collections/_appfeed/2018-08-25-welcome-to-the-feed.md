@@ -14,7 +14,7 @@ We hope you, dear reader, will enjoy these short essays that are aimed at sharpe
 
 You are very welcome to leave your comments and ideas under each story and thus encourage your astrological peers to seek further knowledge and insights.
 
-And if you liked any of stories, please share them via your social networks. Sharing buttons for Facebook and Twitter are at the bottom of each story. Or you can use the share icon in the bottom left corner of the screen.
+And if you liked any of stories, please share them via your social networks. Sharing buttons for Facebook and Twitter are at the bottom of each story. Or you can use the share icon at the bottom of the screen.
 
 ## How to access the feed
 
