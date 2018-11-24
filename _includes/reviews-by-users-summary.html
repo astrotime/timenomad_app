@@ -2,6 +2,9 @@
 {% if reviews %}
 <div class="float-clear"></div>
 
+<script type="application/ld+json">
+{"@type":"MobileApplication","url":"https://timenomad.app/","headline":"Fine astrological and astronomical software right in your pocket","name":"Time Nomad","description":"Time Nomad is an astrological chart app for iPhone &amp; iPad. Time Nomad is a free astrology app. A great tool for anybody learning, studying or practicing astrology, from a student to a professional astrologer. This astrology chart app offers rich set of reports for analysis and astrological prediction: birth chart, chart for today, bodies in zodiac, bodies in houses, astrological aspects and transits, chart of progressions and chart of synastry. The app includes planetary hours calculator. The app supports both tropical and sidereal zodiac.","image":"https://timenomad.app/images/summary-cards/time-nomad-card.png","@context":"http://schema.org","operatingSystem":"iOS","applicationCategory":"Lifestyle","aggregateRating":"4.9"}</script>
+
 <div class="container reviews-users-summary" itemscope itemtype="http://schema.org/Product">
   <div class="row">
     <div class="col-6">
@@ -24,7 +27,7 @@
 		     <p class="testimonial-star">&nbsp;</p>
 		{% endcase %}
 		</div>
-		<p class="reviews"><a href="{% link pages/reviews.md %}"><span itemprop="reviewCount">{{ reviews.reviews }}</span> reviews</a> on the App Store</p>
+		<p class="reviews"><a href="{% link pages/reviews.md %}"><span itemprop="ratingCount">{{ reviews.reviews }}</span> reviews</a> on the App Store</p>
       </div>
     </div>
     <div class="col-6">
