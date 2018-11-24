@@ -207,6 +207,108 @@ blockquote {
 .testimonial-star {
   color: #F5A623;
   font-style: normal;
+  letter-spacing: 2px;
+}
+
+.testimonial-star-off {
+  color: #AAAAAA;
+  font-style: normal;
+  letter-spacing: 2px;
+}
+
+/**
+ * User reviews
+ */
+
+.review-user {
+  font-size: 14px;
+  margin-bottom: 2em;
+
+  p {
+    margin-bottom: 0.5em;
+  }
+
+  .testimonial-star {
+    margin-bottom: 0;
+  }
+
+  .title {
+    font-size: 18px;
+    margin-bottom: 0.5em;
+  }
+
+  .footer {
+    font-size: 12px;
+    margin-bottom: 0.5em;
+    color: $grey-color-dark;
+  }
+}
+
+/**
+ * Users reviews summary
+ */
+
+.reviews-users-summary {
+  font-size: 14px;
+  padding-left: 2.5em;
+  margin-bottom: 2em;
+  background-color: #343f6b;
+  border-radius: 5px;
+  color: #ffffff;
+
+  p {
+    margin-bottom: 0.5em;
+  }
+
+  .score {
+    font-size: 64px;
+
+    span {
+    font-size: 18px;
+    }
+  }
+
+  .testimonial-star {
+    font-size: 32px;
+    margin-bottom: 0;
+    letter-spacing: 8px;
+  }
+
+  .reviews {
+    font-size: 18px;
+    margin-bottom: 0.5em;
+
+    a:link, a:visited, a:active {
+        color: #ffffff;
+        text-decoration: none;
+        padding-bottom: 4px;
+        border-bottom: 1px solid $grey-color-light;
+    }
+
+    a:hover {
+        color: #ffffff;
+        text-decoration: none;
+        padding-bottom: 4px;
+        border-bottom: 4px solid $grey-color-light;
+    }
+  }
+
+  .col-6 .quote {
+    font-size: 12px;
+    line-height: 200%;
+    margin-top: 2.2em;
+    margin-bottom: 1.5em;
+
+    .q {
+      font-size: 64px;
+      line-height: 24px;
+      vertical-align: -20px;
+    }
+
+    .product {
+      font-weight: 800;
+    }
+  }
 }
 
 /**

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.content_title | escape }}</h1>
+  </header>
+
+  <div class="post-content {{ page.content_class }}">
+    {{ content }}
+  </div>
+
+{% if site.data.reviews-appstore.reviews %}
+	{% for country in site.data.reviews-appstore.reviews.countries %}
+		{% assign reviewsFile = "reviews-" | append: country  %}
+		{% assign reviews = site.data.reviews-appstore[reviewsFile] %}
+		{% for review in reviews %}
+			{% assign userName = review.userName %}
+			{% assign score = review.score %}
+			{% assign title = review.title %}
+			{% assign text = review.text %}
+			{% assign version = review.version %}
+			{% assign userUrl = review.userUrl %}
+			{% include review-by-user.html userName=userName score=score title=title text=text version=version userUrl=userUrl %}
+		{% endfor %}
+    {% endfor %}
+{% endif %}
+
+</article>

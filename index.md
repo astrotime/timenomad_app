@@ -7,6 +7,11 @@ weight: 0
 # Custom stuff:
 banner_title: Astrologer’s toolkit app for iPhone & iPad
 banner_subtitle: Real-time astrological charts and transits explorer application.
+# Extra info for SEO plugin
+seo:
+  type: MobileApplication
+  applicationCategory: Lifestyle
+  datePublished: 2016-03-24
 ---
 
 ## Fine astrological and astronomical software right in your pocket
@@ -29,6 +34,8 @@ banner_subtitle: Real-time astrological charts and transits explorer application
     {%- include icon-appstore.html appname=site.my_app_store_name -%}
   </div>
 </div>
+
+{%- include reviews-by-users-summary.html -%}
 
 <div class="float-clear"></div>
 

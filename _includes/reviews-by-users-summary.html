@@ -1,0 +1,37 @@
+{% assign reviews=site.data.reviews-appstore.reviews %}
+{% if reviews %}
+<div class="float-clear"></div>
+
+<div class="container reviews-users-summary" itemscope itemtype="http://schema.org/Product">
+  <div class="row">
+    <div class="col-6">
+      <div class="row">
+		<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><span class="score"  itemprop="ratingValue">{{ reviews.score }}</span> <span>rating</span></div>
+		<div class="stars">
+		{% assign score=reviews.score | round %}
+		{% case score %}
+		  {% when 5 %}
+		     <p class="testimonial-star">★★★★★</p>
+		  {% when 4 %}
+		     <p class="testimonial-star">★★★★★<span class="testimonial-star-off">★</span></p>
+		  {% when 3 %}
+		     <p class="testimonial-star">★★<span class="testimonial-star-off">★★★</span></p>
+		  {% when 2 %}
+		     <p class="testimonial-star">★★★<span class="testimonial-star-off">★★</span></p>
+		  {% when 1 %}
+		     <p class="testimonial-star">★<span class="testimonial-star-off">★★★★</span></p>
+		  {% else %}
+		     <p class="testimonial-star">&nbsp;</p>
+		{% endcase %}
+		</div>
+		<p class="reviews"><a href="{% link pages/reviews.md %}"><span itemprop="reviewCount">{{ reviews.reviews }}</span> reviews</a> on the App Store</p>
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="row">
+        <p class="quote"><span class="q">“</span> <span class="product" itemprop="name">Time Nomad</span> combines essential sets of charts with attractive graphic displays and cutting-edge discoveries, including transit charts, progressed charts, synastry charts, composite charts, planetary hours, aspectarians; tropical and sidereal options, minor bodies such as asteroids, Chiron, KBOs; and illuminating points such as the lunar nodes, vertex, and Part of Fortune.</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
