@@ -1,0 +1,14 @@
+  <!-- Begin SEO -->
+  <title>{{ page.seo.title  | escape }}</title>
+  <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
+  <meta property="og:title" content="{{ page.seo.title  | escape }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="{{ site.description | escape }}" />
+  <meta property="og:description" content="{{ site.description | escape }}" />
+  <link rel="canonical" href="{{ site.url }}" />
+  <meta property="og:url" content="{{ site.url }}" />
+  <meta property="og:site_name" content="{{ site.title | escape }}" />
+  {%if page.image %}<meta property="og:image" content="{{ site.url | append: page.image }}" />{% endif %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+  <!-- End SEO -->

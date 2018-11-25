@@ -9,6 +9,7 @@ banner_title: Astrologer’s toolkit app for iPhone & iPad
 banner_subtitle: Real-time astrological charts and transits explorer application.
 # Extra info for SEO plugin
 seo:
+  title: Time Nomad astrology app for iPhone and iPad
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
@@ -18,7 +19,7 @@ seo:
 
 <div class="row">
   <div class="float-left">
-    <img src="/images/time-nomad-iphone-ipad.png" >
+    <img src="/images/time-nomad-iphone-ipad.png" itemprop="image">
   </div>
   <div>
     <p>Explore astrology and astronomy in clarity and style. Track transits in real time. See upcoming changes.</p>

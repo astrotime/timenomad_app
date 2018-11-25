@@ -2,14 +2,13 @@
 {% if reviews %}
 <div class="float-clear"></div>
 
-<script type="application/ld+json">
-{"@type":"MobileApplication","url":"https://timenomad.app/","headline":"Fine astrological and astronomical software right in your pocket","name":"Time Nomad","description":"Time Nomad is an astrological chart app for iPhone &amp; iPad. Time Nomad is a free astrology app. A great tool for anybody learning, studying or practicing astrology, from a student to a professional astrologer. This astrology chart app offers rich set of reports for analysis and astrological prediction: birth chart, chart for today, bodies in zodiac, bodies in houses, astrological aspects and transits, chart of progressions and chart of synastry. The app includes planetary hours calculator. The app supports both tropical and sidereal zodiac.","image":"https://timenomad.app/images/summary-cards/time-nomad-card.png","@context":"http://schema.org","operatingSystem":"iOS","applicationCategory":"Lifestyle","aggregateRating":"4.9"}</script>
-
-<div class="container reviews-users-summary" itemscope itemtype="http://schema.org/Product">
+<div class="container reviews-users-summary">
   <div class="row">
     <div class="col-6">
       <div class="row">
-		<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><span class="score"  itemprop="ratingValue">{{ reviews.score }}</span> <span>rating</span></div>
+		<div itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating"><span itemprop="ratingValue" content="{{ reviews.score }}"></span>
+        <span itemprop="ratingCount" content="{{ reviews.reviews }}"></span>
+        <span class="score">{{ reviews.score }}</span> <span>rating</span></div>
 		<div class="stars">
 		{% assign score=reviews.score | round %}
 		{% case score %}
@@ -27,12 +26,12 @@
 		     <p class="testimonial-star">&nbsp;</p>
 		{% endcase %}
 		</div>
-		<p class="reviews"><a href="{% link pages/reviews.md %}"><span itemprop="ratingCount">{{ reviews.reviews }}</span> reviews</a> on the App Store</p>
+		<p class="reviews"><a href="{% link pages/reviews.md %}">{{ reviews.reviews }} reviews</a> on the App Store</p>
       </div>
     </div>
     <div class="col-6">
       <div class="row">
-        <p class="quote"><span class="q">“</span> <span class="product" itemprop="name">Time Nomad</span> combines essential sets of charts with attractive graphic displays and cutting-edge discoveries, including transit charts, progressed charts, synastry charts, composite charts, planetary hours, aspectarians; tropical and sidereal options, minor bodies such as asteroids, Chiron, KBOs; and illuminating points such as the lunar nodes, vertex, and Part of Fortune.</p>
+        <p class="quote"><span class="q">“</span> <span itemprop="description"><strong>Time Nomad</strong> combines essential sets of astrological charts with attractive graphic displays and cutting-edge discoveries, including transit charts, progressed charts, synastry charts, composite charts, planetary hours, aspectarians; tropical and sidereal options, minor bodies such as asteroids, Chiron, KBOs; and illuminating points such as the lunar nodes, vertex, and Part of Fortune.</span></p>
       </div>
     </div>
   </div>
