@@ -1,4 +1,4 @@
-<div class="review-user">
+<div class="review-user" itemprop="review" itemscope itemtype="http://schema.org/Review">
 	{% case include.score %}
 	  {% when 5 %}
 	     <p class="testimonial-star">★★★★★</p>
@@ -13,7 +13,14 @@
 	  {% else %}
 	     <p>{{ include.score }}</p>
 	{% endcase %}
-	<p class="title">{{ include.title }}</p>
-	<p>{{ include.text }}</p>
-	<p class="footer">by <a href="{{ include.userUrl }}" target="_blank" rel="nofollow">{{ include.userName }}</a> • v {{ include.version }}</p>
+	<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+	  <meta itemprop="worstRating" content = "1">
+	  <meta itemprop="ratingValue" content = "{{ include.score }}">
+	  <meta itemprop="bestRating" content = "5">
+	</span>
+	<p class="title" itemprop="name">{{ include.title }}</p>
+	<p itemprop="description">{{ include.text }}</p>
+	<p class="footer">by 
+	<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+		<a href="{{ include.userUrl }}" target="_blank" rel="nofollow" itemprop="url">{{ include.userName }}</a><meta itemprop="name" content="{{ include.userName }}"> • v {{ include.version }}</p>
 </div>

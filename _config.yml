@@ -82,6 +82,21 @@ staticman:
 # Google Analytics
 google_analytics: UA-125404162-1
 
+# Structured Data
+structured_data:
+  author: 
+    name: Denis Zubkov
+  publisher: 
+    name: Time Nomad
+    logo: /images/favicons/apple-icon-180x180.png
+  softwareApplication:
+    operatingSystem: Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.
+    applicationCategory: Lifestyle
+    offers:
+      category: free
+      price: 0
+      priceCurrency: USD
+
 # Build settings
 future: true
 markdown: kramdown

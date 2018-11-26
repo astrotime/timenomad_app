@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="http://schema.org/Article">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -10,8 +10,21 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
-      {%- if page.author -%}
-        <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- if page.modified -%}
+        {%- assign dateModified = page.modified -%}
+      {%- else -%}
+        {%- assign dateModified = page.date -%}
+      {%- endif -%}
+      <meta itemprop="dateModified" content="{{ dateModified | date: date_to_xmlschema }}">
+      {%- if site.structured_data.author -%}
+        <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta class="p-author h-card" itemprop="name" content="{{ site.structured_data.author.name }}"></span>
+      {%- endif -%}
+      {%- if site.structured_data.publisher -%}
+        <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><span itemprop="url" itemscope itemtype="http://schema.org/URL">
+          <meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo }}"></span></span></span>
+      {%- endif -%}
+      {%- if page.image -%}
+        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><span itemprop="url" itemscope itemtype="http://schema.org/URL"><meta itemprop="url" content="{{ site.url | append: page.image }}"></span></span>
       {%- endif -%}
       {%- if page.comments == true and site.data.comments[page.slug].size > 0 -%}
         <span class="byline-item"><a href="#comments"><svg class="icon icon--stopwatch" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-comments' | prepend: 'assets/' | relative_url }}"></use></svg>{{ site.data.comments[page.slug] | size }}&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></span>

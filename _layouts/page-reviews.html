@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="post" itemscope itemtype="http://schema.org/SoftwareApplication"><meta itemprop="name" content="{{ site.title | escape }}"><meta itemprop="operatingSystem" content="{{ site.structured_data.softwareApplication.operatingSystem }}"><meta itemprop="applicationCategory" content="{{ site.structured_data.softwareApplication.applicationCategory }}"><span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><span itemprop="category" content="{{ site.structured_data.softwareApplication.offers.category }}"></span><span itemprop="price" content="{{ site.structured_data.softwareApplication.offers.price }}"></span><span itemprop="priceCurrency" content="{{ site.structured_data.softwareApplication.offers.priceCurrency }}"></span></span>
 
   <header class="post-header">
     <h1 class="post-title">{{ page.content_title | escape }}</h1>

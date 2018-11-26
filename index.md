@@ -54,24 +54,39 @@ The app supports both **tropical and sidereal Zodiac**. The sidereal Zodiac repo
 
 ## Users feedback on the App Store
 
-<div class="testimonial">
-<strong>Nothing like it.</strong> <span class="testimonial-star">★★★★★</span><br>
-Thank you for the work you do that allows us all to stay informed of the changes above while mobile. There’s nothing like this app, or rather, no other that compares.<br>
-by Alex Antares – Aug 7, 2018
+<div class="testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
+<strong itemprop="name">Nothing like it.</strong> <span class="testimonial-star">★★★★★</span><br>
+<span itemprop="description">Thank you for the work you do that allows us all to stay informed of the changes above while mobile. There’s nothing like this app, or rather, no other that compares.</span><br>
+by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Alex Antares</span></span>
+ – <meta itemprop="datePublished" content="2018-08-07">Aug 7, 2018
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content = "1">
+  <meta itemprop="ratingValue" content = "5">
+  <meta itemprop="bestRating" content = "5">
+</span>
 </div>
 
-<div class="testimonial">
-<strong>Love</strong> <span class="testimonial-star">★★★★★</span><br>
-I adore this app, and it is by far the best phone astrology app I have found. one thing I would love to see is possibly a place to make notes on a chart, and also the ability to add more asteroids (I love asteroids). But overall, amazing.<br>
-by Daizzyy – Aug 3, 2018
+<div class="testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
+<strong itemprop="name">Love</strong> <span class="testimonial-star">★★★★★</span><br>
+<span itemprop="description">I adore this app, and it is by far the best phone astrology app I have found. one thing I would love to see is possibly a place to make notes on a chart, and also the ability to add more asteroids (I love asteroids). But overall, amazing.</span><br>
+by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Daizzyy</span></span> – <meta itemprop="datePublished" content="2018-08-03">Aug 3, 2018
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content = "1">
+  <meta itemprop="ratingValue" content = "5">
+  <meta itemprop="bestRating" content = "5">
+</span>
 </div>
 
-<div class="testimonial">
-<strong>Amazing and Free</strong> <span class="testimonial-star">★★★★★</span><br>
-This app is extremely powerful and enlightening. So many features included for free and so well designed and executed. Thank you.<br>
-by FlameGuitar85 – Jul 24, 2018
+<div class="testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
+<strong itemprop="name">Amazing and Free</strong> <span class="testimonial-star">★★★★★</span><br>
+<span itemprop="description">This app is extremely powerful and enlightening. So many features included for free and so well designed and executed. Thank you.</span><br>
+by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">FlameGuitar85</span></span> – <meta itemprop="datePublished" content="2018-07-24">Jul 24, 2018
+<span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+  <meta itemprop="worstRating" content = "1">
+  <meta itemprop="ratingValue" content = "5">
+  <meta itemprop="bestRating" content = "5">
+</span>
 </div>
-
 
 <div class="float-clear"></div>
 
