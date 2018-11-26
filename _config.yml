@@ -89,7 +89,7 @@ structured_data:
   publisher: 
     name: Time Nomad
     logo: 
-      url: /images/favicons/time-nomad-logo-60x600.png
+      url: /images/time-nomad-logo-60x600.png
       width: 600
       height: 60
   softwareApplication:
