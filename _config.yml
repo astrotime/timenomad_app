@@ -88,7 +88,10 @@ structured_data:
     name: Denis Zubkov
   publisher: 
     name: Time Nomad
-    logo: /images/favicons/apple-icon-180x180.png
+    logo: 
+      url: /images/favicons/time-nomad-logo-60x600.png
+      width: 600
+      height: 60
   softwareApplication:
     operatingSystem: Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.
     applicationCategory: Lifestyle
