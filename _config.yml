@@ -17,11 +17,10 @@ title: Time Nomad
 email: hi.seqfx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Time Nomad is a free astrology chart app for iPhone and iPad. 
-  A great tool for anybody learning, studying or practicing astrology, 
-  from a student to a professional astrologer. This astrology chart app offers rich
-  set of reports for analysis and astrological prediction: birth chart, chart for today, bodies in zodiac,
-  bodies in houses, astrological aspects and transits, chart of progressions and chart of 
-  synastry. The app includes planetary hours calculator. The app supports both tropical and sidereal zodiac.
+  Charts for any location, natal charts, transits, synastry, progressions. 
+  Planetary hours calculator and alarm. 
+  Supports both tropical and sidereal Zodiac. 
+  Analysis of future events for prediction techniques.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timenomad.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AstroTimeNomad
