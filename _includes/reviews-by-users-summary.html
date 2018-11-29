@@ -6,8 +6,8 @@
   <div class="row">
     <div class="col-6">
       <div class="row">
-		<div itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating"><span itemprop="ratingValue" content="{{ reviews.score }}"></span>
-        <span itemprop="ratingCount" content="{{ reviews.reviews }}"></span>
+		<div itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating"><span itemprop="ratingValue" content="{{ summary.score }}"></span>
+        <span itemprop="ratingCount" content="{{ summary.reviews }}"></span>
         <span class="score">{{ summary.score }}</span> <span>rating</span></div>
 		<div class="stars">
 		{% assign score=summary.score | round %}
