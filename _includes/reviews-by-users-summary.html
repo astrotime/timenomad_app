@@ -1,5 +1,5 @@
-{% assign reviews=site.data.reviews-appstore.reviews %}
-{% if reviews %}
+{% assign summary = site.data.reviews-appstore.data-summary %}
+{% if summary %}
 <div class="float-clear"></div>
 
 <div class="container reviews-users-summary">
@@ -8,9 +8,9 @@
       <div class="row">
 		<div itemscope itemtype="http://schema.org/AggregateRating" itemprop="aggregateRating"><span itemprop="ratingValue" content="{{ reviews.score }}"></span>
         <span itemprop="ratingCount" content="{{ reviews.reviews }}"></span>
-        <span class="score">{{ reviews.score }}</span> <span>rating</span></div>
+        <span class="score">{{ summary.score }}</span> <span>rating</span></div>
 		<div class="stars">
-		{% assign score=reviews.score | round %}
+		{% assign score=summary.score | round %}
 		{% case score %}
 		  {% when 5 %}
 		     <p class="testimonial-star">★★★★★</p>
@@ -26,8 +26,8 @@
 		     <p class="testimonial-star">&nbsp;</p>
 		{% endcase %}
 		</div>
-		<p class="reviews"><a href="{% link pages/reviews.md %}">{{ reviews.ratings }} ratings</a> and<br>
-		<a href="{% link pages/reviews.md %}">{{ reviews.reviews }} reviews</a> on the App Store</p>
+		<p class="reviews">{{ summary.ratings }} ratings and<br>
+		<a href="{% link pages/reviews.md %}">{{ summary.reviews }} reviews</a> on the App Store</p>
       </div>
     </div>
     <div class="col-6">

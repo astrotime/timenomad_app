@@ -11,20 +11,19 @@ layout: default
     {{ content }}
   </div>
 
-{% if site.data.reviews-appstore.reviews %}
-	{% for country in site.data.reviews-appstore.reviews.countries %}
-		{% assign reviewsFile = "reviews-" | append: country  %}
-		{% assign reviews = site.data.reviews-appstore[reviewsFile] %}
-		{% for review in reviews %}
-			{% assign userName = review.userName %}
-			{% assign score = review.score %}
-			{% assign title = review.title %}
-			{% assign text = review.text %}
-			{% assign version = review.version %}
-			{% assign userUrl = review.userUrl %}
-			{% include review-by-user.html userName=userName score=score title=title text=text version=version userUrl=userUrl %}
-		{% endfor %}
-    {% endfor %}
+{% assign summary = site.data.reviews-appstore.data-summary %}
+{% assign reviews = site.data.reviews-appstore.data-reviews %}
+{% if summary and reviews %}
+	{% for review in reviews %}
+		{% assign userName = review.userName %}
+		{% assign score = review.score %}
+		{% assign title = review.title %}
+		{% assign text = review.text %}
+		{% assign version = review.version %}
+		{% assign userUrl = review.userUrl %}
+		{% assign country = review.country %}
+		{% include review-by-user.html userName=userName score=score title=title text=text version=version userUrl=userUrl country=country %}
+	{% endfor %}
 {% endif %}
 
 </article>
