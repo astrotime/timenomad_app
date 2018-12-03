@@ -12,6 +12,7 @@ schema:
   image:
     alt: Astrological chart with Sun on the cusp of Virgo, created by Time Nomad app
     url_1x1: /images/schema/time-nomad-post-20180912-sun-enters-sidereal-virgo-1x1.jpg
+    size_1x1: 760
 ---
 
 > While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.

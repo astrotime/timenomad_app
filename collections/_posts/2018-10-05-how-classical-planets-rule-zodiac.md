@@ -12,6 +12,7 @@ schema:
   image:
     alt: The seven classical planets as rulers of the tropical Zodiac signs
     url_1x1: /images/schema/time-nomad-post-201801005-classical-planets-rule-zodiac-1x1.jpg
+    size_1x1: 760
 ---
 
 Humans tend to know and comprehend the objects that we **can see with our eyes** much better that something we only heard of and never touched with our senses. The planets are no exception. Pretty much everyone has seen the seven classical planets in the sky  — the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn — and thus established an instinctive understanding and relationship with those bodies.

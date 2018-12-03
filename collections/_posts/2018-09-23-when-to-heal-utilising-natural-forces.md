@@ -12,6 +12,7 @@ schema:
   image:
     alt: Moon cycle, created by Time Nomad app
     url_1x1: /images/schema/time-nomad-post-20180923-healing-1x1.jpg
+    size_1x1: 760
 ---
 
 A short and sharp summary before venturing into the topic.

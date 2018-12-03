@@ -13,6 +13,7 @@ schema:
   image:
     alt: Planetary hours calculator, created by Time Nomad app
     url_1x1: /images/schema/time-nomad-post-20181203-planetary-hours-1x1.jpg
+    size_1x1: 760
 ---
 
 Continuing mini-series on the topic of planetary hours. This is the second part of the story. The first part can be [found here]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}).

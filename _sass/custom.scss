@@ -383,3 +383,19 @@ li {
     border: 1px solid $gray;
   }
 }
+
+@include media-query($on-palm) {
+  li {
+    img.post-thumb {
+      width: 140px;
+      height: 140px;
+      float: none;
+      margin-bottom: 10px;
+    }
+  }
+
+  h3 {
+    line-height: 1.4;
+    margin-top: 0.5em;
+  }
+}

@@ -12,6 +12,7 @@ schema:
   image:
     alt: The Four Elements - fire, earth, air and water
     url_1x1: /images/schema/time-nomad-post-20181028-the-four-elements-powers-1x1.jpg
+    size_1x1: 760
 ---
 
 The idea of the four elements and their qualities (or powers) presents a fascinating archetype that helps to dive deeper into the chart and see much more that appears on the surface.

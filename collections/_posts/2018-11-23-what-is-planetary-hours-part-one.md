@@ -13,6 +13,7 @@ schema:
   image:
     alt: Seven planetary spheres of Saturn, Jupiter, Mars, the Sun, Venus, Mercury, the Moon above the planet Earth.
     url_1x1: /images/schema/time-nomad-post-20181123-planetary-spheres-1x1.jpg
+    size_1x1: 760
 ---
 
 Planetary Hours is an extremely ancient knowledge that is still useful today. Suppose we knew nothing about that division of time, how could we “reinvent” planetary hours?
