@@ -7,6 +7,11 @@ title: Stocks plunge and other mishaps of the week.
 description: Looking at the calamities of the second week of October and why this time they actually make a lot of astrological sense.
 categories: posts astrology event
 comments: true
+# Extra info for structured data
+schema:
+  image:
+    alt: Sun square Pluto on the timeline, created by Time Nomad app
+    url_1x1: /images/schema/time-nomad-post-20181013-stocks-plunge-1x1.jpg
 ---
 
 Astrology can often be a flimsy predictor from the statistical perspective, it’s easy to blame for the bias and intense imagination. Yet the events of the last few days were surprisingly aligned with the current celestial dynamics.

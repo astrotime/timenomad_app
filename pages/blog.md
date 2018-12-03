@@ -8,9 +8,9 @@ image: /images/summary-cards/time-nomad-card.png
 weight: 3
 ---
 
-# Blog about astrology and metaphysics
+# Articles about astrology and metaphysics
 
-The blog offers short educational essays on a variety of topics helping students and astrology enthusiasts to learn about the principles behind:
+Time Nomad offers short educational essays on a variety of topics helping students and astrology enthusiasts to learn about the principles behind:
 
 * astrology
 * astronomy

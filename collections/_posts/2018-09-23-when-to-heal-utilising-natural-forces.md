@@ -7,6 +7,11 @@ title: When to heal — utilising the momentum of natural forces.
 description: Outcome of medical and other health related procedures could benefit if planned and scheduled in advance. This approach allows for a better healing flow as being in sync with the dynamics of nature allows to ‘surf’ the momentum of natural forces in a situation when every bit of extra help is more than welcome.
 categories: posts astrology health
 comments: true
+# Extra info for structured data
+schema:
+  image:
+    alt: Moon cycle, created by Time Nomad app
+    url_1x1: /images/schema/time-nomad-post-20180923-healing-1x1.jpg
 ---
 
 A short and sharp summary before venturing into the topic.

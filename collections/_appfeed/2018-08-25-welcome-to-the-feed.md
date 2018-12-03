@@ -8,7 +8,9 @@ title: Welcome to the Time Nomad Feed
 description: Enjoy short regular essays about the foundations of astrology.
 ---
 
-Our feed provides astrology enthusiasts with a regular stream of short, and often illustrated, articles covering topics related to astrology.
+### Sharing astrological knowledge, one story at a time.
+
+[Time Nomad Feed](/posts) provides astrology enthusiasts with a regular stream of short, and often illustrated, articles covering topics related to astrology.
 
 We hope you, dear reader, will enjoy these short essays that are aimed at sharpening your astrological knowledge.
 
@@ -18,7 +20,7 @@ And if you liked any of stories, please share them via your social networks. Sha
 
 ## How to access the feed
 
-The feed comes directly from the Time Nomad website at [https://timenomad.app/posts](https://timenomad.app/posts/) which you can view on your laptop or desktop computer.
+The feed comes directly from the Time Nomad website at [https://timenomad.app/posts](/posts/) which you can view on your laptop or desktop computer.
 
 In the app you can access the feed by navigating to the announcement menu in the top right corner of the app. The screenshot below illustrates that:
 

@@ -135,6 +135,13 @@ blockquote {
 }
 
 /**
+ * Pre-formatted code blocks
+ */
+code {
+  white-space: normal;
+}
+
+/**
  * Styling additions
  */
 .bg-grey-light {
@@ -364,3 +371,15 @@ blockquote {
   }
 }
 
+/**
+ * Posts summary page
+ */
+li {
+  img.post-thumb {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid $gray;
+  }
+}

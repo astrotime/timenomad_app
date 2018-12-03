@@ -7,6 +7,11 @@ title: Day and Night in the Western astrological chart.
 description: Day and night is the duality that defines the core building blocks in the construction of the wheel of the Western astrological chart.
 categories: posts astrology philosophy
 comments: true
+# Extra info for structured data
+schema:
+  image:
+    alt: Day and night on the Western astrological chart
+    url_1x1: /images/schema/time-nomad-post-20181020-day-night-western-astrology-1x1.jpg
 ---
 
 Day and night is the duality we perhaps observe the most and it certainly has a solid set of correspondences in the foundational astrological knowledge — it is at the core of the wheel of the Western astrological chart.
