@@ -313,6 +313,24 @@ code {
       vertical-align: -20px;
     }
   }
+
+  .col-6 .cta {
+    margin-bottom: 1.5em;
+
+    a:link, a:visited, a:active {
+        color: #ffffff;
+        text-decoration: none;
+        padding-bottom: 4px;
+        border-bottom: 1px solid $grey-color-light;
+    }
+
+    a:hover {
+        color: #ffffff;
+        text-decoration: none;
+        padding-bottom: 4px;
+        border-bottom: 4px solid $grey-color-light;
+    }
+  }
 }
 
 /**

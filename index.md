@@ -36,7 +36,7 @@ seo:
   </div>
 </div>
 
-{%- include reviews-by-users-summary.html -%}
+{%- include reviews-by-users-summary.html link="reviews" -%}
 
 <div class="float-clear"></div>
 
