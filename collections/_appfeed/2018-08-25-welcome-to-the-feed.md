@@ -1,8 +1,8 @@
 ---
 layout: appfeed
-uuid: AF-20180901
-date: 2018-08-25 12:00:00 +1000
-scope: 
+uuid: AF-20180902
+date: 2018-09-02 12:00:00 +1000
+scope: dev
 present: must
 title: Welcome to the Time Nomad Feed
 description: Enjoy short regular essays about the foundations of astrology.

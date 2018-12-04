@@ -1,6 +1,6 @@
 ---
 layout: null
-tip_DateFormatter: "http://strftime.net"
+# Date formatter: "http://strftime.net"
 ---
 
 {
@@ -17,6 +17,16 @@ tip_DateFormatter: "http://strftime.net"
 			"blurb": "{{ item.description }}"
 		},
 		{% endfor %}
+		{% assign item = site.pages | where: "permalink", "/posts/" | first %}{% if item %}
+		{
+			"uuid": "{{ item.feedUUID }}",
+			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
+			"present": "must",
+			"url": "{{ item.url | prepend: site.url }}",
+			"title": "{{ item.feedTitle }}",
+			"description": "{{ item.description }}",
+			"blurb": "{{ item.description }}"
+		},{% endif %}
 	],
 
 	"posts": [
