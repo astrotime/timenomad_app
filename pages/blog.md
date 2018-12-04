@@ -19,7 +19,7 @@ schema:
     size_1x1: 760
 ---
 
-# Regular updates on astrology
+<h1 class="post-title p-name" itemprop="name headline">Regular updates on astrology</h1>
 
 Time Nomad publishes **short educational essays** on a variety of topics helping students and astrology enthusiasts to learn about the principles behind:
 

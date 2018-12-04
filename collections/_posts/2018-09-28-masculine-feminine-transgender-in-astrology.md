@@ -10,7 +10,7 @@ comments: true
 # Extra info for structured data
 schema:
   image:
-    alt: Mars Venus and Mercury symbolise masculine, feminine and transgeder
+    alt: Mars Venus and Mercury symbolise masculine, feminine and transgender
     url_1x1: /images/schema/time-nomad-post-20180928-masculine-feminine-transgender-in-astrology-1x1.jpg
     size_1x1: 760
 ---
