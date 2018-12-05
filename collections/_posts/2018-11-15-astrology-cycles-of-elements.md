@@ -2,6 +2,7 @@
 layout: post
 uuid: P-20181115
 date: 2018-11-15 12:00:00 +1000
+modified: 2018-11-15 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post.png
 title: “Let there be spin” or ubiquitous cycles of everything.
 description: Everything spins – from galaxies and stars to human lives – producing large and small cycles of events.

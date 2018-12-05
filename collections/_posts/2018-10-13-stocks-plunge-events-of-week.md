@@ -2,6 +2,7 @@
 layout: post
 uuid: P-201810143
 date: 2018-10-13 12:00:00 +1000
+modified: 2018-10-13 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post-P-20181013.png
 title: Stocks plunge and other mishaps of the week.
 description: Looking at the calamities of the second week of October and why this time they actually make a lot of astrological sense.

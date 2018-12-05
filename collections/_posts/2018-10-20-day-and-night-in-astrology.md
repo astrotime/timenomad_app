@@ -2,6 +2,7 @@
 layout: post
 uuid: P-20181020
 date: 2018-10-20 12:00:00 +1000
+modified: 2018-10-20 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post-P-20181020.png
 title: Day and Night in the Western astrological chart.
 description: Day and night is the duality that defines the core building blocks in the construction of the wheel of the Western astrological chart.

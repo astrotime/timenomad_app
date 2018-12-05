@@ -2,6 +2,7 @@
 layout: post
 uuid: P-20180923
 date: 2018-09-23 12:00:00 +1000
+modified: 2018-09-23 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post-P-20180923.png
 title: When to heal — utilising the momentum of natural forces.
 description: Outcome of medical and other health related procedures could benefit if planned and scheduled in advance. This approach allows for a better healing flow as being in sync with the dynamics of nature allows to ‘surf’ the momentum of natural forces in a situation when every bit of extra help is more than welcome.
