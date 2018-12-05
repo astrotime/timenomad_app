@@ -7,6 +7,7 @@ image: /images/summary-cards/time-nomad-card-post.png
 title: What is Planetary Hours, part 1.
 description: What is planetary hours and how can one reconstruct them knowing some basic numerology and common sense.
 categories: posts astrology philosophy
+linkRelNext: /posts/astrology/philosophy/2018/12/03/what-is-planetary-hours-part-two.html
 comments: true
 # Extra info for structured data
 schema:

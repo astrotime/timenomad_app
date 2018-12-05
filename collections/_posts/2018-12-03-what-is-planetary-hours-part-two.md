@@ -7,6 +7,7 @@ image: /images/summary-cards/time-nomad-card-post.png
 title: What is Planetary Hours, part 2.
 description: From the notion of planetary hours to the days of the week, the seven planetary spheres can be found in each major division of time.
 categories: posts astrology philosophy
+linkRelPrev: /posts/astrology/philosophy/2018/11/23/what-is-planetary-hours-part-one.html
 comments: true
 # Extra info for structured data
 schema:
