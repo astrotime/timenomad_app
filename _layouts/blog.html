@@ -32,6 +32,7 @@ layout: default
       <ul class="post-list">
         {%- for post in site.posts -%}
         <li itemscope itemtype="http://schema.org/Article">
+          <link itemprop="mainEntityOfPage" href="{{ post.url | absolute_url }}">
           <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
           {%- if page.modified -%}
             {%- assign dateModified = page.modified -%}
