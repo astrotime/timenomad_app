@@ -3,7 +3,7 @@ layout: post
 uuid: P-20181123
 date: 2018-11-23 12:00:00 +1000
 modified: 2018-12-03 12:00:00 +1000
-image: /images/summary-cards/time-nomad-card-post.png
+image: /images/summary-cards/time-nomad-p-20181123-planetary-hours-part-one.jpg
 title: What is Planetary Hours, part 1.
 description: What is planetary hours and how can one reconstruct them knowing some basic numerology and common sense.
 categories: posts astrology philosophy
