@@ -8,6 +8,7 @@ title: What is Planetary Hours, part 2.
 description: From the notion of planetary hours to the days of the week, the seven planetary spheres can be found in each major division of time.
 categories: posts astrology philosophy
 linkRelPrev: /posts/astrology/philosophy/2018/11/23/what-is-planetary-hours-part-one.html
+linkRelNext: /posts/astrology/philosophy/2018/12/09/what-is-planetary-hours-part-three.html
 comments: true
 # Extra info for structured data
 schema:
@@ -19,7 +20,7 @@ schema:
 
 Continuing mini-series on the topic of planetary hours. This is the second part of the story. The first part can be [found here]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}).
 
-## Recapping previous article
+## Recapping the previous article
 
 In the [previous part]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}) it was proposed that the notion of planetary spheres can be deduced by arranging the celestial bodies according to the average speed of their movement as observed from the Earth:
 
@@ -136,4 +137,4 @@ The annual cycle of ebb and flow of day and night hours is another dynamic param
 
 ## In the next part…
 
-The next part will look further into the relationship between days of the week, sacred geometry and numerology. Stay tuned… 
+The [next part]({% post_url 2018-12-09-what-is-planetary-hours-part-three %}) will look further into the relationship between days of the week, sacred geometry and numerology. [Keep reading…]({% post_url 2018-12-09-what-is-planetary-hours-part-three %})

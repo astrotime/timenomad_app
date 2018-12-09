@@ -81,7 +81,7 @@ Saturn ➝ Jupiter ➝ Mars ➝ Sun ➝ Venus ➝ Mercury ➝ Moon
 
 ![Order of planetary spheres and flow of time](/images/illustrations/time-nomad-fig-planetary-spheres-flow-of-time.png "Order of planetary spheres and flow of time")
 
-## Meaning of the planetary spheres
+## <a id="meaning-of-planetary-spheres"></a>Meaning of the planetary spheres
 
 The seven planetary spheres symbolise the birth process within the creation and the phases of an individual incarnation of a soul on the Earth — as well as the movement back, from the earthly plane to the celestial realms.
 

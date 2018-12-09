@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 permalink: /posts/
 date: 2018-09-01 12:00:00 +1000
-modified: 2018-12-04 12:00:00 +1000
+modified: 2018-12-09 12:00:00 +1000
 description: Short regular essays about the foundations of astrology and metaphysics.
 image: /images/summary-cards/time-nomad-card.png
 # Nav order:
@@ -26,7 +26,7 @@ Time Nomad publishes **short educational essays** on a variety of topics helping
 * astrology
 * astronomy
 * metaphysics
-* alchemy
+* alchemy and magic
 * personal transformation techniques. 
 
 Learn about the foundations of astrology, planets of the solar system, rhythms of nature and their influence on human psychology and health. The essays are written using **plain language**, **kept short and to the point**. We hoping that you, the reader, will (re)discover some valuable information by browsing this combination of ancient and modern knowledge.
