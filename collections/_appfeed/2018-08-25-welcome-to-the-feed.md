@@ -28,3 +28,6 @@ In the app you can access the feed by navigating to the announcement menu in the
 
 Enjoy and stay engaged!
 
+{% include tn-heptagrams-animated.html %}
+
+
