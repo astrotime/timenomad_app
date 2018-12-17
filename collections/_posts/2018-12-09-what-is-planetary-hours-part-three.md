@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20181209
 date: 2018-12-09 12:00:00 +1000
-modified: 2018-12-09 12:00:00 +1000
+modified: 2018-12-17 12:00:00 +1000
 image: /images/summary-cards/time-nomad-p-20181209-planetary-hours-part-three.jpg
 title: What is Planetary Hours, part 3.
 description: The order of planetary hours and therefore the days of the week can be further explored in the context of sacred geometry with some elements of numerology and an introduction of heptagrams.
@@ -125,4 +125,4 @@ Truly, a lot of meaning packed in these ancient symbols.
 
 Knowledge of planetary hours adds a new dimension to the interpretation of astrological charts. Planetary hours are also extremely important for anybody who practices magic, does rituals or deals with any kind of natural forces. Choosing right timing makes practices successful, and vice versa.
 
-And… we are not done with heptagrams yet! The next story will be on the new topic of **irregular heptagrams** what they possibly mean and how to make some sort of sense out of them when interpreting astrological charts. Stay tuned… 
+And… we are not done with the heptagrams yet! The next story covers the topic of [irregular heptagrams]({% post_url 2018-12-17-finding-dominant-planet-using-heptagrams %}) what they possibly mean and how to make some sort of sense out of them when interpreting astrological charts.
