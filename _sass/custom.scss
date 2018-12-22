@@ -400,6 +400,10 @@ li {
     margin-right: 1em;
     border: 1px solid $gray;
   }
+
+  h3 {
+    line-height: 1.2;
+  }
 }
 
 @include media-query($on-palm) {
@@ -417,3 +421,12 @@ li {
     margin-top: 0.5em;
   }
 }
+
+/**
+ * Styling of text
+ */
+
+.text-photo-caption-serif {
+  font-family: $serif;
+}
+
