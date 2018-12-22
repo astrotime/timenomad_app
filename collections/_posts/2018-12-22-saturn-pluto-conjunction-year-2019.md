@@ -3,12 +3,19 @@ layout: post
 uuid: P-20181222
 date: 2018-12-22 12:00:00 +1000
 modified: 2018-12-22 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20181222-saturn-pluto-conjuction.jpg
 title: Will 2019 be the year of Saturn-Pluto conjunction?
 description: The upcoming Saturn-Pluto conjunction is a rare and significant event. Starting at around Christmas of 2018, the conjunction will unfold itself throughout the year of 2019, culminating on January12, 2020. Could it act as broad “Saturn return” for our economical and political system?
 categories: posts astrology event
 comments: true
 # Extra info for structured data
+og:
+  image:
+    url: /images/og/og-time-nomad-p-20181222-saturn-pluto-conjuction.jpg
+    width: 400
+    height: 300
+twitter:
+  card: summary_large_image
+  image: /images/summary-cards/time-nomad-p-20181222-saturn-pluto-conjuction.jpg
 schema:
   image:
     alt: Luca Bartolomeo de Pacioli
