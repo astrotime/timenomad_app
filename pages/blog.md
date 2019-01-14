@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 permalink: /posts/
 date: 2018-09-01 12:00:00 +1000
-modified: 2019-01-01 12:00:00 +1000
+modified: 2019-01-14 12:00:00 +1000
 description: Short regular essays about the foundations of astrology and metaphysics.
 image: /images/summary-cards/time-nomad-card.png
 # Nav order:
