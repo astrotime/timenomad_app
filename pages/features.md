@@ -302,7 +302,7 @@ Graph view unwraps the circle into a line segment covering (-180° … +180°] a
 Markers plotted along the line show locations of exact aspects. Transiting planets on the left of those marks are approaching aspects, while planets on the right of the marks are separating. 
 
 
-## Chart of progressions
+## <a name="progressions"></a>Chart of progressions
 
 ---
 

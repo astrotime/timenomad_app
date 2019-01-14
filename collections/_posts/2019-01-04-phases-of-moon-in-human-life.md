@@ -52,7 +52,7 @@ And of course, the immortal Shakespeare’s words:
 >  
 > William Shakespeare, _Macbeth_
 
-From historical and statistical perspectives, a 70-year life span is certainly closer to the average. And it’s a nice number since it includes the magical number 7. Here is a refresher as to [why the number seven is so interesting]({% post_url 2018-11-23-what-is-planetary-hours-part-one%}).
+From historical and statistical perspectives, a 70-year life span is certainly closer to the average. And it’s a nice number since it includes the magical number 7. Here is a refresher as to [why the number seven is so interesting]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}).
 
 ![Seventy years of human life drawn on a cirlce](/images/illustrations/human-life-70-years.png "Seventy years of human life drawn on a cirlce")
 
@@ -66,7 +66,7 @@ A progressed chart is a “preview” of how native’s life could unfold throug
 >  
 > Ezekiel 4:6
 
-The progressed chart technique called “primary directions” looks at the astrological charts of the first days of life. Time Nomad app makes it easy to work with progressed charts [xxx].
+The progressed chart technique called “primary directions” looks at the astrological charts of the first days of life. Time Nomad app makes it easy to [work with progressed charts]({{ "/features/#progressions" | relative_url }}).
 
 Back to the Moon…
 
