@@ -3,7 +3,7 @@ layout: post
 uuid: P-20190114
 date: 2019-01-14 12:00:00 +1000
 modified: 2019-01-14 12:00:00 +1000
-title: The phases of the Moon throughout the  human life, or why “New Year's resolutions” is a bad idea
+title: The phases of the Moon throughout the  human life, or why “New Year’s resolutions” is a bad idea
 description: The low efficiency of the New Year’s resolutions approach is due to the resolutions often being a mental construct that ignores the bigger dynamical system that is called “your life”.
 categories: posts astrology philosophy
 comments: true
