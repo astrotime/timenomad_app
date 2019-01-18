@@ -13,6 +13,7 @@ seo:
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
+  dateModified: 2019-01-17
 ---
 
 ## Fine astrological and astronomical software right in your pocket
@@ -172,7 +173,7 @@ Time Nomad uses accurate DE-430 ephemeris to calculate positions of all major an
 
 ## Fast natal chart calculator
 
-Time Nomad not only precise, it is incredibly fast too. Astrological calculations are blazing fast.
+Time Nomad not only precise, it is incredibly fast too. Astrological calculations perform instantly and do not require your device to be online — once you’ve created profiles, Time Nomad doesn’t require you to be online at all, all astrological calculations always performed on your device. You can literally use Time Nomad in a desert without any internet connection.
 
 Astrological charts support any geographic location on the planet Earth.
 
