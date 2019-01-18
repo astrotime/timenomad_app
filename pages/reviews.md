@@ -4,6 +4,12 @@ title: User reviews
 content_title: Time Nomad user reviews
 permalink: /reviews/
 image: /images/summary-cards/time-nomad-card.png
+# Extra info for SEO plugin
+seo:
+  type: MobileApplication
+  applicationCategory: Lifestyle
+  datePublished: 2016-03-24
+  dateModified: 2019-01-17
 ---
 
 {%- include reviews-by-users-summary.html link="self" -%}
