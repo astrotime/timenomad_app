@@ -161,3 +161,60 @@ by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span i
 </div>
 
 <div class="float-clear"></div>
+
+## Planetary positions calculator
+
+Time Nomad is an advanced planetary positions calculator software that ensures accurate birth chart calculations. The app can also build precise astrological charts for any given date within nearest centuries.
+
+## Major, minor planets and asteroids
+
+Time Nomad uses accurate DE-430 ephemeris to calculate positions of all major and minor planets, including asteroids.
+
+## Fast natal chart calculator
+
+Time Nomad not only precise, it is incredibly fast too. Astrological calculations are blazing fast.
+
+Astrological charts support any geographic location on the planet Earth.
+
+## Calculations of both Tropical and Sidereal Zodiac
+
+Time Nomad software is unique in its ability to calculate both tropical and sidereal zodiac systems using high precision ephemeris.
+
+You can freely switch between the two models of the Zodiac,  pretty much every report offers both tropical and sidereal zodiac versions.
+
+## Advanced astrological calculations
+
+Time Nomad calculates your astrological transits, phases of the Sun and the Moon, movement of planets through the Zodiac, retrograde planets, Moon Void of Course, solar return,  lunar returns, lunar month, solar-lunar arc, parallels and contra-parallels, etc.
+
+For advanced astrological analysis, Time Nomad offers synastry and composite chart calculators as well as progressed chart calculator.
+
+## Astrological prediction tools
+
+Time Nomad makes it easy to find out exact moments of aspects, transits and a number of other astrological and astronomical events.
+
+For each event, the app provides two charts: a regular chart and a chart of transits for the easy analysis of astrological transits happening at that exact moment in time.
+
+## Notifications about astrological events
+
+Summary of upcoming astrological events is presented in both textual and timeline formats.
+
+The app uses system notifications to send you daily updates about your transits and astrological events that are about to happen.
+
+## Planetary hours calculator
+
+The app comes with a planetary hours calculator, planetary hours alarm and other tools to work with planetary days of the week.
+
+## Unlimited astrological profiles
+
+You can create an unlimited amount of personal astrological profiles. All data belongs to you and stored on your iCloud account. No login or registration required.
+
+With Time Nomad you can analyse any number of natal charts — for yourself and other people. 
+
+## Learn astrology
+
+You can use Time Nomad to better understand astrology and answer the question “what is astrology” thus learning how to become a professional astrologer, with time. 
+
+[The Time Nomad blog]({{ "/posts" | relative_url }}) is a virtual astrology training for those who are interested in astrological studies or simply curious about how and why astrology works. Time Nomad will provide you with regular weekly astrology lessons and predictions. The app will be your virtual astrology teacher for years to come.
+
+[Subscribe to a regular newsletter](#mc_embed_signup) covering topics of astrological knowledge and current astrological events.
+
