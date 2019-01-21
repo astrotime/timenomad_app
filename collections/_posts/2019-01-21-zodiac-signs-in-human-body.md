@@ -105,13 +105,13 @@ Leo rules the core vital energy of an organism, it rules the heart, the spinal c
 
 Leo represents perhaps the deepest level of energy in a human body. The sign of Leo is the source of vital power and rules over creation and creativity in general.
 
-## <small>Ⅵ.</small> Virgo — the utilisation
+## <small>Ⅵ.</small> Virgo — utilisation
 
 Virgo rules the bowels. The sign of Virgo is responsible for the processes of absorption, and assimilation. 
 
 It’s been well noted that Virgos are usually punctual, picky and look after their hygiene and health in general. Virgo is the principle of selection and utilisation.
 
-## <small>Ⅶ.</small> Libra — the distillation
+## <small>Ⅶ.</small> Libra — distillation
 
 Libra rules the kidneys. The sign of Libra is the principle of distillation and filtration.
 
