@@ -31,7 +31,7 @@ $imagedir:'/images/';
   padding-top: $spacing-unit * 1.865;
   margin-bottom: $spacing-unit * 1.865;
 
-  @include background($grey-color-dark, 'time-nomad-banner.jpg');
+  @include background(#343f6b, 'time-nomad-banner.jpg');
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -428,4 +428,21 @@ li {
 
 .text-photo-caption-serif {
   font-family: $serif;
+}
+
+/**
+ * Subscribe CTA
+ */
+
+.share-subscribe {
+  margin-left: 1em;
+  display: inline;
+}
+
+@include media-query($on-palm) {
+  .share-subscribe {
+    margin-left: 0;
+    margin-top: 1em;
+    display: inline-block;
+  }
 }

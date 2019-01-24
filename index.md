@@ -9,7 +9,7 @@ banner_title: Astrologer’s toolkit app for iPhone & iPad
 banner_subtitle: Real-time astrological charts and transits explorer application.
 # Extra info for SEO plugin
 seo:
-  title: Time Nomad free astrology app for iPhone and iPad
+  title: Time Nomad FREE astrology app for iPhone and iPad
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
@@ -53,7 +53,7 @@ The app supports both **tropical and sidereal Zodiac**. The sidereal Zodiac repo
 
 <div class="float-clear"></div>
 
-## Users feedback on the App Store
+## User feedback on the App Store
 
 <div class="testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
 <strong itemprop="name">Nothing like it.</strong> <span class="testimonial-star">★★★★★</span><br>
