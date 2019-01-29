@@ -50,7 +50,7 @@ You have certainly heard of the term “Saturn return” that describes a moment
 
 Saturn return marks an end of an approximately 29.5 year cycle and most individuals in this era usually experience two Saturn return, the first one marks the completion of youth and entering the mature phase of life. The second, that happens at around 60 years old, marks the end of active period of life and a move into… well, either a period of “wise” Saturn or dry and rigid Saturn.
 
-<div class="container" style="background-color: #ddd; padding: 8px 8px 8px 16px;">
+<div class="container post-pullout-box">
   <div class="row">
     <div class="col-6">
       <div class="row">
@@ -84,7 +84,7 @@ Saturn-Pluto conjunction is not easy to grasp. Pluto is hidden and deeply underg
 
 When combined with Pluto, Saturn energies become super-dense. The filtering aspect of Saturn becomes even more demanding and discerning. This is the time when anything false is likely to get forcefully deconstructed. Pluto resonates with all things absolute, either absolute light or absolute darkness. 
 
-<div class="container" style="background-color: #ddd; padding: 8px 8px 8px 16px;">
+<div class="container post-pullout-box">
   <div class="row">
     <div class="col-6">
       <div class="row">
@@ -154,7 +154,7 @@ The economical situation obviously comes to mind as a possible candidate to be t
 
 The recent instability of the stock market is one of the ongoing symptoms of deeper systemic problems that the society will have to tackle in order to evolve. Saturn is the ruler of systems, by the way.
 
-<div class="container" style="background-color: #ddd; padding: 8px 8px 8px 16px;">
+<div class="container post-pullout-box">
   <div class="row">
     <div class="col-6">
       <div class="row">
