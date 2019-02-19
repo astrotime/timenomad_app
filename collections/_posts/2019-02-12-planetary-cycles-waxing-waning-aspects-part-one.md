@@ -6,6 +6,7 @@ modified: 2019-02-19 12:00:00 +1000
 title: "Understanding planetary cycles: waxing and waning aspects, part 1"
 description: Waxing, waning, applying, separating aspects… sounds confusing? This multi-part story is aiming at demystifying these qualities of the astrological aspects and presenting a bigger picture of planetary cycles that makes for a deeper interpretation of an astrological chart.
 categories: posts astrology philosophy
+linkRelNext: /posts/astrology/philosophy/2019/02/19/planetary-cycles-applying-separating-aspects-part-two.html
 comments: true
 # Extra info for structured data
 #
