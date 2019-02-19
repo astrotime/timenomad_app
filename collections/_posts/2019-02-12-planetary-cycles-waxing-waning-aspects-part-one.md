@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190212
 date: 2019-02-12 12:00:00 +1000
-modified: 2019-02-12 12:00:00 +1000
+modified: 2019-02-19 12:00:00 +1000
 title: "Understanding planetary cycles: waxing and waning aspects, part 1"
 description: Waxing, waning, applying, separating aspects… sounds confusing? This multi-part story is aiming at demystifying these qualities of the astrological aspects and presenting a bigger picture of planetary cycles that makes for a deeper interpretation of an astrological chart.
 categories: posts astrology philosophy
@@ -106,7 +106,7 @@ Adding this to the table above:
 
 Notice that **conjunction and opposition** are the two moments of equilibrium, there is neither growth nor recession. That’s why **neither waxing nor waning quality applies to them**.
 
-## Adding other major aspects
+## <a name="major-aspects"></a>Adding other major aspects
 
 To take this further, one may add all other major aspects — sextiles (60º) and trines (120º) — and, again, discover that there are two sextiles and two trines.
 
@@ -127,7 +127,7 @@ Adding sextile and trine aspects to the table above:
 | | Sextile | 60º | **Waning**
 | next New Moon | Conjunction | 0º |
 
-It is becoming more and more clear that the **aspects between conjunction and opposition have different qualities** wehn compared to the same aspects that happen **after the moment of opposition**.
+It is becoming more and more clear that the **aspects between conjunction and opposition have different qualities** when compared to the same aspects that happen **after the moment of opposition**.
 
 A “waxing sextile” will have a different interpretation from a “waning sextile”. Both are still sextiles at the core but knowing their place in the bigger picture of a planetary cycle allows for a much more nuanced interpretation. And that’s what makes an excellent astrologer: **the ability to read nuances**.
 
@@ -149,4 +149,4 @@ In human life the correspondence will be years 0–14 for the waxing period and 
 
 Conjunction and opposition don’t really have meaningful waxing or waning qualities because those two aspects symbolise the state of either union or duality between the two planetary forces.
 
-But this is not the end of the story! Conjunctions and oppositions have their own differentiators. The next part will introduce **applying and separating qualities of an aspect**.
+But this is not the end of the story! Conjunctions and oppositions have their own differentiators. The next part  introduces [applying and separating qualities of aspects]({% post_url 2019-02-19-planetary-cycles-applying-separating-aspects-part-two %}).
