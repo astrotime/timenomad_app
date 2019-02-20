@@ -50,7 +50,7 @@ The seven planetary spheres follow this order, as illustrated below:
 
 Now that we are equipped with the notion of day/night, masculine/feminine and planetary spheres, let’s look at the seasonal unfoldment of the tropical zodiac.
 
-The Sun entering the tropical sign of Cancer marks the beginning of summer (22nd of June) when the warmth arrives. Then follows the tropical sign of Leo (23rd of July) with its heat. 
+The Sun entering the tropical sign of Cancer marks the beginning of summer (the 22nd of June) when the warmth arrives. Then follows the tropical sign of Leo (the 23rd of July) with its heat. 
 
 The two signs are ruled by the two luminaries:
 
