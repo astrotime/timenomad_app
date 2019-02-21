@@ -48,7 +48,7 @@ Seeing the qualities as movements allows to describe a **dynamic cycle** of powe
 
 Heat → Dryness → Cold → Moisture → …  
 
-![Cycle of the elements and their qualities](/images/illustrations/time-nomad-fig-four-elements-cycle-qualities.png "Cycle of the elements and their qualities")
+<img class="lazyload" data-srcset="/images/illustrations/the-four-elements-cycle.png 1x, /images/illustrations/the-four-elements-cycle@2x.png 2x, /images/illustrations/the-four-elements-cycle@3x.png 3x" alt="The cycle of the elements and their qualities">
 
 Below are some well-known cycles that are worth to keep in mind.
 

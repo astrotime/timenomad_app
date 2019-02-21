@@ -64,11 +64,11 @@ The zodiac circle is conveniently split into two semi-circles:
 
 Each semi-circle acts as a domain for either diurnal or nocturnal polarity. Consequently, a planet can express itself in a two-fold manner depending on the semi-circle. For example, there are can be two manifestations of Saturn: one for the day and another for the night. This idea certainly makes sense!
 
-![Zodiac ruling planets](/images/illustrations/time-nomad-fig-planets-zodiac-rulers-1.png "Zodiac ruling planets")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-ruling-planets-1.png 1x, /images/illustrations/zodiac-ruling-planets-1@2x.png 2x, /images/illustrations/zodiac-ruling-planets-1@3x.png 3x" alt="Zodiac ruling planets">
 
 Now, beginning with Saturn which is the most distant and cold  body in both planetary spheres and the classical planets. Saturn becomes the ruler of the opposite pair of signs — Aquarius and Capricorn.
 
-![Zodiac ruling planets](/images/illustrations/time-nomad-fig-planets-zodiac-rulers-2.png "Zodiac ruling planets")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-ruling-planets-2.png 1x, /images/illustrations/zodiac-ruling-planets-2@2x.png 2x, /images/illustrations/zodiac-ruling-planets-2@3x.png 3x" alt="Zodiac ruling planets">
 
 Next, following the order of planetary spheres, the rest of planets can be allocated as the zodiac rulers:
 
@@ -77,7 +77,7 @@ Next, following the order of planetary spheres, the rest of planets can be alloc
 * Venus rules Taurus and Libra
 * Mercury rules Gemini and Virgo
 
-![Zodiac ruling planets](/images/illustrations/time-nomad-fig-planets-zodiac-rulers-3.png "Zodiac ruling planets")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-ruling-planets-3.png 1x, /images/illustrations/zodiac-ruling-planets-3@2x.png 2x, /images/illustrations/zodiac-ruling-planets-3@3x.png 3x" alt="Zodiac ruling planets">
 
 Some interesting observations follow:
 
@@ -112,7 +112,7 @@ Uranus, Neptune, Pluto and recently discovered Eris can be seen as higher octave
 
 *** It should be noted that Eris astrological profile fits the mythological Persephone but unfortunately that name has already be taken by an asteroid. In terms of its energies, Eris/Persephone can be seen as a female correspondence of Pluto.
 
-![Zodiac ruling planets](/images/illustrations/time-nomad-fig-planets-zodiac-rulers-4.png "Zodiac ruling planets")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-ruling-planets-4.png 1x, /images/illustrations/zodiac-ruling-planets-4@2x.png 2x, /images/illustrations/zodiac-ruling-planets-4@3x.png 3x" alt="Zodiac ruling planets">
 
 ## Which sign gives a planet more power?
 

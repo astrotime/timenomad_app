@@ -22,7 +22,7 @@ The idea of the four elements and their qualities (or powers) presents a fascina
 
 According to the classical model, every principle and object in the Creation is a compound made of the four basal elements, namely Fire, Earth, Water and Air. 
 
-![The four elements: fire, earth, air and water](/images/illustrations/time-nomad-fig-four-elements.png "The four elements: fire, earth, air and water")
+<img class="lazyload" data-srcset="/images/illustrations/the-four-elements.png 1x, /images/illustrations/the-four-elements@2x.png 2x, /images/illustrations/the-four-elements@3x.png 3x" alt="The four elements: fire, earth, air and water">
 
 It’s important to keep in mind that physical fire, earth, air and water — that we encounter on the planet Earth and the physical domain in general — are rather gross and distorted correspondences of the four elements. This should address the question of why plasma isn’t a part of those four. Plasma belongs to the physical domain and thus is a sibling of the elements.
 

@@ -40,7 +40,7 @@ It is simple and natural to think along the lines:
 
 Many an alchemical treatise state that there are four Elements and all things made out of combination of those. Every body is a combination of certain amounts of fire, earth, water and air.
 
-![The four elements: fire, earth, air and water](/images/illustrations/time-nomad-fig-four-elements.png "The four elements: fire, earth, air and water")
+<img class="lazyload" data-srcset="/images/illustrations/the-four-elements.png 1x, /images/illustrations/the-four-elements@2x.png 2x, /images/illustrations/the-four-elements@3x.png 3x" alt="The four elements: fire, earth, air and water">
 
 Some time ago we have discussed the Elements in the story ["The four Elements and their powers"]({% post_url 2018-10-28-four-elements-and-their-powers %}). The story touched upon the basic qualities of the Elements: Fire is hot, Earth is dry, Water is cold, Air is moist.
 
@@ -60,7 +60,7 @@ The Elements are not static, they are transmutable, meaning that applying certai
 
 The natural cycle of `Fire ➝ Earth ➝ Water ➝ Air` makes sense from the physical standpoint:
 
-![Cycle of the elements and their qualities](/images/illustrations/time-nomad-fig-four-elements-cycle-qualities.png "Cycle of the elements and their qualities")
+<img class="lazyload" data-srcset="/images/illustrations/the-four-elements-cycle.png 1x, /images/illustrations/the-four-elements-cycle@2x.png 2x, /images/illustrations/the-four-elements-cycle@3x.png 3x" alt="The cycle of the elements and their qualities">
 
 The `Fire ➝ Earth ➝ Water ➝ Air` sequence is the basis of many natural cycles:
 
@@ -81,12 +81,12 @@ Using the usual `Fire ➝ Earth ➝ Water ➝ Air` (FEWA) sequence gives us a pr
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img src="/images/illustrations/zodiac-and-elements-distribution-incorrect.png" alt="Distribution of the Elements along the Zodiac circle, incorrect version">
+        <img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-incorrect.png 1x, /images/illustrations/zodiac-and-elements-distribution-incorrect@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-incorrect@3x.png 3x" width="348" alt="Distribution of the Elements along the Zodiac circle, incorrect version">
       </div>
     </div>
     <div class="col-6">
       <div class="row">
-      	<img src="/images/illustrations/zodiac-and-elements-distribution-correct.png" alt="Distribution of the Elements along the Zodiac circle, correct version">
+        <img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-correct.png 1x, /images/illustrations/zodiac-and-elements-distribution-correct@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-correct@3x.png 3x" width="348" alt="Distribution of the Elements along the Zodiac circle, correct version">
       </div>
     </div>
   </div>
@@ -107,23 +107,24 @@ To achieve the state of duality and thus “kickstart” the manifested universe
 
 Symbolically this line can be drawn between the signs of Cancer and Leo. It makes sense since Leo is ruled by the Sun and Cancer is ruled by the Moon. This way we are beginning with the two luminaries that rule over both day and night.
 
-![Zodiac ruling planets](/images/illustrations/time-nomad-fig-planets-zodiac-rulers-1.png "Zodiac ruling planets")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-ruling-planets-1.png 1x, /images/illustrations/zodiac-ruling-planets-1@2x.png 2x, /images/illustrations/zodiac-ruling-planets-1@3x.png 3x" alt="Zodiac ruling planets">
+
 
 The Sun entering the tropical sign of Cancer marks the beginning of summer (the 22nd of June) when the warmth arrives. Then follows the tropical sign of Leo (the 23rd of July) with its heat.
 
 Equipped with this new model, we can venture forward and make the second attempt at distributing the Elements along the Zodiac wheel.
 
-![Distribution of the Elements around the Zodiac wheel, step 1](/images/illustrations/zodiac-and-elements-distribution-step-1.png "Distribution of the Elements around the Zodiac wheel, step 1")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-step-1.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-1@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-1@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 1">
 
 The sign of Cancer ruled by the Moon receives the Water Element. The sign of Leo ruled by the Sun receives the Fire Element. What’s next?
 
 Following the circle of transmutations of the Elements, fire gets cooled into the earth, water gets evaporated into the air. 
 
-![Distribution of the Elements around the Zodiac wheel, step 2](/images/illustrations/zodiac-and-elements-distribution-step-2.png "Distribution of the Elements around the Zodiac wheel, step 2")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-step-2.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-2@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-2@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 2">
 
 And that’s pretty much it, we can repeat the letters around the circle to get the full mapping of the Elements to the Zodiac signs.
 
-![Distribution of the Elements around the Zodiac wheel, step 3](/images/illustrations/zodiac-and-elements-distribution-step-3.png "Distribution of the Elements around the Zodiac wheel, step 3")
+<img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-step-3.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-3@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-3@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 3">
 
 This method also produced a nice three-fold division of the circle along the fire-water boundaries. In ancient mythology the two core principles — one of **Cosmic Fire** and another of **Cosmic Waters** — are seen as the foundational forces out of which everything has been created. Both duality and unity of _God-father_ and _God-mother_.
 
@@ -145,24 +146,24 @@ Each triplicity corresponds to one of the Elements. The Zodiac signs within each
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img src="/images/illustrations/zodiac-triplicity-fire.png" alt="The Zodiac triplicity of Fire. The signs of Aries, Leo, Saggitarius.">
+        <img class="lazyload" data-srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire.png 2x, /images/illustrations/zodiac-triplicity-fire@3x.png 3x" alt="The Zodiac triplicity of Fire. The signs of Aries, Leo, Saggitarius.">
       </div>
     </div>
     <div class="col-6">
       <div class="row">
-      	<img src="/images/illustrations/zodiac-triplicity-earth.png" alt="The Zodiac triplicity of Earth. The signs of Taurus, Virgo, Capricorn.">
+        <img class="lazyload" data-srcset="/images/illustrations/zodiac-triplicity-earth.png 1x, /images/illustrations/zodiac-triplicity-earth.png 2x, /images/illustrations/zodiac-triplicity-earth@3x.png 3x" alt="The Zodiac triplicity of Earth. The signs of Taurus, Virgo, Capricorn.">
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img src="/images/illustrations/zodiac-triplicity-air.png" alt="The Zodiac triplicity of Air. The signs of Gemini, Libra, Aquarius.">
+        <img class="lazyload" data-srcset="/images/illustrations/zodiac-triplicity-air.png 1x, /images/illustrations/zodiac-triplicity-air.png 2x, /images/illustrations/zodiac-triplicity-air@3x.png 3x" alt="The Zodiac triplicity of Air. The signs of Gemini, Libra, Aquarius.">
       </div>
     </div>
     <div class="col-6">
       <div class="row">
-      	<img src="/images/illustrations/zodiac-triplicity-water.png" alt="The Zodiac triplicity of Water. The signs of Cancer, Scorpio, Pisces.">
+        <img class="lazyload" data-srcset="/images/illustrations/zodiac-triplicity-water.png 1x, /images/illustrations/zodiac-triplicity-water.png 2x, /images/illustrations/zodiac-triplicity-water@3x.png 3x" alt="The Zodiac triplicity of Water. The signs of Cancer, Scorpio, Pisces.">
       </div>
     </div>
   </div>
@@ -179,5 +180,4 @@ A good reflection that follows out of this story is that in astrology we tend to
 
 Click on the image below to download a high-resolution poster image of the Zodiac triplicities. Print it and use it to memorise the triplicities and dive deeper into the Zodiac signs.
 
-[<img src="/images/illustrations/zodiac-and-elements-triplicities.png" style="border: 1px solid gray;" alt="The Zodiac sign triplicities of Fire, Earth, Air and Water">](/images/illustrations/zodiac-and-elements-triplicities@2x.png)
-
+[<img class="lazyload" src="/images/illustrations/zodiac-and-elements-triplicities.png" style="border: 1px solid gray;" alt="The Zodiac sign triplicities of Fire, Earth, Air and Water">](/images/illustrations/zodiac-and-elements-triplicities@2x.png)
