@@ -440,6 +440,32 @@ li {
 }
 
 /**
+ * Styling of post images
+ */
+
+article.post {
+  img.snake {
+    float: left;
+    margin-right: 16px;
+  }
+  img.snake-tail {
+    clear: both;
+  }
+}
+
+@include media-query($on-palm) {
+  article.post {
+    img.snake {
+      float: none;
+      margin-right: 0;
+    }
+    img.snake-tail {
+      clear: right;
+    }
+  }
+}
+
+/**
  * Subscribe CTA
  */
 
