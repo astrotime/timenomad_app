@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20181222
 date: 2018-12-22 12:00:00 +1000
-modified: 2019-01-18 12:00:00 +1000
+modified: 2019-02-24 12:00:00 +1000
 title: Will 2019 be the year of Saturn-Pluto conjunction?
 description: The upcoming Saturn-Pluto conjunction is a rare and significant event. Starting at around Christmas of 2018, the conjunction will unfold itself throughout the year of 2019, culminating on January 12, 2020. Could it act as broad “Saturn return” for our economical and political system?
 categories: posts astrology event
@@ -32,8 +32,6 @@ Short-term aspects produce quick events that readily reflect in human psychology
 The upcoming Saturn-Pluto conjunction will slowly and grindingly unfold itself throughout the whole of 2019 and will culminate on January 12, 2020. That is a very different kind of astral dynamics. This story will attempt to explore what it may mean in a broader context, especially taking into account recent economical developments and fluctuations within the stock market.
 
 ## Big cycles bring big changes
-
-> **By the way:** _[An appendix](#appendix-chart-event-explorer) at the end of this story will show how to work with long-term aspects using Time Nomad app using its new **“Chart Event Explorer” add-on tool**._ <br><br> Back to the story…
 
 Long-term aspects develop slowly and often go relatively unnoticed due to their very broad influence that spans years or decades. Those periods in time — that are rare and seemingly act mostly in a background — often coincide with significant shifts in the society, economy and politics.
 
@@ -175,29 +173,29 @@ The recent instability of the stock market is one of the ongoing symptoms of dee
 
 It certainly doesn’t have to be this way. Astrology doesn’t work like a clockwork and doesn’t follow fixed prescriptive rules of “if-then-therefore” predictions. Sometimes events align with the planetary configuration, other times they don’t. This article essentially raises the question of probability of an event that is dependent on the previous actions of humans that either exaggerate or mitigate the risks. It’s the domain of Saturn to deal with “previous actions”, aka karma.
 
-## <a id="appendix-chart-event-explorer"></a>Appendix: 
-### How to work with long-term aspects using Time Nomad.
-
-Locate an approximate date when two planets form an aspect. The aspect doesn’t need to be exact, any orb of that aspect will suffice. Use the “Chart for Now” screen to scroll through time until the planets form an aspect of interest.
-
-![Astrological chart with Sun and Pluto conjunction](/images/charts/time-nomad-chart-2019-12-23.png "Astrological chart with Sun and Pluto conjunction")
-
-Then go to the “Aspects List” screen and tap on the row with that aspect and then switch to “Chart” view (the button at the bottom left). In fact, you can simply force-tap or long-tap to instantly jump to that view.
-
-![List of astrological aspects with Sun and Pluto conjunction](/images/charts/time-nomad-aspects-list-2019-12-23.png "List of astrological aspects with Sun and Pluto conjunction")
-
-A “Chart Event Explorer” popup will appear and required calculations will be automatically performed to find out the exact dates of the aspect unfoldment.
-
-![Astrological chart with Sun and Pluto conjunct](/images/charts/time-nomad-chart-event-explorer-2019-12-23.png "Astrological chart with Sun and Pluto conjunct")
-
-Tap on the top dropdown to reveal the list of those events. The list will also include any moments in time when either planet is stationary direct or stationary retrograde.
-
-![List of astrological aspects with different orbs and retrogade events](/images/charts/time-nomad-chart-event-explorer-aspect-list-2019-12-23.png "List of astrological aspects with different orbs and retrogade events")
-
-Moving through the list you can see how the chart will look like for each of those moments.
-
-There's more, with a single tap you can switch between the chart of moment and the chart of your personal transits. allowing you to see what this moment in time will mean for you.
-
-![Astrological chart of transits with exact conjunction between Saturn and Pluto](/images/charts/time-nomad-chart-event-explorer-options-2019-12-23.png "Astrological chart of transits with exact conjunction between Saturn and Pluto")
-
-If further exploration of a specific moment is required, tap on the blue date offset indicator and Time Nomad will jump to that date so you can analyse that moment in time with the full set of Time Nomad tools.
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg" alt="Astrological chart explorer">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>How to discover long-term aspects using Time Nomad</h3>
+        <p><a href="/documentation/how-to-calculate-astrological-aspects-transits-retrogrades.html">Learn how to discover the timing of Saturn – Pluto conjunction</a> using the <em>Chart Event Explorer</em> tool that is an integral part of Time Nomad app.</p>
+        <p><em>Chart Event Explorer</em> allows to instantly reveal and explore nearly any astrological event:</p>
+        <ul>
+        <li>Planetary aspects and transits</li>
+        <li>Retrogrades</li>
+        <li>Personal Lunar or Solar returns</li>
+        <li>Personal transits</li>
+        <li>Equinoxes and solstices</li>
+        <li>Moon phases and Void of Course</li>
+        <li>Aspects to fixed stars</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>

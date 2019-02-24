@@ -162,6 +162,12 @@ code {
   margin: 1em 0;
 }
 
+.float-clear-hair {
+  clear: both;
+  max-height: 1px;
+  margin: 0;
+}
+
 .clearfix {
     @extend %clearfix;
 }
@@ -423,6 +429,30 @@ li {
 }
 
 /**
+ * Posts summary page
+ */
+li {
+  img.doc-thumb {
+    width: 140px;
+    height: 140px;
+    float: left;
+    margin-right: 1em;
+    border: 1px solid $gray;
+  }
+}
+
+@include media-query($on-palm) {
+  li {
+    img.doc-thumb {
+      width: 100px;
+      height: 100px;
+      float: none;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+/**
  * Styling of text
  */
 
@@ -439,11 +469,29 @@ li {
   color: #aaa;
 }
 
+article.post {
+  .doc-ref-box {
+    background-color: #bcc9dd; 
+    padding: 8px 8px 8px 16px;
+    margin-top: 42px;
+
+    h3, h4, h5 {
+      margin-top: 0;
+    }
+  }
+}
+
 /**
  * Styling of post images
  */
 
 article.post {
+  img.post-icon {
+    width: 120px;
+    float: left;
+    margin-right: 16px;
+    margin-bottom: 16px;
+  }
   img.snake {
     float: left;
     margin-right: 16px;

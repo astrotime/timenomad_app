@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20181123
 date: 2018-11-23 12:00:00 +1000
-modified: 2018-12-03 12:00:00 +1000
+modified: 2019-02-24 12:00:00 +1000
 image: /images/summary-cards/time-nomad-p-20181123-planetary-hours-part-one.jpg
 title: What is Planetary Hours, part 1.
 description: What is planetary hours and how can one reconstruct them knowing some basic numerology and common sense.
@@ -100,3 +100,20 @@ The order of the planetary spheres does make a lot of sense indeed. Having estab
 ## In the next part…
 
 The [next part]({% post_url 2018-12-03-what-is-planetary-hours-part-two %}) will talk about the days of the week and how they had been derived from the sequence of planetary hours. [Keep reading…]({% post_url 2018-12-03-what-is-planetary-hours-part-two %})
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg" alt="Planetary hours calculator">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>How to calculate planetary hours using Time Nomad</h3>
+        <p><a href="/documentation/planetary-hours-calculator.html">Learn how to use planetary hours calculator</a>, schedule a planetary hours alarm and discover other tools to work with planetary days of the week.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>

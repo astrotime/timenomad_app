@@ -8,7 +8,7 @@ description: Astrological news and an ongoing astrology course on the foundation
 image: /images/summary-cards/time-nomad-card.png
 list_title: Recent stories
 # Nav order:
-weight: 3
+weight: 4
 # App Feed
 feedUUID: AF-20180901
 feedTitle: Welcome to the Time Nomad Feed

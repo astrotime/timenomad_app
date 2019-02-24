@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20181209
 date: 2018-12-09 12:00:00 +1000
-modified: 2018-12-17 12:00:00 +1000
+modified: 2019-02-24 12:00:00 +1000
 image: /images/summary-cards/time-nomad-p-20181209-planetary-hours-part-three.jpg
 title: What is Planetary Hours, part 3.
 description: The order of planetary hours and therefore the days of the week can be further explored in the context of sacred geometry with some elements of numerology and an introduction of heptagrams.
@@ -126,3 +126,21 @@ Truly, a lot of meaning packed in these ancient symbols.
 Knowledge of planetary hours adds a new dimension to the interpretation of astrological charts. Planetary hours are also extremely important for anybody who practices magic, does rituals or deals with any kind of natural forces. Choosing right timing makes practices successful, and vice versa.
 
 And… we are not done with the heptagrams yet! The next story covers the topic of [irregular heptagrams]({% post_url 2018-12-17-finding-dominant-planet-using-heptagrams %}) what they possibly mean and how to make some sort of sense out of them when interpreting astrological charts.
+
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg" alt="Planetary hours calculator">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>How to calculate planetary hours using Time Nomad</h3>
+        <p><a href="/documentation/planetary-hours-calculator.html">Learn how to use planetary hours calculator</a>, schedule a planetary hours alarm and discover other tools to work with planetary days of the week.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
