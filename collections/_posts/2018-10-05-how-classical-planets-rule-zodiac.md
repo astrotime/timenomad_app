@@ -2,7 +2,7 @@
 layout: post
 uuid: P-2018105
 date: 2018-10-05 12:00:00 +1000
-modified: 2018-10-05 12:00:00 +1000
+modified: 2019-02-26 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card-post-P-2018105.png
 title: How the classical planets rule the zodiac signs.
 description: The seven classical planets — the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn — and their relationship to the signs of the zodiac present a surprisingly beautifully sophisticated model.
@@ -126,8 +126,12 @@ The general idea is that the planet is stronger in its day sign.
 | Saturn | Aquarius | Capricorn
 | Jupiter | Sagittarius | Pisces
 | Mars | Aries | Scorpio
-| Venus | Taurus | Libra
+| Venus\* | Taurus | Libra
 | Mercury | Gemini | Virgo
+
+\* An inquisitive reader will no doubt notice that Venus rules over Taurus that is a night sign. How come Venus is stronger in Taurus? A few explanations are possible here. **The first quadrant of the Zodiac** is experientially stronger since it symbolises the first three months after the Vernal Equinox — spring and very beginning of summer — the time when **the energy springs forward**. The second observation is that Venus is not exactly like all other planets, **Venus spins in a different direction**! This may give us a hint to treat Venus differently. And finally, **centuries of astrological observations** and analysis point at Venus being stronger in Taurus than in Libra, the sign most associated with the symbolism autumn.
+
+This story followed the interpretations given by Ptolemy who is regarded as the originator of the modern Western astrological thought.
 
 ## Zodiac’s sophistication
 
