@@ -1,6 +1,9 @@
 ---
 layout: home
 title: 
+# Dates disabled for og:type = website
+# date: 2016-03-24 12:00:00 +1000
+# modified: 2019-01-17 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card.png
 # Nav order:
 weight: 0
