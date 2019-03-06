@@ -10,7 +10,7 @@ comments: true
 # Extra info for structured data
 og:
   image:
-    #url: /images/summary-cards/time-nomad-p-20190304-sun–neptune-conjunction.jpg
+    url: /images/summary-cards/time-nomad-p-20190304-sun–neptune-conjunction.jpg
     width: 1024
     height: 512
 twitter:
