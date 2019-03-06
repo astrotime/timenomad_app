@@ -3,7 +3,7 @@ layout: post
 uuid: P-20180928
 date: 2018-09-28 12:00:00 +1000
 modified: 2018-09-28 12:00:00 +1000
-image: /images/summary-cards/time-nomad-card-post-P-20180928.png
+image: /images/summary-cards/time-nomad-p-20180928-masculine-feminine-transgender-in-astrology.jpg
 title: Masculine, feminine and transgender in astrology.
 description: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principles – masculine, feminine and oscillating transgender.
 categories: posts astrology philosophy

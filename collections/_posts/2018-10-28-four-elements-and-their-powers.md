@@ -3,7 +3,7 @@ layout: post
 uuid: P-20181028
 date: 2018-10-28 12:00:00 +1000
 modified: 2018-10-28 12:00:00 +1000
-image: /images/summary-cards/time-nomad-card-post-P-20181028.png
+image: /images/summary-cards/time-nomad-p-20181028-the-four-elements-powers.jpg
 title: The four Elements and their powers.
 description: Along with the day & night cycle covered in the earlier post, the four elements is another foundation of the Western astrological chart.
 categories: posts astrology philosophy

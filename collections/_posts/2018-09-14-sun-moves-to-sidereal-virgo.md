@@ -3,7 +3,7 @@ layout: post
 uuid: P-20180912
 date: 2018-09-14 12:00:00 +1000
 modified: 2018-09-14 12:00:00 +1000
-image: /images/summary-cards/time-nomad-card-post-P-20180912.png
+image: /images/summary-cards/time-nomad-p-20180912-sun-enters-sidereal-virgo.jpg
 title: The Sun enters sidereal Virgo. Why does it matter?
 description: While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.
 categories: posts astrology event
