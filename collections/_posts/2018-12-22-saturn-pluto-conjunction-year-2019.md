@@ -11,8 +11,8 @@ comments: true
 og:
   image:
     url: /images/og/og-time-nomad-p-20181222-saturn-pluto-conjuction.jpg
-    width: 400
-    height: 300
+    width: 1200
+    height: 630
 twitter:
   card: summary_large_image
   image: /images/summary-cards/time-nomad-p-20181222-saturn-pluto-conjuction.jpg
