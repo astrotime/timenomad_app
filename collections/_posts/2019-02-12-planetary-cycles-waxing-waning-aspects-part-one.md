@@ -13,8 +13,8 @@ comments: true
 og:
   image:
     url: /images/og/og-time-nomad-post-20190212-planetary-cycles-waxing-waning-aspects-part-one.jpg
-    width: 400
-    height: 300
+    width: 1200
+    height: 630
 twitter:
   card: summary_large_image
   image: /images/summary-cards/time-nomad-p-20190212-planetary-cycles-waxing-waning-aspects-part-one.jpg
