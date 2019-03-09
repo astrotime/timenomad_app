@@ -9,7 +9,6 @@ categories: posts astrology philosophy
 linkRelNext: /posts/astrology/philosophy/2019/02/19/planetary-cycles-applying-separating-aspects-part-two.html
 comments: true
 # Extra info for structured data
-#
 og:
   image:
     url: /images/og/og-time-nomad-post-20190212-planetary-cycles-waxing-waning-aspects-part-one.jpg

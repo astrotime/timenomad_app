@@ -9,7 +9,6 @@ categories: posts astrology philosophy
 linkRelPrev: /posts/astrology/philosophy/2019/02/12/planetary-cycles-waxing-waning-aspects-part-one.html
 comments: true
 # Extra info for structured data
-#
 og:
   image:
     url: /images/og/og-time-nomad-post-20190219-planetary-cycles-applying-separating-aspects-part-two.jpg

@@ -10,6 +10,8 @@ weight: 0
 # Custom stuff:
 banner_title: Astrologer’s toolkit app for iPhone & iPad
 banner_subtitle: Real-time astrological charts and transits explorer application.
+linkRelNext: /reviews/
+
 # Extra info for SEO plugin
 seo:
   title: Time Nomad FREE astrology app for iPhone and iPad
