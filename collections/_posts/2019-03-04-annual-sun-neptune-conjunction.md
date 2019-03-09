@@ -114,7 +114,7 @@ Those who have both the Sun and Neptune prominent in their charts have the power
 
 ## Have you got a Sun – Neptune aspect?
 
-Any major aspect between the Sun and Neptune will manifest strong Neptunian personality. People with strong Neptunian values are also known as “the Pisces people” in the New Age astrology.
+Any major aspect between the Sun and Neptune will manifest a strong Neptunian personality. People with strong Neptunian values are also known as “the Pisces people” in the New Age astrology.
 
 The strongest aspects will be conjunction, opposition, square and trine. The sextile will be more subdued and will reveal itself only under certain circumstances.
 

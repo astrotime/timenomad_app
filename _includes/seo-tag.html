@@ -14,6 +14,11 @@
 {%- else -%}
   {%- assign pageDescription = site.description -%}
 {%- endif -%}
+{% if page.seo.canonicalUrl %}
+  {%- assign canonicalUrl = {{ site.url | append: page.seo.canonicalUrl }} -%}
+{% else %}
+  {%- assign canonicalUrl = {{ site.url | append: page.url }} -%}
+{% endif %}
 <!-- Begin Jekyll SEO tag -->
   {% if pageTitle %}<title>{{ pageTitle }}</title>{% endif %}
   <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
@@ -22,7 +27,7 @@
   <meta property="og:locale" content="{{ page.seo.page_lang | replace:'-','_' | default: 'en-GB'}}" />
   {% if pageDescription %}<meta name="description" content="{{ pageDescription  | escape }}" />
   <meta property="og:description" content="{{ pageDescription | escape }}" />{% endif %}
-  <link rel="canonical" href="{{ site.url | append: page.url }}" /><meta property="og:url" content="{{ site.url | append: page.url }}" />{% comment %}{% if site.url %}<link rel="canonical" href="{{ site.url }}" />
+  <link rel="canonical" href="{{ canonicalUrl }}" /><meta property="og:url" content="{{ canonicalUrl }}" />{% comment %}{% if site.url %}<link rel="canonical" href="{{ site.url }}" />
   <meta property="og:url" content="{{ site.url }}" />{% endif %}{% endcomment %}
   {% if site.title %}<meta property="og:site_name" content="{{ site.title | escape }}" />{% endif %}
   {% if page.og.image.url %}<meta property="og:image" content="{{ site.url | append: page.og.image.url }}" />{% if page.og.image.width %}<meta property="og:image:width" content="{{ page.og.image.width }}" />{% endif %}{% if page.og.image.height %}<meta property="og:image:height" content="{{ page.og.image.height }}" />{% endif %}
