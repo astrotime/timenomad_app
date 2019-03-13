@@ -78,7 +78,7 @@ One may conclude that Saturn, in its essence, is actually wise — it acts as a 
 
 Usually when one refers to a planetary return in the context of a personal chart, they mean the return of the planet to its original natal position (the birth moment). Similarly, a return to a conjunction with another planet is a kind of return in its own right — the planet completes its cycle of “relationship” with another planet.
 
-Saturn-Pluto conjunction is not easy to grasp. Pluto is hidden and deeply underground. Saturn relates to time, structure, limits and therefore matter. Saturn is not neccesarily heavy and rigid, it can be as beautiful as music of Bach.
+Saturn-Pluto conjunction is not easy to grasp. Pluto is hidden and deeply underground. Saturn relates to time, structure, limits and therefore matter. Saturn is not neccesarily heavy and rigid, it can be as beautiful as the music of Bach.
 
 When combined with Pluto, Saturn energies become super-dense. The filtering aspect of Saturn becomes even more demanding and discerning. This is the time when anything false is likely to get forcefully deconstructed. Pluto resonates with all things absolute, either absolute light or absolute darkness. 
 
