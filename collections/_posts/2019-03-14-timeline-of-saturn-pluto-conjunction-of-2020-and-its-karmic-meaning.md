@@ -206,3 +206,30 @@ The **exact conjunction will take place on Jan 12, 2020**. Note the similar **se
 | Pluto | Direct | Oct 3, 2020 | 2.87º |
 
 The current Saturn – Pluto conjunction will finally **complete on Jan 31, 2021** with the 10º orb between the two planets. How will the world will look then, it makes us wonder?
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg" alt="Astrological chart explorer">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>How to discover long-term aspects using Time Nomad</h3>
+        <p><a href="/documentation/how-to-calculate-astrological-aspects-transits-retrogrades.html">Learn how to discover the timing of Saturn – Pluto conjunction</a> using the <em>Chart Event Explorer</em> tool that is an integral part of Time Nomad astrological app.</p>
+        <p><em>Chart Event Explorer</em> allows to instantly reveal and explore nearly any astrological event:</p>
+        <ul>
+        <li>Planetary aspects and transits</li>
+        <li>Retrogrades</li>
+        <li>Personal Lunar or Solar returns</li>
+        <li>Personal transits</li>
+        <li>Equinoxes and solstices</li>
+        <li>Moon phases and Void of Course</li>
+        <li>Aspects to fixed stars</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>

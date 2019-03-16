@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20181222
 date: 2018-12-22 12:00:00 +1000
-modified: 2019-02-24 12:00:00 +1000
+modified: 2019-03-16 12:00:00 +1000
 title: Will 2019 be the year of Saturn-Pluto conjunction?
 description: The upcoming Saturn-Pluto conjunction is a rare and significant event. Starting at around Christmas of 2018, the conjunction will unfold itself throughout the year of 2019, culminating on January 12, 2020. Could it act as broad “Saturn return” for our economical and political system?
 categories: posts astrology event
@@ -25,15 +25,15 @@ schema:
 
 Everybody loves New Moons and Full Moons! Why so?
 
-We often get excited about relatively short-term events, like aspects between fast moving planets — by the way, the New and Full Moon are if fact just that, exact aspects of the Moon’s conjunction and opposition with the Sun. 
+We often get excited about relatively **short-term events**, like aspects between fast moving planets — by the way, the New and Full Moon are if fact just that, exact aspects of the Moon’s conjunction and opposition with the Sun. 
 
 Short-term aspects produce quick events that readily reflect in human psychology — they make us happy, angry, sad, violent or romantic and in love. The very fabric of the Shakespearean drama comes out of those ever-repeating ebbs and flows.
 
-The upcoming Saturn-Pluto conjunction will slowly and grindingly unfold itself throughout the whole of 2019 and will culminate on January 12, 2020. That is a very different kind of astral dynamics. This story will attempt to explore what it may mean in a broader context, especially taking into account recent economical developments and fluctuations within the stock market.
+The upcoming Saturn-Pluto conjunction will **slowly and grindingly unfold itself** throughout the whole of 2019 and will culminate on January 12, 2020. That is a very different kind of astral dynamics. This story will attempt to explore what it may mean in a broader context, especially taking into account recent economical developments and fluctuations within the stock market.
 
 ## Big cycles bring big changes
 
-Long-term aspects develop slowly and often go relatively unnoticed due to their very broad influence that spans years or decades. Those periods in time — that are rare and seemingly act mostly in a background — often coincide with significant shifts in the society, economy and politics.
+**Long-term aspects** develop slowly and often go relatively unnoticed due to their very broad influence that spans years or decades. Those periods in time — that are rare and seemingly act mostly in a background — often coincide with significant shifts in the society, economy and politics.
 
 Observing macro cycles is generally more difficult and requires an extra amount of patience and perhaps somewhat of an analytical mindset that doesn’t rush to immediate conclusions. 
 
@@ -173,6 +173,10 @@ The recent instability of the stock market is one of the ongoing symptoms of dee
 
 It certainly doesn’t have to be this way. Astrology doesn’t work like a clockwork and doesn’t follow fixed prescriptive rules of “if-then-therefore” predictions. Sometimes events align with the planetary configuration, other times they don’t. This article essentially raises the question of probability of an event that is dependent on the previous actions of humans that either exaggerate or mitigate the risks. It’s the domain of Saturn to deal with “previous actions”, aka karma.
 
+## Saturn–Pluto conjunction as a global karmic event
+
+The next Saturn – Pluto story titled [“The timeline of Saturn – Pluto conjunction of years 2019–2020–2021 and its karmic meaning”]({% post_url 2019-03-14-timeline-of-saturn-pluto-conjunction-of-2020-and-its-karmic-meaning %}) looks further into the nature of this conjunction and draws some **interesting historical parallels** to the events of the last 100+ years. Read on… 
+
 <div class="container doc-ref-box">
   <div class="row">
     <div class="col-3">
@@ -183,7 +187,7 @@ It certainly doesn’t have to be this way. Astrology doesn’t work like a cloc
     <div class="col-9">
       <div class="row">
         <h3>How to discover long-term aspects using Time Nomad</h3>
-        <p><a href="/documentation/how-to-calculate-astrological-aspects-transits-retrogrades.html">Learn how to discover the timing of Saturn – Pluto conjunction</a> using the <em>Chart Event Explorer</em> tool that is an integral part of Time Nomad app.</p>
+        <p><a href="/documentation/how-to-calculate-astrological-aspects-transits-retrogrades.html">Learn how to discover the timing of Saturn – Pluto conjunction</a> using the <em>Chart Event Explorer</em> tool that is an integral part of Time Nomad astrological app.</p>
         <p><em>Chart Event Explorer</em> allows to instantly reveal and explore nearly any astrological event:</p>
         <ul>
         <li>Planetary aspects and transits</li>
