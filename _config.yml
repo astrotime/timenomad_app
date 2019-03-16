@@ -61,6 +61,14 @@ collections:
           type: news
         values:
           layout: page
+  newsletters:
+    output: true
+    defaults:
+      - scope:
+          path: ""
+          type: newsletter
+        values:
+          layout: appfeed
   appfeed:
     output: true
     defaults:

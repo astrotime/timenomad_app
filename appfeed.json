@@ -30,6 +30,17 @@ layout: null
 	],
 
 	"posts": [
+		{% for item in site.newsletters %}
+		{
+			"uuid": "{{ item.uuid }}",
+			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
+			{% if item.scope %}"scope": "{{ item.scope }}",{% endif %}
+			"url": "{{ item.externalUrl }}",
+			"title": "{{ item.title }}",
+			"description": "{{ item.description }}",
+			"blurb": "{{ item.description }}"
+		},
+		{% endfor %}
 		{% for item in site.posts %}
 		{
 			"uuid": "{{ item.uuid }}",
