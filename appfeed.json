@@ -35,6 +35,7 @@ layout: null
 			"uuid": "{{ item.uuid }}",
 			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
 			{% if item.scope %}"scope": "{{ item.scope }}",{% endif %}
+			{% if item.present %}"present": "{{ item.present }}",{% endif %}
 			"url": "{{ item.externalUrl }}",
 			"title": "{{ item.title }}",
 			"description": "{{ item.description }}",
