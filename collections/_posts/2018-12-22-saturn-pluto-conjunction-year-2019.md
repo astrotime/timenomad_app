@@ -173,9 +173,9 @@ The recent instability of the stock market is one of the ongoing symptoms of dee
 
 It certainly doesn’t have to be this way. Astrology doesn’t work like a clockwork and doesn’t follow fixed prescriptive rules of “if-then-therefore” predictions. Sometimes events align with the planetary configuration, other times they don’t. This article essentially raises the question of probability of an event that is dependent on the previous actions of humans that either exaggerate or mitigate the risks. It’s the domain of Saturn to deal with “previous actions”, aka karma.
 
-## Saturn–Pluto conjunction as a global karmic event
+## The next installment: Saturn-Pluto conjunction as a global karmic event
 
-The next Saturn – Pluto story titled [“The timeline of Saturn – Pluto conjunction of years 2019–2020–2021 and its karmic meaning”]({% post_url 2019-03-14-timeline-of-saturn-pluto-conjunction-of-2020-and-its-karmic-meaning %}) looks further into the nature of this conjunction and draws some **interesting historical parallels** to the events of the last 100+ years. Read on… 
+The next Saturn-Pluto conjunction story titled [“The timeline of Saturn – Pluto conjunction of years 2019–2020–2021 and its karmic meaning”]({% post_url 2019-03-14-timeline-of-saturn-pluto-conjunction-of-2020-and-its-karmic-meaning %}) looks further into the nature of this conjunction and draws some **interesting historical parallels** to the events of the last 100+ years. Read on… 
 
 <div class="container doc-ref-box">
   <div class="row">
