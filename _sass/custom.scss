@@ -24,6 +24,64 @@ $imagedir:'/images/';
 }
 
 /**
+ * Skybar is a banner under the navigation
+ */
+skybar#appPromo {
+  //width: 100%;
+  // position: fixed;
+  // z-index: 999;
+  display: block;
+  padding: 8px 16px 8px 16px;
+  text-align: center;
+  background-color: #7d889f;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.75px;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    color: white;
+    font-weight: 400;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.blink-blink {
+    animation-duration: 2s;
+    animation-name: skybarblink;
+    animation-iteration-count: 3;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes skybarblink {
+    0% {
+        opacity: 1;
+    }
+    40% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    60% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/**
  * Site header
  */
 .home-banner {

@@ -7,6 +7,10 @@
 
     {%- include header.html -%}
 
+    {%- if page.path contains '_posts' -%}
+    {%- include skybar.html bar="appPromo" appname=site.my_app_store_name -%}
+    {%- endif -%}
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
