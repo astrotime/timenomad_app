@@ -69,6 +69,8 @@ collections:
           type: newsletter
         values:
           layout: appfeed
+  newsletters_parts:
+    output: false
   appfeed:
     output: true
     defaults:

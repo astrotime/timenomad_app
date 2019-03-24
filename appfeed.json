@@ -31,6 +31,7 @@ layout: null
 
 	"posts": [
 		{% for item in site.newsletters %}
+		{% if item.externalUrl %}
 		{
 			"uuid": "{{ item.uuid }}",
 			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
@@ -41,6 +42,7 @@ layout: null
 			"description": "{{ item.description }}",
 			"blurb": "{{ item.description }}"
 		},
+		{% endif %}
 		{% endfor %}
 		{% for item in site.posts %}
 		{
