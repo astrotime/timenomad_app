@@ -5,7 +5,7 @@ title: Larimar – the Atlantis Stone and its Planetary Energies
 contentUrl: https://gemsinstyle.com/blogs/news/larimar-the-atlantis-stone
 image:
   alt: Larimar gemstone “Dancing Orbit” silver necklace by Gems In Style jewellery
-  url: /images/newsletters/gemstone-larimar-uranus-neptune.jpg  
+  url: /images/newsletters/tn-gem-larimar-uranus-neptune.jpg  
 authorImage:
   alt: Lara Gems, founder of Gems In Style jewellery
   url: /images/newsletter-authors/lara-gems.png

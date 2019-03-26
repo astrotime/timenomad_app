@@ -30,20 +30,18 @@ layout: null
 	],
 
 	"posts": [
-		{% for item in site.newsletters %}
-		{% if item.externalUrl %}
+		{% assign item = site.newsletters.last %}
+		{% if item %}
 		{
 			"uuid": "{{ item.uuid }}",
 			"date": "{{ item.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
-			{% if item.scope %}"scope": "{{ item.scope }}",{% endif %}
-			{% if item.present %}"present": "{{ item.present }}",{% endif %}
-			"url": "{{ item.externalUrl }}",
-			"title": "{{ item.title }}",
-			"description": "{{ item.description }}",
-			"blurb": "{{ item.description }}"
+			{% if item.app.scope %}"scope": "{{ item.app.scope }}",{% endif %}
+			{% if item.app.present %}"present": "{{ item.app.present }}",{% endif %}
+			"url": "{{ site.url | append: item.url }}",
+			"title": "{{ item.app.title }}",
+			"description": "{{ item.app.description }}"
 		},
 		{% endif %}
-		{% endfor %}
 		{% for item in site.posts %}
 		{
 			"uuid": "{{ item.uuid }}",

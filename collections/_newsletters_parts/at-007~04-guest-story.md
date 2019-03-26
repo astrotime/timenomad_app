@@ -5,7 +5,7 @@ title: Manifest your Awesomeness with Rutile Quartz — moving from Intention to
 contentUrl: https://gemsinstyle.com/blogs/news/gemstones-astrology-rutilated-quartz-sun-mars
 image:
   alt: The Sun – Mars planetary energies and Rutile Quartz gemstone
-  url: /images/newsletters/rutile-quartz-sun-mars.jpg  
+  url: /images/newsletters/tn-gem-rutile-quartz-sun-mars.jpg  
 authorImage:
   alt: Lara Gems, founder of Gems In Style jewellery
   url: /images/newsletter-authors/lara-gems.png

@@ -5,7 +5,7 @@ title: About the Moon archetype and its connection with silver
 contentUrl: https://gemsinstyle.com/blogs/news/silver-and-the-moon-blog-post
 image:
   alt: The Moon archetype and its connection with silver
-  url: /images/newsletters/moon-and-silver-archetype.jpg  
+  url: /images/newsletters/tn-gem-moon-and-silver-archetype.jpg  
 authorImage:
   alt: Lara Gems, founder of Gems In Style jewellery
   url: /images/newsletter-authors/lara-gems.png

@@ -7,10 +7,11 @@ title: Astrology Today • issue 009
 subtitle: Time Nomad newsletter • March 24, 2019
 description: Full Moon blasted the peace of the Equinox • Looking into the year ahead • The magic of the Larimar gemstone… read our regular astrological knowledge stories and news updates.
 # App feed
-scope: 
-present: must
-titleEmoji: 🌕
-subtitleEmoji: Fresh astro news
+app:
+  scope: 
+  present: must
+  title: Astrology Today 🌕
+  description: Fresh astro news • Full Moon blasted the peace of the Equinox • Looking into the year ahead • The magic of the Larimar gemstone
 # Other
 comments: true
 # Extra info for structured data
