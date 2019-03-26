@@ -625,7 +625,7 @@ article.newsl {
     h2 {
       font-style: italic;
     }
-    h3 {
+    h3, h4 {
       font-weight: bold;
     }
     h5 {
@@ -730,6 +730,11 @@ article.newsl {
     border: 1px solid $gray;
   }
 
+  img.inline {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
 }
 
 .newsl-section.line-top {

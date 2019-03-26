@@ -4,7 +4,7 @@ uuid: P-20190121
 date: 2019-01-21 12:00:00 +1000
 modified: 2019-01-21 12:00:00 +1000
 title: The signs of the Zodiac in the human body
-description: The signs of the Zodiac are not limited to the sky only. Every human body is a miniature replica of the larger cosmos, and the Zodiac signs rulership projects itself onto all major parts of human anatomy.
+description: The signs of the Zodiac are not limited to the sky only. Every human body is a miniature replica of the larger cosmos, and the Zodiac signs rulership projects itself onto all major parts of the human anatomy.
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
@@ -18,12 +18,12 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190121-zodiac-signs-in-human-body.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: The signs of the Zodiac
     url_1x1: /images/schema/time-nomad-post-20190121-zodiac-signs-in-human-body-1x1.jpg
     size_1x1: 760
 ---
 
-The signs of the Zodiac are not limited to the sky only. Every human body is a miniature replica of the larger cosmos, and the Zodiac signs rulership projects itself onto all major parts of human anatomy.
+The signs of the Zodiac are not limited to the sky only. Every human body is a miniature replica of the larger cosmos, and the Zodiac signs rulership projects itself onto all major parts of the human anatomy.
 
 In previous stories we looked at [the phases of the Moon in human life]({% post_url 2019-01-04-phases-of-moon-in-human-life %}) and [the seven planets, or the seven ages that constitute a human life]({% post_url 2019-01-01-seven-ages-of-man-and-woman %}). This time we are going to look at our physical bodies and how the signs of the Zodiac can be found in a body of each and every human.
 

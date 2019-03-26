@@ -10,5 +10,5 @@
     <h3>{{ doc.title | escape }}</h3>
   </div>
 </div>
-{{ doc.content | markdownify }}
+{{ doc.content | replace: "$contentUrl", doc.contentUrl | markdownify }}
 </div>

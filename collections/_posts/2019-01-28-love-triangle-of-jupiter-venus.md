@@ -18,7 +18,7 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190128-love-triangle-of-jupiter-venus.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: Jupiter and Venus always in love
     url_1x1: /images/schema/time-nomad-post-20190128-love-triangle-of-jupiter-venus-1x1.jpg
     size_1x1: 760
 ---

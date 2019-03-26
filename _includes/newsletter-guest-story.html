@@ -5,7 +5,7 @@
 <h3>{{ doc.title | escape }}</h3>
 <a href="{{ doc.contentUrl }}"><img class="lazyload section-image-wide" data-srcset="{{ doc.image.url }}" alt="{{ doc.image.alt }}"></a>
 
-{{ doc.content | markdownify }}
+{{ doc.content | replace: "$contentUrl", doc.contentUrl | markdownify }}
 
 <div class="clearfix author-block">
 	<img class="author" src="{{ doc.authorImage.url }}" alt="{{ doc.authorImage.alt }}">

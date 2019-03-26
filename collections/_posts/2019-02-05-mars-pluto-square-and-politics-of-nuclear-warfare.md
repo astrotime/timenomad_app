@@ -18,7 +18,7 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190205-mars-pluto-square-and-nuclear-warfare.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: Mars-Pluto square
     url_1x1: /images/schema/time-nomad-post-20190205-mars-pluto-square-and-nuclear-warfare-1x1.jpg
     size_1x1: 760
 ---

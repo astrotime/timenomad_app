@@ -19,7 +19,7 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190219-planetary-cycles-applying-separating-aspects-part-two.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: Applying and separating aspects in astrology
     url_1x1: /images/schema/time-nomad-post-20190219-planetary-cycles-applying-separating-aspects-part-two-1x1.jpg
     size_1x1: 760
 ---

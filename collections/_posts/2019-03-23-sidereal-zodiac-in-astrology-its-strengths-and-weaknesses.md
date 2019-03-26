@@ -10,7 +10,7 @@ comments: true
 # Extra info for structured data
 og:
   image:
-    url: /images/og/time-nomad-p-20190323-sidereal-zodiac-in-astrology copy.jpg
+    url: /images/og/time-nomad-p-20190323-sidereal-zodiac-in-astrology.jpg
     width: 1200
     height: 630
 twitter:

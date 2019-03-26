@@ -2,7 +2,8 @@
 {% assign doc=include.doc %}
 <header class="post-header">
 {% include newsletter-banner.svg %}
-<h1 class="post-title p-name" itemprop="name headline">{{ doc.title | escape }} <span><span class="bull">• </span>issue {{ doc.titleIssue | escape }}</span></h1>
+{% assign titleParts = doc.title | split: "•" %}
+<h1 class="post-title p-name" itemprop="name headline">{{ titleParts | first }}<span><span class="bull"> • </span>{{ titleParts[1] }}</span></h1>
 <link itemprop="mainEntityOfPage" href="{{ site.url | append: doc.url }}">
   <h5>{{ doc.subtitle | escape }}</h5>
   <meta itemprop="datePublished" content="{{ doc.date | date: date_to_xmlschema }}">
@@ -21,6 +22,9 @@
   {%- if doc.schema.image -%}
     {%- assign image = doc.schema.image -%}
     <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+  {%- elsif doc.og.image -%}
+    {%- assign image = doc.og.image -%}
+    <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
   {%- elsif doc.image -%}
     <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: doc.image }}"></span>
   {%- endif -%}

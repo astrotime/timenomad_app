@@ -18,7 +18,7 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190220-the-four-elements-rule-zodiac-signs.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: The four elements in the zodiac signs
     url_1x1: /images/schema/time-nomad-post-20190220-the-four-elements-rule-zodiac-signs-1x1.jpg
     size_1x1: 760
 ---

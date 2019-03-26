@@ -19,7 +19,7 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190212-planetary-cycles-waxing-waning-aspects-part-one.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: Waxing and waning aspects in astrology
     url_1x1: /images/schema/time-nomad-post-20190212-planetary-cycles-waxing-waning-aspects-part-one-1x1.jpg
     size_1x1: 760
 ---

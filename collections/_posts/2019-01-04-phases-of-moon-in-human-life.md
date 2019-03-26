@@ -18,7 +18,7 @@ twitter:
   image: /images/summary-cards/time-nomad-p-20190114-phases-of-moon-in-human-life.jpg
 schema:
   image:
-    alt: Seven ages of man
+    alt: The phases of the Moon in the  human life
     url_1x1: /images/schema/time-nomad-post-20190114-phases-of-moon-in-human-life-1x1.jpg
     size_1x1: 760
 ---

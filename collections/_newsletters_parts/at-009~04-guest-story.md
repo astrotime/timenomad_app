@@ -4,11 +4,11 @@ supertitle: Discovering planetary energies
 title: Larimar – the Atlantis Stone and its Planetary Energies
 contentUrl: https://gemsinstyle.com/blogs/news/larimar-the-atlantis-stone
 image:
-  url: /images/newsletters/gemstone-larimar-uranus-neptune.jpg  
   alt: Larimar gemstone “Dancing Orbit” silver necklace by Gems In Style jewellery
+  url: /images/newsletters/gemstone-larimar-uranus-neptune.jpg  
 authorImage:
-  url: /images/newsletter-authors/lara-gems.png
   alt: Lara Gems, founder of Gems In Style jewellery
+  url: /images/newsletter-authors/lara-gems.png
 authorProfile: >
   Lara Gems,<br>
   Gemstone Strategist and<br>
@@ -25,5 +25,5 @@ Beautifully represented by the Larimar gemstone, these two energies will guide y
 
 Larimar projects its incredible **calming and soothing effect upon its wearer**, it “washes away” everything you need to let go of in order to bring new energy, integrity and true vision into your life.
 
-Larimar is also known as the Atlantis Stone and it is believed that the discovery of this magnificent gemstone was predicted by famous American psychic **Edgar Cayce** (1877 – 1945), also known as **“The Sleeping Prophet”**. Learn more about about Larimar lore and history… [read more](https://gemsinstyle.com/blogs/news/larimar-the-atlantis-stone).
+Larimar is also known as the Atlantis Stone and it is believed that the discovery of this magnificent gemstone was predicted by famous American psychic **Edgar Cayce** (1877 – 1945), also known as **“The Sleeping Prophet”**. Learn more about about Larimar lore and history… [read more]($contentUrl).
 
