@@ -1,0 +1,21 @@
+{% comment %}Params: doc=partOfNewsletter{% endcomment %}
+{% assign doc=include.doc %}
+{% assign cols=doc.content | split: "<!-- COLUMN -->" %}
+{% assign col1=cols.first %}
+{% assign col2=cols.last %}
+<div class="newsl-section">
+<div class="section group newsl-grid">
+  <div class="col span_8_of_12 matchheight column-1-color">
+    <div class="column-pad">
+      <h2>{{ doc.title1 | escape }}</h2>
+      {{ col1 | markdownify }}
+    </div>
+  </div>
+  <div class="col span_4_of_12 matchheight column-2-color">
+    <div class="column-pad">
+      <h2>{{ doc.title2 | escape }}</h2>
+      {{ col2 | markdownify }}
+    </div>
+  </div>
+</div>
+</div>

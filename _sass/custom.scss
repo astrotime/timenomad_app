@@ -138,6 +138,24 @@ skybar#appPromo {
 }
 
 /**
+ * Toggle show-hide depending on size
+ */
+.only-on-laptop {
+  display: block;
+}
+.only-on-palm {
+  display: none;
+}
+@include media-query($on-palm) {
+  .only-on-laptop {
+    display: none;
+  }
+  .only-on-palm {
+    display: block;
+  }
+}
+
+/**
  * Page content
  */
 .page-content-home {
@@ -589,3 +607,134 @@ article.post {
     display: inline-block;
   }
 }
+
+/**
+ * Styling of newsletters
+ */
+
+article.newsl {
+    font-family: $georgia;
+    color: #43404D;
+    h1, h2, h3, h4, h5 {
+      margin-top: 0;
+      letter-spacing: normal;
+    }
+    h1 {
+      margin-bottom: 4px;
+    }
+    h2 {
+      font-style: italic;
+    }
+    h3 {
+      font-weight: bold;
+    }
+    h5 {
+      font-size: $type-size-4;
+      color: $gray;
+    }
+
+  h1 {
+    span {
+    font-size: $type-size-7;
+    color: $light-gray;
+    text-transform: uppercase;
+    }
+  }
+
+  .social-cta {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1em 2em 1em 2em;
+    background-color: $newsl-social-cta-color;
+    font-family: $sans-serif;
+    font-weight: bold;
+    font-size: $type-size-5;
+    color: $newsl-social-cta-text-color;
+    text-align: center;
+    a {
+      display: block;
+      height: 100%;
+      width: 100%;
+      color: $newsl-social-cta-text-color;
+      text-decoration: none;
+    }
+  }
+}
+
+@include media-query($on-palm) {
+  article.newsl h1 span {
+    font-size: 0.5em;
+    display: block;
+    padding-top: 0.25em;
+  }
+  article.newsl h1 span span.bull {
+    display: none;
+  }
+}
+
+.newsl-section {
+  h2 {
+    font-family: $georgia;
+    color: $newsl-text-section-color;
+    font-size: $type-size-4;
+  }
+  h3 {
+    font-size: $type-size-3;
+    margin-bottom: 1em;
+  }
+
+  a {
+    color: $newsl-link-color;
+    text-decoration: underline;
+  }
+
+  .signature {
+    font-family: "comic sans ms", "marker felt-thin", arial, sans-serif;
+    font-size: 18px;
+  }
+
+  .newsl-grid {
+    img {
+      border: 1px solid $gray;
+    }
+
+    .column-pad {
+      padding: 1em;
+    }
+    .column-1-color {
+      background-color: $newsl-column-1-color;
+    }
+    .column-2-color {
+      background-color: $newsl-column-2-color;
+    }
+  }
+
+  .author-block {
+    margin-top: 2em;
+  }
+
+  img.author {
+    width: 96px;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
+
+  img {
+    margin-bottom: 2em;
+  }
+
+  img.section-image-wide {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 1px solid $gray;
+  }
+
+}
+
+.newsl-section.line-top {
+  border-top: 4px solid $newsl-section-separator-color;
+  margin-top: 2em;
+  padding-top: 2em;
+}
+

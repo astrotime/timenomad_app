@@ -1,0 +1,34 @@
+{% comment %}Params: doc=mainPageOfNewsletter{% endcomment %}
+{% assign doc=include.doc %}
+<header class="post-header">
+{% include newsletter-banner.svg %}
+<h1 class="post-title p-name" itemprop="name headline">{{ doc.title | escape }} <span><span class="bull">• </span>issue {{ doc.titleIssue | escape }}</span></h1>
+<link itemprop="mainEntityOfPage" href="{{ site.url | append: doc.url }}">
+  <h5>{{ doc.subtitle | escape }}</h5>
+  <meta itemprop="datePublished" content="{{ doc.date | date: date_to_xmlschema }}">
+  {%- if doc.modified -%}
+    {%- assign dateModified = doc.modified -%}
+  {%- else -%}
+    {%- assign dateModified = doc.date -%}
+  {%- endif -%}
+  <meta itemprop="dateModified" content="{{ dateModified | date: date_to_xmlschema }}">
+  {%- if site.structured_data.author -%}
+    <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta class="p-author h-card" itemprop="name" content="{{ site.structured_data.author.name }}"></span>
+  {%- endif -%}
+  {%- if site.structured_data.publisher -%}
+    <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
+  {%- endif -%}
+  {%- if doc.schema.image -%}
+    {%- assign image = doc.schema.image -%}
+    <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+  {%- elsif doc.image -%}
+    <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: doc.image }}"></span>
+  {%- endif -%}
+  {%- if doc.comments == true and site.data.comments[doc.slug].size > 0 -%}
+    <span class="byline-item"><a href="#comments"><svg class="icon icon--stopwatch" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-comments' | prepend: 'assets/' | relative_url }}"></use></svg>{{ site.data.comments[doc.slug] | size }}&nbsp;Comment{% if site.data.comments[doc.slug].size > 1 %}s{% endif %}</a></span>
+  {%- endif -%}
+</header>
+
+<div>
+{{ doc.content | markdownify }}
+</div>

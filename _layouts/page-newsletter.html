@@ -1,86 +1,21 @@
 ---
 layout: base-newsletter
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/Article">
-
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <link itemprop="mainEntityOfPage" href="{{ site.url | append: page.url }}">
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified -%}
-        {%- assign dateModified = page.modified -%}
-      {%- else -%}
-        {%- assign dateModified = page.date -%}
-      {%- endif -%}
-      <meta itemprop="dateModified" content="{{ dateModified | date: date_to_xmlschema }}">
-      {%- if site.structured_data.author -%}
-        <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta class="p-author h-card" itemprop="name" content="{{ site.structured_data.author.name }}"></span>
-      {%- endif -%}
-      {%- if site.structured_data.publisher -%}
-        <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
-      {%- endif -%}
-      {%- if page.schema.image -%}
-        {%- assign image = page.schema.image -%}
-        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
-      {%- elsif page.image -%}
-        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: page.image }}"></span>
-      {%- endif -%}
-      {%- if page.comments == true and site.data.comments[page.slug].size > 0 -%}
-        <span class="byline-item"><a href="#comments"><svg class="icon icon--stopwatch" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-comments' | prepend: 'assets/' | relative_url }}"></use></svg>{{ site.data.comments[page.slug] | size }}&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></span>
-      {%- endif -%}</p>
-  </header>
-
-<p>All collections: {{ site.collections }}</p>
-{% for f in site.collections %}
-	{% if f.label == "newsletters_parts" %}
-		<p>Label: {{ f.label }}</p>
-		<p>docs: {{ f.docs }}</p>
-		<p>Files: {{ f.files }}</p>
-		<p>relative_directory: {{ f.relative_directory }}</p>
-		<p>directory: {{ f.directory }}</p>
-		<p>output: {{ f.output }}</p>
-	{% endif %}
-{% endfor %}
-<p>-----</p>
-
-{% for f in site.newsletters_parts %}
-  <h2>{{ f.title }}</h2>
-  <p>Path: {{ f.path }}</p>
-  <p>Rel path: {{ f.relative_path  }}</p>
-  <p>Output: {{ f.output }}</p>
-  <p>Parent: {{ f.parent }}</p>
-  <p>Layouter: {{ f.layouter }}</p>
-  <p>{{ f.content | markdownify }}</p>
-{% endfor %}
-<p>-----</p>
-
+<article class="post newsl h-entry" itemscope itemtype="http://schema.org/Article">
+{% include newsletter-header.html doc=page %}
   <div class="post-content e-content" itemprop="articleBody">
 	{% if page.newsletter %}
 		{% assign prefix = page.newsletter.prefix %}
-		<p>PREFIX: {{ prefix }}</p>
-		<p>COLLECTION: {{ site.collections }}</p>
-		<p>COLLECTION: {{ site.collections.newsletters_parts.output }}</p>
-
-		{% for f in site.newsletters_parts.docs %}
-			<p> ** f: {{ f }}</p>
+		{% for f in site.newsletters_parts %}
+			{% assign fprefix = f.path | split: "/" | last | split: "~" | first %}
+			{% if fprefix == prefix %}
+				{% include {{f.layouter}} doc=f %}
+				{% if f.social %}
+					{% include newsletter-social-action.html doc=f %}
+				{% endif %}
+			{% endif %}
 		{% endfor %}
-		{% for part in page.newsletter.parts %}
-			{% assign filename =  prefix | append: "-" | append: part.file %}
-			<p>--- PART: {{ part }}, filename = {{ filename }}</p>
-			{% assign file = site.newsletters_parts | where_exp: "f", "f.parent == prefix" | first %}
-			<p>File layouter: {{ file.layouter }}</p>
-			<p>File content: {{ file }}</p>
-		{% endfor %}
-	{% else %}
-	Empty newsletter
 	{% endif %}
-  	{% comment %}
-    {{ content }}
-  	{% endcomment %}
   </div>
 
   {% include social-share.html %}

@@ -1,0 +1,10 @@
+{% comment %}Params: doc=partOfNewsletter{% endcomment %}
+{% assign doc=include.doc %}
+<div class="newsl-section line-top">
+<h2>{{ doc.supertitle | escape }}</h2>
+<h3>{{ doc.title | escape }}</h3>
+<img class="lazyload section-image-wide" data-srcset="{{ doc.image.url }}" alt="{{ doc.image.alt }}">
+
+{{ doc.content | markdownify }}
+
+</div>

@@ -1,0 +1,7 @@
+{% comment %}Params: doc=partOfNewsletter{% endcomment %}
+{% assign doc=include.doc %}
+<div class="newsl-section">
+<h2>{{ doc.title | escape }}</h2>
+<img class="author" src="{{ doc.image.url }}" alt="{{ doc.image.alt }}">
+{{ include.doc | markdownify }}
+</div>

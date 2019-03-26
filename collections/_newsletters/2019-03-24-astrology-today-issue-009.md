@@ -3,10 +3,16 @@ layout: page-newsletter
 uuid: NL-20190324
 date: 2019-03-24 12:00:00 +1000
 modified: 2019-03-23 12:00:00 +1000
+title: Astrology Today
+titleIssue: 009
+subtitle: Time Nomad newsletter • March 24, 2019
+description: Full Moon blasted the peace of the Equinox • Looking into the year ahead • The magic of the Larimar gemstone.
+# App feed
 scope: 
 present: must
-title: Astrology Today 🌕
-description: Full Moon blasted the peace of the Equinox • Looking into the year ahead • The magic of the Larimar gemstone.
+titleEmoji: 🌕
+subtitleEmoji: Fresh astro news
+# Other
 comments: true
 # Extra info for structured data
 og:
@@ -25,26 +31,5 @@ schema:
 # Newsletter content
 newsletter:
   prefix: at-009
-  parts:
-  - file: 01-header.md
-  - file: 02-editor-intro.md
 ---
 
-This is the newsletter body.
-Local URL:
-
-http://localhost:4000/newsletters/2019-03-24-astrology-today-issue-09.html
-
-{% include zzz.html %}
-
-The end
-
-
-# Newsletter params
-aaaaa:
-	directory: issue-009
-	parts:
-		-	layout: p1-layout.html
-			content: p1-content.md
-		-	layout: p2-layout.html
-			content: p2-content.md
