@@ -8,19 +8,17 @@ description: The Sidereal Zodiac model is one of the two fundamental astrologica
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: The ecliptic and the zodiac with points of equinoxes and solstices
   image:
     url: /images/og/time-nomad-p-20190323-sidereal-zodiac-in-astrology.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190323-sidereal-zodiac-in-astrology.jpg
-schema:
-  image:
-    alt: The ecliptic and the zodiac with points of equinoxes and solstices
-    url_1x1: /images/schema/time-nomad-post-20190323-sidereal-zodiac-in-astrology-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190323-sidereal-zodiac-in-astrology-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 The **Sidereal Zodiac** model is one of the two fundamental astrological systems that divide the celestial sphere into twelve segments, or astrological signs. What are the strengths and weaknesses of the Sidereal Zodiac and when does it make sense to use the sidereal model instead of the **Tropical Zodiac**?

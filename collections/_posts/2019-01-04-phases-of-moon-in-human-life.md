@@ -8,19 +8,17 @@ description: The low efficiency of the New Year’s resolutions approach is due 
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: The phases of the Moon in the  human life
   image:
     url: /images/og/og-time-nomad-post-20190114-phases-of-moon-in-human-life.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190114-phases-of-moon-in-human-life.jpg
-schema:
-  image:
-    alt: The phases of the Moon in the  human life
-    url_1x1: /images/schema/time-nomad-post-20190114-phases-of-moon-in-human-life-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190114-phases-of-moon-in-human-life-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 A simple answer to the second question as to why “New Year’s resolutions” is a bad idea — “improving” the year ahead rarely works because that single year is taken out of the bigger context of the unfoldment of life. Infamous low efficiency of the New Year’s resolutions approach is due to the resolutions often being a mental construct that ignores the bigger dynamical system that is called “your life”.

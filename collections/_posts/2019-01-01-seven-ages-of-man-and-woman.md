@@ -8,19 +8,17 @@ description: Just like the Zodiac signs, your current age is said to have its ru
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Seven ages of man
   image:
     url: /images/og/og-time-nomad-post-20190101-seven-ages-of-man.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190101-seven-ages-of-man.jpg
-schema:
-  image:
-    alt: Seven ages of man
-    url_1x1: /images/schema/time-nomad-post-20190101-seven-ages-of-man-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190101-seven-ages-of-man-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Just like the signs of the Zodiac, your current age is said to have its ruling planet. And this is actually very helpful — the knowing of what planetary period you’re currently in brings a good degree of clarity and a purpose too!

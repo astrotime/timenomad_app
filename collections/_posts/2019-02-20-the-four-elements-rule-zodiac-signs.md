@@ -8,19 +8,17 @@ description: Each and every of the four alchemical Elements — namely Fire, Ear
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: The four elements in the zodiac signs
   image:
     url: /images/og/og-time-nomad-post-20190220-the-four-elements-rule-zodiac-signs.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190220-the-four-elements-rule-zodiac-signs.jpg
-schema:
-  image:
-    alt: The four elements in the zodiac signs
-    url_1x1: /images/schema/time-nomad-post-20190220-the-four-elements-rule-zodiac-signs-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190220-the-four-elements-rule-zodiac-signs-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Each of the twelve Zodiac signs are traditionally said to be ruled by one of the four alchemical Elements — Fire, Earth, Water or Air. This approach divides the whole Zodiac wheel into four groups of three signs — four Fiery signs, four Earthy signs, four Watery signs and four Airy signs.

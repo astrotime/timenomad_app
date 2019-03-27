@@ -3,17 +3,22 @@ layout: post
 uuid: P-20180928
 date: 2018-09-28 12:00:00 +1000
 modified: 2018-09-28 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20180928-masculine-feminine-transgender-in-astrology.jpg
 title: Masculine, feminine and transgender in astrology.
 description: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principles – masculine, feminine and oscillating transgender.
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: Mars Venus and Mercury symbolise masculine, feminine and transgender
-    url_1x1: /images/schema/time-nomad-post-20180928-masculine-feminine-transgender-in-astrology-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20180928-masculine-feminine-transgender-in-astrology.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20180928-masculine-feminine-transgender-in-astrology-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 The existence of the universe is based on the constant interplay between the male and female principles. Duality is the hallmark of the creation that is shaped by the forces of action and attraction. Masculine and feminine categorisation is so ubiquitous that one may miss the third “sex”  — neither masculine nor feminine but the androgynous principle. The modern age offers a broad range of sexual orientations — heterosexual, homosexual, bisexual, asexual, or even the lack sexual orientation! Transgender is the principle of actively transgressing “assigned” sexual category and has a tangible relationship with both Mercury and Pluto.

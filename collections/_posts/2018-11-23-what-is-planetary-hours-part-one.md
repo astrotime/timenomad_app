@@ -3,7 +3,6 @@ layout: post
 uuid: P-20181123
 date: 2018-11-23 12:00:00 +1000
 modified: 2019-02-24 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20181123-planetary-hours-part-one.jpg
 title: What is Planetary Hours, part 1.
 description: What is planetary hours and how can one reconstruct them knowing some basic numerology and common sense.
 categories: posts astrology philosophy
@@ -11,10 +10,16 @@ linkRelNext: /posts/astrology/philosophy/2018/12/03/what-is-planetary-hours-part
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: Seven planetary spheres of Saturn, Jupiter, Mars, the Sun, Venus, Mercury, the Moon above the planet Earth.
-    url_1x1: /images/schema/time-nomad-post-20181123-planetary-spheres-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20181123-planetary-hours-part-one.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181123-planetary-spheres-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Planetary Hours is an extremely ancient knowledge that is still useful today. Suppose we knew nothing about that division of time, how could we “reinvent” planetary hours?

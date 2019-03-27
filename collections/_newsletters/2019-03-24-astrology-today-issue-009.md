@@ -15,7 +15,7 @@ app:
 # Other
 comments: true
 # Extra info for structured data
-og:
+schema:
   image:
     alt: Astrology Today, astro news update, issue 009
     url: /images/schema/astrology-today-009-gem-larimar-uranus-neptune.jpg

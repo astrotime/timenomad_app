@@ -8,19 +8,17 @@ description: Love triangle is a notorious pattern in human relationships that ac
 categories: posts astrology interpretation
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Jupiter and Venus always in love
   image:
     url: /images/og/og-time-nomad-post-20190128-love-triangle-of-jupiter-venus.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190128-love-triangle-of-jupiter-venus.jpg
-schema:
-  image:
-    alt: Jupiter and Venus always in love
-    url_1x1: /images/schema/time-nomad-post-20190128-love-triangle-of-jupiter-venus-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190128-love-triangle-of-jupiter-venus-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Love triangle is a notorious pattern in human relationships that actually has deeper roots that one may think. The infamous triangle originates from the ancient mythology and has been a rich source of provocative depictions in art and culture.

@@ -9,19 +9,17 @@ categories: posts astrology philosophy
 linkRelNext: /posts/astrology/philosophy/2019/02/19/planetary-cycles-applying-separating-aspects-part-two.html
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Waxing and waning aspects in astrology
   image:
     url: /images/og/og-time-nomad-post-20190212-planetary-cycles-waxing-waning-aspects-part-one.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190212-planetary-cycles-waxing-waning-aspects-part-one.jpg
-schema:
-  image:
-    alt: Waxing and waning aspects in astrology
-    url_1x1: /images/schema/time-nomad-post-20190212-planetary-cycles-waxing-waning-aspects-part-one-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190212-planetary-cycles-waxing-waning-aspects-part-one-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Waxing, waning, applying, separating aspects… sounds confusing? This multi-part story is aiming at demystifying these qualities of the astrological aspects and presenting a bigger picture of planetary cycles that makes for a deeper interpretation of an astrological chart.

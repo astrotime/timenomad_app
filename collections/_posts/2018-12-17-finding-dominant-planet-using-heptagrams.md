@@ -3,17 +3,22 @@ layout: post
 uuid: P-20181217
 date: 2018-12-17 12:00:00 +1000
 modified: 2018-12-17 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20181217-heptagrams.jpg
 title: Finding dominant planet using Heptagrams.
 description: When it comes to finding a dominant planet of a chart, heptagrams, that emerged from the sequence of the planetary hours, provide practicing astrologers with additional insights into the balance of  planetary configuration of a natal chart.
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: Heptagram, created by Time Nomad app
-    url_1x1: /images/schema/time-nomad-post-20181217-heptagrams-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20181217-heptagrams.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181217-heptagrams-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 This essay was created as an extension to the mini-series about the planetary hours. You are welcome to [revisit part one]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}), [two]({% post_url 2018-12-03-what-is-planetary-hours-part-two %}) and [three]({% post_url 2018-12-09-what-is-planetary-hours-part-three %}) of the series, they provide important foundational material on the origins of heptagrams.

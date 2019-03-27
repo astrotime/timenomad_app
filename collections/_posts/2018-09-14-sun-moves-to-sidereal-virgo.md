@@ -3,17 +3,22 @@ layout: post
 uuid: P-20180912
 date: 2018-09-14 12:00:00 +1000
 modified: 2018-09-14 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20180912-sun-enters-sidereal-virgo.jpg
 title: The Sun enters sidereal Virgo. Why does it matter?
 description: While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.
 categories: posts astrology event
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: Astrological chart with Sun on the cusp of Virgo, created by Time Nomad app
-    url_1x1: /images/schema/time-nomad-post-20180912-sun-enters-sidereal-virgo-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20180912-sun-enters-sidereal-virgo.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20180912-sun-enters-sidereal-virgo-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 > While the tropical zodiac is the dominant model of the Western astrology, the sidereal zodiac has its own reality and applications, especially when taking the future of humanity into account.

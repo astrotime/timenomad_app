@@ -21,7 +21,7 @@ layout: default
     {%- endif -%}
     {%- if page.schema.image -%}
       {%- assign image = page.schema.image -%}
-      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
     {%- elsif page.image -%}
       <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: page.image }}"></span>
     {%- endif -%}
@@ -36,6 +36,10 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li itemscope itemtype="http://schema.org/Article">
+        {% comment %}<!-- DEBUG: Schema Image and Alt -->
+        <img src="{{ site.url | append: post.schema.image.url }}">
+        <p>{{ post.schema.images.alt }}</p>
+        {% endcomment %}
         <link itemprop="mainEntityOfPage" href="{{ post.url | absolute_url }}">
         <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- if page.modified -%}
@@ -51,10 +55,10 @@ layout: default
           <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
         {%- endif -%}
 
-        {%- assign image = post.schema.image -%}
+        {%- assign image = post.schema.image_1x1 -%}
         {%- if image -%}
-        <a class="post-link" href="{{ post.url | relative_url }}" itemprop="url"><img class="post-thumb" src="{{ site.url | append: image.url_1x1 }}" alt="{{ image.alt }}"></a>
-        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+        <a class="post-link" href="{{ post.url | relative_url }}" itemprop="url"><img class="post-thumb" src="{{ site.url | append: image.url }}" alt="{{ post.schema.images.alt }}"></a>
+        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
         {%- endif -%}
         <div class="post-meta">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

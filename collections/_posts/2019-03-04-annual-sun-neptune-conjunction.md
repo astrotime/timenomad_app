@@ -8,19 +8,17 @@ description: The annual Sun – Neptune conjunction is one of the most fundament
 categories: posts astrology event
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Sun Neptune conjunction
   image:
     url: /images/og/og-time-nomad-post-20190304-sun–neptune-conjunction-1.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190304-sun–neptune-conjunction.jpg
-schema:
-  image:
-    alt: Sun Neptune conjunction
-    url_1x1: /images/schema/time-nomad-post-20190304-sun–neptune-conjunction-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190304-sun–neptune-conjunction-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 The annual Sun – Neptune conjunction is one of the most fundamental astrological events that happens every year, currently on the 6th of March, 2019. And yet not much is written about this truly mystical event and its deep influence on the ideals and aspirations of every human being.

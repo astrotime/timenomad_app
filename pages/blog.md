@@ -16,8 +16,9 @@ feedTitle: Welcome to the Time Nomad Feed
 schema:
   image:
     alt: Time Nomad astrology app.
-    url_1x1: /images/schema/time-nomad-post-logo-1x1.jpg
-    size_1x1: 760
+    url: /images/schema/time-nomad-post-logo-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 <h1 class="post-title p-name" itemprop="name headline">Astrology today</h1>

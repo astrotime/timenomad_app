@@ -14,19 +14,12 @@ subtitleEmoji: Astrological update
 # Other
 comments: true
 # Extra info for structured data
-og:
-  image:
-    url: /images/og/og-time-nomad-post-20190128-love-triangle-of-jupiter-venus.jpg
-    width: 1200
-    height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190128-love-triangle-of-jupiter-venus.jpg
 schema:
   image:
     alt: Jupiter and Venus always in love
-    url_1x1: /images/schema/time-nomad-post-20190128-love-triangle-of-jupiter-venus-1x1.jpg
-    size_1x1: 760
+    url: /images/og/og-time-nomad-post-20190128-love-triangle-of-jupiter-venus.jpg
+    width: 1200
+    height: 630
 # Newsletter content
 newsletter:
   prefix: at-002

@@ -8,19 +8,17 @@ description: Just a mere day before exact Mars – Pluto conjunction took place 
 categories: posts astrology event
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Mars-Pluto square
   image:
     url: /images/og/og-time-nomad-post-20190205-mars-pluto-square-and-nuclear-warfare.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190205-mars-pluto-square-and-nuclear-warfare.jpg
-schema:
-  image:
-    alt: Mars-Pluto square
-    url_1x1: /images/schema/time-nomad-post-20190205-mars-pluto-square-and-nuclear-warfare-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190205-mars-pluto-square-and-nuclear-warfare-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Just a mere day before exact Mars – Pluto conjunction took place of 2 February 2019, the United States government announced its unilateral decision to abandon the treaty of non-proliferation of intermediate-range nuclear missiles. This event is striking from the standpoint of both astrological symbolism and its precise timing.

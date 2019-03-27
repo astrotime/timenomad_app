@@ -21,7 +21,7 @@
   {%- endif -%}
   {%- if doc.schema.image -%}
     {%- assign image = doc.schema.image -%}
-    <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+    <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
   {%- elsif doc.og.image -%}
     {%- assign image = doc.og.image -%}
     <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>

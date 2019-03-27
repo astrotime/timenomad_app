@@ -8,19 +8,17 @@ description: The upcoming Saturn-Pluto conjunction is a rare and significant eve
 categories: posts astrology event
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Luca Bartolomeo de Pacioli
   image:
     url: /images/og/og-time-nomad-p-20181222-saturn-pluto-conjuction.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20181222-saturn-pluto-conjuction.jpg
-schema:
-  image:
-    alt: Luca Bartolomeo de Pacioli
-    url_1x1: /images/schema/time-nomad-post-20181222-accounting-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181222-accounting-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Everybody loves New Moons and Full Moons! Why so?

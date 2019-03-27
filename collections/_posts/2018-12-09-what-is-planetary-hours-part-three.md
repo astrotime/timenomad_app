@@ -3,7 +3,6 @@ layout: post
 uuid: P-20181209
 date: 2018-12-09 12:00:00 +1000
 modified: 2019-02-24 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20181209-planetary-hours-part-three.jpg
 title: What is Planetary Hours, part 3.
 description: The order of planetary hours and therefore the days of the week can be further explored in the context of sacred geometry with some elements of numerology and an introduction of heptagrams.
 categories: posts astrology philosophy
@@ -11,10 +10,16 @@ linkRelPrev: /posts/astrology/philosophy/2018/12/03/what-is-planetary-hours-part
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: Planetary hours calculator, created by Time Nomad app
-    url_1x1: /images/schema/time-nomad-post-20181209-planetary-hours-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20181209-planetary-hours-part-three.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181209-planetary-hours-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Continuing mini-series on the topic of planetary hours in the context of astrology. This is the third part of the story. The reader is invited to review [the first part]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}) and [the second part]({% post_url 2018-12-03-what-is-planetary-hours-part-two %}) as they provide a necessary foundation for this article.

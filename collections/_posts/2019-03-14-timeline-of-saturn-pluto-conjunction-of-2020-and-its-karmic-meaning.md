@@ -8,19 +8,17 @@ description: Every occurrence of Saturn – Pluto conjunction is a relatively ra
 categories: posts astrology event
 comments: true
 # Extra info for structured data
-og:
+schema:
+  images:
+    alt: Saturn Pluto conjuction imploding planet
   image:
     url: /images/og/og-time-nomad-post-20190314-saturn-pluto-conjunction.jpg
     width: 1200
     height: 630
-twitter:
-  card: summary_large_image
-  image: /images/summary-cards/time-nomad-p-20190314-saturn-pluto-conjunction.jpg
-schema:
-  image:
-    alt: Saturn Pluto conjuction imploding planet
-    url_1x1: /images/schema/time-nomad-post-20190314-saturn-pluto-conjunction-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-post-20190314-saturn-pluto-conjunction-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Every occurrence of Saturn – Pluto conjunction is a relatively rare event that happens approximately every 33–38 years and lasts slightly over two years. Saturn – Pluto conjunction can be seen as a “**global Saturn return**” of karmic nature that applies to the whole world. 

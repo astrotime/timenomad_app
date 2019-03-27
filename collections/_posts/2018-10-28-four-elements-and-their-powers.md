@@ -3,17 +3,22 @@ layout: post
 uuid: P-20181028
 date: 2018-10-28 12:00:00 +1000
 modified: 2018-10-28 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20181028-the-four-elements-powers.jpg
 title: The four Elements and their powers.
 description: Along with the day & night cycle covered in the earlier post, the four elements is another foundation of the Western astrological chart.
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: The Four Elements - fire, earth, air and water
-    url_1x1: /images/schema/time-nomad-post-20181028-the-four-elements-powers-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20181028-the-four-elements-powers.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181028-the-four-elements-powers-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 The idea of the four elements and their qualities (or powers) presents a fascinating archetype that helps to dive deeper into the chart and see much more that appears on the surface.

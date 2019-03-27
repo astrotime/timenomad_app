@@ -3,17 +3,22 @@ layout: post
 uuid: P-20181115
 date: 2018-11-15 12:00:00 +1000
 modified: 2018-11-15 12:00:00 +1000
-image: /images/summary-cards/time-nomad-card-post.png
 title: “Let there be spin” or ubiquitous cycles of everything.
 description: Everything spins – from galaxies and stars to human lives – producing large and small cycles of events.
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: The Four Elements of fire, earth, air, water and connections between them via heat, dryness, moisture and cold
-    url_1x1: /images/schema/time-nomad-post-20181115-cycles-in-astrology-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-card-post.png
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181115-cycles-in-astrology-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Spinning (or rotation) is the fundamental and archetypal movement within the creation. God must had said “let there be spin” at the day zero of initiation of the present cosmic cycle. Cosmic objects like galaxies, stars and planets as well as human lives — all seem to had been created as spinning cyclical entitites.

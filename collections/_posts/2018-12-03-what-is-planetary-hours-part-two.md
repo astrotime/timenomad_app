@@ -3,7 +3,6 @@ layout: post
 uuid: P-20181203
 date: 2018-12-03 12:00:00 +1000
 modified: 2019-02-24 12:00:00 +1000
-image: /images/summary-cards/time-nomad-p-20181203-planetary-hours-part-two.jpg
 title: What is Planetary Hours, part 2.
 description: From the notion of planetary hours to the days of the week, the seven planetary spheres can be found in each major division of time.
 categories: posts astrology philosophy
@@ -12,10 +11,16 @@ linkRelNext: /posts/astrology/philosophy/2018/12/09/what-is-planetary-hours-part
 comments: true
 # Extra info for structured data
 schema:
-  image:
+  images:
     alt: Planetary hours calculator, created by Time Nomad app
-    url_1x1: /images/schema/time-nomad-post-20181203-planetary-hours-1x1.jpg
-    size_1x1: 760
+  image:
+    url: /images/summary-cards/time-nomad-p-20181203-planetary-hours-part-two.jpg
+    width: 1024
+    height: 512
+  image_1x1:
+    url: /images/schema/time-nomad-post-20181203-planetary-hours-1x1.jpg
+    width: 760
+    height: 760
 ---
 
 Continuing mini-series on the topic of planetary hours. This is the second part of the story. The first part can be [found here]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}).
