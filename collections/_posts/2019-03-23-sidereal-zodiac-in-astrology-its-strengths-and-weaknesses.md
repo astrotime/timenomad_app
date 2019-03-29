@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190323
 date: 2019-03-23 12:00:00 +1000
-modified: 2019-03-23 12:00:00 +1000
+modified: 2019-03-30 12:00:00 +1000
 title: The Sidereal Zodiac in astrology, its strengths and weaknesses
 description: The Sidereal Zodiac model is one of the two fundamental astrological systems that divide the celestial sphere into twelve segments, or astrological signs. What are the strengths and weaknesses of the Sidereal Zodiac and when does it make sense to use the sidereal model instead of the tropical one?
 categories: posts astrology philosophy
@@ -105,7 +105,7 @@ But… there was a problem as it’s not possible to see the Sun and the stars a
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-      	**The star Spica** is located a mere 2º south of the ecliptic, making it a really powerful source of astral energies.<br><br>
+      	<strong>The star Spica</strong> is located a mere 2º south of the ecliptic, making it a really powerful source of astral energies.<br><br>
       	Spica is one of the 15 Behenian “root” stars especially suitable for magical applications. It is of nature of Venus & Mercury. Gemstone: emerald, Plant: sage.
       </div>
     </div>
@@ -193,13 +193,13 @@ To sum it up, **the strengths** of the sidereal Zodiac:
 
 * based on the geometry of point-like sources of astral energies
 * each fixed star has its own unique energy
-* the constellations have unmistakable astral flavour and influence
+* the constellations are visible and have unmistakable astral flavour and influence
 
 **The weaknesses** of the sidereal Zodiac:
 
 * much more remote compared to the tropical Zodiac
 * the fixed stars aren’t that fixed and slowly move with time
-* the influence is extremely punctual and doesn’t always validate
+* the influence of fixed stars is extremely punctual and doesn’t always validate
 * numerous versions of the sidereal Zodiac model compared to one firmly defined tropical Zodiac model
 
 ### The future of the Sidereal Zodiac
