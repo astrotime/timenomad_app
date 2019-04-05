@@ -90,6 +90,8 @@ If you’re curious about the day and night dialectic read [“Day and Night in 
 
 There are two equinoxes in each year, the March (or vernal) Equinox and the September Equinox. The vernal Equinox — that happens about the 20th of March each year — marks the zero point when the Sun moves from the sign of Pisces into the sign of Aries. The September Equinox is the “smaller brother” and happens every 22nd or 23rd of September.
 
+For some deeper insights into the astrological meaning of Equinoxes and Solstices read our next story [“Equinox, Solstice and universal consciousness”]({% post_url 2019-04-05-equinox-solstice-and-universal-consciousness %}).
+
 ## The star Spica and the origin of the Sidereal Zodiac
 
 Visually that meant that the Sun was at the boundary between the constellations of Pisces and Aries. 

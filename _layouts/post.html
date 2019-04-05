@@ -7,16 +7,16 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <link itemprop="mainEntityOfPage" href="{{ site.url | append: page.url }}">
     <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <time class="dt-modified" datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {%- if page.modified -%}
+          {%- assign date = page.modified -%}
+        {%- else -%}
+          {%- assign date = page.date -%}
+        {%- endif -%}
+        Updated {{ date | date: date_format }}
       </time>
-      {%- if page.modified -%}
-        {%- assign dateModified = page.modified -%}
-      {%- else -%}
-        {%- assign dateModified = page.date -%}
-      {%- endif -%}
-      <meta itemprop="dateModified" content="{{ dateModified | date: date_to_xmlschema }}">
+      <meta itemprop="datePublished" content="{{ page.date | date: date_to_xmlschema }}">
       {%- if site.structured_data.author -%}
         <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta class="p-author h-card" itemprop="name" content="{{ site.structured_data.author.name }}"></span>
       {%- endif -%}
