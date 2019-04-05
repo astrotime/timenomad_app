@@ -712,6 +712,12 @@ article.newsl {
     .column-2-color {
       background-color: $newsl-column-2-color;
     }
+
+    .subtitle {
+      font-size: $type-size-4;
+      font-style: italic;
+      color: $dark-gray;
+    }
   }
 
   .author-block {
@@ -739,6 +745,10 @@ article.newsl {
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
+  }
+
+  img.border {
+    border: 1px solid $gray;
   }
 }
 

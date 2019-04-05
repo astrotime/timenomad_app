@@ -8,6 +8,7 @@
   <div class="col span_8_of_12 matchheight">
     <h2>{{ doc.supertitle | escape }}</h2>
     <h3>{{ doc.title | escape }}</h3>
+    {% if doc.subtitle %}<p class="subtitle">{{ doc.subtitle }}</p>{% endif %}
   </div>
 </div>
 {{ doc.content | replace: "$contentUrl", doc.contentUrl | markdownify }}
