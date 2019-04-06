@@ -3,14 +3,14 @@ layout: post
 uuid: P-20190405
 date: 2019-04-05 12:00:00 +1000
 modified: 2019-04-05 12:00:00 +1000
-title: Equinox, Solstice and universal consciousness
+title: Equinoxes, Solstices and the idea of universal consciousness
 description: "In each year there are four days, or rather precise moments: the two Equinoxes and two Solstices that carry a very special astrological meaning. The Equinoxes and Solstices are brief windows in time and space that connect us to the broader experience of universal consciousness."
 categories: posts astrology philosophy
 comments: true
 # Extra info for structured data
 schema:
   images:
-    alt: Equinoxes, solstices and universal consciousness
+    alt: Equinoxes, Solstices and the idea of universal consciousness
   image:
     url: /images/og/og-time-nomad-p-20190405-equnox-solstice.jpg
     width: 1200
