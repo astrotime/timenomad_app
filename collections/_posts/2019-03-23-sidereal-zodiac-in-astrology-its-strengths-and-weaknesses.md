@@ -12,7 +12,7 @@ schema:
   images:
     alt: The ecliptic and the zodiac with points of equinoxes and solstices
   image:
-    url: /images/og/time-nomad-p-20190323-sidereal-zodiac-in-astrology.jpg
+    url: /images/og/og-time-nomad-post-20190323-sidereal-zodiac-in-astrology.jpg
     width: 1200
     height: 630
   image_1x1:

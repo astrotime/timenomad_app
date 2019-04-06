@@ -12,7 +12,7 @@ schema:
   images:
     alt: Equinoxes, Solstices and the idea of universal consciousness
   image:
-    url: /images/og/og-time-nomad-p-20190405-equnox-solstice.jpg
+    url: /images/og/og-time-nomad-post-20190405-equinox-solstice.jpg
     width: 1200
     height: 630
   image_1x1:
