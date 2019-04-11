@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20181222
 date: 2018-12-22 12:00:00 +1000
-modified: 2019-03-16 12:00:00 +1000
+modified: 2019-04-12 12:00:00 +1000
 title: Will 2019 be the year of Saturn-Pluto conjunction?
 description: The upcoming Saturn-Pluto conjunction is a rare and significant event. Starting at around Christmas of 2018, the conjunction will unfold itself throughout the year of 2019, culminating on January 12, 2020. Could it act as broad “Saturn return” for our economical and political system?
 categories: posts astrology event
@@ -115,7 +115,7 @@ On October 18, 1981, President Ronald Reagan stated  that the economy was in a �
 
 Throughout the Reagan recession, the financial industry took a big hit and the FDIC spent in excess of $5 billion bailing out failed banks that were deemed “too big to fail”.
 
-The prime interest rate skyrocketed to 21.5% in June 1982. For comparison, as of December 2018, the rate is 2.25% – 2.50%. 
+The prime interest rate skyrocketed to 21.5% in June 1982. For comparison, as of December 2018, the rate is 5.5% in the United States. 
 
 The peak of the recession happened during November – December 1982 — notice that it also neatly overlaps with exact Saturn-Pluto conjunction on November 8, 1982. The unemployment rate reached 10.8% which was the highest rate since 1930s and the Great Depression. 
 
