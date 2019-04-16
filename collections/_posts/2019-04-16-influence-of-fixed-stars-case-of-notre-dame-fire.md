@@ -33,7 +33,7 @@ In this story we will look into the nature of fixed stars and will attempt to ga
   <div class="row">
     <div class="col-12">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-Édouard-Baldus-Notre-Dame-1860s.jpg" alt="East facade of Notre-Dame in the 1860s">
+      	<img class="lazyload" data-srcset="/images/art/art-edouard-baldus-notre-dame-1860s.jpg" alt="East facade of Notre-Dame in the 1860s">
       </div>
     </div>
   </div>
@@ -342,7 +342,7 @@ Especially knowing that president Macron was allegedly about to announce new cou
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-victor-hugo-hunchback-galerie-des-chimères.jpg" alt="Drawing of the Hunchback of Notre Dame by Victor Hugo, showing the recently restored galerie des chimères">
+      	<img class="lazyload" data-srcset="/images/art/art-victor-hugo-hunchback-galerie-des-chimeres.jpg" alt="Drawing of the Hunchback of Notre Dame by Victor Hugo, showing the recently restored galerie des chimères">
       </div>
     </div>
     <div class="col-6">
