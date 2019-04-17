@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190415
 date: 2019-04-15 12:00:00 +1000
-modified: 2019-04-15 12:00:00 +1000
+modified: 2019-04-16 12:00:00 +1000
 title: Influence of the Fixed Stars, an astrological interpretation of Notre-Dame de Paris fire, 15 April 2019
 description: Fires and other punctual accidents are often the result of exact alignments between planets and the fixed stars. Fire of Notre-Dame Cathedral that took place on 15 April, 2019 is the case in point.
 categories: posts astrology event
@@ -102,8 +102,8 @@ Influence of the fixed stars is very different from influence of the planets. Th
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-		<strong>In the physical universe</strong> light from the source, for exammple, from a star, can be split into its spectral components by a prism.<br><br>
-		Making an <strong>astrological analogy</strong>, the wholeness or unity of light of any star, including our Sun, is projected along the spectre by its orbiting bodies. Each of planets therefore carries only some portion of the whole spectrum.<br><br>
+		<strong>In the physical universe</strong> light from the source, for example, from a star, can be split into its spectral components by a prism.<br><br>
+		Making an <strong>astrological analogy</strong>, the wholeness or unity of light of any star, including our Sun, is projected along the spectre by its orbiting bodies. Each of the planets therefore carries only some portion of the whole spectrum.<br><br>
 		<small class="post-pullout-box-copyright">Image source: D-Kuru/Wikimedia Commons</small>		
       </div>
     </div>
@@ -268,8 +268,9 @@ We can see that there is something brewing up but it doesn’t give us the whole
       <div class="row text-photo-caption-serif">
       	Chart of fixed stars aspects<br>
 		<strong>Notre-Dame Cathedral fire</strong><br>
-		15 April 2019 at 18:50<br>
+		15 April 2019 at 16:50<br>
 		Paris, France<br><br>
+		Two hours before the fire was reported<br><br>
 		The chart of <strong>two hours before</strong> the moment when the fire has been noticed.
       </div>
     </div>
@@ -290,7 +291,7 @@ Bingo, that when the needle enters the red zone! Just look at all those exact co
       <div class="row text-photo-caption-serif">
       	List of fixed stars aspects<br>
 		<strong>Notre-Dame Cathedral fire</strong><br>
-		15 April 2019 at 18:50<br>
+		15 April 2019 at 16:50<br>
 		Paris, France<br><br>
 		The chart of <strong>two hours before</strong> the moment when the fire has been noticed.<br><br>
 		Notice than <strong>numerous exact aspects</strong> to the fixed stars are taking place, it's truly incredible.
@@ -323,6 +324,42 @@ The most striking observations is the involvement of some powerful fixed stars:
 To sum it up, the chart for Notre-Dame Cathedral indicates exact aspects with the fixed stars of **mostly fiery, Marsian, nature**: Aldebaran, Antares and Regulus; and an aspect with Deneb Algedi which is of a dual and oscillating nature, especially when seen as a Uranus-Mercury blend of energies.
 
 What is clearly **missing is the Venusian presence** that could potentially bring the balance back.
+
+### What makes an event a local event
+
+For a moment, let’s forget about the fixed stars and take a look at a regular chart of aspects. What can we tell about the moment of 16:50 in Paris?
+
+<div class="container post-pullout-box">
+  <div class="row">
+    <div class="col-8">
+      <div class="row">
+      	<img class="lazyload" data-srcset="/images/charts/time-nomad-chart-notre-dame-fire-2019-04-15-minus-2-hours.png" alt="Astrological chart of Notre-Dame Cathedral fire of 15 April 2019, 18:50, two hours before fire reported">
+      </div>
+    </div>
+    <div class="col-4">
+      <div class="row text-photo-caption-serif">
+      	Tropical Zodiac chart of planetary aspects<br>
+		<strong>Notre-Dame Cathedral fire</strong><br>
+		15 April 2019 at 16:50<br>
+		Paris, France<br><br>
+		Two hours before the fire was reported
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
+
+A few points immediately stand out:
+
+1. **Mars** on the **Midheaven**
+2. The **Part of Fortune** (also called, the Lot of Fortune or Fortuna) is tightly held between **Saturn**, **Pluto** and the **South Node**
+3. The **Vertex** conjunct to the **Black Moon** and opposed to the nearly full Moon
+
+This astral configuration was specific to Paris, France and not any other place on the Earth.
+
+Symbolically, one can perceive the **forces of karma of the past and a fiery retribution**. Karma comes from Saturn and Pluto, the most powerful planets that convey the forces to debt and judgement. The South Node is traditionally linked to anything past — past deeds, legacy, work done and actions related to spiritual progress. 
+
+Fiery retribution came directly from above, and the Midheaven is the symbol of that. Mars is the planet of fire that always delivers a targeted precise blow as if cut by a sword. The Midheaven is the point of the ecliptic that intersects with the local meridian, in other words the point of intersection of the trajectory of the Sun with the North-to-South line of that specific geographic location. Visually it’s a cross. Having a fiery blow from above that is directed at the church certainly sends some mystical shivers down the spine.
 
 ## A combustive mix of energies
 
