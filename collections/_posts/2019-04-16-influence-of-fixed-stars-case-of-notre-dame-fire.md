@@ -4,7 +4,7 @@ uuid: P-20190415
 date: 2019-04-15 12:00:00 +1000
 modified: 2019-04-16 12:00:00 +1000
 title: Influence of the Fixed Stars, an astrological interpretation of Notre-Dame de Paris fire, 15 April 2019
-description: Fires and other punctual accidents are often the result of exact alignments between planets and the fixed stars. Fire of Notre-Dame Cathedral that took place on 15 April, 2019 is the case in point.
+description: Fires and other punctual accidents are often the result of exact alignments between planets and the fixed stars. Fire of Notre-Dame Cathedral that took place on 15 April, 2019 is a case in point.
 categories: posts astrology event
 comments: true
 # Extra info for structured data
