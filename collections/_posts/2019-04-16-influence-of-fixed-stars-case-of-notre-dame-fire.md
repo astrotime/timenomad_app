@@ -397,3 +397,20 @@ Especially knowing that president Macron was allegedly about to announce new cou
 While we don’t believe that it’s possible to astrologically forecast an event like Notre-Dame Cathedral fire, we do believe that we can learn a lot by analysing the nuts and bolts of this event. 
 
 The fixed stars provide an extremely valuable additional layer of astrological information that allows to further “connect the dots” and peek deeper into the astrological workings and symbolism behind every significant event in this world.
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-fixed-stars-1x1.jpg" alt="Fixed stars in astrology">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>Introducing Time Nomad add-on: Fixed stars</h3>
+        <p><a href="/documentation/fixed-stars-in-astrological-chart.html">The Fixed Stars add-on</a> for Time Nomad astrology app allows for further exploration of fixed stars, including their aspects to planets, parallels and rise, transit and culmination for any chart.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>

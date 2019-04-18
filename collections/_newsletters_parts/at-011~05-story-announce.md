@@ -3,7 +3,7 @@ layouter: newsletter-featured-story.html
 supertitle: Time Nomad update
 title: Introducing the Fixed Stars, a new add-on for Time Nomad
 subtitle: Adding stellar aspects, parallels, rise-culmination-set and rich astrological information to your charts.
-contentUrl: /posts/astrology/interpretation/2019/01/28/love-triangle-of-jupiter-venus.html
+contentUrl: /documentation/fixed-stars-in-astrological-chart.html
 image:
   url: /images/schema/time-nomad-docs-fixed-stars-1x1.jpg
   alt: Fixed stars in astrology
@@ -24,3 +24,5 @@ Aspects to the fixed stars is a big topic in itself. It’s a common practice to
 The above [story investigating the Notre-Dame fire](/posts/astrology/event/2019/04/15/influence-of-fixed-stars-case-of-notre-dame-fire.html) is an example of the fixed stars analysis that can provide some ideas of how to use the add-on.
 
 Lastly, the add-on isn’t fully finished yet. There are still some improvements that I am planning to make in the coming months.
+
+[Learn more about Fixed Stars add-on…](/documentation/fixed-stars-in-astrological-chart.html)

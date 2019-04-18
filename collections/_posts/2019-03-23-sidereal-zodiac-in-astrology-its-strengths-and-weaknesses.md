@@ -226,7 +226,7 @@ The fixed stars is a fascinating topic and more stories about the influence and 
     <div class="col-9">
       <div class="row">
         <h3>Introducing Time Nomad add-on: Fixed stars</h3>
-        <p>The “Fixed stars” add-on for <a href="/">Time Nomad astrology app</a> allows for further exploration of fixed stars, including their aspects to planets, parallels and rise, transit and culmination for any chart.</p>
+        <p><a href="/documentation/fixed-stars-in-astrological-chart.html">The Fixed Stars add-on</a> for Time Nomad astrology app allows for further exploration of fixed stars, including their aspects to planets, parallels and rise, transit and culmination for any chart.</p>
       </div>
     </div>
   </div>
