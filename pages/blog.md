@@ -3,12 +3,12 @@ layout: blog
 title: Blog
 permalink: /posts/
 date: 2018-09-01 12:00:00 +1000
-modified: 2019-04-15 12:00:00 +1000
+modified: 2019-04-21 12:00:00 +1000
 description: Astrological news and an ongoing astrology course on the foundations of astrology and metaphysics.
 image: /images/summary-cards/time-nomad-card.png
 list_title: Recent stories
 # Nav order:
-weight: 4
+weight: 5
 # App Feed
 feedUUID: AF-20180901
 feedTitle: Welcome to the Time Nomad Feed
@@ -21,7 +21,7 @@ schema:
     height: 760
 ---
 
-<h1 class="post-title p-name" itemprop="name headline">Astrology today</h1>
+<h1 class="post-title p-name" itemprop="name headline">Learning Astrology</h1>
 
 Time Nomad publishes regularly updated **short educational essays** that constitute both **astrological news** and an ongoing **astrology course** at the same time.
 

@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+{% include newsletter-banner.svg %}
+
+<div class="home">
+  <div itemscope itemtype="http://schema.org/Article">
+    {% comment %}
+    {%- if page.title -%}
+      <h2 class="page-heading">{{ page.title }}</h2>
+    {%- endif -%}
+    {% endcomment %}
+    <meta itemprop="description" content="{{ page.description }}">
+    <link itemprop="mainEntityOfPage" href="{{ site.url | append: page.url }}">
+    <meta itemprop="datePublished" content="{{ page.date | date: date_to_xmlschema }}">
+    <meta itemprop="dateModified" content="{{ page.modified | date: date_to_xmlschema }}">
+    {%- if site.structured_data.author -%}
+      <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta class="p-author h-card" itemprop="name" content="{{ site.structured_data.author.name }}"></span>
+    {%- endif -%}
+    {%- if site.structured_data.publisher -%}
+      <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
+    {%- endif -%}
+    {%- if page.schema.image -%}
+      {%- assign image = page.schema.image -%}
+      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
+    {%- elsif page.image -%}
+      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: page.image }}"></span>
+    {%- endif -%}
+
+    <div itemprop="articleBody">
+      {{ content }}
+    </div>
+  </div>
+
+  {%- if site.newsletters.size > 0 -%}
+    <h2 class="post-list-heading space-before">{{ page.list_title | default: "Recent newsletters" }}</h2>
+    {% assign sorted = site.newsletters | sort: 'date' | reverse %}
+    <ul class="post-list">
+      {%- for item in sorted -%}
+      <li itemscope itemtype="http://schema.org/Article">
+        <link itemprop="mainEntityOfPage" href="{{ item.url | absolute_url }}">
+        {% comment %}
+        <time class="dt-published" datetime="{{ item.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% endcomment %}        
+        <meta itemprop="datePublished" content="{{ item.date | date: date_to_xmlschema }}">
+        {%- if page.modified -%}
+          {%- assign dateModified = page.modified -%}
+        {%- else -%}
+          {%- assign dateModified = page.date -%}
+        {%- endif -%}
+        <meta itemprop="dateModified" content="{{ dateModified | date: date_to_xmlschema }}">
+        {%- if site.structured_data.author -%}
+          <span class="byline-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta class="p-author h-card" itemprop="name" content="{{ site.structured_data.author.name }}"></span>
+        {%- endif -%}
+        {%- if site.structured_data.publisher -%}
+          <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
+        {%- endif -%}
+
+        {%- assign image = item.schema.image -%}
+        {%- if image -%}
+        <a class="post-link" href="{{ item.url | relative_url }}" itemprop="url"><img class="news-thumb" src="{{ site.url | append: image.url }}" alt="{{ image.alt }}"></a>
+        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
+        {%- endif -%}
+        <div class="post-meta">
+          {% comment %}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="byline-item">{{ item.date | date: date_format }}</span>
+          {% endcomment %}        
+          {%- if site.data.comments[item.slug].size > 0 -%}
+          <span class="byline-item"><svg class="icon icon--stopwatch" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-comments' | prepend: 'assets/' | relative_url }}"></use></svg>{{ site.data.comments[item.slug] | size }}&nbsp;Comment{% if site.data.comments[item.slug].size > 1 %}s{% endif %}</span>
+          {%- endif -%}
+        </div>
+
+  {% if item.newsletter %}
+    {% assign prefix = item.newsletter.prefix | prepend: "about-" %}
+    {% for f in site.newsletters_parts %}
+      {% assign fprefix = f.path | split: "/" | last | split: "." | first %}
+      {% if fprefix == prefix %}
+        {{ f.content | replace: "$title", f.title | replace: "$cta", "Read the newsletter…" | replace: "$contentUrl", f.contentUrl | markdownify }}
+        {% comment %}
+        {% endcomment %}        
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+        <div class="clearfix"></div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>

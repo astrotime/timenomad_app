@@ -194,7 +194,7 @@ ul, ol {
 li {
   > ul,
   > ol {
-    margin-bottom: 0;
+    margin-bottom: 1em;
     list-style-position: outside;
     margin-left: 1em;
   }
@@ -211,6 +211,7 @@ blockquote {
   color: #273aa3;
   border-left: 4px solid #374fe8;
 }
+
 
 /**
  * Pre-formatted code blocks
@@ -612,6 +613,23 @@ article.post {
     display: inline-block;
   }
 }
+
+/**
+ * Styling of news page with newsletters previews
+ */
+
+li {
+  img.news-thumb {
+    //opacity: 0.1;
+    border: 1px solid $gray;
+    margin-bottom: 24px;
+  }
+
+  h3 {
+    line-height: 1.2;
+  }
+}
+
 
 /**
  * Styling of newsletters

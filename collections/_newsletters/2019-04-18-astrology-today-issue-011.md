@@ -25,4 +25,3 @@ schema:
 newsletter:
   prefix: at-011
 ---
-
