@@ -3,7 +3,7 @@ layout: home
 title: 
 # Dates disabled for og:type = website
 # date: 2016-03-24 12:00:00 +1000
-# modified: 2019-01-17 12:00:00 +1000
+# modified: 2019-04-26 12:00:00 +1000
 image: /images/summary-cards/time-nomad-card.png
 # Nav order:
 weight: 0
@@ -18,7 +18,7 @@ seo:
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
-  dateModified: 2019-04-19
+  dateModified: 2019-04-26
 ---
 
 ## Fine astrological and astronomical software right in your pocket
@@ -112,6 +112,7 @@ by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span i
         <li>Progressed chart</li>
         <li>Heliocentric view</li>
         <li>Planetary hours calculator</li>
+        <li>Fixed stars and aspects</li>
       </ul>
       <div class="row">
         <a href="{% link pages/features.md %}">and much more…</a>
