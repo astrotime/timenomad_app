@@ -285,3 +285,20 @@ The fixed stars is an expansive astrological discipline in its own right and it 
 Perhaps the most complete work on this topic is _“The Fixed Stars And Constellations In Astrology”_ by Vivian Robson, the book was published in 1923 and is still surprisingly up to date when it comes to astronomy and astrology.
 
 But by all means, spend as much time as possible **observing real stars with your own eyes**. They can tell you a lot!
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-fixed-stars-1x1.jpg" alt="Fixed stars in astrology">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>Introducing Time Nomad add-on: Fixed stars</h3>
+        <p><a href="/documentation/fixed-stars-in-astrological-chart.html">The Fixed Stars add-on</a> for Time Nomad astrology app allows for further exploration of fixed stars, including their aspects to planets, parallels and rise, transit and culmination for any chart.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
