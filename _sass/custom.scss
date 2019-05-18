@@ -82,6 +82,21 @@ skybar#appPromo {
 }
 
 /**
+ * Layout modifiers
+ */
+
+/* Adds left margin when on desktop */
+.desktop-inset-left {
+    margin-left: 1em;
+}
+
+@include media-query($on-palm) {
+  .desktop-inset-left {
+      margin-left: 0;
+  }
+}
+
+/**
  * Site header
  */
 .home-banner {
@@ -218,6 +233,17 @@ blockquote {
  */
 code {
   white-space: normal;
+}
+
+/**
+ * Image styling
+ */
+img.border-black {
+  border: 1px solid black;
+}
+
+img.border-gray {
+  border: 1px solid gray;
 }
 
 /**
@@ -535,11 +561,24 @@ li {
  * Styling of text
  */
 
+/* Post Intro Box */
+.post-intro-box {
+  background-color: $lighter-gray; 
+  border: 1px solid $dark-gray;
+  padding: 8px 8px 8px 16px;
+
+  p {
+    font-size: $type-size-4;
+    color: black;
+  }
+}
+
+/* Post caption text */
 .text-photo-caption-serif {
   font-family: $serif;
 }
 
-
+/* Post Pullout Box */
 .section.group.post-pullout-box {
   margin-bottom: 16px;
 }
@@ -613,6 +652,40 @@ article.post {
     display: inline-block;
   }
 }
+
+/**
+ * Related content
+ */
+
+/* Aside: related posts */
+aside.related-posts {
+  margin-top: 2em;
+  
+  h1 {
+    line-height: 120%;
+  }
+
+  .col {
+    div {
+      padding-right: 2em;
+    }
+    img {
+      margin-bottom: 1em;
+    }
+    h2 {
+      line-height: 120%;
+    }
+  }
+}
+
+/*
+@include media-query($on-palm) {
+  .desktop-inset-left {
+      margin-left: 0;
+  }
+}
+*/
+
 
 /**
  * Styling of news page with newsletters previews

@@ -247,4 +247,3 @@ You can use Time Nomad to better understand astrology and **answer the question 
 [The Time Nomad blog]({{ "/posts" | relative_url }}) is a virtual astrology training for those who are interested in astrological studies or simply curious about **how and why astrology works**. Time Nomad will provide you with regular weekly astrology lessons and predictions. The app will be your virtual astrology teacher for years to come.
 
 [Subscribe to a regular newsletter](#mc_embed_signup) covering topics of astrological knowledge and current astrological events.
-

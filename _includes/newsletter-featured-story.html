@@ -6,9 +6,11 @@
     <a href="{{ doc.contentUrl }}"><img class="lazyload" data-srcset="{{ doc.image.url }}" alt="{{ doc.image.alt }}"></a>
   </div>
   <div class="col span_8_of_12 matchheight">
+  	<div class="desktop-inset-left">
     <h2>{{ doc.supertitle | escape }}</h2>
     <h3>{{ doc.title | escape }}</h3>
     {% if doc.subtitle %}<p class="subtitle">{{ doc.subtitle }}</p>{% endif %}
+	</div>
   </div>
 </div>
 {{ doc.content | replace: "$contentUrl", doc.contentUrl | markdownify }}

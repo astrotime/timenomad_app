@@ -3,37 +3,7 @@ layout: default-home
 ---
 
 <div class="post" itemscope itemtype="http://schema.org/SoftwareApplication"><meta itemprop="name" content="{{ site.title | escape }}"><meta itemprop="operatingSystem" content="{{ site.structured_data.softwareApplication.operatingSystem }}"><meta itemprop="applicationCategory" content="{{ site.structured_data.softwareApplication.applicationCategory }}"><meta itemprop="datePublished" content="{{ page.seo.datePublished }}"><meta itemprop="dateModified" content="{{ page.seo.dateModified }}"><span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><span itemprop="category" content="{{ site.structured_data.softwareApplication.offers.category }}"></span><span itemprop="price" content="{{ site.structured_data.softwareApplication.offers.price }}"></span><span itemprop="priceCurrency" content="{{ site.structured_data.softwareApplication.offers.priceCurrency }}"></span></span>
-  
-  {% comment %}
-  {%- if page.title -%}
-    <h2 class="page-heading">{{ page.title }}</h2>
-  {%- endif -%}
-  {% endcomment %}
-
-  {{ content }}
-
-  {% comment %}
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading space-before">{{ page.list_title | default: "Recent posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-  {% endcomment %}
-
+{{ content }}
 </div>
+
+{% include related-posts.html header="Recent astrological stories…"%}
