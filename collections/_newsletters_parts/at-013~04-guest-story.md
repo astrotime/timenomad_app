@@ -15,7 +15,7 @@ authorProfile: >
   Founder of <a href="https://gemsinstyle.com">Gems In Style Jewellery</a>
 ---
 
-**Everything is relative!** Our perception depends on the angle we take to look at things. Go a bit deeper and change the angle… what looked grey before may suddenly explode with an “Aurora Borealis” luminance simply because you allowed the light to penetrate the surface.
+**Everything is relative!** Our perception depends on how we choose to look at things. Go a bit deeper and change the angle… what looked grey before may suddenly explode with an “Aurora Borealis” luminance simply because you allowed the light to penetrate the surface.
 
 The synergy of the two celestial planetary archetypes — **Mercury and the Moon** — is perfectly captured by Labradorite gemstone. You can facilitate the connection with these transformative energies in your life by working with this gemstone.
 
