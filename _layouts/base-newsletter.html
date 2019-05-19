@@ -5,6 +5,12 @@
 
   <body>
 
+    {%- include header.html -%}
+
+    {%- if page.path contains 'newsletter' -%}
+    {%- include skybar.html bar="newsletterPromo" -%}
+    {%- endif -%}
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}

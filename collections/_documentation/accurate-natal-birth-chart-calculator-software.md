@@ -15,17 +15,15 @@ twitter:
   card: summary_large_image
   image: /images/summary-cards/time-nomad-card.jpg
 schema:
-  image:
+  images:
     alt: Natal or birth chart calculator
-    url_1x1: /images/schema/time-nomad-docs-natal-chart-calculator-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-docs-natal-chart-calculator-1x1.jpg
+    width: 760
+    height: 760
 ---
 
-<img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-natal-chart-calculator-1x1.jpg" alt="Natal chart calculator">
-
 An accurate astrological **natal chart**, also known as a birth chart, is built by performing precise astronomical calculations of planetary positions using fast software algorithms.
-
-<div class="float-clear-hair"></div>
 
 Time Nomad is an advanced astrological software that ensures **accurate birth chart** calculations. The app can also build precise astrological charts for any given date **within nearest centuries**, right from the convenience of your pocket.
 

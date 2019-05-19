@@ -19,9 +19,9 @@ layout: default
     {%- if site.structured_data.publisher -%}
       <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
     {%- endif -%}
-    {%- if page.schema.image -%}
+    {%- if page.schema.image_1x1 -%}
       {%- assign image = page.schema.image -%}
-      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+      <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
     {%- elsif page.image -%}
       <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: page.image }}"></span>
     {%- endif -%}
@@ -53,10 +53,11 @@ layout: default
           <span class="byline-item" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><meta itemprop="name" content="{{ site.structured_data.publisher.name }}"><span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: site.structured_data.publisher.logo.url }}"><meta itemprop="width" content="{{ site.structured_data.publisher.logo.width }}"><meta itemprop="height" content="{{ site.structured_data.publisher.logo.height }}"></span></span>
         {%- endif -%}
 
-        {%- assign image = post.schema.image -%}
+        {%- assign image = post.schema.image_1x1 -%}
+        {%- assign imageAlt = post.schema.images.alt -%}
         {%- if image -%}
-        <a class="post-link" href="{{ post.url | relative_url }}" itemprop="url"><img class="doc-thumb" src="{{ site.url | append: image.url_1x1 }}" alt="{{ image.alt }}"></a>
-        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url_1x1 }}"><meta itemprop="width" content="{{ image.size_1x1 }}"><meta itemprop="height" content="{{ image.size_1x1 }}"></span>
+        <a class="post-link" href="{{ post.url | relative_url }}" itemprop="url"><img class="doc-thumb" src="{{ site.url | append: image.url }}" alt="{{ imageAlt }}"></a>
+        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
         {%- endif -%}
 
         <h3 itemprop="headline">

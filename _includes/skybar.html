@@ -2,6 +2,10 @@
 	{% case include.bar %} 
 	{% when 'appPromo' %}
 	<p class="blink-blink">Time Nomad is a FREE powerful astrological app for iPhone and iPad. <a href="/" target="_blank">Learn&nbsp;more</a> or <a href="https://itunes.apple.com/us/app/{{ include.appname }}" target="_blank">get&nbsp;it&nbsp;on&nbsp;the&nbsp;App&nbsp;Store</a></p>
+	{% when 'newsletterPromo' %}
+	<div class="wrapper">
+		<p class="blink-blink"><em>Astrology Today</em> is a regular newsletter with a mission to cover recent astrological news and <strong>extend your astrological knowledge</strong>.<br><a href="#mc_embed_signup">Subscribe</a> to receive fresh astrological updates in your mailbox.</p>
+	</div>
 	{% else %}
 	{% comment %}Add more...{% endcomment %}
 	{% endcase %}

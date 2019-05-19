@@ -32,11 +32,14 @@ layout: default
       {%- if page.comments == true and site.data.comments[page.slug].size > 0 -%}
         <span class="byline-item"><a href="#comments"><svg class="icon icon--stopwatch" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-comments' | prepend: 'assets/' | relative_url }}"></use></svg>{{ site.data.comments[page.slug] | size }}&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></span>
       {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
 
       <div class="container post-intro-box">
         <div class="row">
           <div class="col-6">
-              <img class="lazyload" data-src="{{ page.schema.image_1x1.url }}" alt="page.schema.images.alt">
+              <img class="lazyload" data-src="{{ page.schema.image_1x1.url }}" alt="{{ page.schema.images.alt }}">
           </div>
           <div class="col-6">
               <div class="desktop-inset-left">
@@ -46,9 +49,6 @@ layout: default
         </div>
       </div>
 
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 

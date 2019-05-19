@@ -15,17 +15,13 @@ twitter:
   card: summary_large_image
   image: /images/summary-cards/time-nomad-card.jpg
 schema:
-  image:
+  images:
     alt: Astrological aspects and transits calculator
-    url_1x1: /images/schema/time-nomad-docs-fixed-stars-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-docs-fixed-stars-1x1.jpg
+    width: 760
+    height: 760
 ---
-
-<img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-fixed-stars-1x1.jpg" alt="Fixed stars in astrology">
-
-**Fixed stars astrology** adds an extra layer of precise information to your natal chart or any other astrological chart for specific time and place. Learn how to work with the fixed stars using Time Nomad — **enrich your chart interpretations** with very specific knowledge of stellar influences.
-
-<div class="float-clear-hair"></div>
 
 Time Nomad offers a **“Fixed Stars” tool** that was carefully designed to be a valuable calculator of the fixed stars zodiacal positions and their aspects with planets and points on any astrological chart.
 

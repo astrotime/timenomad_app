@@ -15,17 +15,13 @@ twitter:
   card: summary_large_image
   image: /images/summary-cards/time-nomad-card.jpg
 schema:
-  image:
+  images:
     alt: Planetary hours calculator
-    url_1x1: /images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg
+    width: 760
+    height: 760
 ---
-
-<img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg" alt="Planetary hours calculator">
-
-Learn how to use planetary hours calculator, planetary hours alarm and other tools to work with planetary days of the week.
-
-<div class="float-clear-hair"></div>
 
 ## Using Planetary Hours calculator
 

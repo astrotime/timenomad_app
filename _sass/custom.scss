@@ -26,7 +26,7 @@ $imagedir:'/images/';
 /**
  * Skybar is a banner under the navigation
  */
-skybar#appPromo {
+skybar#appPromo, skybar#newsletterPromo {
   //width: 100%;
   // position: fixed;
   // z-index: 999;
@@ -566,6 +566,7 @@ li {
   background-color: $lighter-gray; 
   border: 1px solid $dark-gray;
   padding: 8px 8px 8px 16px;
+  margin-bottom: 32px;
 
   p {
     font-size: $type-size-4;

@@ -15,13 +15,13 @@ twitter:
   card: summary_large_image
   image: /images/summary-cards/time-nomad-card.jpg
 schema:
-  image:
+  images:
     alt: Astrological aspects and transits calculator
-    url_1x1: /images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg
-    size_1x1: 760
+  image_1x1:
+    url: /images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg
+    width: 760
+    height: 760
 ---
-
-<img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg" alt="Astrological chart explorer">
 
 Time Nomad offers precise calculations of timing for the most important astrological and astronomical events. The calculations can be applied to birth chart, chart of transits and, generally speaking, chart for any date and time for any given geographical location.
 
