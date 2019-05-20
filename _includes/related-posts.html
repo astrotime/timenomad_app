@@ -14,37 +14,78 @@
 	{% endif %}
 {%- endfor -%}
 
-<aside class="related-posts">
-	<h1>{{ header }}</h1>
-
+{% case include.mode %} 
+{% when 'newsAndPosts' %}
+<aside id="latest-news-related-posts" class="latest-news-related-posts">
 	<div class="section group">
-	{%- for idx in (0..2) -%}
-		{% assign url = urls[idx] %}
-		{% assign post = site.posts | where: "url", url | first %}
-	  <div class="col span_4_of_12 matchheight">
-	  	<a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="post.schema.images.alt"></a>
-		  <div>
-		    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-		    <p>{{ post.description }}</p>
-		  </div>
+	  <div class="col span_6_of_12 matchheight">
+	  	<div class="box">
+	  		<div class="news-thumb"><a href="/newsletters/2019-05-17-astrology-today-issue-013.html"><img class="lazyload border-gray" data-src="/images/schema/astrology-today-013-venus-uranus-conjunction_1x1.jpg" alt="Astrology Today, astro news update, issue 013, Venus Uranus conjunction"></a></div>
+	  		<div class="news">
+	  			<h2>Fresh issue of <em>Astrology Today</em></h2>
+	  			<p>Love in the time of Venus–Uranus conjunction • Emotion vs reason during this Full Moon… <a href="/newsletters/2019-05-17-astrology-today-issue-013.html">read the newsletter</a></p>
+	  		</div>
+	  	</div>
 	  </div>
-	{%- endfor -%}
-	</div>
-
-	<div class="section group">
-	{%- for idx in (3..5) -%}
-		{% assign url = urls[idx] %}
-		{% assign post = site.posts | where: "url", url | first %}
-	  <div class="col span_4_of_12 matchheight">
-	  	<a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="post.schema.images.alt"></a>
-		  <div>
-		    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-		    <p>{{ post.description }}</p>
-		  </div>
+	  <div class="col span_6_of_12 matchheight">
+	  	<div class="posts">
+	  		<h2>Featured stories you may like</h2>
+	  	</div>
+	  	<div class="box">
+	  	{%- for idx in (0..3) -%}
+			{% assign url = urls[idx] %}
+			{% assign post = site.posts | where: "url", url | first %}
+				<div class="post-thumb"><a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a></div>
+			{%- endfor -%}
+	  	</div>
+	  	{% comment %}
+	  	<div class="posts">
+	  		<p>
+		  	{%- for idx in (0..3) -%}
+				{% assign url = urls[idx] %}
+				{% assign post = site.posts | where: "url", url | first %}
+		  	{{ post.title }} • 
+				{%- endfor -%}
+				</p>
+	  	</div>
+			{% endcomment %}
 	  </div>
-	{%- endfor -%}
 	</div>
-
-	<h3><a href="/posts/">Alternatively, browse all available stories…</a></h3>
-
 </aside>
+
+{% else %}
+	<aside id="related-posts" class="related-posts">
+		<h1>{{ header }}</h1>
+
+		<div class="section group">
+		{%- for idx in (0..2) -%}
+			{% assign url = urls[idx] %}
+			{% assign post = site.posts | where: "url", url | first %}
+		  <div class="col span_4_of_12 matchheight">
+		  	<a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a>
+			  <div>
+			    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+			    <p>{{ post.description }}</p>
+			  </div>
+		  </div>
+		{%- endfor -%}
+		</div>
+
+		<div class="section group">
+		{%- for idx in (3..5) -%}
+			{% assign url = urls[idx] %}
+			{% assign post = site.posts | where: "url", url | first %}
+		  <div class="col span_4_of_12 matchheight">
+		  	<a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a>
+			  <div>
+			    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+			    <p>{{ post.description }}</p>
+			  </div>
+		  </div>
+		{%- endfor -%}
+		</div>
+
+		<h3><a href="/posts/">Alternatively, browse all available stories…</a></h3>
+	</aside>
+{% endcase %}
+

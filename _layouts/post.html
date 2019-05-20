@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+{% include related-posts.html mode="newsAndPosts" exclude=page %}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/Article">
 
   <header class="post-header">
@@ -66,4 +69,4 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
-{% include related-posts.html exclude=page header="You may be also interested in other astrological stories…"%}
+{% include related-posts.html exclude=page header="You may be also interested in other astrological stories…" %}

@@ -20,6 +20,15 @@ schema:
 
 <h1 class="post-title p-name" itemprop="name headline" style="margin-top: 30px;">Astrology Today</h1>
 
-Astrology Today is a regular newsletter published by Time Nomad that covers recent astrological news.
+_Astrology Today_ is a bi-weekly newsletter published by the creator of Time Nomad, powerful and FREE astrological app for iPhone and iPad. The main points of difference:
 
-[Subscribe](#mc_embed_signup) and receive fresh astrological updates on what is happening in the sky and extend your astrological knowledge — a great and entertaining way to lean more with each issue. 
+* Covers current and upcoming **astrological events**.
+* Offers no-nonsence and **jargon-free explanations**.
+* Aims to make **you learn something new** each time.
+* Balanced to be **entertaining** vs academic sounding.
+
+Simply put, the newsletter is not trying to behave like a  clever and hard-to-understand-expert astrologer. It doesn’t use exotic words and terms that only few incumbents understand. The newsletter is a down-to-earth source of astrological news and knowledge for the rest of us — without being simplistic or shallow.
+
+> _Astrology Today_ strives to **provide value** to each of its readers!
+
+[Subscribe to the newsletter](#mc_embed_signup) (don’t forget to <span style="color: red;">periodically check your junk</span> folder, sometimes the initial issue lands there) and receive fresh astrological updates on what is happening in the sky and extend your astrological knowledge — a great and entertaining way to lean a bit more with each issue.
