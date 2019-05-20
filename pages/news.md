@@ -20,7 +20,7 @@ schema:
 
 <h1 class="post-title p-name" itemprop="name headline" style="margin-top: 30px;">Astrology Today</h1>
 
-_Astrology Today_ is a bi-weekly newsletter published by the creator of Time Nomad, powerful and FREE astrological app for iPhone and iPad. The main points of difference:
+_Astrology Today_ is a bi-weekly **newsletter** published by the creator of the [Time Nomad app](/). The main points of difference:
 
 * Covers current and upcoming **astrological events**.
 * Offers no-nonsence and **jargon-free explanations**.
