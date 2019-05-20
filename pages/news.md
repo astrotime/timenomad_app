@@ -31,4 +31,4 @@ Simply put, the newsletter is not trying to behave like a  clever and hard-to-un
 
 > _Astrology Today_ strives to **provide value** to each of its readers!
 
-[Subscribe to the newsletter](#mc_embed_signup) (don’t forget to <span style="color: red;">periodically check your junk</span> folder, sometimes the initial issue lands there) and receive fresh astrological updates on what is happening in the sky and extend your astrological knowledge — a great and entertaining way to lean a bit more with each issue.
+[Subscribe to the newsletter](#mc_embed_signup) (don’t forget to <span style="color: red;">periodically check your junk</span> folder, sometimes the initial issue lands there) and receive fresh astrological updates on what is happening in the sky and extend your astrological knowledge — a great and entertaining way to **learn a bit more with each issue**.
