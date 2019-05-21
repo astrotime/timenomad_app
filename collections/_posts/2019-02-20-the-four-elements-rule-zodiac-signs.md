@@ -21,7 +21,7 @@ schema:
     height: 760
 ---
 
-Each of the twelve Zodiac signs are traditionally said to be ruled by one of the four alchemical Elements — Fire, Earth, Water or Air. This approach divides the whole Zodiac wheel into four groups of three signs — four Fiery signs, four Earthy signs, four Watery signs and four Airy signs.
+Each of the twelve Zodiac signs are traditionally said to be ruled by one of the four alchemical Elements — Fire, Earth, Water or Air. This approach divides the Zodiac wheel into four groups of three signs — four Fiery signs, four Earthy signs, four Watery signs and four Airy signs.
 
 It is simple and natural to think along the lines:
 
@@ -137,7 +137,7 @@ Each triplicity corresponds to one of the Elements. The Zodiac signs within each
 
 An interesting observation is that this time fire starts with Aries, how come? It does make sense since Aries, being the sign of vernal Equinox, marks the beginning of spring when the fire of the Sun starts to melt frozen waters. The sign of Leo, or rather Leo – Cancer boundary, marks the culmination of the movement of fire.
 
-## The two lines to remember
+## Two lines to remember
 
 A good reflection that follows out of this story is that in astrology we tend to mostly take the Aries – Pisces division as the foundational “zero” point. Bringing the Leo – Cancer dividing line into our awareness enables astrologers to fully address the notions of unity and duality — as well as masculine – feminine dialectic of cosmic creative principles behind any astrological chart.
 

@@ -35,20 +35,11 @@
 	  	{%- for idx in (0..3) -%}
 			{% assign url = urls[idx] %}
 			{% assign post = site.posts | where: "url", url | first %}
-				<div class="post-thumb"><a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a></div>
+				<div class="post-thumb"><div><a href="{{ post.url | relative_url }}"><img class="lazyload border-gray" data-src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a></div>
+				<div><p class="line-clamp">{{ post.title }}</p><p class="act line-clamp"><a href="{{ post.url | relative_url }}">Read…</a></p></div>
+				</div>
 			{%- endfor -%}
 	  	</div>
-	  	{% comment %}
-	  	<div class="posts">
-	  		<p>
-		  	{%- for idx in (0..3) -%}
-				{% assign url = urls[idx] %}
-				{% assign post = site.posts | where: "url", url | first %}
-		  	{{ post.title }} • 
-				{%- endfor -%}
-				</p>
-	  	</div>
-			{% endcomment %}
 	  </div>
 	</div>
 </aside>
