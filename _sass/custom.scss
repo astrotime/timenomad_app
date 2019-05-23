@@ -55,6 +55,13 @@ skybar#appPromo, skybar#newsletterPromo {
   }
 }
 
+@include media-query($on-palm) {
+  skybar#appPromo, skybar#newsletterPromo {
+    line-height: 140%;
+    font-size: $type-size-5;
+  }
+}
+
 .blink-blink {
     animation-duration: 2s;
     animation-name: skybarblink;
@@ -718,11 +725,21 @@ aside.latest-news-related-posts {
   }
 }
 
+// Special case; 600...800px also needs smaller text boxes
+@media screen and (min-width: 600px) and (max-width: 800px) {
+  aside.latest-news-related-posts {
+    .line-clamp {
+      max-width: 60px;
+    }
+  }
+}
+
 @include media-query($on-palm) {
   aside.latest-news-related-posts {
     .box {
       div.news-thumb {
-        //max-width: 25%;
+        max-width: 40%;
+        min-width: 40%;
       }
     }
     div.posts {
@@ -732,8 +749,7 @@ aside.latest-news-related-posts {
     }
 
     .line-clamp {
-      //display: none;
-      max-width: 50px;
+      max-width: 60px;
     }
   }
 }
