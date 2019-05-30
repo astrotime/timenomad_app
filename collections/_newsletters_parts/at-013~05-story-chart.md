@@ -30,7 +30,7 @@ This one is fun! **Uranus demands originality** and when it comes to Venus and i
 
 As much as **Venus loves romance and beauty**, Uranus likes to add an unconventional twist to pretty much everything it touches. Both **humorous and erratic, Uranus** is unpredictable by its very nature.
 
-Venus–Uranus conjunction may equally signify a beginning of a **new and unusual relationship** as well as a **sudden break up of existing partnerships** (and not only love-based ones) due to sudden Uranian glitch or seemingly minor problem amplified to the extreme by the most unconventional of planets. 
+Venus–Uranus conjunction may equally signify a beginning of a **new and unusual relationship** as well as a **sudden break up of existing partnerships** (and not only love-based ones) due to an unexpected Uranian glitch or seemingly minor problem amplified to the extreme by the most unconventional of planets. 
 
 Every person who has strong **Uranus energy is revolutionary and independent** at their core. And if you are on the “receiving end” then a better strategy is to **embrace your partner’s eccentricity** and erratic traits rather than try to correct them. Uranus gets electrified very quickly by to any seemingly minor friction. Well, it always thrives on unexpected and the best attitude is to **introduce humour**. Uranus people love witty and sharp humour, that’s where **Venusian creative flair** can make real miracles when it comes to either romantic relationship or a business partnership.
 

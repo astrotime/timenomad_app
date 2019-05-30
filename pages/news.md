@@ -3,7 +3,7 @@ layout: news
 title: News
 permalink: /news/
 date: 2019-04-21 12:00:00 +1000
-modified: 2019-04-21 12:00:00 +1000
+modified: 2019-05-31 12:00:00 +1000
 description: Astrological news and analysis.
 image: /images/summary-cards/time-nomad-card.png
 list_title: Archive of the most recent newsletters

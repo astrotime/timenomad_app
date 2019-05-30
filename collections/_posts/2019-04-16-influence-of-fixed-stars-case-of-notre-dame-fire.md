@@ -398,6 +398,9 @@ While we don’t believe that it’s possible to astrologically forecast an even
 
 The fixed stars provide an extremely valuable additional layer of astrological information that allows to further “connect the dots” and peek deeper into the astrological workings and symbolism behind every significant event in this world.
 
+If you are interested in learning more about the fixed stars then jump to 
+[“Understanding the role of Fixed Stars in astrology”]({% post_url 2019-05-03-fixed-stars-in-astrology%}) story that  dives deeper into what makes the fixed stars so special.
+
 <div class="container doc-ref-box">
   <div class="row">
     <div class="col-3">
