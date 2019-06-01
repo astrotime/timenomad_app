@@ -48,7 +48,7 @@ seo:
 
 ## Why Time Nomad is so convenient?
 
-Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning and interpretation. The app is a perfect companion for astrologers of any level — from **a student who is beginning to learn astrology to a professional astrologer** offering clients' charts reading and using prediction techiniques.
+Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning and interpretation. The app is a perfect companion for astrologers of any level — from **a student who is beginning to learn astrology to a professional astrologer** offering clients’ charts reading and using prediction techniques.
 
 Time Nomad keeps you in touch with ever changing configuration of planets, minor bodies and asteriods. It’s a modern astrological tool designed to be in your pocket and give you **answers in real time**. Astronomical and astrological information is presented in unadorned, concise yet expressive manner to help you see the bigger picture.
 
