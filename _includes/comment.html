@@ -33,12 +33,26 @@
       <a rel="nofollow" href="#comment-{{ include.index }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index }}', 'respond', '{{ page.slug }}')"><svg class="icon icon--reply" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-reply' | prepend: 'assets/' | relative_url }}"></use></svg> Reply to {{ include.name }}</a>
     </div>
   {% endunless %}
+  {% comment %}Add reply at end of thread{% endcomment %}{% if include.replying_to > 0 and global_scope_replies_size == include.index2 %}
+    <div class="comment-reply">
+      <a rel="nofollow" href="#comment-{{ include.index1 }}" onclick="return addComment.moveForm('comment-{{ include.index }}', '{{ include.index1 }}', 'respond', '{{ page.slug }}')"><svg class="icon icon--reply" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-reply' | prepend: 'assets/' | relative_url }}"></use></svg> Reply to thread started by {{ global_scope_name }}</a>
+    </div>
+  {% endif %}
 </article>
 
 {% capture i %}{{ include.index }}{% endcapture %}
 {% assign replies = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1].replying_to == i' %}
+
+{% comment %}Global scope: https://github.com/jekyll/jekyll/issues/7080{% endcomment %}
+{% unless include.scoped %}
+    {% assign global_scope_name = include.name %}
+    {% assign global_scope_replies_size = replies | size %}
+{% endunless %}
+
 {% for reply in replies %}
   {% assign index       = forloop.index | prepend: '-' | prepend: include.index %}
+  {% assign index1       = include.index %}
+  {% assign index2       = forloop.index %}
   {% assign replying_to = reply[1].replying_to | to_integer %}
   {% assign avatar      = reply[1].avatar %}
   {% assign email       = reply[1].email %}
@@ -46,5 +60,5 @@
   {% assign url         = reply[1].url %}
   {% assign date        = reply[1].date %}
   {% assign message     = reply[1].message %}
-  {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message %}
+  {% include comment.html index=index replying_to=replying_to avatar=avatar email=email name=name url=url date=date message=message scoped=true index1=index1 index2=index2 %}
 {% endfor %}
