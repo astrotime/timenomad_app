@@ -59,7 +59,7 @@ layout: default
 
         {%- assign image = item.schema.image -%}
         {%- if image -%}
-        <a class="post-link" href="{{ item.url | relative_url }}" itemprop="url"><img class="news-thumb" src="{{ site.url | append: image.url }}" alt="{{ image.alt }}"></a>
+        <a class="post-link" href="{{ item.url | relative_url }}" itemprop="url"><img class="news-thumb" src="{{ site.url | append: image.url }}" alt="{{ item.schema.images.alt }}"></a>
         <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="{{ site.url | append: image.url }}"><meta itemprop="width" content="{{ image.width }}"><meta itemprop="height" content="{{ image.height }}"></span>
         {%- endif -%}
         <div class="post-meta">

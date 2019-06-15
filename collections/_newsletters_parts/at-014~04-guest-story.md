@@ -1,6 +1,6 @@
 ---
 layouter: newsletter-guest-story.html
-supertitle: Discovering planetary energies
+supertitle: Discovering sacred geometry
 title: The Power of Circle – Sacred Geometry in Jewellery
 contentUrl: https://gemsinstyle.com/blogs/news/the-power-of-circle-sacred-geometry-in-jewellery
 image:
