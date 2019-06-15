@@ -11,8 +11,8 @@ authorImage:
   url: /images/newsletter-authors/lara-gems.png
 authorProfile: >
   Lara Gems,<br>
-  Gemstone Strategist and<br>
-  Founder of <a href="https://gemsinstyle.com">Gems In Style Jewellery</a>
+  Gemstone Strategist and Founder of <a href="https://gemsinstyle.com">Gems In Style Jewellery</a><br>
+  Learn more on <a href="https://www.instagram.com/gemsinstyle/" target="_blank">Instagram</a> &bull; <a href="https://www.facebook.com/gemsinstyle/" target="_blank">Facebook</a>
 ---
 
 Would you agree that the **complexity of this world sometimes feels overwhelming**? We, humans, more than often find ourselves trapped in our own thoughts and emotions, not to mention the entangled nature of our physical existence.
