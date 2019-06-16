@@ -35,8 +35,8 @@ Astrological calculations of natal charts are **performed instantly** and do not
 
 Before a birth chart can be build, the software needs to know a few basic facts:
 
-– place of your birth
-– local date and time of your birth
+* place of your birth
+* local date and time of your birth
 
 The software will attempt to calculate UTC time that corresponds to the local time of your birth. UTC or Universal Coordinated Time is time at Greenwich meridian in the UK. This means that UTC time is almost never the same as your local time, even if you were born in London! That’s because London belongs to a specific time zone that may have DST applied. On the other hand, UTC time is “pure” and universal for the whole of planet Earth with no daylight saving applied.
 
@@ -52,11 +52,7 @@ The profiles are organised into a few broad categories: people, companies, world
 
 To create a new personal profile, use the “+” menu in the top left corner.
 
-If you wish to edit, delete or rearrange existing profiles, use “Edit library” button as illustrated below.
-
-<img class="lazyload" data-srcset="/images/docs/astrological-profile-creation-02.jpg 1x, /images/docs/astrological-profile-creation-02@2x.jpg 2x" alt="Astrological profiles action menu">
-
-The screen below shows the form for the personal profile. You will need to fill out short name, tell the app the place of your birth and date and time of your birth.
+The screen below shows the form for a personal profile creation. You will need to fill out short name (full name is optional), then tell the app the place of your birth and date and time of your birth.
 
 <img class="lazyload" data-srcset="/images/docs/astrological-profile-creation-03.jpg 1x, /images/docs/astrological-profile-creation-03@2x.jpg 2x" alt="Astrological profile creation">
 
@@ -81,6 +77,22 @@ Once on the “Current Location” screen, choose from a few geographic options 
 <img class="lazyload" data-srcset="/images/docs/astrological-profile-geographic-location-02.jpg 1x, /images/docs/astrological-profile-geographic-location-02@2x.jpg 2x" alt="Geographic location form">
 
 Note that you can also enter numeric geographic coordinates, meaning latitude and longitude of the place.
+
+## Editing, deleting and rearranging profiles
+
+In the future you will likely need to edit, delete or rearrange existing profiles. This functionality can be found behind the “Edit library” button as illustrated below.
+
+<img class="lazyload" data-srcset="/images/docs/astrological-profile-creation-02.jpg 1x, /images/docs/astrological-profile-creation-02@2x.jpg 2x" alt="Astrological profiles action menu">
+
+Once in the “Edit library” view, you can:
+
+* **delete a profile** by swiping it to the left
+* **edit a profile** by tapping “Edit” button
+* **rearrange profiles** by using “Manage” button in the top right corner
+
+The screenshot below illustrates the actions that you can take to edit, delete and change the order of your astrological profiles.
+
+<img class="lazyload" data-srcset="/images/docs/astrological-profile-editing-01.jpg 1x, /images/docs/astrological-profile-editing-01@2x.jpg 2x" alt="Editing, deleting and rearranging astrological profiles">
 
 ## Working with the natal chart
 
