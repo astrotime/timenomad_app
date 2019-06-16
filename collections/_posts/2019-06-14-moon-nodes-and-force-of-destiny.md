@@ -12,7 +12,7 @@ schema:
   images:
     alt: Dragon crossing lunar crescent against starry backdrop
   image:
-    url: /images/og/og-time-nomad-post-20190530-minor-aspects-and-magic.jpg
+    url: /images/og/og-time-nomad-post-20190614-moon-nodes-and-force-of-destiny.jpg
     width: 1200
     height: 630
   image_1x1:
