@@ -18,7 +18,7 @@ On the fiery side, **Mars is felt strongly** a few times during this period. Its
 
 ### Lunar nodes bring eclipses
 
-Every time a New Moon happens in the vicinity of one of the lunar nodes, a **solar eclipse takes place**. What kind of influence solar eclipse makes is never fully clear until we experience it. 
+Every time a New Moon happens in the vicinity of one of the lunar nodes, [a solar eclipse takes place](/posts/astrology/philosophy/2019/06/14/moon-nodes-and-force-of-destiny.html). What kind of influence solar eclipse makes is never fully clear until we experience it. 
 
 With so many planets on the lunar nodes, the upcoming total solar eclipse of July 2 does not look like an easy event. The chart appears to be **tense like a violin string**:
 
@@ -26,7 +26,7 @@ With so many planets on the lunar nodes, the upcoming total solar eclipse of Jul
 * Mars square Uranus pierces Mercury with its aggressive electricity
 * both luminaries are opposed to Saturn–Pluto along the nodes lines
 
-What can possibly go wrong? 
+**What can possibly go wrong?**
 
 <img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-07-04.png" alt="Astrological chart for the 4th of July 2019, New York, Saturn on the South Node">
 
