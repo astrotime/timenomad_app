@@ -2,7 +2,7 @@
 {% assign doc=include.doc %}
 <div class="newsl-section line-top">
 <h2>{{ doc.supertitle | escape }}</h2>
-<h3>{{ doc.title | escape }}</h3>
+<h3 id="{{ doc.title | slugify }}">{{ doc.title }}</h3>
 
 {{ doc.content | markdownify }}
 
