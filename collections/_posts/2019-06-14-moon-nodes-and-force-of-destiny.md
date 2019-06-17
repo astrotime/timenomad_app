@@ -36,7 +36,7 @@ Before one can find an answer to the question _“what does my future hold for m
     </div>
     <div class="col-9">
       <div class="row">
-        <h4>Extra case study: The 4th of July — judgement of Saturn on the South Node</h4>
+        <h4>Extra case study: The 4th of July, 2019 — judgement of Saturn on the South Node</h4>
         <p>Saturn on the South Node is a potent symbol of a ticking clock reaching a milestone, learn more about <a href="/newsletters/2019-06-16-astrology-today-issue-015.html#the-4th-of-july-judgement-of-saturn-on-the-south-node">what’s so special about this Independence Day</a>.</p>
       </div>
     </div>
