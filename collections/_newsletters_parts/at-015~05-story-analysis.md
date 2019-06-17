@@ -6,11 +6,7 @@ title: "The 4th of July: Judgement of Saturn on the South Node"
 
 <img class="lazyload inline" data-src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node" style="max-width: 50%; margin-right: 1em;">
 
-The main drama of the second half of June and first half of July will unfold itself along the lunar nodal line and the planets that are **crossing this line**:
-
-* Mars on June 17
-* Saturn on July 4
-* the Sun on July 9
+A major astrological storm of the second half of June and first half of July unfolds itself along the lunar nodal line and the planets that are **crossing this line**: **Mars** on June 17, **Saturn** on July 4 and **the Sun** on July 9.
 
 The Northern Solstice is happening on June, 21 and is going to be a special moment with **Venus–Jupiter opposition forming a convincing T-square with Neptune** retrograde. There is certainly something in this formation, yet it’s not easy to pinpoint exact specifics… it goes really well with anything Neptune-related. Venus–Jupiter opposition is favourable for artistic and spiritual pursuits and Neptune square can certainly inject some galactic inspiration. On the other hand having both Neptune and Jupiter retrograde may not manifest things in a clearly understood way. Yes, one may intuitively feel that something has shifted yet it’s too subtle and remote for daily awareness to capture the movement’s essence. The solstice could provide a **favourable time window for meditative silence** and letting go expectations, allowing for a greater truth to emerge by itself.
 
