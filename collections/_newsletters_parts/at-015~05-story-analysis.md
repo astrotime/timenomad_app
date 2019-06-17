@@ -4,6 +4,8 @@ supertitle: Astrological Commentary
 title: "The 4th of July: Judgement of Saturn on the South Node"
 ---
 
+<img class="lazyload inline" data-src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node" style="max-width: 50%; margin-right: 1em;">
+
 The main drama of the second half of June and first half of July will unfold itself along the lunar nodal line and the planets that are **crossing this line**:
 
 * Mars on June 17

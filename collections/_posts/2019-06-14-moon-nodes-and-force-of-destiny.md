@@ -27,6 +27,23 @@ The North Node and the South Node of the Moon are known to deal with the notion 
 
 Before one can find an answer to the question _“what does my future hold for me?”_, one needs to look back in time — all things of the future have their roots in the past. That is why we should begin this story by looking at the past of the nodes themselves… 
 
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img class="lazyload post-icon" data-src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h4>Extra case study: The 4th of July — judgement of Saturn on the South Node</h4>
+        <p>Saturn on the South Node is a potent symbol of a ticking clock reaching a milestone, learn more about <a href="/newsletters/2019-06-16-astrology-today-issue-015.html#the-4th-of-july-judgement-of-saturn-on-the-south-node">what’s so special about this Independence Day</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
+
 ## The ancient times of Babylon and the discovery of the “saros” period
 
 It is likely that the ancient Babylonians have discovered the existence of the lunar nodes by keeping track of solar and lunar eclipses, perhaps spanning centuries of careful observations and record keeping. 
