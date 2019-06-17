@@ -33,6 +33,9 @@ layout: default
     </div>
   </div>
 
+  <h2 class="post-list-heading space-before">Latest popular content</h2>
+  {% include related-posts.html mode="newsAndPosts" %}
+
   {%- if site.newsletters.size > 0 -%}
     <h2 class="post-list-heading space-before">{{ page.list_title | default: "Recent newsletters" }}</h2>
     {% assign sorted = site.newsletters | sort: 'date' | reverse %}
