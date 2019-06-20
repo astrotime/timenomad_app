@@ -185,24 +185,24 @@ What makes the nodes so special is their relationship to eclipses. Every time th
 
 Eclipses can only happen during either **solar-lunar conjunction** (the New Moon) or **solar-lunar opposition** (the Full Moon) when the connection between the Sun, the Moon and the Earth is interrupted. 
 
-Thus eclipses always carry a **potential for disturbance** of the flow of life that is the Moon domain of influence, or the creative flow expressed by the Sun’s energy. Not all eclipses are necessary “bad” and cause calamities. Mostly they are quite harmless but some rare eclipses do introduce breaking points of a certain kind, depending on configuration of other significant planets.
+Thus eclipses always carry a **potential for disturbance** of the flow of life that is the Moon‘s domain of influence, or the creative flow expressed by the Sun’s energy. Not all eclipses are necessary “bad” and cause calamities. Most eclipses are quite harmless but some rare ones are powerful enough to introduce breaking points of a certain kind, depending on configuration of other significant planets.
 
-Keeping this in mind helps to see the **lunar nodes as powerful points that are mostly “asleep”** but when awake bring about changes and breakages. Just like in the symbolism of the sleeping dragon, a powerful sleeping force that unleashes volleys of fire when awaken.
+Keeping this in mind helps to see the **lunar nodes as powerful points that are mostly “asleep”** but when awake bring about changes and breakages. Just like in the symbolism of resting dragon: a powerful sleeping force that unleashes volleys of fire when awaken.
 
 ## The lunar nodes in natal charts
 
 When interpreting natal charts, it is always beneficial to analyse the line of the nodes as a “past–future” vector relating to the **notions of fate and destiny**.
 
-Planets or points that are conjunct with the south node often mean the past — past patterns or past incarnations during which the person may have been:
+Planets or points that are conjunct with the south node often mean the past — **past patterns** or **past incarnations** during which the person may have been:
 
 * doing something, either good or bad
 * not doing, observing or indulging
 
-Action and inaction, good or bad, truth or falsehood… all equally **create a karmic imprint** that can work either for or against the person.
+Action and inaction, good or bad, truth or falsehood… all equally **create karmic imprints** that can work either for or against the person.
 
 The South Node, or Dragon’s Tail, symbolises the past from which the individual has emerged. The person’s “tail” is likely to come with some kind of “historical luggage”. 
 
-Let’s look at an example when a certain planet is conjunct to the South Node…
+Let’s look at examples when a certain planet is conjunct to the South Node…
 
 ### Planet on the South Node
 
@@ -232,14 +232,14 @@ Either way, each planet can unfold its influence in either enabling or disabling
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        <strong>The Sun conjunct to the South Node</strong> is a powerful position indicating past lives where the native was in a position of leadership perhaps being the “source of light” for many others. On the other hand their Sun may have manifested in a dictatorial and arrogant manner. A planet on the South Node shouldn’t be taken at face value, it is always an invitation for deeper research.
+        <strong>The Sun conjunct to the South Node</strong> is a powerful position indicating past lives where the native was in a position of leadership perhaps being the “source of light” for many others. On the other hand their Sun may have manifested itself in a dictatorial and arrogant manner. A planet on the South Node shouldn’t be taken at face value, it is always an invitation for deeper research.
       </div>
     </div>
   </div>
 </div>
 <div class="float-clear"></div>
 
-It is worth mentioning that the **South Node also stands for occult powers and the forces of the underworlds**. The tail of the dragon has a **Pluto connection** — being in touch with Pluto energies ensures a better understanding of the dragon’s nature.
+It is worth mentioning that the **South Node also stands for occult powers and forces of the Underworld**. The tail of the dragon has a **Pluto connection** — being in touch with Pluto energies ensures a better understanding of the dragon’s nature.
 
 ### Other influences of the South Node
 
