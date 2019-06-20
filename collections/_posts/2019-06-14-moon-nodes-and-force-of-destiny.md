@@ -50,7 +50,7 @@ It is likely that the ancient Babylonians have discovered the existence of the l
 
 The kingdom of Babylon existed a long time ago — around 18th to 6th centuries BC, or mind boggling 2,600 to 20,000 years ago from now — and was known throughout the ancient world for its rich culture and science. 
 
-Babylonian astrologers recognised a repeating and periodic nature of **solar eclipses** — **eclipses of similar strength and geometry** tended to happen at regular intervals. Measured in lunar months such an interval turned out to be **exactly 223 synodic months**. This unit of time became known as **“saros”**. 
+Babylonian astrologers recognised repeating and periodic nature of **solar eclipses** — **eclipses of similar strength and geometry** tended to happen at regular intervals. Measured in lunar months such an interval turned out to be **exactly 223 synodic months**. This unit of time became known as **“saros”**. 
 
 ```TIP: Synodic month is a time interval between two identical Moon phases, for example from one New Moon to another.```
 
