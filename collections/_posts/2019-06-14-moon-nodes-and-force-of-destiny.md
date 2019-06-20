@@ -46,11 +46,11 @@ Before one can find an answer to the question _“what does my future hold for m
 
 ## The ancient times of Babylon and the discovery of the “saros” period
 
-It is likely that the ancient Babylonians have discovered the existence of the lunar nodes by keeping track of solar and lunar eclipses, perhaps spanning centuries of careful observations and record keeping. 
+It is likely that the ancient Babylonians have discovered the existence of the lunar nodes by keeping track of solar and lunar eclipses, the observations perhaps spanning centuries of careful record keeping. 
 
 The kingdom of Babylon existed a long time ago — around 18th to 6th centuries BC, or mind boggling 2,600 to 20,000 years ago from now — and was known throughout the ancient world for its rich culture and science. 
 
-Babylonian astrologers recognised a repeating and periodic nature of both **solar eclipses** — **eclipses of similar strength and geometry** tend to happened at regular intervals. Measured in lunar months such an interval turned out to be **exactly 223 synodic months**. This unit of time became known as **“saros”**. 
+Babylonian astrologers recognised a repeating and periodic nature of **solar eclipses** — **eclipses of similar strength and geometry** tended to happen at regular intervals. Measured in lunar months such an interval turned out to be **exactly 223 synodic months**. This unit of time became known as **“saros”**. 
 
 ```TIP: Synodic month is a time interval between two identical Moon phases, for example from one New Moon to another.```
 
@@ -62,12 +62,12 @@ The word “saros” originates from the Greek σάρος that was itself borrow
 
 ## What are the Moon’s nodes
 
-The discovery of cyclical nature of eclipses — both solar and lunar — lead to understanding that the Moon itself follows some cyclical periodic movement. And since **every cycle has at least two defining points**, the idea of special moments in time has emerged:
+The discovery of cyclical nature of eclipses — both solar and lunar — has led astronomers to a realisation that the Moon itself follows a certain periodic pattern of movement. And since **every cycle has at least two defining points**, an idea of special moments in time has emerged:
 
 * the **solar eclipse** happens when the Moon is in front of the Sun
 * the **lunar eclipse** is actually trickier… 
 
-… the blood-red Moon was definitely obscured by something yet it’s likely that the ancients didn’t know that it was the Earth itself.
+… the blood-red Moon was definitely obscured by something yet it’s very likely that the ancients didn’t know that it was the Earth itself.
 
 Hyper jumping to the current time equipped with precise astronomical knowledge, we now know what the nodes are. The nodes are the two points where the Moon orbit and the Earth orbit intersect.
 
@@ -98,17 +98,17 @@ Solar eclipses only happen during the New Moon and lunar eclipses only happen du
 * a New Moon’s solar eclipse is **“super emptiness of spirit”**
 * a Full Moon’s lunar eclipse is an **“obstruction of life’s flow”**
 
-Luckily enough not every passage of the Moon through the nodes results in an eclipse! Such events are exceptions albeit regular.
+Luckily enough not every passage of the Moon through the nodes results in an eclipse!
 
 ## Every good story needs a dragon
 
 Indian astronomy gave us a striking symbol for the up-down movement of the Moon’s orbit — the dragon. 
 
-Apparently, Hindu or Vedic astrology treats the nodes rather seriously and places them among nine major planets. The **ascending node is called _Rahu_** and the **descending node is called _Ketu_**.
+Apparently, Hindu or Vedic astrology treats the nodes rather seriously and places them among the nine major planets. The **ascending node is called _Rahu_** and the **descending node is called _Ketu_**.
 
 <img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-dragon.png 1x, /images/illustrations/astrology-lunar-nodes-dragon@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon@3x.png 3x" alt="The lunar nodes as dragon’s head and tail">
 
-The Rahu-Ketu movement resembles a huge celestial serpent that moves in a wavy up and down manner and periodically swallows the Sun or the Moon. The ascending node is held responsible for swallowing the Sun while the descending node or Ketu is held responsible for the Moon eclipses. In its entirety the Rahuketu serpent is responsible for influencing the lives of the humans.
+The Rahu-Ketu movement resembles a huge celestial serpent that moves in a wavy up and down manner and periodically swallows the Sun or the Moon. The ascending node is held responsible for swallowing the Sun while the descending node is held responsible for the Moon eclipses. In its entirety the Rahuketu serpent is responsible for influencing the lives of the humans.
 
 Arab, Greek and eventually Western astrology adopted the image of the serpent-dragon and the nodes became also known as the **Dragon’s Head** and the **Dragon’s Tail**. 
 
@@ -128,7 +128,7 @@ The North Node was said to diminish negative effects of planet it’s conjunct w
 
 Quite surprisingly, the **nodes weren’t respected in the natal charts interpretations**, unless the Moon was conjunct to one of them. Aspects to the nodes weren’t taken into account either, only conjunctions did matter.
 
-The **Head of the Dragon** was considered to be be **masculine** and of nature of Jupiter and sometimes Jupiter–Venus.
+The **Head of the Dragon** was considered to be **masculine** and of nature of Jupiter and sometimes Jupiter–Venus.
 
 The **Tail of the Dragon** was considered to be… **evil** [sic] and of nature of Saturn or Saturn–Mars.
 
