@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190614
 date: 2019-06-14 12:00:00 +1000
-modified: 2019-06-14 12:00:00 +1000
+modified: 2019-06-21 12:00:00 +1000
 title: The Moon Nodes and the Force of Destiny
 description: Traditionally the lunar nodes, aka Dragon’s Head and Tail, are perceived as the indicators of forces behind the unfoldment of personal fate and destiny. Their mysterious nature and relationship with eclipses was known since ancient times yet astrologers repeatedly changed their attitudes toward the nodes’ significance and interpretation.
 categories: posts astrology philosophy
@@ -50,7 +50,7 @@ It is likely that the ancient Babylonians have discovered the existence of the l
 
 The kingdom of Babylon existed a long time ago — around 18th to 6th centuries BC, or mind boggling 2,600 to 20,000 years ago from now — and was known throughout the ancient world for its rich culture and science. 
 
-Babylonian astrologers recognised repeating and periodic nature of **solar eclipses** — **eclipses of similar strength and geometry** tended to happen at regular intervals. Measured in lunar months such an interval turned out to be **exactly 223 synodic months**. This unit of time became known as **“saros”**. 
+Babylonian astrologers recognised the repeating nature of **solar eclipses** — **eclipses of similar strength and geometry** tended to happen at regular intervals. Measured in lunar months such an interval turned out to be **exactly 223 synodic months**. This unit of time became known as **“saros”**. 
 
 ```TIP: Synodic month is a time interval between two identical Moon phases, for example from one New Moon to another.```
 
@@ -64,22 +64,22 @@ The word “saros” originates from the Greek σάρος that was itself borrow
 
 The discovery of cyclical nature of eclipses — both solar and lunar — has led astronomers to a realisation that the Moon itself follows a certain periodic pattern of movement. And since **every cycle has at least two defining points**, an idea of special moments in time has emerged:
 
-* the **solar eclipse** happens when the Moon is in front of the Sun
-* the **lunar eclipse** is actually trickier… 
+* a **solar eclipse** occurs when the Moon is in front of the Sun
+* a **lunar eclipse**… is actually trickier…
 
-… the blood-red Moon was definitely obscured by something yet it’s very likely that the ancients didn’t know that it was the Earth itself.
+… that blood-red Moon seemed to be obscured by something yet the ancients didn’t know that it was the Earth itself.
 
-Hyper jumping to the current time equipped with precise astronomical knowledge, we now know what the nodes are. The nodes are the two points where the Moon orbit and the Earth orbit intersect.
+Hyper jumping to the current time equipped with precise astronomical knowledge, we now know what the nodes are. The nodes are the two points where the Moon orbit intersects with the plane of the Earth orbit around the Sun.
 
 <img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-orbits.png 1x, /images/illustrations/astrology-lunar-nodes-orbits@2x.png 2x, /images/illustrations/astrology-lunar-nodes-orbits@3x.png 3x" alt="The lunar nodes are the points of intersection between the Earth and the Moon orbits">
 
-What’s more, every pair of orbiting cosmic bodies will have such two points. The nodes is a universal principle describing two intersecting orbits or circles. One node is called **ascending** (where the planet raises above the other’s orbital plane), another is called **descending** (where the planet dives under the other’s orbital plane).
+What’s more, every pair of orbiting cosmic bodies has such two nodal points. Orbital nodes is a universal principle describing two intersecting elliptical orbits. One node is called **ascending** (where the planet raises above the other’s orbital plane), another is called **descending** (where the planet dives beneath the other’s orbital plane).
 
 <img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-orbits-pictograms.png 1x, /images/illustrations/astrology-lunar-nodes-orbits-pictograms@2x.png 2x, /images/illustrations/astrology-lunar-nodes-orbits-pictograms@3x.png 3x" alt="The lunar nodes with pictorams on the points of intersection between the Earth and the Moon orbits">
 
 The lunar nodes is the Moon’s equivalent of solar equinoxes, see our earlier story [“Equinoxes, Solstices and the idea of universal consciousness”]({% post_url 2019-04-05-equinox-solstice-and-universal-consciousness %})
 
-When expressed in solar years saros and the two types nodal periods:
+The table below expresses saros and nodal periods (two types) in solar years and days:
 
 |---+---|
 | Period | Solar years | Days
@@ -88,15 +88,15 @@ When expressed in solar years saros and the two types nodal periods:
 | **Nodes draconic** | 18.612958 years | 6,798.383 days
 | **Nodes sidereal** | 18.599525 years
 
-Every time the Moon is in the vicinity of one of its orbital nodes it is automatically aligned with the Sun and thus either:
+If during its New Moon or Full Moon phase, the Moon happens to be travelling in the vicinity of one of its orbital nodes it is also aligned with the Earth-Sun plane and thus either:
 
 * **obscures the Sun** producing solar eclipse
 * **is obscured by the Earth** producing lunar eclipse
 
 Solar eclipses only happen during the New Moon and lunar eclipses only happen during the Full Moon. This may give some associations: 
 
-* a New Moon’s solar eclipse is **“super emptiness of spirit”**
-* a Full Moon’s lunar eclipse is an **“obstruction of life’s flow”**
+* New Moon’s solar eclipse is a **“super emptiness of spirit”**
+* Full Moon’s lunar eclipse is an **“obstruction of life’s flow”**
 
 Luckily enough not every passage of the Moon through the nodes results in an eclipse!
 
@@ -108,7 +108,7 @@ Apparently, Hindu or Vedic astrology treats the nodes rather seriously and place
 
 <img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-dragon.png 1x, /images/illustrations/astrology-lunar-nodes-dragon@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon@3x.png 3x" alt="The lunar nodes as dragon’s head and tail">
 
-The Rahu-Ketu movement resembles a huge celestial serpent that moves in a wavy up and down manner and periodically swallows the Sun or the Moon. The ascending node is held responsible for swallowing the Sun while the descending node is held responsible for the Moon eclipses. In its entirety the Rahuketu serpent is responsible for influencing the lives of the humans.
+The Rahu-Ketu movement resembles a huge celestial serpent that moves in a wavy up and down manner and periodically swallows the Sun or the Moon. The ascending node is held responsible for swallowing the Sun while the descending node is held responsible for lunar eclipses. In its entirety the Rahuketu serpent is responsible for influencing the lives of the humans.
 
 Arab, Greek and eventually Western astrology adopted the image of the serpent-dragon and the nodes became also known as the **Dragon’s Head** and the **Dragon’s Tail**. 
 
@@ -124,7 +124,7 @@ This dogmatic indoctrination resulted in endless superstitions and didn’t serv
 
 Traditionally the nodes didn’t receive a proper treatment by earlier Western astrologers. A common attitude was to classify the descending South Node as malefic and the ascending North Node as beneficial.
 
-The North Node was said to diminish negative effects of planet it’s conjunct with. Being 180º reflection, the South Node was said to be of an exact opposite nature, it increased the “malefic” effects of that planet.
+The North Node was said to diminish negative effects of planet it’s conjunct with. Its 180º reflection, the South Node, was said to be of an exact opposite nature, it increased “malefic” effects of that planet.
 
 Quite surprisingly, the **nodes weren’t respected in the natal charts interpretations**, unless the Moon was conjunct to one of them. Aspects to the nodes weren’t taken into account either, only conjunctions did matter.
 
@@ -132,7 +132,7 @@ The **Head of the Dragon** was considered to be **masculine** and of nature of J
 
 The **Tail of the Dragon** was considered to be… **evil** [sic] and of nature of Saturn or Saturn–Mars.
 
-Using this overly simplified if not dismissive approach, one could still utilise the knowledge of the nodes in their astrological interpretations and derive some additional insights from natal charts.
+Using this overly simplified if not dismissive approach, one could still utilise the knowledge of the nodes in astrological interpretations and derive some additional insights from natal charts.
 
 <div class="container post-pullout-box">
   <div class="row">
@@ -145,7 +145,7 @@ Using this overly simplified if not dismissive approach, one could still utilise
   <div class="row">
     <div class="col-12">
       <div class="row text-photo-caption-serif">
-		<strong><cite>“The Force of Destiny” or “La forza del destino”</cite>, an opera by Giuseppe Verdi.</strong> This famous Italian opera portrays  dramatic nature of unresolved internal conflicts and karmic attractions that aren’t simply going to happen despite passions and efforts.<br><br>The opera has earned a reputation of being “cursed” as a number of incidents have happened during its performance possibly due to inherent intensity and pure bad luck that this piece of art presents so well.
+		<strong><cite>“The Force of Destiny” or “La forza del destino”</cite>, an opera by Giuseppe Verdi.</strong> This famous Italian opera portrays a dramatic nature of unresolved internal conflicts and karmic attractions: certain things just aren’t destined to happen despite abundant passion and best efforts.<br><br>The opera has earned a reputation of being “cursed” as a number of incidents have happened during its performance possibly due to the intensity of pure bad luck that this piece of art presents so well.
       </div>
     </div>
   </div>
@@ -160,7 +160,7 @@ The nodes is another way to look at the highly changeable Moon, they rule over t
 
 <img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-dragon-past-future.png 1x, /images/illustrations/astrology-lunar-nodes-dragon-past-future@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon-past-future@3x.png 3x" alt="The lunar nodes as dragon’s head and tail pointing between past and future">
 
-When Sanskrit text were first translated in English, the translators made an insightful mistake: they assumed that **Rahu** (Dragon’s Head) was **Uranus** and **Ketu** (Dragon’s Tail) was **Neptune**.
+When Sanskrit texts were first translated in English, the translators made an insightful mistake: they assumed that **Rahu** (Dragon’s Head) was **Uranus** and **Ketu** (Dragon’s Tail) was **Neptune**.
 
 This idea actually makes some sense from the standpoint of qualities of the nodes. A better way is to perceive the both nodes as a Uranus-Neptune duality in which the nodes borrow each other’s energies:
 
@@ -172,16 +172,16 @@ Using this approach, the Dragon’s Head is more like Uranus–Neptune while the
 
 ## A simpler approach
 
-What most of astrologers currently agree is that 
+What most astrologers currently agree is that:
 
-* the North Node represents **destiny and future** development
+* the North Node represents **destiny and future development**
 * the South Node stands for **past actions and karma**
 
 From this standpoint, it does make sense to see the **North Node as a Jupiterian force of expansion and benevolence**, while the **South Node is a Saturnian principle of limits and karma** leading to inevitable contraction until the debts have been repaid.
 
 ## Understanding the nodes and eclipses
 
-What makes the nodes so special is their relationship to eclipses. Every time the Moon finds itself in the vicinity of the nodes there is a probability of an eclipse, either solar or lunar.
+What makes the nodes so special is **their relationship to eclipses**. Every time the Moon finds itself in the vicinity of the nodes there is a probability of an eclipse, either solar or lunar.
 
 Eclipses can only happen during either **solar-lunar conjunction** (the New Moon) or **solar-lunar opposition** (the Full Moon) when the connection between the Sun, the Moon and the Earth is interrupted. 
 
@@ -198,7 +198,7 @@ Planets or points that are conjunct with the south node often mean the past — 
 * doing something, either good or bad
 * not doing, observing or indulging
 
-Action and inaction, good or bad, truth or falsehood… all equally **create karmic imprints** that can work either for or against the person.
+Action or inaction, good or bad, truth or falsehood… all equally **create karmic imprints** that can work either for or against the person.
 
 The South Node, or Dragon’s Tail, symbolises the past from which the individual has emerged. The person’s “tail” is likely to come with some kind of “historical luggage”. 
 
@@ -206,7 +206,7 @@ Let’s look at examples when a certain planet is conjunct to the South Node…
 
 ### Planet on the South Node
 
-Any planet conjunct to the South Node signifies intense interaction of the individual with forces and principles behind that planet that happened during past lives. 
+Any planet conjunct to the South Node signifies intense interaction of the individual with forces and principles of the planet that happened during past lives. 
 
 **The interaction may have been blissful, productive or traumatic.** But what is clear is that its nature was marked by intensity and left a lasting imprint in the person’s psyche.
 
@@ -232,7 +232,7 @@ Either way, each planet can unfold its influence in either enabling or disabling
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        <strong>The Sun conjunct to the South Node</strong> is a powerful position indicating past lives where the native was in a position of leadership perhaps being the “source of light” for many others. On the other hand their Sun may have manifested itself in a dictatorial and arrogant manner. A planet on the South Node shouldn’t be taken at face value, it is always an invitation for deeper research.
+        <strong>The Sun conjunct to the South Node</strong> is a powerful position indicating past lives where the native was in a position of leadership perhaps being the “source of light” for many others. On the other hand their Sun may have manifested itself in a dictatorial and arrogant manner. A planet on the South Node shouldn’t be taken at face value, it is always an invitation for a deeper research.
       </div>
     </div>
   </div>
@@ -254,11 +254,11 @@ In each of those cases carefully analyse what could the past mean. For example, 
 1. **Stuck in old patterns**, unable to let go and move forward without facing them first
 2. **Power of “I am”** that supports and propels into the future
 
-As with pretty much everything in astrology, the meaning can vary and will depend on many other factors. Yet it’s invaluable to have a certain direction for further exploration, like exploring your relationship with power, the notion of me versus them, the degree of idealism versus practicality, etc.
+As with pretty much everything in astrology, the meaning can vary and will depend on many other factors. A good approach is to choose a certain direction for further exploration, for example, exploring your relationship with power, the notion of me versus them, the degree of idealism versus practicality, etc.
 
 ### The North Node and the future arrow
 
-As much as the **Dragon’s Tail is a deeply unconscious** principle standing for what we have brought with us without fully realising or understanding, the **Dragon’s Head is consciously looking into the future** and towards the opportunities it may bring.
+As much as the **Dragon’s Tail is a deeply unconscious** principle standing for what we have brought with us without fully realising or understanding, the **Dragon’s Head is consciously looking into the future** towards the opportunities it may bring.
 
 The head as the seat of consciousness is responsible for making choices. The North Node arrow points at the areas in which our conscious focused cultivation may bring fruitful results that will eventually become the supporting Dragon’s Tail.
 
@@ -276,7 +276,7 @@ Since the nodes are always in a perfect 180º opposition, there are **two strong
 * square to both nodes
 * trine to one node and sextile to the opposite node
 
-The case of **square signifies that the planetary force is actively influencing the person’s timeline during this incarnation**. It is important to be in touch with that planetary force and learn how to introduce the better side its energy into one’s actions. Remember that “action” is the keyword for getting the most out of a square aspect.
+The case of **square signifies that the planetary force is actively influencing the person’s timeline during this incarnation**. It is important to be in touch with that planetary force and learn how to use the better side of its energy in one’s actions. Remember that “action” is the keyword for getting the most out of a square aspect.
 
 <div class="container post-pullout-box">
   <div class="row">
@@ -315,7 +315,7 @@ A **trine–sextile configuration stands for benevolent help from the planet inv
 
 ## Unleashing the magic of the dragon
 
-When well understood, the lunar nodes provide some extremely powerful and helpful hints helping us to navigate this complex environment called “my life on planet Earth”.
+When well understood, the lunar nodes provide some extremely powerful hints that help us to navigate this complex environment called “my life on planet Earth”.
 
 To briefly summarise the **meaning of the nodes of the Moon in the context of fate and destiny**:
 
