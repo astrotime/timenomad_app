@@ -853,6 +853,10 @@ article.newsl {
       text-decoration: none;
     }
   }
+
+  .social-cta-discuss {
+    background-color: $newsl-social-cta-discuss-color;
+  }
 }
 
 @include media-query($on-palm) {

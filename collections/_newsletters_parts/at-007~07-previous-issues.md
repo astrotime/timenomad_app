@@ -1,6 +1,6 @@
 ---
 layouter: newsletter-double-column.html
-title1: In the previous issues…
+title1: In previous issues…
 title2: Long-term events
 ---
 

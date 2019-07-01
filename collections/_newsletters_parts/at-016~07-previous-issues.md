@@ -4,9 +4,19 @@ title1: In previous issues…
 title2: Long-term events
 ---
 
-The previous issue discussed [Equinox, Solstice and the idea of Universal Consciousness](/newsletters/2019-04-05-astrology-today-issue-010.html).
+The previous issue discussed the [The Moon Nodes and the Force of Destiny](/newsletters/2019-06-16-astrology-today-issue-015.html).
 
-The one before pondered upon [The Sidereal Zodiac in astrology, its strengths and weaknesses](/newsletters/2019-03-24-astrology-today-issue-009.html).
+The one before pondered upon [Minor astrological aspects and the domain of magic](/newsletters/2019-05-31-astrology-today-issue-014.html).
+
+Recently we also covered [Astrological aspects and sacred geometry](/newsletters/2019-05-17-astrology-today-issue-013.html).
+
+We explored the [role of Fixed Stars in astrology](/newsletters/2019-05-04-astrology-today-issue-012.html).
+
+We offered our take on the [Astrological interpretation of the fire of Notre-Dame de Paris](/newsletters/2019-04-18-astrology-today-issue-011.html).
+
+We did some research into [Equinox, Solstice and the idea of Universal Consciousness](/newsletters/2019-04-05-astrology-today-issue-010.html).
+
+Linked to that is the story about [The Sidereal Zodiac in astrology, its strengths and weaknesses](/newsletters/2019-03-24-astrology-today-issue-009.html).
 
 The topic of the year still remains [the timeline of Saturn – Pluto conjunction of years 2019–2020–2021 and its karmic meaning](/newsletters/2019-03-14-astrology-today-issue-008.html).
 
@@ -26,4 +36,4 @@ We also talked about manifestations of [the signs of the Zodiac in the human bod
 
 <!-- COLUMN -->
 
-**Saturn – Pluto conjunction** is slowing down and is currently at **2.7º orb** as both Saturn and Pluto  are preparing for a **nearly mutual retrograde starting in just a few days time on 24 April** while still approaching their exact conjunction on Jan 13, 2020. [Read the story about this event that happens once in about 38 years and its possible repercussions.](/posts/astrology/event/2018/12/22/saturn-pluto-conjunction-year-2019.html)
+**Saturn–Pluto** conjunction is currently **separating** at **4.5º orb** as both Saturn and Pluto are in **retrograde** until September 18 and October 3 respectively. The date of the exact conjunction is scheduled for **Jan 13, 2020**. [Read the story about this event that happens once in about 38 years and its possible repercussions.](/posts/astrology/event/2018/12/22/saturn-pluto-conjunction-year-2019.html)
