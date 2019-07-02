@@ -13,6 +13,12 @@ This kind of economic growth is only sustainable for a certain period of time si
 
 Current passage of **Saturn through the Dragon’s Tail** on July 4 and the Sun’s passage through the Dragon’s Head on July 9 mark the beginning of a new phase of this process that will result in further disruptions since the underlying problems haven’t been addressed properly and thoroughly. 
 
-Recent news updates from G20 meeting of world leaders gave us some semblance of hope that the spirit of international cooperation will prevail. But we are still far from being certain that forces profiting from destabilisation have been quieted. Approaching **squares to Uranus point at possibilities of technological conflicts, both armed and economical** that may spring from hot-headed disagreements. The situation with Iran remains extremely fragile and military conflict is still a sad possibility. Recent strikes carried out by Israel against Syria is another pointer at brewing hostilities.
+Recent news updates from G20 meeting of world leaders gave us some semblance of hope that the spirit of international cooperation will prevail. But we are still far from being certain that forces profiting from destabilisation have been quieted. Approaching **squares to Uranus point at possibilities of technological conflicts, both armed and economical** that may spring from hot-headed disagreements.
+
+Some recent developments illustrate this point really well:
+
+* The **situation with Iran remains extremely fragile** and military conflict is still a sad possibility. Recent strikes carried out by Israel against Syria is another pointer at brewing hostilities.
+
+* **Hong Kong unrest** spins out of reasonable proportions towards an outright “revolutionary” behaviour of hot headed masses. So much of Uranus in that!
 
 We may witness some mounting circumstances in the months of July and August leading up to the September Equinox. This period provides a precious **opportunity for astrological analysis and prediction**. Upcoming events are likely to be related to **projection of influence if not outright force**. The **money factor** may start emerging closer to the last quarter of the year. 
