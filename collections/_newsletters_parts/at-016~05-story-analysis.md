@@ -21,4 +21,6 @@ Some recent developments illustrate this point really well:
 
 * **Hong Kong unrest** spins out of reasonable proportions towards an outright “revolutionary” behaviour of hot headed masses. So much of Uranus in that!
 
+* **Fire on Russian navy research submersible nuclear vehicle** kills all 14 sailors. Yet another symbolic hint at Uranian influence since electric sparks are the usual suspects when it comes to fire inside submarines as well as space stations.
+
 We may witness some mounting circumstances in the months of July and August leading up to the September Equinox. This period provides a precious **opportunity for astrological analysis and prediction**. Upcoming events are likely to be related to **projection of influence if not outright force**. The **money factor** may start emerging closer to the last quarter of the year. 
