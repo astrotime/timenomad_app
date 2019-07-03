@@ -6,7 +6,7 @@ image:
   alt: Denis Zubkov
 ---
 
-The New Moon phase of July 2 comes with a **total solar eclipse followed by Saturn on the South Node** on July 4. As I have written in the previous issue, eclipses happen when the Moon is on one of its nodes — they are **special astrological moments that link past and future**. And we currently seem to be on one of those junction points indeed. The first two weeks of July have that unmistakable flavour of decisive power presenting each of us an opportunity to **gear into the second quarter** of the Solar year.
+The New Moon phase of July 2 comes with a **total solar eclipse followed by Saturn on the South Node** on July 4. As I have written in previous issue, eclipses happen when the Moon is on one of its nodes — they are **special astrological moments that link past and future**. And we currently seem to be on one of those junction points indeed. The first two weeks of July have that unmistakable flavour of decisive power presenting each of us an opportunity to **gear into the second quarter** of the Solar year.
 
 The second quarter of the Solar year begins with the Solstice on June 21 and culminates at the moment of September Equinox on September 23. This is the period for **unfoldment and manifestation of our annual impulses** and aspirations. The period that leads to the “harvesting” phase later this year.
 
