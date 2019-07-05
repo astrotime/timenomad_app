@@ -23,8 +23,7 @@ schema:
 
 In this story we are going to look at the unique idea behind the _Dancing Orbit_ pendant collection by [Gems In Style jewellery](https://gemsinstyle.com). Their designs artfully blend together **eternal elegance of the circle** and deep energies of **natural gemstones**, finely framed in sterling silver — ultimately modern and yet timeless in their simplicity.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wlRSLQt1JM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+{% include video-youtube.html id="4wlRSLQt1JM" %}
 
 These jewellery designs were inspired by the circular geometry upholding **movements of celestial bodies** — the blueprint behind any astrological chart. The _Dancing Orbit_ collection symbolises eternal ebb and flow of time and seasons of the nature, that reaches its fullness during the summer solstice and then gradually starts receding towards the depths of the night and the forces of sleep and rejuvenation.
 
@@ -118,7 +117,7 @@ Onyx connects its wearer to the powers of the Underworld and activates deep rest
 
 ## Labradorite — originally spontaneous
 
-Rare stones fascinate and wow us as much as labradorite does with its infinitely fluorescent colours hidden in seemingly inanimate appearance. Simply giving this stone a subtle turn reveals a rainbow of magical hues pouring towards the viewer. Labradorite combines playful powers of Mercury with those of the Moon, bringing forward the spirit of spontaneity and originality in its wearer.
+Rarely stones fascinate and wow us as much as labradorite does with its infinitely fluorescent colours hidden in seemingly inanimate appearance. Simply giving this stone a subtle turn reveals a rainbow of magical hues pouring towards the viewer. Labradorite combines playful powers of Mercury with those of the Moon, bringing forward the spirit of spontaneity and originality in its wearer.
 
 <div class="container post-pullout-box dark">
   <div class="row">
