@@ -892,6 +892,97 @@ aside.banner-promo {
 }
 
 
+/* PREV Aside: promo banner */
+/*
+aside.banner-promo {
+  //padding: 1em;
+
+  .col {
+    margin: 0;
+  }
+  .span_6_of_12 {
+    border-bottom: 2px solid white;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  div.col.promo-1 {
+    @include background(#343f6b, 'promo/promo-bg-clouds-01.jpg');
+  }
+  div.col.promo-2 {
+    @include background(#343f6b, 'promo/promo-bg-galaxy-01.jpg');
+  }
+
+  h2 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 110%;
+    margin-bottom: 16px;
+    color: #fff;
+  }
+  p {
+    font-size: 18px;
+    line-height: 100%;
+    color: #fff;
+    margin: 0;
+  }
+
+  .box {
+    display: flex;
+
+    div.section-1 {
+      width: 40%;
+    }
+    div.section-2 {
+      padding: 1em;
+    }
+    div.section-2.dark {
+      h2 {
+        color: #263d71;
+      }
+      p {
+        color: #263d71;
+      }
+    }
+  }
+}
+
+// Special case; 600...800px also needs smaller text boxes
+@media screen and (min-width: 600px) and (max-width: 800px) {
+  aside.banner-promo {
+  }
+}
+
+@include media-query($on-palm) {
+  aside.banner-promo {
+    .box {
+      div.section-1 {
+        width: 70%;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 800px) {
+  aside.banner-promo {
+    .span_6_of_12 {
+      width: 50%;
+      min-height: 200px;
+    }
+
+    img {
+      //min-height: 140px;
+    }
+
+    .separated {
+      border-left: 2px solid #fff;
+    }
+  }
+}
+*/
+
 /**
  * Styling of news page with newsletters previews
  */
