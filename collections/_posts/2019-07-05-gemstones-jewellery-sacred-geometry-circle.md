@@ -27,7 +27,7 @@ In this story we are going to look at the unique idea behind the _Dancing Orbit_
 
 These jewellery designs were inspired by the circular geometry upholding **movements of celestial bodies** — the blueprint behind any astrological chart. The _Dancing Orbit_ collection symbolises eternal ebb and flow of time and seasons of the nature, that reaches its fullness during the summer solstice and then gradually starts receding towards the depths of the night and the forces of sleep and rejuvenation.
 
-Each of _Dancing Orbit_ pendants carries a carefully selected and artfully cut natural gemstone that is big enough so that the wearer can **tune into its essence and actually feel the powers** behind each gem they are wearing on their heart chakra. Dancing Orbit is not only aesthetically pleasing and modern in its design, it also provides the wearer with supportive and protective energies.
+Each of _Dancing Orbit_ pendants carries a carefully selected and precisely cut natural gemstone that is big enough so that the wearer can **tune into its essence and actually feel the powers** behind each gem they are wearing on their heart chakra. The _Dancing Orbit_ collection is not only aesthetically pleasing and modern in its design, it also touches the wearer with its supportive and protective energies.
 
 Let us go through each of gemstones… 
 
@@ -96,7 +96,7 @@ In the domain of healing powers, pink opal gemstone is an undeniable source of c
 
 ## Black Onyx — the warrior inside
 
-Onyx connects its wearer to the powers of the Underworld and activates deep resting on the sacred energies of Earth. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer in times when challenge and focus is paramount to ultimate success.
+Onyx connects its wearer to the powers of the Underworld and activates deep resting on the sacred energies of Earth. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer during times when challenge and focus is paramount to ultimate success.
 
 <div class="container post-pullout-box dark">
   <div class="row">
@@ -181,7 +181,7 @@ Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evo
 
 ## White Howlite — eternally youthful
 
-The gemstone of purity and structure, eternally youthful in its simplicity yet always reminding us that it cannot be taken at face value. White howlite pendant is always fresh and perfectly fitting sporty weekend outfits. Wear it with sneakers or high heels — it will readily accommodate itself to any style, so artfully it combines the power of grey and white while reminding its wearer to relax and feel her pulsing essence of life.
+The gemstone of purity and structure, eternally youthful in its simplicity yet always reminding us that it cannot be taken at face value. White howlite pendant is always fresh and perfectly fitting casual or even sporty weekend outfit. Wear it with sneakers or high heels — it will readily accommodate itself to any style, so artfully it combines the power of grey and white while reminding its wearer to relax and feel her pulsing essence of life.
 
 <div class="container post-pullout-box dark">
   <div class="row">
