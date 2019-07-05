@@ -22,10 +22,10 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {% if page.linkRelNext %}<link rel="next" href="{{ page.linkRelNext }}">{% endif %}
   {% if page.linkRelPrev %}<link rel="prev" href="{{ page.linkRelPrev }}">{% endif %}
-  {% if page.layout == 'post' %}
+  {% comment %}{% if page.layout == 'post' %}{% endif %}{% endcomment %}
   <script src="{{ "/assets/jquery-3.3.1.min.js" | relative_url }}"></script>
-  {% endif %}
   <script src="{{ "/assets/lazysizes.min.js" | relative_url }}" async=""></script>
+  <script src="{{ "/assets/jquery.matchHeight.js" | relative_url }}"></script>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics-gtag.html -%}

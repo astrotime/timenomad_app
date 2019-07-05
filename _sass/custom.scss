@@ -804,7 +804,6 @@ aside.related-posts {
 
 /* Aside: promo banner */
 aside.banner-promo {
-  //padding: 1em;
 
   .col {
     margin: 0;
@@ -817,10 +816,18 @@ aside.banner-promo {
     text-decoration: none;
   }
 
-  div.col.promo-1 {
+  img.object {
+    height: 190px;
+  }
+
+  a.col.text {
+    width: 40%;
+  }
+
+  div.col.bg-1 {
     @include background(#343f6b, 'promo/promo-bg-clouds-01.jpg');
   }
-  div.col.promo-2 {
+  div.col.bg-2 {
     @include background(#343f6b, 'promo/promo-bg-galaxy-02.jpg');
   }
 
@@ -838,150 +845,52 @@ aside.banner-promo {
     margin: 0;
   }
 
-  .box {
-    display: flex;
+  div.text {
+    padding: 1em;
+  }
 
-    div.section-1 {
-      width: 40%;
+  div.text.dark {
+    h2 {
+      color: #263d71;
     }
-    div.section-2 {
-      padding: 1em;
-    }
-    div.section-2.dark {
-      h2 {
-        color: #263d71;
-      }
-      p {
-        color: #263d71;
-      }
+    p {
+      color: #263d71;
     }
   }
 }
 
-// Special case; 600...800px also needs smaller text boxes
-@media screen and (min-width: 600px) and (max-width: 800px) {
+@media screen and (min-width: $on-palm) {
   aside.banner-promo {
+    .span_6_of_12 {
+      width: 50%;
+    }
+    a.col {
+      width: 40%;
+    }
+    img.object {
+      width: 100%;
+      height: auto;
+    }
+    a.col.text {
+      width: 60%;
+    }
   }
 }
 
 @include media-query($on-palm) {
   aside.banner-promo {
-    .box {
-      div.section-1 {
-        width: 70%;
-      }
-    }
-  }
-}
-
-@media screen and (min-width: 800px) {
-  aside.banner-promo {
-    .span_6_of_12 {
-      width: 50%;
-      min-height: 200px;
-    }
-
-    img {
-      //min-height: 140px;
-    }
-
-    .separated {
-      border-left: 2px solid #fff;
-    }
-  }
-}
-
-
-/* PREV Aside: promo banner */
-/*
-aside.banner-promo {
-  //padding: 1em;
-
-  .col {
-    margin: 0;
-  }
-  .span_6_of_12 {
-    border-bottom: 2px solid white;
-  }
-
-  a:hover {
-    text-decoration: none;
-  }
-
-  div.col.promo-1 {
-    @include background(#343f6b, 'promo/promo-bg-clouds-01.jpg');
-  }
-  div.col.promo-2 {
-    @include background(#343f6b, 'promo/promo-bg-galaxy-01.jpg');
-  }
-
-  h2 {
-    font-size: 22px;
-    font-weight: 400;
-    line-height: 110%;
-    margin-bottom: 16px;
-    color: #fff;
-  }
-  p {
-    font-size: 18px;
-    line-height: 100%;
-    color: #fff;
-    margin: 0;
-  }
-
-  .box {
-    display: flex;
-
-    div.section-1 {
+    a.col {
       width: 40%;
     }
-    div.section-2 {
-      padding: 1em;
+    img.object {
+      width: 100%;
+      height: auto;
     }
-    div.section-2.dark {
-      h2 {
-        color: #263d71;
-      }
-      p {
-        color: #263d71;
-      }
+    a.col.text {
+      width: 60%;
     }
   }
 }
-
-// Special case; 600...800px also needs smaller text boxes
-@media screen and (min-width: 600px) and (max-width: 800px) {
-  aside.banner-promo {
-  }
-}
-
-@include media-query($on-palm) {
-  aside.banner-promo {
-    .box {
-      div.section-1 {
-        width: 70%;
-      }
-    }
-  }
-}
-
-@media screen and (min-width: 800px) {
-  aside.banner-promo {
-    .span_6_of_12 {
-      width: 50%;
-      min-height: 200px;
-    }
-
-    img {
-      //min-height: 140px;
-    }
-
-    .separated {
-      border-left: 2px solid #fff;
-    }
-  }
-}
-*/
 
 /**
  * Styling of news page with newsletters previews
