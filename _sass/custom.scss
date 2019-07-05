@@ -596,6 +596,20 @@ li {
   padding: 8px 8px 8px 16px;
 }
 
+.post-pullout-box.dark {
+  background-color: #131313;
+  color: white;
+
+    a:link, a:visited, a:active {
+      color: #00c2c2;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+}
+
 .post-pullout-box-copyright {
   color: #aaa;
 }
