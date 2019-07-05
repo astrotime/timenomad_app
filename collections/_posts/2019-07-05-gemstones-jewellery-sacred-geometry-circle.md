@@ -193,7 +193,7 @@ The gemstone of purity and structure, eternally youthful in its simplicity yet a
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
-      	<strong>Rutilated Quartz</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
+      	<strong>White Howlite</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
       	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-howlite" target="_blank">Gems In Style</a> website.
       </div>
     </div>
