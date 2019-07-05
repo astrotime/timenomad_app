@@ -21,7 +21,7 @@ schema:
     height: 760
 ---
 
-In this story we are going to look at the unique idea behind the Dancing Orbit pendant collection by [Gems In Style jewellery](https://gemsinstyle.com). Their designs artfully blend together **eternal elegance of the circle** and deep energies of **natural gemstones**, finely framed in sterling silver — ultimately modern and yet timeless in their simplicity.
+In this story we are going to look at the unique idea behind the _Dancing Orbit_ pendant collection by [Gems In Style jewellery](https://gemsinstyle.com). Their designs artfully blend together **eternal elegance of the circle** and deep energies of **natural gemstones**, finely framed in sterling silver — ultimately modern and yet timeless in their simplicity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4wlRSLQt1JM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
