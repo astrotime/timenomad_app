@@ -12,7 +12,7 @@ schema:
   images:
     alt: Major astrological aspects and sacred geometry
   image:
-    url: /images/og/og-time-nomad-post-20190517-major-aspects-sacred-geometry.jpg
+    url: /images/og/og-time-nomad-post-20190705-gemstones-jewellery-sacred-geometry-circle.jpg
     width: 1200
     height: 630
   image_1x1:
