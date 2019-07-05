@@ -32,7 +32,7 @@ Each of _Dancing Orbit_ pendants carries a carefully selected and artfully cut n
 
 Let us go through each of gemstones… 
 
-## Lapis Lazuli
+## Lapis Lazuli — the “alpha” of all magic
 
 Lapis Lazuli is perhaps the undeniably “alpha” gemstone when it comes all things magical and astrological. Adored and respected since the times immemorial, lapis lazuli combines deep blue of astral spaces with golden speckles that bring sharpness to vision and enhance intuition.
 
@@ -53,7 +53,7 @@ Lapis Lazuli is perhaps the undeniably “alpha” gemstone when it comes all th
 </div>
 <div class="float-clear"></div>
 
-## Larimar
+## Larimar — the stone of Atlantis
 
 This unique and rare gemstone was only recently found in the Dominican Republic. Larimar perfectly embodies mythological energies of the ocean and the sky, connecting its wearer directly to the mysteries of the lost continent of Atlantis.
 
@@ -74,7 +74,7 @@ This unique and rare gemstone was only recently found in the Dominican Republic.
 </div>
 <div class="float-clear"></div>
 
-## Pink Opal
+## Pink Opal — caring and healing
 
 In the domain of healing powers, pink opal gemstone is an undeniable source of caring and enveloping energies that facilitate recuperation and literally envelop its wearer with a soothing milky-pink cloud of its aura. Outside of healing domain, pink opal necklace adds its sophisticated and elegant appeal and enhances the beauty of feminine nature.
 
@@ -95,7 +95,7 @@ In the domain of healing powers, pink opal gemstone is an undeniable source of c
 </div>
 <div class="float-clear"></div>
 
-## Black Onyx
+## Black Onyx — the warrior inside
 
 Onyx connects its wearer to the powers of the Underworld and activates deep resting on the draconic energies. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer in times when challenge and focus is paramount to ultimate success.
 
@@ -116,7 +116,7 @@ Onyx connects its wearer to the powers of the Underworld and activates deep rest
 </div>
 <div class="float-clear"></div>
 
-## Labradorite
+## Labradorite — originally spontaneous
 
 Rare stones fascinate and wow us as much as labradorite does with its infinitely fluorescent colours hidden in seemingly inanimate appearance. Simply giving this stone a subtle turn reveals a rainbow of magical hues pouring towards the viewer. Labradorite combines playful powers of Mercury with those of the Moon, bringing forward the spirit of spontaneity and originality in its wearer.
 
@@ -137,7 +137,7 @@ Rare stones fascinate and wow us as much as labradorite does with its infinitely
 </div>
 <div class="float-clear"></div>
 
-## Rutilated Quartz
+## Rutilated Quartz — show your class
 
 Unbeatably stunning and luxurious golden spikes encrusted inside a slab of  quartz instantly speaks high style, confidence and commanding dignity. Rutilated quartz is arguable the most “aristocratic” of all gemstones, emboldening the wearer with the feelings of her inimitable identity and charming yet elegant determination. 
 
@@ -159,7 +159,7 @@ Unbeatably stunning and luxurious golden spikes encrusted inside a slab of  quar
 <div class="float-clear"></div>
 
 
-## Snowflake Obsidian
+## Snowflake Obsidian — feline sophistication
 
 Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evokes the feelings of a feline force inside each woman. This gemstone brings the sense of rhythm and movement, reminding us of white clouds moved by a gentle breeze across the moonlit sky. Snowflake obsidian conveys the powers of hidden that are attractive, alluring and dynamic. 
 
@@ -180,7 +180,7 @@ Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evo
 </div>
 <div class="float-clear"></div>
 
-## White Howlite
+## White Howlite — eternally youthful
 
 The gemstone of purity and structure, eternally youthful in its simplicity yet always reminding us that it cannot be taken at face value. White howlite pendant is always fresh and perfectly fitting sporty weekend outfits. Wear it with sneakers or high heels — it will readily accommodate itself to any style, so artfully it combines the power of grey and white while reminding its wearer to relax and feel her pulsing essence of life.
 
