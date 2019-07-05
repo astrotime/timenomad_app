@@ -161,7 +161,7 @@ Unbeatably stunning and luxurious golden spikes encrusted inside a slab of  quar
 
 ## Snowflake Obsidian — feline sophistication
 
-Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evokes the feelings of a feline force inside each woman. This gemstone brings the sense of rhythm and movement, reminding us of white clouds moved by a gentle breeze across the moonlit sky. Snowflake obsidian conveys the powers of hidden that are attractive, alluring and dynamic. 
+Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evokes the feelings of a feline force inside each woman. This gemstone brings the sense of rhythm and movement, reminiscent of white clouds moved by a gentle breeze across the moonlit sky. Snowflake obsidian conveys the powers of hidden that are attractive, alluring and dynamic. 
 
 <div class="container post-pullout-box dark">
   <div class="row">
