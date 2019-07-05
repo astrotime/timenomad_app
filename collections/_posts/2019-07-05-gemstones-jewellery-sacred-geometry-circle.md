@@ -66,7 +66,7 @@ This unique and rare gemstone was only recently found in the Dominican Republic.
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
-      	<strong>Lapis Lazuli</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
+      	<strong>Larimar</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
       	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-larimar" target="_blank">Gems In Style</a> website.
       </div>
     </div>
@@ -76,7 +76,7 @@ This unique and rare gemstone was only recently found in the Dominican Republic.
 
 ## Pink Opal — caring and healing
 
-In the domain of healing powers, pink opal gemstone is an undeniable source of caring and enveloping energies that facilitate recuperation and literally envelop its wearer with a soothing milky-pink cloud of its aura. Outside of healing domain, pink opal necklace adds its sophisticated and elegant appeal and enhances the beauty of feminine nature.
+In the domain of healing powers, pink opal gemstone is an undeniable source of caring and enveloping energies that facilitate recuperation and infuse its wearer with a soothing milky-pink cloud of its aura. Outside of healing domain, pink opal necklace adds its sophisticated and elegant appeal and enhances the beauty of feminine nature.
 
 <div class="container post-pullout-box dark">
   <div class="row">
@@ -97,7 +97,7 @@ In the domain of healing powers, pink opal gemstone is an undeniable source of c
 
 ## Black Onyx — the warrior inside
 
-Onyx connects its wearer to the powers of the Underworld and activates deep resting on the draconic energies. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer in times when challenge and focus is paramount to ultimate success.
+Onyx connects its wearer to the powers of the Underworld and activates deep resting on the sacred energies of Earth. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer in times when challenge and focus is paramount to ultimate success.
 
 <div class="container post-pullout-box dark">
   <div class="row">
