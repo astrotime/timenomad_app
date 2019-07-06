@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190701
 date: 2019-07-01 12:00:00 +1000
-modified: 2019-07-01 12:00:00 +1000
+modified: 2019-07-06 12:00:00 +1000
 title: Aspect patterns — the building blocks of astrological charts
 description: Identifying aspect formations is the first step towards unlocking the mysteries of an astrological chart. Geometric nature of aspect patterns is expressive and symbolic, it reveals an underlying framework behind complex interactions between astral energies of planets.
 categories: posts astrology philosophy
@@ -178,7 +178,7 @@ The illustration below overlays several spikes to show the difference. The **obt
 
 The spike is the symbol of **“special” accumulation of forces**: special abilities, special karma and anything that can potentially take the person out of the rank of ordinary.
 
-**Sesquisquare** (135º) spike points at forces of karma relevant to the main planet of the aspect in relationship to the two other planets. It’s not just two sesquisqares but rather a double sesquisquare concentrated on one planet.
+**Sesquisquare** (135º) spike points at forces of karma relevant to the main planet of the aspect in relationship to the two other planets. It’s not just two sesquisqares but rather a double sesquisquare concentrated on one planet. What's more, this spike has a **square aspect at its base**, a sheer smashing strength of this pattern earned it an evocative name of **“Thor’s hammer”** in modern astrological parlance.
 
 **Biquintile** (144º) spike symbolises creative, occult and magical abilities. The connection lies in its relationship to the pentagon, the five-point star symbol traditionally related to the ability to make things happen via the magic of sheer will power. Our recent story [“Minor astrological aspects and the domain of magic”]({% post_url
 2019-05-30-minor-aspects-domain-of-magic %}) discussed how star-like aspects are the link to magic and occult.
