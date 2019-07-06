@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190705
 date: 2019-07-05 12:00:00 +1000
-modified: 2019-07-05 12:00:00 +1000
+modified: 2019-07-06 12:00:00 +1000
 title: Gemstones, jewellery and sacred geometry of the Circle
 description: Out of all things magical gemstones and sacred geometry are perhaps the two principles most closely related to astrology. The power of esoteric symbolism and connection to the forces of nature gave birth to jewellery many a millennia ago. We are still in love with it.
 categories: posts geometry gemstones
@@ -21,7 +21,7 @@ schema:
     height: 760
 ---
 
-In this story we are going to look at the unique idea behind the _Dancing Orbit_ pendant collection by [Gems In Style jewellery](https://gemsinstyle.com). Their designs artfully blend together **eternal elegance of the circle** and deep energies of **natural gemstones**, finely framed in sterling silver — ultimately modern and yet timeless in their simplicity.
+In this story we are going to look at the unique idea behind the _Dancing Orbit_ pendant collection by [Gems In Style jewellery](https://gemsinstyle.com/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle){: target="_blank"}. Their designs artfully blend together **eternal elegance of the circle** and deep energies of **natural gemstones**, finely framed in sterling silver — ultimately modern and yet timeless in their simplicity.
 
 {% include video-youtube.html id="4wlRSLQt1JM" %}
 
@@ -39,13 +39,13 @@ Lapis Lazuli is perhaps the undeniably “alpha” gemstone when it comes all th
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-lapis-lazuli-01.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-lapis-lazuli-01.jpg" alt="Lapis Lazuli natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Lapis Lazuli</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-lapis-lazuli" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-lapis-lazuli/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -60,13 +60,13 @@ This unique and rare gemstone was only recently found in the Dominican Republic.
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-larimar-02.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-larimar-02.jpg" alt="Larimar natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Larimar</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-larimar" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-larimar/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -81,13 +81,13 @@ In the domain of healing powers, pink opal gemstone is an undeniable source of c
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-pink-opal-01.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-pink-opal-01.jpg" alt="Pink Opal natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Pink Opal</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-pink-opal" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-pink-opal/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -102,13 +102,13 @@ Onyx connects its wearer to the powers of the Underworld and activates deep rest
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-black-onyx-01.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-black-onyx-01.jpg" alt="Black Onyx natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Black Onyx</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-onyx" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-onyx/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -123,13 +123,13 @@ Rarely stones fascinate and wow us as much as labradorite does with its infinite
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-labradorite-02.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-labradorite-02.jpg" alt="Labradorite natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Labradorite</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-labradorite" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-labradorite/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -144,13 +144,13 @@ Unbeatably stunning and luxurious golden spikes encrusted inside a slab of  quar
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-rutile-quartz-02.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-rutile-quartz-02.jpg" alt="Rutilated Quartz natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Rutilated Quartz</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-rutilated-quartz" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-rutilated-quartz/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -166,13 +166,13 @@ Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evo
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-snowflake-obsidian-01.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-snowflake-obsidian-01.jpg" alt="Snowflake Obsidian natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>Snowflake Obsidian</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-snowflake-obsidian" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-snowflake-obsidian/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
@@ -187,13 +187,13 @@ The gemstone of purity and structure, eternally youthful in its simplicity yet a
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-white-howlite-01.jpg" alt="">
+      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-white-howlite-01.jpg" alt="White Howlite natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
       	<strong>White Howlite</strong> <em>Dancing Orbit</em> necklace by <em>Gems In Style</em> jewellery.<br><br>
-      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-howlite" target="_blank">Gems In Style</a> website.
+      	Discover more at <a href="https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-howlite/?utm_source=tn&utm_medium=blog&utm_campaign=geometry_circle" target="_blank">Gems In Style</a> website.
       </div>
     </div>
   </div>
