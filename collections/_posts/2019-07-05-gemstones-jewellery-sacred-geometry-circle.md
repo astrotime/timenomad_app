@@ -75,7 +75,7 @@ This unique and rare gemstone was only recently found in the Dominican Republic.
 
 ## Pink Opal — caring and healing
 
-In the domain of healing powers, pink opal gemstone is an undeniable source of caring and enveloping energies that facilitate recuperation and infuse its wearer with a soothing milky-pink cloud of its aura. Outside of healing domain, pink opal necklace adds its sophisticated and elegant appeal and enhances the beauty of feminine nature.
+In the domain of healing powers, pink opal gemstone is an undeniable source of caring and enveloping energies that facilitate recuperation and infuse its wearer with a soothing milky-pink cloud of its aura. Outside of the healing domain, pink opal necklace adds its sophisticated and elegant appeal and enhances the beauty of feminine nature.
 
 <div class="container post-pullout-box dark">
   <div class="row">
@@ -96,7 +96,7 @@ In the domain of healing powers, pink opal gemstone is an undeniable source of c
 
 ## Black Onyx — the warrior inside
 
-Onyx connects its wearer to the powers of the Underworld and activates deep resting on the sacred energies of Earth. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer during times when challenge and focus is paramount to ultimate success.
+Onyx connects its wearer to the powers of the Underworld and activates deep resting on the sacred energies of Earth. Known as the stone of the root chakra, black onyx shines its black light with deep woofing intensity and empowers the wearer during times when challenge and focus is paramount to the ultimate success.
 
 <div class="container post-pullout-box dark">
   <div class="row">
@@ -117,7 +117,7 @@ Onyx connects its wearer to the powers of the Underworld and activates deep rest
 
 ## Labradorite — originally spontaneous
 
-Rarely stones fascinate and wow us as much as labradorite does with its infinitely fluorescent colours hidden in seemingly inanimate appearance. Simply giving this stone a subtle turn reveals a rainbow of magical hues pouring towards the viewer. Labradorite combines playful powers of Mercury with those of the Moon, bringing forward the spirit of spontaneity and originality in its wearer.
+Rarely stones fascinate and wow us as much as labradorite does with its infinitely fluorescent colours hidden in a seemingly inanimate appearance. Simply giving this stone a subtle turn reveals a rainbow of magical hues pouring towards the viewer. Labradorite combines playful powers of Mercury with those of the Moon, bringing forward the spirit of spontaneity and originality of its wearer.
 
 <div class="container post-pullout-box dark">
   <div class="row">
