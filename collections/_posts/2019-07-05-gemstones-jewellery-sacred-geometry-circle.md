@@ -138,7 +138,7 @@ Rarely stones fascinate and wow us as much as labradorite does with its infinite
 
 ## Rutilated Quartz — show your class
 
-Unbeatably stunning and luxurious golden spikes encrusted inside a slab of  quartz instantly speaks high style, confidence and commanding dignity. Rutilated quartz is arguable the most “aristocratic” of all gemstones, emboldening the wearer with the feelings of her inimitable identity and charming yet elegant determination. 
+Unbeatably stunning and luxurious golden spikes encrusted inside a slab of quartz — this design instantly speaks high style, confidence and commanding dignity. Rutilated quartz is arguably the most “aristocratic” of all gemstones, emboldening the wearer by projecting the feeling of her inimitable identity and charming yet elegant determination. 
 
 <div class="container post-pullout-box dark">
   <div class="row">
