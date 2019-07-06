@@ -25,6 +25,10 @@ So many things begin to take shape and make sense once we can “see” them in 
 
 When it comes to astrological charts interpretations, there are two ways to understand the chart: **numerically and geometrically**. Some astrologers **“drive by numbers”** while others tap into geometrical symbolism behind the chart’s **“look and feel”**. Both methods are valid.
 
+```
+TEASER: The comments section at the bottom has an interesting discussion about Adolf Hitler’s chart and the origins of his evil powers. Good to know!
+```
+
 ## This story will look into “looking at the chart”
 
 Every chart’s geometry is striking and memorable, it evokes a certain range of unmistakable feelings. The beauty of geometrical approach lies in our near-instant recognition and appreciation of its nature. A numerical description of the chart takes longer to sink into our consciousness.
