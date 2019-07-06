@@ -33,7 +33,7 @@ Let us go through each of gemstones…
 
 ## Lapis Lazuli — the “alpha” of all magic
 
-Lapis Lazuli is perhaps the undeniably “alpha” gemstone when it comes all things magical and astrological. Adored and respected since the times immemorial, lapis lazuli combines deep blue of astral spaces with golden speckles that bring sharpness to vision and enhance intuition.
+Lapis Lazuli is the undeniable “alpha” gemstone when it comes to all things magical and astrological. Adored and respected since the times immemorial, lapis lazuli combines deep blue of astral spaces with golden speckles that bring sharpness to vision and enhance intuition. This necklace reveals the true magician in its wearer.
 
 <div class="container post-pullout-box dark">
   <div class="row">
@@ -54,7 +54,7 @@ Lapis Lazuli is perhaps the undeniably “alpha” gemstone when it comes all th
 
 ## Larimar — the stone of Atlantis
 
-This unique and rare gemstone was only recently found in the Dominican Republic. Larimar perfectly embodies mythological energies of the ocean and the sky, connecting its wearer directly to the mysteries of the lost continent of Atlantis.
+This unique and rare gemstone was only recently found in the Dominican Republic. Larimar perfectly embodies mythological energies of the ocean and the sky, connecting its wearer directly to the mysteries of the lost continent of Atlantis. A Larimar necklace makes you feel exceedingly romantic and uplifted to the lofty celestial expanse riding on the fused forces of Uranus and Neptune.
 
 <div class="container post-pullout-box dark">
   <div class="row">
