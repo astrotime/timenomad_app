@@ -12,7 +12,7 @@ authorImage:
 authorProfile: >
   Lara Gems,<br>
   Gemstone Strategist and Founder of <a href="https://gemsinstyle.com" target="_blank">Gems In Style Jewellery</a><br>
-  Learn more on <a href="https://www.instagram.com/gemsinstyle/" target="_blank">Instagram</a> &bull; <a href="https://www.facebook.com/gemsinstyle/" target="_blank">Facebook</a>
+  <a href="https://www.instagram.com/gemsinstyle/" target="_blank">Instagram</a> &bull; <a href="https://www.facebook.com/gemsinstyle/" target="_blank">Facebook</a>
 ---
 
 **Skilful use of jewellery** in the work or any business related environment is **the “sixth sense”** that only a few consciously practise and cultivate — yet there is little doubt that every woman willing to expand her tactical repertoire can become a master of this ancient art.

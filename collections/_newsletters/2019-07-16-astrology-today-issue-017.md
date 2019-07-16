@@ -11,7 +11,7 @@ miniDescription: "Mercury retrogrades • The 5 powers of Jewellery"
 app:
   scope: 
   present: must
-  title: Astrology Today 🌑
+  title: Astrology Today 🌕
   description: "Astro news update • MERCURY RETROGRADES: myths and truths • The 5 powers of Jewellery • Peaking out"
 # Other
 comments: true
