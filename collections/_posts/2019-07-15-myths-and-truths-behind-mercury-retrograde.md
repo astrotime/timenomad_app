@@ -21,7 +21,7 @@ schema:
     height: 760
 ---
 
-One may argue that from a human perspective it’s Mercury, not the Moon, that is **the most “relatable” of all celestial bodies**. As much at the Moon is the most inconspicuous of all planets, its actions belong to predominantly unconscious depths of human emotional and physiological domain, and while we are regularly experiencing the effects of the Moon’s influence we are hardly ever capable of truly operating at that extremely subtle and nuanced level.
+One may argue that from a human perspective it’s Mercury, not the Moon, that is **the most “relatable” of all celestial bodies**. As much as the Moon is the most inconspicuous of all planets, its actions belong to predominantly unconscious depths of human emotional and physiological domain, and while we are regularly experiencing the effects of the Moon’s influence we are hardly ever capable of truly operating at that extremely subtle and nuanced level.
 
 On the other hand, the energies of Mercury are quite literally the **source of our daily “bread and butter”**. All kinds of human activity rest on communication — we are social creatures that harness the power of interpersonal exchange to fulfil a vast variety of daily tasks.
 
@@ -42,7 +42,7 @@ In order to get a better understanding of Mercury energies, one needs to look at
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        In ancient Greek mythological tradition <strong>Hermes is the son of Zeus and Maia</strong>. Hermes is credited with the invention of the lyre and the flute. His wand is a gift from Apollo that he traded for his lyre.<br><br>
+        In ancient Greek mythology <strong>Hermes is the son of Zeus and Maia</strong>. Hermes is credited with the invention of the lyre and the flute. His wand is a gift from Apollo that he traded for his lyre.<br><br>
         <quote><strong>The herald Mercury,<br>
         New-lighted on a heaven-kissing hill.</strong><br>
         <cite>W. Shakespeare</cite>
@@ -56,9 +56,9 @@ In order to get a better understanding of Mercury energies, one needs to look at
 </div>
 <div class="float-clear"></div>
 
-The name Hermes is thought to originate from Greek “herma” (ἕρμα), the word that describes a heap of stones that serves as a **boundary marker**. While down on Earth Hermes was revered as the **swift god of travellers**, his primary celestial function is the one of the **messenger of the gods** as nominated by Zeus himself in recognition of Hermes’ equally ingenious skills in negotiation and trickery.
+The name Hermes is thought to originate from Greek “herma” (ἕρμα), the word that describes a heap of stones that serves as a **boundary marker**. While down on Earth Hermes was revered as the **swift god of travellers**, his primary celestial function was the one of the **messenger of the gods** as nominated by Zeus himself in recognition of Hermes’ equally ingenious skills in negotiation and trickery.
 
-Young Hermes was not only able to steal sacred oxen from his half-brother Apollo, the solar god, he was also able to trade them back while earning a good profit. This impressive negotiation skill set became the hallmark quality of Hermes on Earth where he is also recognised as the **god of both merchants and thieves**.
+Young Hermes was not only able to steal sacred oxen from his half-brother Apollo, the solar god, he was also able to trade them back while earning a good profit. This impressive negotiation skill set became the hallmark quality of Hermes on Earth where he was also recognised as the **god of both merchants and thieves**.
 
 In Roman culture Hermes became known as Mercury — the name possibly originated from the Latin word “merx” that means merchandise and commerce, or alternatively from a more ancient root “merĝ-“ that stands for boundary or border. 
 
@@ -74,9 +74,9 @@ When it comes to retrogrades, **Mercury is the most prolific of all planets**. T
 
 Mercury is the swiftest planet of all and the closest to the Sun — thus Mercury goes retrograde fairly often. At any given year we experience **3–4 retrograde Mercury periods of about 21 days each**.
 
-## What is the  opposite of retrograde?
+## What is the opposite of retrograde?
 
-The opposite of retrograde is the “normal” direction of planetary movement is traditionally called **direct**. There is also a newer trend that uses the word _“prograde”_ instead of direct. Time Nomad sticks to the traditional astrological parlance and therefore uses the word direct as the opposite to retrograde.
+The opposite of retrograde is the “normal” direction of planetary movement that is traditionally called **direct**. There is also a newer trend that uses the word _“prograde”_ instead of direct. Time Nomad sticks to the traditional astrological parlance and therefore uses the word direct as the opposite to retrograde.
 
 We believe that **“direct” is a more symbolically correct term**, it clearly conveys the direct nature of expression of planetary energies. 
 
@@ -107,7 +107,7 @@ Mercury has the powers to move from the world of visible to the world of invisib
     </div>
     <div class="col-4">
       <div class="row text-photo-caption-serif">
-        Hermes is also related to the notion of <strong>Hermeticism</strong>, an esoteric tradition originated by the mythical <strong>Hermes Trismegistus</strong> who is in turn related to Egyptian god Thoth. Thoth is the keeper and regulator of the flow of time and events, the god of wisdom and magic.
+        Hermes is also related to the notion of <strong>Hermeticism</strong>, an esoteric tradition originated by the mythical <strong>Hermes Trismegistus</strong> who is related to Egyptian god Thoth. Thoth is the keeper and regulator of the flow of time and events, the god of wisdom and magic.
       </div>
     </div>
   </div>
@@ -146,7 +146,7 @@ While all classical planets have a clear masculine/feminine separation, it’s n
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        <cite><strong>Mercury</strong>, a painting by Hendrik Goltzius.</cite><br><br>
+        <cite><strong>Mercury</strong>, painting by Hendrik Goltzius.</cite><br><br>
         Mercury is androgynous, transsexual and transgender. Mercury is perfectly able to embody both sexual polarities and artfully transcend the boundary between the sexes.
       </div>
     </div>
@@ -154,13 +154,13 @@ While all classical planets have a clear masculine/feminine separation, it’s n
 </div>
 <div class="float-clear"></div>
 
-The caduceus yet again symbolises the process of unification and **removal of the male/female opposition** in favour of a more integrated male–female nature that is according to some esoteric writers is the distant future when humanity will be able to rectify the painful split caused by the separation of sexes and the resulting feeling of being inherently incomplete, forever seeking (and never finding) the mythical second half.
+The caduceus yet again symbolises the process of unification and **removal of the male/female opposition** in favour of a more integrated male–female nature that is, according to some esoteric writers, the distant future when humanity will be able to rectify the painful split caused by the separation of sexes and the resulting feeling of being inherently incomplete, forever seeking (and never finding) the mythical second half.
 
 The male/female split is also one of major factors that contribute to the processes behind ageing. There is a symbolical promise in the image of forever youthful lightweight Mercury and the keys that it holds!
 
 ## Internalisation during Mercury retrograde
 
-Mercury also controls processes of the mind, it gives the ability to think rationally, provides with creative intuition that connects ideas with reality.
+Mercury also controls mental processes, it gives the ability to think rationally, provides with creative intuition that connects ideas with reality.
 
 During retrograde periods Mercurial function of the **mind is turned inwards**. Those periods are of great value for their qualities of introspection, careful planning and strategising. Ideas and thoughtfully crafted intentions of the retrograde period can manifest in more solid outcomes once Mercury is back to its direct course.
 
@@ -186,7 +186,7 @@ Those periods are more about **doing the right thing** rather than assuming a �
 
 Any disconnect or communication breakdown that will happen is due to happen because of inherent instability that has not been recognised, the flaws in the system design. 
 
-Being overly cautious will not mitigate those deeper issues. What helps though is the **performing simple and direct tasks** that belong to the “here and now” domain of Mars-inspired action. It is a good time to shift one’s focus from the terrain of the mind full of potential convolutions to the domain of physicality and simplicity.
+Being overly cautious will not mitigate those deeper issues. What helps though is **performing simple and direct tasks** that belong to the “here and now” domain of Mars-inspired action. It is a good time to shift one’s focus from the terrain of the mind full of potential convolutions to the domain of physicality and simplicity.
 
 ### Underestimating the power of disconnects
 
