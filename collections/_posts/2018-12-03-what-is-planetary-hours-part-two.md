@@ -126,7 +126,7 @@ The graph below illustrates the weekly cycle as expressed through the order of t
 
 ![Graph of cycle of planetary hours and corresponding days of the week](/images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph.png "Graph of cycle of planetary hours and corresponding days of the week"){:width="380px" style="width:380px"}
 
-Another interesting observation – the graph above has an **axis of symmetry that is pointing at Mercury**. This makes a lot of sense since Mercury rules interfaces between opposing principles like day and night, life and death. 
+Another interesting observation – the graph above has an **axis of symmetry that is pointing at Mercury**. This makes a lot of sense since Mercury rules interfaces between opposing principles like day and night, life and death. For a deeper look into the nature of Mercury and its mastery of rhythms and polarities read our story [“Myths and truths behind Mercury retrogrades”]({% post_url 2019-07-15-myths-and-truths-behind-mercury-retrograde %}).
 
 ## Astronomical significance
 

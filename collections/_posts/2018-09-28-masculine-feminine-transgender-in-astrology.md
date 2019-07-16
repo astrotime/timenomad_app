@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20180928
 date: 2018-09-28 12:00:00 +1000
-modified: 2018-09-28 12:00:00 +1000
+modified: 2019-07-15 12:00:00 +1000
 title: Masculine, feminine and transgender in astrology.
 description: Astrological chart manifests itself through the planetary forces that can be classified according to the gender principles – masculine, feminine and oscillating transgender.
 categories: posts astrology philosophy
@@ -43,6 +43,8 @@ Referring to the excellent classical work *Tetrabiblos* by Ptolemy, the planets 
 Mercury is an interesting case, it’s neither masculine nor feminine. Being the messenger of the gods, Mercury is the agent of exchange between the two genders. Mercury energy is ubiquitous, it connects and makes principles communicate. 
 
 One can see Mercury as androgynous being that represents both genders at once. Somehow this fits the image of Mercury really well — mostly portrayed as a youthful person with a subtle touch of gender ambiguity. The principle of Hermes/Mercury is at the core of alchemy which squarely aims at transformation. Generally speaking, a lot of human psychological and emotional malaise comes from misunderstanding of being out of touch with the opposite sex, both inwardly and outwardly. Somehow Mercury unites these opposing principles and brings harmony. Something of the future!
+
+For a deeper look into the nature of Mercury and its mastery of rhythms and polarities read our story [“Myths and truths behind Mercury retrogrades”]({% post_url 2019-07-15-myths-and-truths-behind-mercury-retrograde %}).
 
 ## Trans-Saturnian planets
 

@@ -11,7 +11,7 @@ authorImage:
   url: /images/newsletter-authors/lara-gems.png
 authorProfile: >
   Lara Gems,<br>
-  Gemstone Strategist and Founder of <a href="https://gemsinstyle.com">Gems In Style Jewellery</a><br>
+  Gemstone Strategist and Founder of <a href="https://gemsinstyle.com" target="_blank">Gems In Style Jewellery</a><br>
   Learn more on <a href="https://www.instagram.com/gemsinstyle/" target="_blank">Instagram</a> &bull; <a href="https://www.facebook.com/gemsinstyle/" target="_blank">Facebook</a>
 ---
 
