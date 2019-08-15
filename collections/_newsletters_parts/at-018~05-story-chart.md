@@ -1,7 +1,7 @@
 ---
 layouter: newsletter-story-plain.html
 supertitle: Astrological Weather
-title: From blessings of Sun–Venus to passions of Mars–Venusout
+title: From blessings of Sun–Venus to passions of Mars–Venus
 social: time-nomad-discuss twitter-follow
 ---
 
