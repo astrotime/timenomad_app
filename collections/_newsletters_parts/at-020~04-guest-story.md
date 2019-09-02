@@ -16,7 +16,7 @@ authorProfile: >
 social: time-nomad-discuss
 ---
 
-**Duality is embedded at the very archetypal level of our universe.** In astrology it is represented by the symbolism of the Sun and the Moon. Chineese philosophy refers to it as Yin and Yang concept of dualism. These two energies are everywhere in the universe – from our planets to our bodies and everything in between.
+**Duality is embedded in the fabric of our universe at the archetypal level.** In astrology it is represented by the symbolism of the Sun and the Moon. Chinese philosophy refers to it as Yin and Yang concept of dualism. These two energies are everywhere in the universe – from our planets to our bodies and everything in between.
 
 **Push and pull, male and female, day and night, hot and cold, action and retention…** Projective and penetrating energy of the Sun and reflective fluidity and nurturing power of the Moon. Each of us have both of them regardless of the gender we belong to. Yes, we need them in different proportions at different times or areas of our lives, but we need both of them in order to feel whole. **So they better act in harmony.**
 
