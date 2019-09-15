@@ -20,9 +20,9 @@ social: time-nomad-discuss
 
 Curiosity helps to learn new concepts while receptivity allows to open up your mind, heart and entire energy to something bigger than you. All together **it transforms you and the way you see and interact with the world**. And that is already magical. Because magic is the process of transformation.
 
-The world is made of **subtle and seemingly invisible vibrations** that are constantly being transformed into what we call matter — something we can see, touch and experience with through our regular senses. Matter has texture and density, it forms different shapes and comes in a variety colours… yet here on Earth it is directly connected to the planetary forces and sacred geometry — leading us all the way up to the divine consciousness itself (of whatever you prefer to call it). 
+The world is made of **subtle and seemingly invisible vibrations** that are constantly being transformed into what we call matter — something we can see, touch and experience with our regular senses. Matter has texture and density, it forms different shapes and comes in a  variety of colours… yet here on Earth it is directly connected to the planetary forces and sacred geometry — leading us all the way up to the divine consciousness itself (of whatever you prefer to call it). 
 
-**Gemstones, metals and sacred geometry is my favourite domain of magic**. That’s what I am interested to explore in depth… I love to manifest this magic in the form of jewellery because it allows to unpack pure principles and connects us with the forces that expand our perception and transform the quality of life, here and now.
+**Gemstones, metals and sacred geometry is my favourite domain of magic**. That’s what I am interested to explore in depth… I love to manifest this magic in the form of jewellery because it allows to unpack pure underlying principles and connects us with the forces that expand our perception and transform the quality of life, here and now.
 
 **Sacred Geometry** helps to connect with the archetypal principles and bring clarity into our lives. [Read more about Sacred Geometry…](https://gemsinstyle.com/blogs/news/tagged/sacred-geometry){: target="_blank"}
 
