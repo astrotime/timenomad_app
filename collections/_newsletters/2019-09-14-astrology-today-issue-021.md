@@ -2,7 +2,7 @@
 layout: page-newsletter
 uuid: NL-20190914
 date: 2019-09-14 12:00:00 +1000
-modified: 2019-08-14 12:00:00 +1000
+modified: 2019-09-14 12:00:00 +1000
 title: Astrology Today • issue 021
 subtitle: Time Nomad newsletter • September 14, 2019
 description: "Full Moon on the Apogee • What is Magic • September Equinox… read our regular astrological knowledge stories and news updates."

@@ -1,5 +1,5 @@
 ---
-title: Issue 020 • The New Moon on the Perigee
+title: Issue 021 • The Full Moon on the Apogee
 contentUrl: /newsletters/2019-09-14-astrology-today-issue-021.html
 ---
 
