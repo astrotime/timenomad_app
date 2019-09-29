@@ -40,7 +40,7 @@ How to **enhance your life performance** by activating Projective (Sun and Mars)
 
 How metals — the essential planetary “ambassadors” — can **support your career, relationships and well-being?**
 
-And much much more… we will discuss in two weeks’s time in our next Newsletter and my new blog post.
+And much much more… we will discuss in two weeks’ time in our next Newsletter and my new blog post.
 
 Meantime you can explore in detail [why and how Silver as a metal manifests the Moon archetype](https://gemsinstyle.com/blogs/news/silver-and-the-moon){: target="_blank"}.
 
