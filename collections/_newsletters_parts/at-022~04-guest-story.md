@@ -36,7 +36,7 @@ Did you notice that the list also contains **the most profound polarities** of p
 
 The Sun energy is the opposite of the Moon, and Mars is antipodal to Venus. **The right balance of these polarities in our energies is extremely essential.** It defines our ability to give and receive, to achieve and manifest abundance in life in a way that is meaningful to us.
 
-How to **enhance your life performance** by activating Projective (Sun and Mars) and Receptive (Moon and Venus) Planetary Energies by connecting with corresponding metals?
+How to **enhance your life performance** by activating Projective (Sun and Mars) and Receptive (Moon and Venus) Planetary Energies through corresponding metals?
 
 How metals — the essential planetary “ambassadors” — can **support your career, relationships and well-being?**
 
