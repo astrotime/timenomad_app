@@ -1,0 +1,33 @@
+---
+layout: page-newsletter
+uuid: NL-20191014
+date: 2019-10-14 12:00:00 +1000
+modified: 2019-10-14 12:00:00 +1000
+title: Astrology Today • issue 023
+subtitle: Time Nomad newsletter • October 14, 2019
+description: "Celestial dialectic of Gold and Silver • Pluto and the Full Moon: visible and hidden… read our regular astrological knowledge stories and news updates."
+miniDescription: "Pluto and the Full Moon • Gold and Silver"
+# App feed
+app:
+  scope: 
+  present: must
+  title: Astrology Today 🌕
+  description: "Astro news update • Pluto and the Full Moon: visible and hidden • Celestial dialectic of Gold and Silver"
+# Other
+comments: true
+# Extra info for structured data
+schema:
+  images:
+    alt: Astrology Today, astro news update, issue 023, Celestial dialectic of Gold and Silver and the art of balance
+  image:
+    url: /images/schema/astrology-today-023-planetary-metals-gold-silver.jpg
+    width: 1200
+    height: 630
+  image_1x1:
+    url: /images/schema/astrology-today-023-planetary-metals-gold-silver_1x1.jpg
+    width: 760
+    height: 760
+# Newsletter content
+newsletter:
+  prefix: at-023
+---
