@@ -16,13 +16,13 @@ authorProfile: >
 social: time-nomad-discuss
 ---
 
-**Each new Moon comes to you with an invitation to pause, revisit and realign...**
+**Each New Moon comes to you with an invitation to pause, revisit and realign...**
 
-It’s a natural phase of darkness and stillness, time of emptiness and inner silence… For your psyche it’s the best time to dive deeper and reach out to your inner truth and set up the impulse for the next Moon cycle.
+It’s a natural phase of darkness and stillness, time of emptiness and inner silence… For your psyche it’s the best time to dive deeper, reach out to your inner truth and set up the impulse for the next Moon cycle.
 
 Time to put things in motion. **You have 48 hours once the New Moon has happened.**
 
-Did you know that you can unite the stillness of the New Moon with the magic of crystals to support you on your journey through the next Moon cycle? **Crystals are super powerful when it comes to manifestation.** They can help you harness the opportunities and stay connected with your intention by supporting your energy and focusing your consciousness on what you want to achieve. But you really need to want it!
+Did you know that you can unite the stillness of the New Moon with the magic of crystals to support you on your journey through the next Moon cycle? **Crystals are super powerful when it comes to manifestation.** They can help you harness the opportunities and stay connected with your intention by focusing your consciousness on what you want to achieve. But you really need to want it!
 
 **So how do you work with the crystals during New Moon?**
 
