@@ -1,6 +1,6 @@
 ---
 layouter: newsletter-guest-story.html
-supertitle: Discovering energies of metals
+supertitle: Discovering energies of crystals
 title: "New Moon — Setting Intentions and Manifesting with Crystals"
 contentUrl: https://gemsinstyle.com/blogs/news
 image:
