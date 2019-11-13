@@ -12,7 +12,7 @@ app:
   scope: 
   present: must
   title: Astrology Today 🌕
-  description: "Astro news update • This Uranian New Moon • Intentions and Manifesting with Crystals • All things lofty, Venus and Mercury"
+  description: "Astro news update • Full Moon after Mercury crossing • Time to cleanse and recharge crystals • Jupiter and Venus, the celestial attractors"
 # Other
 comments: true
 # Extra info for structured data
