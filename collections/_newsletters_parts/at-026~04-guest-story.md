@@ -15,7 +15,7 @@ authorProfile: >
   <span style="font-size: 12px"><a href="https://www.instagram.com/gemsinstyle/" target="_blank">Instagram</a> &bull; <a href="https://www.facebook.com/gemsinstyle/" target="_blank">Facebook</a></span>
 ---
 
-It’s that time of the year when everyone is on a quest for most inspiring and original gift ideas. Perhaps you too want to find **gifts that are meaningful and even have a certain degree of magic in them**.
+It’s that time of the year when everyone is on a quest for the most inspiring and original gift ideas. Perhaps you too want to find **gifts that are meaningful and even have a certain degree of magic in them**.
 
 The Christmas Spirit inspires you to find something special that will **surprise and delight those you love** and cherish the most. Well, now is the time to tap from your gemstone knowledge and make that gift giving magic happen…
 
