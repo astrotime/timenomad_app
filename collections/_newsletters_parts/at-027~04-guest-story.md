@@ -17,7 +17,7 @@ authorProfile: >
 
 In the distant past of our civilization, **the magical properties of gemstones and metals were a part of everyday life**. Back then people were much more attuned to the powers of crystals, the forces of nature and the universe at large.
 
-**Humans were receptive to these forces** and much more attuned to the “source” — the nature, god, the universal consciousness — whatever you prefer to call it.
+**Humans were receptive to these forces,** they lived in sync with the “source” — the nature, god, the universal consciousness — whatever you prefer to call it.
 
 Then followed centuries of religious dogma and restrictions, when people were supposed to believe what they are told and never ask questions. **Curiosity was the sin and ancient knowledge vanished.**
 
