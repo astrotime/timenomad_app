@@ -18,7 +18,7 @@ seo:
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
-  dateModified: 2019-08-22
+  dateModified: 2020-01-12
 ---
 
 ## Fine astrological and astronomical software right in your pocket
