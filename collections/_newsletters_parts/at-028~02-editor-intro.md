@@ -6,13 +6,13 @@ image:
   alt: Denis Zubkov
 ---
 
-**Welcome to the doorstep of a new era** so prominently heralded by **the Sun–Saturn–Pluto conjunction!**  Today we are talking about an emerging time period and its realities. What is this new world that humanity is awakening to? How do we collectively begin our adaptation to new challenges? Since the **preceding Saturn–Pluto conjunction of 1987** the world has been steadily morphing into a new shape that is currently crystallising its distinct flavour.
+**Welcome to the doorstep of a new era** so prominently heralded by **the Sun–Saturn–Pluto conjunction**! Today we are talking about an emerging time period and its realities. What is this new world that humanity is awakening to? How do we collectively begin our adaptation to new challenges? Since the **preceding Saturn–Pluto conjunction of November 7, 1982** (in tropical Libra) the world has been steadily morphing into a new shape that is currently crystallising its distinct flavour.
 
 Astrologically educated people have a **privilege of being somewhat better prepared** for that kind of changes as certain emerging trends can be seen forming through the vision of dynamic nature of planetary alignments and patterns. 
 
 We’re all wondering about the **effects of currently unfolding Saturn–Pluto conjunction**, a rare event that happens only once or twice per human life time. This conjunction coincides with **major structural changes in human society**. Clearly, Saturn–Pluto conjunction is not the cause but rather a harbinger and a conduit through which the new world reality and human societal order are establishing themselves.
 
-Midday of January 12, 2020 — that’s if you’re located on the east coast of the US — is the exact moment when Saturn and Pluto fully merge their energies and open the gates for an immense astral potential to influence planet Earth. Down this page I will be talking about **uniqueness of this cosmic alignment** and **personal strategies**. For now, I’d like to briefly look at the signs of **changes and characteristic challenges** that we must overcome to further develop as human species and not get bogged down in the “Dark Ages” version of modern times.
+Midday of January 12, 2020 — that’s if you’re located on the east coast of the US — is the exact moment when Saturn and Pluto fully merge their energies (in tropical Capricorn) and open the gates for an immense astral potential to influence planet Earth. Down this page I will be talking about **uniqueness of this cosmic alignment** and **personal strategies**. For now, I’d like to briefly look at the signs of **changes and characteristic challenges** that we must overcome to further develop as human species and not get bogged down in the “Dark Ages” version of modern times.
 
 Just a few major “pain points” that the world has to deal with… 
 
