@@ -2,7 +2,7 @@
 layout: page-newsletter
 uuid: NL-20191028
 date: 2019-10-28 12:00:00 +1000
-modified: 2019-10-28 12:00:00 +1000
+modified: 2020-01-27 12:00:00 +1000
 title: Astrology Today • issue 024
 subtitle: Time Nomad newsletter • October 28, 2019
 description: "This Uranian New Moon • Setting Intentions and Manifesting with Crystals • All things lofty, Venus and Mercury… read our regular astrological knowledge stories and news updates."
