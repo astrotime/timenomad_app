@@ -1,5 +1,5 @@
 ---
-title: Issue 014 • Love in the time of Venus–Uranus conjunction
+title: Issue 013 • Love in the time of Venus–Uranus conjunction
 contentUrl: /newsletters/2019-05-17-astrology-today-issue-013.html
 ---
 

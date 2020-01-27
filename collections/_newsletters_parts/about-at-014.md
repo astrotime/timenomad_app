@@ -8,6 +8,7 @@ contentUrl: /newsletters/2019-05-31-astrology-today-issue-014.html
 A short summary:
 
 * Minor astrological aspects and the domain of magic.
+* Sacred Geometry of Circle.
 * World events during May lunar month.
 * Mars on the North Node.
 * The New Moon at the time of Jupiter retrograde.
