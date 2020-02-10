@@ -2,7 +2,7 @@
 layout: page-newsletter
 uuid: NL-20191112
 date: 2019-11-12 12:00:00 +1000
-modified: 2019-11-12 12:00:00 +1000
+modified: 2020-02-10 12:00:00 +1000
 title: Astrology Today • issue 025
 subtitle: Time Nomad newsletter • November 12, 2019
 description: "Full Moon after Mercury crossing • Time to cleanse and recharge crystals  • Jupiter and Venus, the celestial attractors… read our regular astrological knowledge stories and news updates."

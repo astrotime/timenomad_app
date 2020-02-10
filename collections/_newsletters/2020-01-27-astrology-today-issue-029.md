@@ -11,7 +11,7 @@ miniDescription: "Venus–Neptune and “ideal” love • Archetypes, Gemstones
 app:
   scope: 
   present: must
-  title: Astrology Today 🌕
+  title: Astrology Today 🌑
   description: "Astro news update • Welcome to the new era • Setting intentions for 2020 with Gemstones • Saturn–Pluto, taking a look from above"
 # Other
 comments: true
