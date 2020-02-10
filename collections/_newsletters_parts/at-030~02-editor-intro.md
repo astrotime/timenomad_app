@@ -6,7 +6,7 @@ image:
   alt: Denis Zubkov
 ---
 
-**The power of “invisibles”** is amplified through the lens of this Full Moon. By the “invisibles” I mean both less obvious points and relationships within the astrological chart. I will get to that soon. Of all planets, **the Moon is the swiftest celestial traveller** – it covers the distance of a single Zodiac sign in mere 2.5 days. This speed gives the Moon its **paradoxical duality** – its fleeting nature that nevertheless perfectly capable of inducing significant emotional if not manic upheavals in both nature and each of us.
+**The power of “invisibles”** is amplified through the lens of this Full Moon. By the “invisibles” I mean both less obvious points and relationships within the astrological chart. I will get to that soon. Of all planets, **the Moon is the swiftest celestial traveller** – it covers the distance of a single Zodiac sign in mere 2.5 days. This speed gives the Moon its **paradoxical duality** – its fleeting nature that nevertheless perfectly capable of inducing significant emotional if not manic upheavals equally affecting the nature at large and each of us individually (even our cat always feels unsettled if the Full Moon is extra strong).
 
 This Full Moon is marked by a stronger **irrationality and a touch of madness**. What makes it so? Through the power of minor aspects the Moon is directly connected to almost all planets with the exception of Uranus. Our gentle satellite pulls most of strings at once!
 

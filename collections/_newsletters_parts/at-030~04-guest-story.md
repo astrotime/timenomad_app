@@ -29,7 +29,7 @@ These planets and related gemstones are the best facilitators of your manifestin
 
 * **Mars** will dymanise your action and stimulate your ambitions. Corresponding minerals are **Iron, Hematite, Pyrite, Garnet, Lava stone, Bloodstone**.
 
-* **Saturn** will support your self-discipline and help focus on practicalities with help from **Lead, Lapis Lazuli, Blue Sapphire**.
+* **Saturn** will support your self-discipline and focus on practicalities with a help from **Lead, Lapis Lazuli, Blue Sapphire**.
 
 [Rutilated Quartz](https://gemsinstyle.com/collections/dancing-orbit/products/dancing-orbit-rutilated-quartz){: target="_blank"} is a perfect crystal that exhibits the Sun–Mars dialectic: the power of active self-manifestation through personal will and action. [Click here to read more about the Rutilated Quartz...](https://gemsinstyle.com/blogs/news/gemstones-astrology-rutilated-quartz-sun-mars){: target="_blank"}
 
