@@ -1,6 +1,6 @@
 ---
 layout: page-newsletter
-uuid: NL-20200112
+uuid: NL-20200210
 date: 2020-02-10 12:00:00 +1000
 modified: 2020-02-10 12:00:00 +1000
 title: Astrology Today • issue 030
