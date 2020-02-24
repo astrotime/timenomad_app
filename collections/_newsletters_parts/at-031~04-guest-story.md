@@ -31,9 +31,7 @@ Some of these treatments are more “confusing” than others when it comes to p
 
 Colour acts as a **key to the gemstone’s personality and forces** it is connected to. When the colour is significantly altered or changed (especially with chemicals) the energy and connection to the related planetary forces may easily vanish. 
 
-If you are curious about the nature of gemstone colour and its relationship to its properties, [read our exploration of gemstones’ colour magic…](https://gemsinstyle.com/blogs/news/tagged/colour){: target="_blank"}
-
-And for some further **crystal tips**…
+If you are curious about the nature of gemstone colour and its relationship to its properties, read our **further crystal tips**…
 
 [Miracle Explained](https://gemsinstyle.com/blogs/news/miracle-explained-colors-of-your-gemstone-jewelry){: target="_blank"} – colors of your Gemstone Jewelry.
 
