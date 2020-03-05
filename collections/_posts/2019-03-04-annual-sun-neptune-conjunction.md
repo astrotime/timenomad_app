@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190304
 date: 2019-03-04 12:00:00 +1000
-modified: 2020-05-04 12:00:00 +1000
+modified: 2020-03-05 12:00:00 +1000
 title: Annual Sun – Neptune conjunction — divine magnificence and bottomless delusions
 description: The annual Sun – Neptune conjunction is one of the most fundamental astrological events that happens every year, currently on the 8th of March, 2020. And yet not much is written about this truly mystical event and its deep influence on the ideals and aspirations of every human being.
 categories: posts astrology event
