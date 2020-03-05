@@ -2,9 +2,9 @@
 layout: post
 uuid: P-20190304
 date: 2019-03-04 12:00:00 +1000
-modified: 2019-03-04 12:00:00 +1000
-title: Annual Sun – Neptune conjunction of 2019 — divine magnificence and bottomless delusions
-description: The annual Sun – Neptune conjunction is one of the most fundamental astrological events that happens every year, currently on the 6th of March, 2019. And yet not much is written about this truly mystical event and its deep influence on the ideals and aspirations of every human being.
+modified: 2020-05-04 12:00:00 +1000
+title: Annual Sun – Neptune conjunction — divine magnificence and bottomless delusions
+description: The annual Sun – Neptune conjunction is one of the most fundamental astrological events that happens every year, currently on the 8th of March, 2020. And yet not much is written about this truly mystical event and its deep influence on the ideals and aspirations of every human being.
 categories: posts astrology event
 comments: true
 # Extra info for structured data
@@ -21,9 +21,9 @@ schema:
     height: 760
 ---
 
-The annual Sun – Neptune conjunction is one of the most fundamental astrological events that happens every year, currently on the 6th of March, 2019. And yet not much is written about this truly mystical event and its deep influence on the ideals and aspirations of every human being.
+The annual Sun – Neptune conjunction is one of the most fundamental astrological events that happens every year, currently on the 8th of March, 2020. And yet not much is written about this truly mystical event and its deep influence on the ideals and aspirations of every human being.
 
-This year of 2019, the influence of the Sun – Neptune conjunction starts about February, 24 and peaks in 9 days when the conjunction becomes exact on March, 6. After that the aspect will be slowly decreasing until the separation of the planets on March, 17.
+This year of 2020, the influence of the Sun – Neptune conjunction starts about February, 26 and peaks in 11 days when the conjunction becomes exact on March, 8. After that the aspect will be slowly decreasing until the separation of the planets on March, 18.
 
 The Sun – Neptune conjunction is the celebration of both **divine magnificence and personal delusions of equally gigantic magnitude**. Before talking about how this conjunction may influence each of us on personal level, let’s take an excursion to the origins of the world and its metaphysical roots.
 
