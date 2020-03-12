@@ -1014,8 +1014,11 @@ article.newsl {
   }
 
   .newsl-grid {
+    margin-bottom: 1em;
+    
     img {
       border: 1px solid $gray;
+      margin: 0;
     }
 
     .column-pad {
