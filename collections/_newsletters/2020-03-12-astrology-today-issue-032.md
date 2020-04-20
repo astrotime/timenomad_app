@@ -5,7 +5,7 @@ date: 2020-03-12 12:00:00 +1000
 modified: 2020-03-12 12:00:00 +1000
 title: Astrology Today • issue 032
 subtitle: Time Nomad newsletter • March 12, 2020
-description: "Coronavirus as the “can opener” • Howlite — purity, unity and harmony… read our regular astrological knowledge stories and news updates."
+description: "Coronavirus as the “can opener” • Howlite — the gemstone of purity, unity and harmony… read our regular astrological knowledge stories and news updates."
 miniDescription: "Coronavirus the “can opener” • Howlite: purity, unity and harmony"
 # App feed
 app:

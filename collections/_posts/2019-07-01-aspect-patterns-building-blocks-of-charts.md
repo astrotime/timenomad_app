@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190701
 date: 2019-07-01 12:00:00 +1000
-modified: 2019-07-06 12:00:00 +1000
+modified: 2020-04-20 12:00:00 +1000
 title: Aspect patterns — the building blocks of astrological charts
 description: Identifying aspect formations is the first step towards unlocking the mysteries of an astrological chart. Geometric nature of aspect patterns is expressive and symbolic, it reveals an underlying framework behind complex interactions between astral energies of planets.
 categories: posts astrology philosophy
@@ -136,7 +136,7 @@ The T-square is an invitation to look for **potential emotional blockages** that
 
 A grand cross is a combination of two T-squares. This clearly makes it a very powerful pattern that signifies **astral crystallisations taken to their extremes**.
 
-The example below illustrates a grand cross that is made out of two oppositions, Mars–Saturn and Mercury–Venus, and four (!) squares.
+The example below illustrates a grand cross that is made out of two oppositions, Mars–Saturn and Pluto–Venus, and four (!) squares.
 
 <img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-grand-cross.png 1x, /images/illustrations/aspect-pattern-grand-cross@2x.png 2x, /images/illustrations/aspect-pattern-grand-cross@3x.png 3x" alt="Astrological chart with aspect pattern of grand cross">
 
