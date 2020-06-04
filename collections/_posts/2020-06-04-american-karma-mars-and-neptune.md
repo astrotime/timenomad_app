@@ -5,7 +5,7 @@ date: 2020-06-04 12:00:00 +1000
 modified: 2020-06-04 12:00:00 +1000
 title: American karma — Mars in the kingdom of Neptune
 description: People of the USA, hurt and angered by the ongoing police brutality, took to the streets in a movement that is coincides with a powerful Mars–Neptune conjunction of May–June 2020. Mars and Neptune are capable of producing massive upheavals injecting a highly combustive mix of anger and idealism, especially related to the matters of truth and justice — thus revealing the burden of unresolved karmic debt.
-categories: posts astrology opinion
+categories: posts astrology event
 comments: true
 # App feed
 app:
