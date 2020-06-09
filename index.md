@@ -21,34 +21,31 @@ seo:
   dateModified: 2020-01-12
 ---
 
-## Fine astrological and astronomical software right in your pocket
+# Astrologer’s toolkit app for iPhone & iPad
 
-<div class="row">
-  <div class="float-left">
-    <img src="/images/time-nomad-iphone-ipad.png" itemprop="image">
-  </div>
-  <div>
-    <p>Explore astrology and astronomy in clarity and style. Track transits in real time. See upcoming changes.</p>
-    <ul class="bullet-inside">
-      <li>Rich real-time dashboard </li>
-      <li>Timeline of changes</li>
-      <li>Customisable charts</li>
-    </ul>
-    <p>… and</p>
-    <ul class="bullet-inside">
-      <li>Free for all core functionality</li>
-    </ul>
-    {%- include icon-appstore.html appname=site.my_app_store_name -%}
-  </div>
-</div>
+Time Nomad is a fine astrological and astronomical software that is always with you, right in your pocket. The app calculates real-time astrological charts, transits and much more. 
 
-{%- include reviews-by-users-summary.html link="reviews" -%}
+<img class="promo lazyload" data-srcset="/images/time-nomad-iphone-and-ipad.png 1x, /images/time-nomad-iphone-and-ipad@2x.png 2x, /images/time-nomad-iphone-and-ipad@3x.png 3x" alt="Astrological software on mobile phone and tablet">
+
+## Explore astrology and astronomy in clarity and style
+
+Time Nomad is **free** for all core functionality. All additional features are optional and don't obstruct your use of the app in any way. Create as many astrological profiles as you need, you will own all your data as it is stored on your iCloud account, no login or password is necessary.
+
+{% include icon-appstore.html appname=site.my_app_store_name %}
+
+## Join thousands of satisfied users
+
+Time Nomad is proud to serve astrological community by providing this top notch free astrological software to everybody who wants to understand movements of celestial bodies and grasp symbolic language behind this ancient branch of human knowledge.
+
+{% include reviews-by-users-summary.html link="reviews" %}
 
 <div class="float-clear"></div>
 
 ## Why Time Nomad is so convenient?
 
 Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning and interpretation. The app is a perfect companion for astrologers of any level — from **a student who is beginning to learn astrology to a professional astrologer** offering clients’ charts reading and using prediction techniques.
+
+<img class="promo lazyload" data-srcset="/images/time-nomad-light-and-dark-theme.png 1x, /images/time-nomad-light-and-dark-theme@2x.png 2x, /images/time-nomad-light-and-dark-theme@3x.png 3x" alt="Astrological software on mobile phone with light and dark themes">
 
 Time Nomad keeps you in touch with ever changing configuration of planets, minor bodies and asteriods. It’s a modern astrological tool designed to be in your pocket and give you **answers in real time**. Astronomical and astrological information is presented in unadorned, concise yet expressive manner to help you see the bigger picture.
 
@@ -64,7 +61,6 @@ The app supports both **tropical and sidereal Zodiac**. The sidereal Zodiac repo
 <strong itemprop="name">Nothing like it.</strong> <span class="testimonial-star">★★★★★</span><br>
 <span itemprop="description">Thank you for the work you do that allows us all to stay informed of the changes above while mobile. There’s nothing like this app, or rather, no other that compares.</span><br>
 by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Alex Antares</span></span>
- – <meta itemprop="datePublished" content="2018-08-07">Aug 7, 2018
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content = "1">
   <meta itemprop="ratingValue" content = "5">
@@ -75,7 +71,7 @@ by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span i
 <div class="testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
 <strong itemprop="name">Love</strong> <span class="testimonial-star">★★★★★</span><br>
 <span itemprop="description">I adore this app, and it is by far the best phone astrology app I have found. one thing I would love to see is possibly a place to make notes on a chart, and also the ability to add more asteroids (I love asteroids). But overall, amazing.</span><br>
-by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Daizzyy</span></span> – <meta itemprop="datePublished" content="2018-08-03">Aug 3, 2018
+by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Daizzyy</span></span>
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content = "1">
   <meta itemprop="ratingValue" content = "5">
@@ -86,7 +82,7 @@ by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span i
 <div class="testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
 <strong itemprop="name">Amazing and Free</strong> <span class="testimonial-star">★★★★★</span><br>
 <span itemprop="description">This app is extremely powerful and enlightening. So many features included for free and so well designed and executed. Thank you.</span><br>
-by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">FlameGuitar85</span></span> – <meta itemprop="datePublished" content="2018-07-24">Jul 24, 2018
+by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">FlameGuitar85</span></span>
 <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
   <meta itemprop="worstRating" content = "1">
   <meta itemprop="ratingValue" content = "5">
@@ -153,21 +149,7 @@ by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span i
 
 ## Clean and concise presentation of information
 
-<div class="container">
-  <div class="row">
-    <div class="col-4">
-      <img src="/images/screens/time-nomad_chart-for-now.png" alt="" />
-    </div>
-    <div class="col-4">
-      <img src="/images/screens/time-nomad_world-events.png" alt="" />
-    </div>
-    <div class="col-4">
-      <img src="/images/screens/time-nomad_transits-list.png" alt="" />
-    </div>
-  </div>
-</div>
-
-<div class="float-clear"></div>
+<img class="promo lazyload" data-srcset="/images/time-nomad-astrology-app-01.png 1x, /images/time-nomad-astrology-app-01@2x.png 2x, /images/time-nomad-astrology-app-01@3x.png 3x" alt="Astrological software features">
 
 ## Planetary positions calculator
 
@@ -190,6 +172,8 @@ Astrological charts support **any geographic location** on planet Earth.
 Time Nomad software is unique in its ability to calculate both **tropical and sidereal zodiac** systems using **high precision ephemeris**.
 
 You can freely switch between the two models of the Zodiac,  pretty much every report offers both tropical and sidereal zodiac versions.
+
+<img class="promo lazyload" data-srcset="/images/time-nomad-astrology-app-02.png 1x, /images/time-nomad-astrology-app-02@2x.png 2x, /images/time-nomad-astrology-app-02@3x.png 3x" alt="Astrological software features">
 
 ## Advanced astrological calculations
 

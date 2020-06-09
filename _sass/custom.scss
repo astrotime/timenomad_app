@@ -109,7 +109,7 @@ skybar#appPromo, skybar#newsletterPromo {
 .home-banner {
   min-height: $spacing-unit * 3 * 1.865;
   padding-top: $spacing-unit * 1.865;
-  margin-bottom: $spacing-unit * 1.865;
+  margin-bottom: $spacing-unit * 1.865 / 2;
 
   @include background(#343f6b, 'time-nomad-banner.jpg');
 
@@ -135,6 +135,9 @@ skybar#appPromo, skybar#newsletterPromo {
 @include media-query($on-palm) {
   .home-banner svg {
     display: none;
+  }
+  .home-banner {
+    @include background(#343f6b, 'time-nomad-banner.jpg', center);
   }
 }
 
@@ -183,6 +186,12 @@ skybar#appPromo, skybar#newsletterPromo {
 .page-content-home {
   padding: 0;
   flex: 1;
+
+  img.promo {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    border-radius: 5px;
+  }
 }
 
 /**
