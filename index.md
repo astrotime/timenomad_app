@@ -18,18 +18,18 @@ seo:
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
-  dateModified: 2020-01-12
+  dateModified: 2020-06-10
 ---
 
-# Astrologer’s toolkit app for iPhone & iPad
+# Astrologer’s companion app for iPhone & iPad
 
-Time Nomad is a fine astrological and astronomical software that is always with you, right in your pocket. The app calculates real-time astrological charts, transits and much more. 
+Time Nomad is a fine astrological and astronomical software that is always with you, **right in your pocket**. The app calculates real-time astrological charts, transits, synastry, progressions and much more. 
 
 <img class="promo lazyload" data-srcset="/images/time-nomad-iphone-and-ipad.png 1x, /images/time-nomad-iphone-and-ipad@2x.png 2x, /images/time-nomad-iphone-and-ipad@3x.png 3x" alt="Astrological software on mobile phone and tablet">
 
 ## Explore astrology and astronomy in clarity and style
 
-Time Nomad is **free** for all core functionality. All additional features are optional and don't obstruct your use of the app in any way. Create as many astrological profiles as you need, you will own all your data as it is stored on your iCloud account, no login or password is necessary.
+Time Nomad is **free for all core functionality**. All additional features are optional and don't obstruct your use of the app in any way. Create as many astrological profiles as you need, you will own all your data as it is stored on your iCloud account, no login or password is necessary.
 
 {% include icon-appstore.html appname=site.my_app_store_name %}
 
@@ -43,7 +43,7 @@ Time Nomad is proud to serve astrological community by providing this top notch 
 
 ## Why Time Nomad is so convenient?
 
-Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning and interpretation. The app is a perfect companion for astrologers of any level — from **a student who is beginning to learn astrology to a professional astrologer** offering clients’ charts reading and using prediction techniques.
+Time Nomad was created with the intention to give you a tool that would enable you to better understand the dynamics of celestial bodies and their corresponding astrological meaning and interpretation. The app is a perfect companion for astrologers of any level — from **a student who is beginning to learn astrology to a professional practicing astrologer** offering clients’ charts reading and using prediction techniques.
 
 <img class="promo lazyload" data-srcset="/images/time-nomad-light-and-dark-theme.png 1x, /images/time-nomad-light-and-dark-theme@2x.png 2x, /images/time-nomad-light-and-dark-theme@3x.png 3x" alt="Astrological software on mobile phone with light and dark themes">
 
@@ -193,6 +193,8 @@ For each event, the app provides two charts: a regular chart and a chart of tran
 
 Time Nomad offers **fixed stars calculations** for both **tropical and sidereal Zodiac** systems. Fixed stars calculator comes with an extensive list of **107 stars and stellar objects** that are of the most importance for astrological chart interpretation. The list of fixed stars includes **fifteen Behenian stars**, major galaxies, stellar clusters and nebulae as well as other stars with major astrological influence.
 
+<img class="promo lazyload" data-srcset="/images/time-nomad-astrology-app-03.png 1x, /images/time-nomad-astrology-app-03@2x.png 2x, /images/time-nomad-astrology-app-03@3x.png 3x" alt="Astrological software with fixed stars charts">
+
 Both **natal and regular charts** include visual positions of the fixed stars including their aspects to the planets and all other major point of the chart.
 
 Calculations of **astrological aspects to the fixed stars** are not limited to conjunctions, the user is free to search for other aspects, both major and minor. 
@@ -211,6 +213,8 @@ The user if free to customise the aspects orbs to desired values.
 Summary of **upcoming astrological events** is presented in both textual and timeline formats.
 
 The app uses system notifications to send you **daily updates** about your transits and astrological events that are about to happen.
+
+<img class="promo lazyload" data-srcset="/images/time-nomad-astrology-app-04.png 1x, /images/time-nomad-astrology-app-04@2x.png 2x, /images/time-nomad-astrology-app-04@3x.png 3x" alt="Astrological software with fixed stars charts">
 
 ## Planetary hours calculator
 

@@ -21,7 +21,7 @@ schema:
     height: 760
 ---
 
-<h1 class="post-title p-name" itemprop="name headline">Learning Astrology</h1>
+<h1 class="post-title p-name" itemprop="name headline">Exploring Astrology, past and future</h1>
 
 Time Nomad publishes regularly updated **short educational essays** that constitute both **astrological news** and an ongoing **astrology course** at the same time.
 

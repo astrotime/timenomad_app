@@ -8,7 +8,7 @@ description: Astrological news and analysis.
 image: /images/summary-cards/time-nomad-card.png
 list_title: Archive of the most recent newsletters
 # Nav order:
-weight: 4
+# weight: 4
 # Extra info for structured data
 schema:
   image:
