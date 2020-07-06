@@ -5,6 +5,7 @@ date: 2020-07-06 12:00:00 +1000
 modified: 2020-07-06 12:00:00 +1000
 title: Where did all the money go — swallowed by Jupiter–Pluto conjunction
 description: "Each successive Jupiter–Pluto conjunction challenges world economies and makes us think: what is money? Should money be gold, “fiat” paper bills or brand new cryptocurrencies? This dilemma is perfectly expressed by Jupiter’s investment expansiveness that is opposed by the counteracting force of Pluto’s wealth accumulation."
+categories: posts astrology event
 comments: true
 # App feed
 app:
