@@ -23,19 +23,19 @@ seo:
 
 # Astrologer’s companion app for iPhone & iPad
 
-Time Nomad is a fine astrological and astronomical software that is always with you, **right in your pocket**. The app calculates real-time astrological charts, transits, synastry, progressions and much more. 
+Time Nomad is a fine astrology app that is always with you, **right in your pocket**. The app calculates real-time astrological charts, transits, synastry, progressions, fixed stars and much more. 
 
 <img class="promo lazyload" data-srcset="/images/time-nomad-iphone-and-ipad.png 1x, /images/time-nomad-iphone-and-ipad@2x.png 2x, /images/time-nomad-iphone-and-ipad@3x.png 3x" alt="Astrological software on mobile phone and tablet">
 
 ## Explore astrology and astronomy in clarity and style
 
-Time Nomad is **free for all core functionality**. All additional features are optional and don't obstruct your use of the app in any way. Create as many astrological profiles as you need, you will own all your data as it is stored on your iCloud account, no login or password is necessary.
+The Time Nomad astrology app is **free for all its core functionality**. All additional features are optional and don't obstruct your use of the app in any way. Create as many astrological profiles as you need. You will own all your data as it is stored on your iCloud account, no registration, login or password is ever needed — you can start using it right away — either for yourself of for your astrological practice.
 
 {% include icon-appstore.html appname=site.my_app_store_name %}
 
 ## Join thousands of satisfied users
 
-Time Nomad is proud to serve astrological community by providing this top notch free astrological software to everybody who wants to understand movements of celestial bodies and grasp symbolic language behind this ancient branch of human knowledge.
+Time Nomad is proud to serve the astrological community by providing this top notch free astrological and astronomical software to everybody who wants to understand movements of celestial bodies and learn the symbolic language of astrology and mythology behind this ancient branch of human knowledge.
 
 {% include reviews-by-users-summary.html link="reviews" %}
 
@@ -47,11 +47,11 @@ Time Nomad was created with the intention to give you a tool that would enable y
 
 <img class="promo lazyload" data-srcset="/images/time-nomad-light-and-dark-theme.png 1x, /images/time-nomad-light-and-dark-theme@2x.png 2x, /images/time-nomad-light-and-dark-theme@3x.png 3x" alt="Astrological software on mobile phone with light and dark themes">
 
-Time Nomad keeps you in touch with ever changing configuration of planets, minor bodies and asteriods. It’s a modern astrological tool designed to be in your pocket and give you **answers in real time**. Astronomical and astrological information is presented in unadorned, concise yet expressive manner to help you see the bigger picture.
+Time Nomad keeps you in touch with ever changing configuration of planets, minor bodies, asteriods and the fixed stars. It’s a modern astrology app designed to give you **answers in real time**. Astronomical and astrological information is presented in an unadorned, concise yet expressive manner to help you see the bigger picture.
 
-Time Nomad comes with useful iOS **event notifications** that notify about upcoming events — in advance — aspects, transits, solar and lunar returns, phases of the Moon and Moon Void of Course.
+Time Nomad comes with useful iOS **event notifications** that notify about upcoming events — in advance — aspects, transits, solar and lunar returns, phases of the Moon and the Moon Void of Course.
 
-The app supports both **tropical and sidereal Zodiac**. The sidereal Zodiac reporting comes with a variety of ayanamsa. 
+The app supports both **tropical and sidereal zodiac** systems. The sidereal Zodiac reporting comes with a variety of ayanamsa. 
 
 <div class="float-clear"></div>
 
