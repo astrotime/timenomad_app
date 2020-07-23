@@ -111,7 +111,7 @@ skybar#appPromo, skybar#newsletterPromo {
   padding-top: $spacing-unit * 1.865;
   margin-bottom: $spacing-unit * 1.865 / 2;
 
-  @include background(#343f6b, 'time-nomad-banner.jpg');
+  @include background(#000000, 'time-nomad-banner.jpg');
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -137,7 +137,7 @@ skybar#appPromo, skybar#newsletterPromo {
     display: none;
   }
   .home-banner {
-    @include background(#343f6b, 'time-nomad-banner.jpg', center);
+    @include background(#000000, 'time-nomad-banner.jpg', center);
   }
 }
 
