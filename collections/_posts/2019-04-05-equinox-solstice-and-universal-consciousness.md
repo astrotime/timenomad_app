@@ -68,7 +68,7 @@ According to what we know, the concept of universal consciousness was introduced
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-anaxagoras-university-of-athens.jpg" alt="Greek philosopher named Anaxagoras">
+      	<img loading="lazy" src="/images/art/art-anaxagoras-university-of-athens.jpg" alt="Greek philosopher named Anaxagoras">
       </div>
     </div>
     <div class="col-6">
@@ -99,7 +99,7 @@ Without going any further into astronomy, we can visualise two circles tilted 23
 * another circle is called the **equatorial plane** that is formed by the Earth **rotating** around its axis
 
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic@3x.png 3x" alt="Ecliptic and equatorial planes and the obliquity of ecliptic">
+<img loading="lazy" src="/images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic.png" srcset="/images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-obliquity-of-ecliptic@3x.png 3x" alt="Ecliptic and equatorial planes and the obliquity of ecliptic">
 
 We can immediately spot several points:
 
@@ -107,11 +107,11 @@ We can immediately spot several points:
 * two points where the circles have **maximum separation**
 ￼
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-and-equatorial-circles-intersections.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-intersections@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-intersections@3x.png 3x" alt="Intersections between ecliptic and equatorial planes">
+<img loading="lazy" src="/images/illustrations/ecliptic-and-equatorial-circles-intersections.png" srcset="/images/illustrations/ecliptic-and-equatorial-circles-intersections.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-intersections@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-intersections@3x.png 3x" alt="Intersections between ecliptic and equatorial planes">
 
 And that’s all to it! The **intersections are the equinoxes**, the points of **maximum separations** between the two circles are the **solstices**.
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices@3x.png 3x" alt="Intersections between ecliptic and equatorial planes">
+<img loading="lazy" src="/images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices.png" srcset="/images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-equinoxes-and-solstices@3x.png 3x" alt="Intersections between ecliptic and equatorial planes">
 
 Having two intersections provides a very simple and clean delineation of the annual circle. Astrologically speaking, the **equinoxes carry the symbolism of conjunction** while the **solstices represent the astrological opposition** due to their quality of maximum separation.
 
@@ -129,7 +129,7 @@ It is worth noting that this is a Sun-based calendar as opposed to Lunar-based c
 
 Pondering further on the principle of the two intersecting circles, one may intuit that something special should be taking place at those moments. 
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-and-equatorial-circles-equinox-points.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-equinox-points@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-equinox-points@3x.png 3x" alt="Two points of equinoxes at the intersections between ecliptic and equatorial planes">
+<img loading="lazy" src="/images/illustrations/ecliptic-and-equatorial-circles-equinox-points.png" srcset="/images/illustrations/ecliptic-and-equatorial-circles-equinox-points.png 1x, /images/illustrations/ecliptic-and-equatorial-circles-equinox-points@2x.png 2x, /images/illustrations/ecliptic-and-equatorial-circles-equinox-points@3x.png 3x" alt="Two points of equinoxes at the intersections between ecliptic and equatorial planes">
 
 Symbolically speaking, the equinox is not only a “cosmic conjunction” for the Earth they are also the moments of **maximum alignment between the Earth’s day and night**, the most fundamental dualism we have discussed in [“Day and Night in the Western astrological chart”]({% post_url 2018-10-20-day-and-night-in-astrology %}) story a few months ago.
 
@@ -137,7 +137,7 @@ Having such moments of alignment opens up a brief time window into the workings 
 
 One may visualise the astrological year as a continuous sine-like wave ever oscillating between the **moments of maximum and minimum of daytime duration** (solstices), while briefly passing through the **“zero” moments** at the times of equinoxes when day and night have equal length.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrological-zodiacal-year-equinox-and-solstice@2x.png 1x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice@2x.png 2x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice@3x.png 3x" alt="The astrological year based on the zodiac and the vernal equinox">
+<img loading="lazy" src="/images/illustrations/astrological-zodiacal-year-equinox-and-solstice@2x.png" srcset="/images/illustrations/astrological-zodiacal-year-equinox-and-solstice@2x.png 1x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice@2x.png 2x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice@3x.png 3x" alt="The astrological year based on the zodiac and the vernal equinox">
 
 The **equinoxes** stand for:
 
@@ -165,7 +165,7 @@ For the Southern Hemisphere the picture is obviously flipped: the June Solstice 
 
 Combining both Northern and Southern Hemispheres we get a **double helix spiral** so much similar to the omni-present DNA spiral. 
 
-<img class="lazyload" data-srcset="/images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@2x.png 1x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@2x.png 2x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@3x.png 3x" alt="The astrological year based on the zodiac and the vernal equinox for both northern and southern hemispheres">
+<img loading="lazy" src="/images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@2x.png" srcset="/images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@2x.png 1x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@2x.png 2x, /images/illustrations/astrological-zodiacal-year-equinox-and-solstice-nothern-southern-hemispheres@3x.png 3x" alt="The astrological year based on the zodiac and the vernal equinox for both northern and southern hemispheres">
 
 This double-helix spiral is a **universal rhythm** that pulses in both each human as in the whole of the Solar System and perhaps the universe itself. The significance of the mysteries of this universal rhythm warrants for a future story about Mercury and hermetic alchemy.
 
@@ -181,7 +181,7 @@ Secondly, the quality of the spring movement is well reflected in the Sun crossi
 * into the sign of **Aries** — fiery, active, dynamic and procreative
 
 
-<img class="lazyload" data-srcset="/images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox.png 1x, /images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox@2x.png 2x, /images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox@3x.png 3x" alt="Astrological zodiac signs of Pisces and Aries with transition at the time of the vernal Equinox">
+<img loading="lazy" src="/images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox.png" srcset="/images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox.png 1x, /images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox@2x.png 2x, /images/illustrations/zodiac-signs-pisces-and-aries-vernal-equinox@3x.png 3x" alt="Astrological zodiac signs of Pisces and Aries with transition at the time of the vernal Equinox">
 
 And we believe that the Pisces–Aries dialectic is what makes the **vernal (March) Equinox the dominant event of the astrological year**. Just the sheer contrast of energetic difference between the Pisces–to–Aries transition compared to the Virgo–to–Libra transition that marks the September Equinox makes the vernal Equinox the clear winner.
 
@@ -189,7 +189,7 @@ And we believe that the Pisces–Aries dialectic is what makes the **vernal (Mar
   <div class="row">
     <div class="col-4">
       <div class="row">
-  	    <img class="lazyload" data-srcset="/images/illustrations/zodiac-sign-libra-september-equinox.png 1x, /images/illustrations/zodiac-sign-libra-september-equinox@2x.png 2x, /images/illustrations/zodiac-sign-libra-september-equinox@3x.png 3x" alt="The zodiac sign of Libra corresponds to the September equinox">
+  	    <img loading="lazy" src="/images/illustrations/zodiac-sign-libra-september-equinox.png" srcset="/images/illustrations/zodiac-sign-libra-september-equinox.png 1x, /images/illustrations/zodiac-sign-libra-september-equinox@2x.png 2x, /images/illustrations/zodiac-sign-libra-september-equinox@3x.png 3x" alt="The zodiac sign of Libra corresponds to the September equinox">
       </div>
     </div>
     <div class="col-8">

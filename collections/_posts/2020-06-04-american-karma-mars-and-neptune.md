@@ -67,7 +67,7 @@ American “Black Lives Matter” protests of 2020 began 26 May as a reaction to
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-2020-george-floyd-protests.png" alt="Astrological chart of Mars-Neptune conjunction during George Floyd protests of 2020 in the USA">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-2020-george-floyd-protests.png" alt="Astrological chart of Mars-Neptune conjunction during George Floyd protests of 2020 in the USA">
       </div>
     </div>
     <div class="col-6">
@@ -91,7 +91,7 @@ The Sun is always a powerful translator of stellar astral energies and anything 
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-2020-george-floyd-protests-sun-on-aldebaran.png" alt="Astrological chart of Mars-Neptune conjunction and the Sun aligned with fixed Aldebaran during George Floyd protests of 2020 in the USA">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-2020-george-floyd-protests-sun-on-aldebaran.png" alt="Astrological chart of Mars-Neptune conjunction and the Sun aligned with fixed Aldebaran during George Floyd protests of 2020 in the USA">
       </div>
     </div>
     <div class="col-6">

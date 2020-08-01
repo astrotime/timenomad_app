@@ -33,7 +33,7 @@ In this story we will look into the nature of fixed stars and will attempt to ga
   <div class="row">
     <div class="col-12">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-edouard-baldus-notre-dame-1860s.jpg" alt="East facade of Notre-Dame in the 1860s">
+      	<img loading="lazy" src="/images/art/art-edouard-baldus-notre-dame-1860s.jpg" alt="East facade of Notre-Dame in the 1860s">
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ Other dots hardly ever moved and thus were later classified as **“fixed stars�
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/science/astronomy-barnard-star-movement-2005.gif" alt="Movement of Barnard's Star in the period of 1985–2005">
+      	<img loading="lazy" src="/images/science/astronomy-barnard-star-movement-2005.gif" alt="Movement of Barnard's Star in the period of 1985–2005">
       </div>
     </div>
     <div class="col-6">
@@ -97,7 +97,7 @@ Influence of the fixed stars is very different from influence of the planets. Th
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/science/physics-light-dispersion-glass-prism.jpg" alt="Light spectral dispersion with a glass prism made">
+      	<img loading="lazy" src="/images/science/physics-light-dispersion-glass-prism.jpg" alt="Light spectral dispersion with a glass prism made">
       </div>
     </div>
     <div class="col-6">
@@ -199,7 +199,7 @@ For our interpretation we will use [Time Nomad](https://timenomad.app) and set l
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/charts/time-nomad-chart-notre-dame-fire-2019-04-15.png" alt="Astrological chart of Notre-Dame Cathedral fire of 15 April 2019, 18:50">
+      	<img loading="lazy" src="/images/charts/time-nomad-chart-notre-dame-fire-2019-04-15.png" alt="Astrological chart of Notre-Dame Cathedral fire of 15 April 2019, 18:50">
       </div>
     </div>
     <div class="col-4">
@@ -239,7 +239,7 @@ Now it’s a good time to add the extra layer of information provided to us by t
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/charts/time-nomad-chart-notre-dame-fire-fixed-stars-2019-04-15.png" alt="Astrological chart of the fixed stars aspects for Notre-Dame Cathedral fire of 15 April 2019, 18:50">
+      	<img loading="lazy" src="/images/charts/time-nomad-chart-notre-dame-fire-fixed-stars-2019-04-15.png" alt="Astrological chart of the fixed stars aspects for Notre-Dame Cathedral fire of 15 April 2019, 18:50">
       </div>
     </div>
     <div class="col-4">
@@ -261,7 +261,7 @@ We can see that there is something brewing up but it doesn’t give us the whole
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/charts/time-nomad-chart-notre-dame-fire-fixed-stars-2019-04-15-minus-2-hours.png" alt="Astrological chart of the fixed stars aspects for Notre-Dame Cathedral fire of 15 April 2019, 16:50, two hours before fire reported">
+      	<img loading="lazy" src="/images/charts/time-nomad-chart-notre-dame-fire-fixed-stars-2019-04-15-minus-2-hours.png" alt="Astrological chart of the fixed stars aspects for Notre-Dame Cathedral fire of 15 April 2019, 16:50, two hours before fire reported">
       </div>
     </div>
     <div class="col-4">
@@ -284,7 +284,7 @@ Bingo, that when the needle enters the red zone! Just look at all those exact co
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/charts/time-nomad-chart-notre-dame-fire-fixed-stars-aspects-2019-04-15-minus-2-hours.png" alt="List of astrological aspects to the fixed stars for Notre-Dame Cathedral fire of 15 April 2019, 16:50, two hours before fire reported">
+      	<img loading="lazy" src="/images/charts/time-nomad-chart-notre-dame-fire-fixed-stars-aspects-2019-04-15-minus-2-hours.png" alt="List of astrological aspects to the fixed stars for Notre-Dame Cathedral fire of 15 April 2019, 16:50, two hours before fire reported">
       </div>
     </div>
     <div class="col-4">
@@ -333,7 +333,7 @@ For a moment, let’s forget about the fixed stars and take a look at a regular 
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/charts/time-nomad-chart-notre-dame-fire-2019-04-15-minus-2-hours.png" alt="Astrological chart of Notre-Dame Cathedral fire of 15 April 2019, 18:50, two hours before fire reported">
+      	<img loading="lazy" src="/images/charts/time-nomad-chart-notre-dame-fire-2019-04-15-minus-2-hours.png" alt="Astrological chart of Notre-Dame Cathedral fire of 15 April 2019, 18:50, two hours before fire reported">
       </div>
     </div>
     <div class="col-4">
@@ -379,7 +379,7 @@ Especially knowing that president Macron was allegedly about to announce new cou
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-victor-hugo-hunchback-galerie-des-chimeres.jpg" alt="Drawing of the Hunchback of Notre Dame by Victor Hugo, showing the recently restored galerie des chimères">
+      	<img loading="lazy" src="/images/art/art-victor-hugo-hunchback-galerie-des-chimeres.jpg" alt="Drawing of the Hunchback of Notre Dame by Victor Hugo, showing the recently restored galerie des chimères">
       </div>
     </div>
     <div class="col-6">

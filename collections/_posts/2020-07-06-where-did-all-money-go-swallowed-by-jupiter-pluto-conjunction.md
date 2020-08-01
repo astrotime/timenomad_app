@@ -62,7 +62,7 @@ To remain successful **capitalism needs endless expansion**, which exposes its c
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/photos/journalism-richard-nixon-1971.jpg" alt="Richar Nixon, President of the USA, 1969-1974">
+        <img src="/images/photos/journalism-richard-nixon-1971.jpg" alt="Richar Nixon, President of the USA, 1969-1974">
       </div>
     </div>
     <div class="col-6">
@@ -103,7 +103,7 @@ Corresponding **Jupiter–Pluto conjunction** developed itself through the secon
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-2007-12-11-jupiter-pluto-conjunction.jpg" alt="Astrological chart of Jupiter-Pluto conjunction of 2007 that coincided with the Great Financial Crisis of 2007-2008">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-2007-12-11-jupiter-pluto-conjunction.jpg" alt="Astrological chart of Jupiter-Pluto conjunction of 2007 that coincided with the Great Financial Crisis of 2007-2008">
       </div>
     </div>
     <div class="col-6">
@@ -136,7 +136,7 @@ Just having these two astrological alignments is enough to make any astrologer t
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-2020-06-30-jupiter-pluto-conjunction.jpg" alt="Astrological chart of Jupiter-Pluto conjunction of 2020 during coronavirus">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-2020-06-30-jupiter-pluto-conjunction.jpg" alt="Astrological chart of Jupiter-Pluto conjunction of 2020 during coronavirus">
       </div>
     </div>
     <div class="col-6">

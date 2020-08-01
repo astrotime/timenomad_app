@@ -73,24 +73,24 @@ It can be observed that geometry of charts of spiritual teachers passes an impre
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-sri-aurobindo.jpg" alt="Astrological chart of Sri Aurobindo">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-sri-aurobindo.jpg" alt="Astrological chart of Sri Aurobindo">
       </div>
     </div>
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-rudolf-steiner.jpg" alt="Astrological chart of Rudolf Steiner">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-rudolf-steiner.jpg" alt="Astrological chart of Rudolf Steiner">
       </div>
     </div>
   </div>
 <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-albert-einstein.jpg" alt="Astrological chart of Albert Einstein">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-albert-einstein.jpg" alt="Astrological chart of Albert Einstein">
       </div>
     </div>
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/charts/time-nomad-chart-nikola-tesla.jpg" alt="Astrological chart of Nikola Tesla">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-nikola-tesla.jpg" alt="Astrological chart of Nikola Tesla">
       </div>
     </div>
   </div>
@@ -161,7 +161,7 @@ Conjunction is a simple dot, a blob of ink on paper with infinitely small size. 
 
 Numerically conjunction corresponds to the **number one**. The exact conjunction has angular distance of zero degrees between two planets. Conjunction relates to the **1st house**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-major-conjunction.png 1x, /images/illustrations/astrology-aspect-major-conjunction@2x.png 2x, /images/illustrations/astrology-aspect-major-conjunction@3x.png 3x" alt="Astrological aspect of conjunction">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-major-conjunction.png" srcset="/images/illustrations/astrology-aspect-major-conjunction.png 1x, /images/illustrations/astrology-aspect-major-conjunction@2x.png 2x, /images/illustrations/astrology-aspect-major-conjunction@3x.png 3x" alt="Astrological aspect of conjunction">
 
 Before there was day and night, left and right, up and down, right and wrong, everything existed in an undifferentiated state of unity. 
 
@@ -173,7 +173,7 @@ Opposition is formed by two diametrically opposed points on the circle.
 
 Numerically opposition corresponds to **number two**. Exact opposition has angular difference of 180º. Opposition relates to the **7th house**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-major-opposition.png 1x, /images/illustrations/astrology-aspect-major-opposition@2x.png 2x, /images/illustrations/astrology-aspect-major-opposition@3x.png 3x" alt="Astrological aspect of opposition">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-major-opposition.png" srcset="/images/illustrations/astrology-aspect-major-opposition.png 1x, /images/illustrations/astrology-aspect-major-opposition@2x.png 2x, /images/illustrations/astrology-aspect-major-opposition@3x.png 3x" alt="Astrological aspect of opposition">
 
 Opposition symbolises the moment of **maximum separation** when two opposing principles have been crystallised out of original unity. Opposition is the symbol of **maximum manifestation**. Light and darkness, truth and falsity, left and right.
 
@@ -185,7 +185,7 @@ Trine is formed by dividing the circle into three equal parts.
 
 Numerically the trine corresponds to **number three**. Exact trine aspect has angular distance of 120º. Trines relate to the **5th and 9th house**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-major-trine.png 1x, /images/illustrations/astrology-aspect-major-trine@2x.png 2x, /images/illustrations/astrology-aspect-major-trine@3x.png 3x" alt="Astrological aspect of trine">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-major-trine.png" srcset="/images/illustrations/astrology-aspect-major-trine.png 1x, /images/illustrations/astrology-aspect-major-trine@2x.png 2x, /images/illustrations/astrology-aspect-major-trine@3x.png 3x" alt="Astrological aspect of trine">
 
 Manifestation has followed its course and the two polarities produced the third principle. Just like when man and woman unite to create a child. Trines are the **forces of flow**. 
 
@@ -197,7 +197,7 @@ Square is formed by dividing the circle into four equal parts. Consecutive point
 
 Squares relate to the **4th and 10th houses**. Square is traditionally coloured red for a good reason. It’s a **symbol of confrontation**. 
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-major-square.png 1x, /images/illustrations/astrology-aspect-major-square@2x.png 2x, /images/illustrations/astrology-aspect-major-square@3x.png 3x" alt="Astrological aspect of square">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-major-square.png" srcset="/images/illustrations/astrology-aspect-major-square.png 1x, /images/illustrations/astrology-aspect-major-square@2x.png 2x, /images/illustrations/astrology-aspect-major-square@3x.png 3x" alt="Astrological aspect of square">
 
 Confrontation of the square isn’t bad at all, on the opposite, it’s an invitation to make things happen. Great examples of the square aspect is the First and Last Quarters of the Moon. By no means they feel sinister or hard, yet they carry the energy of the square that **pushes us to create and manifest** while progressing towards the next lunar phase. Squares are practical in essence. Keep that in mind that analysing your birth chart, they help to make the most out of two planetary energies.
 
@@ -207,7 +207,7 @@ Yes, there is a negative side to square aspect. It’s way **too fixed** — jus
 
 Sextile is formed by two points on the circle that are 60º apart or one sixth of the whole circle. Or if speaking in the Zodiac signs, they are two signs apart. Sextiles relate to the **3rd and 11th houses**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-major-sextile.png 1x, /images/illustrations/astrology-aspect-major-sextile@2x.png 2x, /images/illustrations/astrology-aspect-major-sextile@3x.png 3x" alt="Astrological aspect of sextile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-major-sextile.png" srcset="/images/illustrations/astrology-aspect-major-sextile.png 1x, /images/illustrations/astrology-aspect-major-sextile@2x.png 2x, /images/illustrations/astrology-aspect-major-sextile@3x.png 3x" alt="Astrological aspect of sextile">
 
 Sextiles can be seen as half-trines. They are **“on their way”** to start manifesting. Generally speaking, sextiles are of very minor importance, they provide a gentle guiding influence and one can comfortably use their supporting harmony.
 

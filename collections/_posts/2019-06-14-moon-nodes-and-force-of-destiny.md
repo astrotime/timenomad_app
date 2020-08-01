@@ -56,7 +56,7 @@ Babylonian astrologers recognised the repeating nature of **solar eclipses** —
 
 What’s more, the Babylonians discovered that **lunar eclipses of similar strength** followed solar eclipses at exactly half saros mark. If saros is 18 lunar years 11 days 8 hours then half of that period is called **“sar”** and is equal to 9 lunar years and 5.5 days.
 
-<img class="lazyload" data-srcset="/images/illustrations/solar-eclipse-saros-period.png 1x, /images/illustrations/solar-eclipse-saros-period@2x.png 2x, /images/illustrations/solar-eclipse-saros-period@3x.png 3x" alt="The saros period between two consecutive eclipses of similar strength and geometry">
+<img loading="lazy" src="/images/illustrations/solar-eclipse-saros-period.png" srcset="/images/illustrations/solar-eclipse-saros-period.png 1x, /images/illustrations/solar-eclipse-saros-period@2x.png 2x, /images/illustrations/solar-eclipse-saros-period@3x.png 3x" alt="The saros period between two consecutive eclipses of similar strength and geometry">
 
 The word “saros” originates from the Greek σάρος that was itself borrowed from the Babylonian word “sāru” that meant both the number 3,600 and a measure of time. In Greek “saros” is said to mean “to repeat”.
 
@@ -71,11 +71,11 @@ The discovery of cyclical nature of eclipses — both solar and lunar — has le
 
 Hyper jumping to the current time equipped with precise astronomical knowledge, we now know what the nodes are. The nodes are the two points where the Moon orbit intersects with the plane of the Earth orbit around the Sun.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-orbits.png 1x, /images/illustrations/astrology-lunar-nodes-orbits@2x.png 2x, /images/illustrations/astrology-lunar-nodes-orbits@3x.png 3x" alt="The lunar nodes are the points of intersection between the Earth and the Moon orbits">
+<img loading="lazy" src="/images/illustrations/astrology-lunar-nodes-orbits.png" srcset="/images/illustrations/astrology-lunar-nodes-orbits.png 1x, /images/illustrations/astrology-lunar-nodes-orbits@2x.png 2x, /images/illustrations/astrology-lunar-nodes-orbits@3x.png 3x" alt="The lunar nodes are the points of intersection between the Earth and the Moon orbits">
 
 What’s more, every pair of orbiting cosmic bodies has such two nodal points. Orbital nodes is a universal principle describing two intersecting elliptical orbits. One node is called **ascending** (where the planet raises above the other’s orbital plane), another is called **descending** (where the planet dives beneath the other’s orbital plane).
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-orbits-pictograms.png 1x, /images/illustrations/astrology-lunar-nodes-orbits-pictograms@2x.png 2x, /images/illustrations/astrology-lunar-nodes-orbits-pictograms@3x.png 3x" alt="The lunar nodes with pictorams on the points of intersection between the Earth and the Moon orbits">
+<img loading="lazy" src="/images/illustrations/astrology-lunar-nodes-orbits-pictograms.png" srcset="/images/illustrations/astrology-lunar-nodes-orbits-pictograms.png 1x, /images/illustrations/astrology-lunar-nodes-orbits-pictograms@2x.png 2x, /images/illustrations/astrology-lunar-nodes-orbits-pictograms@3x.png 3x" alt="The lunar nodes with pictorams on the points of intersection between the Earth and the Moon orbits">
 
 The lunar nodes is the Moon’s equivalent of solar equinoxes, see our earlier story [“Equinoxes, Solstices and the idea of universal consciousness”]({% post_url 2019-04-05-equinox-solstice-and-universal-consciousness %})
 
@@ -106,17 +106,17 @@ Indian astronomy gave us a striking symbol for the up-down movement of the Moon�
 
 Apparently, Hindu or Vedic astrology treats the nodes rather seriously and places them among the nine major planets. The **ascending node is called _Rahu_** and the **descending node is called _Ketu_**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-dragon.png 1x, /images/illustrations/astrology-lunar-nodes-dragon@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon@3x.png 3x" alt="The lunar nodes as dragon’s head and tail">
+<img loading="lazy" src="/images/illustrations/astrology-lunar-nodes-dragon.png" srcset="/images/illustrations/astrology-lunar-nodes-dragon.png 1x, /images/illustrations/astrology-lunar-nodes-dragon@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon@3x.png 3x" alt="The lunar nodes as dragon’s head and tail">
 
 The Rahu-Ketu movement resembles a huge celestial serpent that moves in a wavy up and down manner and periodically swallows the Sun or the Moon. The ascending node is held responsible for swallowing the Sun while the descending node is held responsible for lunar eclipses. In its entirety the Rahuketu serpent is responsible for influencing the lives of the humans.
 
 Arab, Greek and eventually Western astrology adopted the image of the serpent-dragon and the nodes became also known as the **Dragon’s Head** and the **Dragon’s Tail**. 
 
-<img class="lazyload" data-srcset="/images/art/art-winkelried-slaying-the-dragon-colored.jpg" alt="Medieval knight slaying a dragon">
+<img loading="lazy" src="/images/art/art-winkelried-slaying-the-dragon-colored.jpg" alt="Medieval knight slaying a dragon">
 
 Unfortunately, the Western church found it more politically beneficial to equate the dragon with the forces of evil — libido and sexuality, the emanations of dragon’s vital energy, were considered “bad” by the puritanic mindset. Thus “slaying the dragon” became the only way to interact with the force. 
 
-<img class="lazyload" data-srcset="/images/photos/china-modern-dragon-at-night.jpg" alt="Chinese dragon installation">
+<img loading="lazy" src="/images/photos/china-modern-dragon-at-night.jpg" alt="Chinese dragon installation">
 
 This dogmatic indoctrination resulted in endless superstitions and didn’t serve justice to the cosmic principle of dragon — the force of life and rejuvenation. Luckily enough, Chinese and other Asian cultures treat the dragon with all due respect and reverence.
 
@@ -138,7 +138,7 @@ Using this overly simplified if not dismissive approach, one could still utilise
   <div class="row">
     <div class="col-12">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-la-forza-del-destino.jpg" alt="La forza del destino ">
+      	<img loading="lazy" src="/images/art/art-la-forza-del-destino.jpg" alt="La forza del destino ">
       </div>
     </div>
   </div>
@@ -158,7 +158,7 @@ The movement of the great celestial serpent represents unfoldment of life with i
 
 The nodes is another way to look at the highly changeable Moon, they rule over the overall progress of one’s life as opposed to lunar phases that influence monthly cycles of vital energies, emotions and moods.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-lunar-nodes-dragon-past-future.png 1x, /images/illustrations/astrology-lunar-nodes-dragon-past-future@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon-past-future@3x.png 3x" alt="The lunar nodes as dragon’s head and tail pointing between past and future">
+<img loading="lazy" src="/images/illustrations/astrology-lunar-nodes-dragon-past-future.png" srcset="/images/illustrations/astrology-lunar-nodes-dragon-past-future.png 1x, /images/illustrations/astrology-lunar-nodes-dragon-past-future@2x.png 2x, /images/illustrations/astrology-lunar-nodes-dragon-past-future@3x.png 3x" alt="The lunar nodes as dragon’s head and tail pointing between past and future">
 
 When Sanskrit texts were first translated in English, the translators made an insightful mistake: they assumed that **Rahu** (Dragon’s Head) was **Uranus** and **Ketu** (Dragon’s Tail) was **Neptune**.
 

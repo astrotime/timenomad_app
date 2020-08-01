@@ -86,7 +86,7 @@ Cluster can be quite wide, sometimes spanning across a whole zodiacal sign. In m
 
 The chart below illustrates differences between a **loose cluster** of Mars–Mercury–Saturn and a **tight cluster** of Venus–Moon–Jupiter. 
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-cluster.png 1x, /images/illustrations/aspect-pattern-cluster@2x.png 2x, /images/illustrations/aspect-pattern-cluster@3x.png 3x" alt="Astrological chart with cluster aspect pattern">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-cluster.png" srcset="/images/illustrations/aspect-pattern-cluster.png 1x, /images/illustrations/aspect-pattern-cluster@2x.png 2x, /images/illustrations/aspect-pattern-cluster@3x.png 3x" alt="Astrological chart with cluster aspect pattern">
 
 In a **loose cluster** the extremities are being mediated by an intermediary. In our example it’s Mercury that mitigates between Mars and Saturn that otherwise don’t talk to each other directly.
 
@@ -98,7 +98,7 @@ In a **loose cluster** the extremities are being mediated by an intermediary. In
 
 An example below shows two satellitium groups, one Mars/Uranus/Saturn that has no conjunctions and another Venus/Moon/Jupiter/Mercury that has one conjunction, Venus–Moon.
 
-<img class="lazyload" data-srcset="/images/illustrations/planetary-formation-satellitium.png 1x, /images/illustrations/planetary-formation-satellitium@2x.png 2x, /images/illustrations/planetary-formation-satellitium@3x.png 3x" alt="Astrological chart with satellitium or stellim planetary formation">
+<img loading="lazy" src="/images/illustrations/planetary-formation-satellitium.png" srcset="/images/illustrations/planetary-formation-satellitium.png 1x, /images/illustrations/planetary-formation-satellitium@2x.png 2x, /images/illustrations/planetary-formation-satellitium@3x.png 3x" alt="Astrological chart with satellitium or stellim planetary formation">
 
 An important difference is that the planets forming a satellitium **don’t have to be conjunct**, they just need to be colocated in the same sector of the sky. A satellitium is several magnitudes weaker than a cluster since there is no direct connection between the planets apart from them being colocated in the same sign or house.
 
@@ -114,7 +114,7 @@ An opposition signifies polarity and tension between two principles or two plane
 
 But there is help in this opposition. The easing influence of Venus softens the drama of Mars-Saturn introducing a certain element of flow. 
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-easy-opposition.png 1x, /images/illustrations/aspect-pattern-easy-opposition@2x.png 2x, /images/illustrations/aspect-pattern-easy-opposition@3x.png 3x" alt="Astrological chart with aspect pattern of easy opposition">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-easy-opposition.png" srcset="/images/illustrations/aspect-pattern-easy-opposition.png 1x, /images/illustrations/aspect-pattern-easy-opposition@2x.png 2x, /images/illustrations/aspect-pattern-easy-opposition@3x.png 3x" alt="Astrological chart with aspect pattern of easy opposition">
 
 Easy opposition doesn’t mean that the opposition is resolved, it rather **provides the person with the third force** that can talk to polarised energies. 
 
@@ -126,7 +126,7 @@ A T-square is a harder form of easy opposition. Being a combination of an opposi
 
 Crystallised sides of personality may equally work for and against the native. In the example below, the Mars–Saturn axis is being “activated” by Venus that is square to both planets. Square is the symbol of manifestation and the material world we live in. 
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-t-square.png 1x, /images/illustrations/aspect-pattern-t-square@2x.png 2x, /images/illustrations/aspect-pattern-t-square@3x.png 3x" alt="Astrological chart with aspect pattern of t-square">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-t-square.png" srcset="/images/illustrations/aspect-pattern-t-square.png 1x, /images/illustrations/aspect-pattern-t-square@2x.png 2x, /images/illustrations/aspect-pattern-t-square@3x.png 3x" alt="Astrological chart with aspect pattern of t-square">
 
 Having Venus equidistant from both planets may result in emotional swings. The person’s emotional state is likely to alternate depending on how Venus manifests itself on a given day. Such oscillations produce distinctly different Venus–Mars and Venus–Saturn sub personalities. 
 
@@ -138,7 +138,7 @@ A grand cross is a combination of two T-squares. This clearly makes it a very po
 
 The example below illustrates a grand cross that is made out of two oppositions, Mars–Saturn and Pluto–Venus, and four (!) squares.
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-grand-cross.png 1x, /images/illustrations/aspect-pattern-grand-cross@2x.png 2x, /images/illustrations/aspect-pattern-grand-cross@3x.png 3x" alt="Astrological chart with aspect pattern of grand cross">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-grand-cross.png" srcset="/images/illustrations/aspect-pattern-grand-cross.png 1x, /images/illustrations/aspect-pattern-grand-cross@2x.png 2x, /images/illustrations/aspect-pattern-grand-cross@3x.png 3x" alt="Astrological chart with aspect pattern of grand cross">
 
 Grand cross is a difficult pattern that requires a good amount of time and attention in order to identify and understand multiple swings between its polarities. The difficulty lies in the **intensity of those swings**. But once understood, the person gets a real advantage of being able to consciously steer their life. 
 
@@ -152,7 +152,7 @@ Trines are good for smoothing things out and helping to negotiate or  mediate be
 
 The big trick with the grand trine is its **excessive mediation**. In the example below Venus, Mars and Saturn are in constant dialogue that can go in circles infinitely long. We really need to have some red lines here!
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-grand-trine.png 1x, /images/illustrations/aspect-pattern-grand-trine@2x.png 2x, /images/illustrations/aspect-pattern-grand-trine@3x.png 3x" alt="Astrological chart with aspect pattern of grand trine">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-grand-trine.png" srcset="/images/illustrations/aspect-pattern-grand-trine.png 1x, /images/illustrations/aspect-pattern-grand-trine@2x.png 2x, /images/illustrations/aspect-pattern-grand-trine@3x.png 3x" alt="Astrological chart with aspect pattern of grand trine">
 
 The grand trine is a harmonious pattern that **can become paradoxically counter productive** in this material world. Grand trine is of great help when sufficiently supported by some concrete manifesting aspects in the chart. Grand trine brings the promise of immense potential provided there’s an action that actually makes things happen in the world, here and now.
 
@@ -162,7 +162,7 @@ A kite is made out of a grand trine by adding a fourth planet that is opposite t
 
 The kite pattern is a more hands-on version of the grand trine. The example below shows how the Sun–Saturn **opposition brings much needed polarity** and tension that turns otherwise indecisive trine into a powerhouse fuelled by the energy of the Sun and supported by both Mars and Venus that counteract inherent indecisive attitudes of Saturn that often tends to over-think things.
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-kite.png 1x, /images/illustrations/aspect-pattern-kite@2x.png 2x, /images/illustrations/aspect-pattern-kite@3x.png 3x" alt="Astrological chart with aspect pattern of kite">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-kite.png" srcset="/images/illustrations/aspect-pattern-kite.png 1x, /images/illustrations/aspect-pattern-kite@2x.png 2x, /images/illustrations/aspect-pattern-kite@3x.png 3x" alt="Astrological chart with aspect pattern of kite">
 
 The kite is a wonderful aspect pattern that naturally invites the native to focus on its dominant polarity and use its dynamic qualities while being helped by beneficial trines and sextiles. 
 
@@ -172,13 +172,13 @@ Two similar aspects pointed at a planet form an **arrow-like shape**, or a spike
 
 In the example below Pluto is the main planet of the spike formed by two biquintiles (144º) with the quintile (72º) at the base.
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-spike-biquintile.png 1x, /images/illustrations/aspect-pattern-spike-biquintile@2x.png 2x, /images/illustrations/aspect-pattern-spike-biquintile@3x.png 3x" alt="Astrological chart with aspect pattern of a spike formed by biquintiles">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-spike-biquintile.png" srcset="/images/illustrations/aspect-pattern-spike-biquintile.png 1x, /images/illustrations/aspect-pattern-spike-biquintile@2x.png 2x, /images/illustrations/aspect-pattern-spike-biquintile@3x.png 3x" alt="Astrological chart with aspect pattern of a spike formed by biquintiles">
 
 Spikes come in many varieties, although the most powerful spikes are formed by **wider minor aspects** like sesquisquare (135º) , biquintile (144º) and inconjunction (150º).
 
 The illustration below overlays several spikes to show the difference. The **obtuse angle** made out of two quintiles (72º) doesn’t produce an impression of intensity and can’t be qualified as a spike. On the other hand, **acute angles** formed by sesquisquares (135º), biquintiles (144º) and inconjunctions (150º) are reminiscent of sharp astral energies.
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-spike.png 1x, /images/illustrations/aspect-pattern-spike@2x.png 2x, /images/illustrations/aspect-pattern-spike@3x.png 3x" alt="Astrological chart with aspect pattern of spike">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-spike.png" srcset="/images/illustrations/aspect-pattern-spike.png 1x, /images/illustrations/aspect-pattern-spike@2x.png 2x, /images/illustrations/aspect-pattern-spike@3x.png 3x" alt="Astrological chart with aspect pattern of spike">
 
 The spike is the symbol of **“special” accumulation of forces**: special abilities, special karma and anything that can potentially take the person out of the rank of ordinary.
 
@@ -203,11 +203,11 @@ Any aspect formation becoming significantly more intense when **aligned to the a
 
 For example, a grand cross aligned with the four angles passes a sense of extreme density and raw manifesting will power.
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-grand-cross-on-angles.png 1x, /images/illustrations/aspect-pattern-grand-cross-on-angles@2x.png 2x, /images/illustrations/aspect-pattern-grand-cross-on-angles@3x.png 3x" alt="Astrological chart with aspect pattern of grand cross aligned with the angles">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-grand-cross-on-angles.png" srcset="/images/illustrations/aspect-pattern-grand-cross-on-angles.png 1x, /images/illustrations/aspect-pattern-grand-cross-on-angles@2x.png 2x, /images/illustrations/aspect-pattern-grand-cross-on-angles@3x.png 3x" alt="Astrological chart with aspect pattern of grand cross aligned with the angles">
 
 If an aspect pattern rests on the **nodal line** between the South and North **Nodes of the Moon**, that pattern points at forces that the individual need to apply to ensure a successful journey towards fulfilment of their destiny.
 
-<img class="lazyload" data-srcset="/images/illustrations/aspect-pattern-t-square-lunar-nodes.png 1x, /images/illustrations/aspect-pattern-t-square-lunar-nodes@2x.png 2x, /images/illustrations/aspect-pattern-t-square-lunar-nodes@3x.png 3x" alt="Astrological chart with aspect pattern of t-square aligned with the lunar nodes">
+<img loading="lazy" src="/images/illustrations/aspect-pattern-t-square-lunar-nodes.png" srcset="/images/illustrations/aspect-pattern-t-square-lunar-nodes.png 1x, /images/illustrations/aspect-pattern-t-square-lunar-nodes@2x.png 2x, /images/illustrations/aspect-pattern-t-square-lunar-nodes@3x.png 3x" alt="Astrological chart with aspect pattern of t-square aligned with the lunar nodes">
 
 The chart above tells us that using Mercury–Uranus faculties of innovation and originality is the way forward in this incarnation. The Uranus square comes with a warning that any revolutionary faces: the danger of losing one’s head. Introducing mercurial attitude of humour and relativity supplies  much needed lubrication to overly electric Uranus. Note that there is a trine aspect between Mercury and Uranus.
 

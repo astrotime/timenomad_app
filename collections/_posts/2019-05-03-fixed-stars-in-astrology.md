@@ -35,7 +35,7 @@ Here we are not only talking about planets like Mars, Venus, Saturn, etc. We are
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/science/astronomy-proxima-centauri.jpg" alt="Proxima Centauri is a small star that is the closest to the Solar System">
+      	<img loading="lazy" src="/images/science/astronomy-proxima-centauri.jpg" alt="Proxima Centauri is a small star that is the closest to the Solar System">
       </div>
     </div>
     <div class="col-6">
@@ -61,7 +61,7 @@ An interpretation of any astrological chart always begins with the analysis of i
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/science/astronomy-sun-wiggle.gif" alt="Proxima Centauri is a small star that is the closest to the Solar System">
+      	<img loading="lazy" src="/images/science/astronomy-sun-wiggle.gif" alt="Proxima Centauri is a small star that is the closest to the Solar System">
       </div>
     </div>
     <div class="col-6">
@@ -87,7 +87,7 @@ The reality is such that fullness of energy is scattered across many bodies that
   <div class="row">
     <div class="col-12">
       <div class="row">
-		<img class="lazyload" data-srcset="/images/illustrations/dharma-wheel-and-zodiac-wheel.png 1x, /images/illustrations/dharma-wheel-and-zodiac-wheel@2x.png 2x, /images/illustrations/dharma-wheel-and-zodiac-wheel@3x.png 3x" alt="The Dharma Wheel and the zodiac wheel">
+		<img loading="lazy" src="/images/illustrations/dharma-wheel-and-zodiac-wheel.png" srcset="/images/illustrations/dharma-wheel-and-zodiac-wheel.png 1x, /images/illustrations/dharma-wheel-and-zodiac-wheel@2x.png 2x, /images/illustrations/dharma-wheel-and-zodiac-wheel@3x.png 3x" alt="The Dharma Wheel and the zodiac wheel">
       </div>
     </div>
   </div>
@@ -149,7 +149,7 @@ Actions of the fixed stars are more akin to a sharp and precisely timed caffeine
 * suddenly raises the person to extreme heights
 * then suddenly drops him or her to the opposite extreme.
 
-<img class="lazyload" data-srcset="/images/illustrations/influence-of-fixed-stars-graph.png 1x, /images/illustrations/influence-of-fixed-stars-graph@2x.png 2x, /images/illustrations/influence-of-fixed-stars-graph@3x.png 3x" alt="Graph illustrating a point-like influence of the fixed stars in astrology">
+<img loading="lazy" src="/images/illustrations/influence-of-fixed-stars-graph.png" srcset="/images/illustrations/influence-of-fixed-stars-graph.png 1x, /images/illustrations/influence-of-fixed-stars-graph@2x.png 2x, /images/illustrations/influence-of-fixed-stars-graph@3x.png 3x" alt="Graph illustrating a point-like influence of the fixed stars in astrology">
 
 There is a difference from a caffeine analogy, though. The initial extreme of a fixed star influence can be of any kind, it can be either luck or a complete disaster. The opposite extreme would depend on the star’s nature and planets on which it will operate.
 
@@ -169,7 +169,7 @@ Let’s take an example of the constellation of Orion and its two most remarkabl
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo.jpg 1x, /images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo@2x.jpg 2x, /images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo@3x.jpg 3x" alt="Constellation of Orion, astrophography by Rogelio Bernal Andreo">
+      	<img loading="lazy" src="/images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo.jpg" srcset="/images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo.jpg 1x, /images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo@2x.jpg 2x, /images/science/astronomy-constellation-of-orion-by-rogelio-bernal-andreo@3x.jpg 3x" alt="Constellation of Orion, astrophography by Rogelio Bernal Andreo">
       </div>
     </div>
     <div class="col-6">
@@ -220,7 +220,7 @@ Let’s take an example of the star Spica that is only 2º south from the eclipt
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/photos/star-spica.jpg" alt="Star Spica, Alpha Virginis">
+      	<img loading="lazy" src="/images/photos/star-spica.jpg" alt="Star Spica, Alpha Virginis">
       </div>
     </div>
     <div class="col-6">

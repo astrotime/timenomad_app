@@ -39,29 +39,29 @@ His other prominent discoveries include astrogeography and the heptagrams that w
 
 According to Kepler’s laws of orbital movement, all celestial bodies like planets and asteroids **don't move in perfectly circular orbits — they actually travel along elliptical orbits**. Contrary to the circle that has a single centre point, the ellipse has two centres that are called focuses (or _foci_ for more Latin inclined readers).
 
-<img class="lazyload" data-srcset="/images/illustrations/elliptical-orbit-eccentricity-0-80.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-80@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-80@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.8">
+<img loading="lazy" src="/images/illustrations/elliptical-orbit-eccentricity-0-80.png" srcset="/images/illustrations/elliptical-orbit-eccentricity-0-80.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-80@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-80@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.8">
 
 This how an elliptical orbit is usually illustrated using a highly eccentric ellipse (in this case showing \~0.8 eccentricity). This kind of elongated  orbit is common to comets and asteroids. Orbits of major planets like Mercury, Venus, Mars, Jupiter and Saturn around the Sun are much closer to a circular shape.
 
 Adding the main larger planet (the Earth) and its orbiting satellite (the Moon) can be visualised like illustrated below.
 
-<img class="lazyload" data-srcset="/images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.8 and two orbiting planetary bodies">
+<img loading="lazy" src="/images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets.png" srcset="/images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-80-with-planets@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.8 and two orbiting planetary bodies">
 
 In reality, the Moon orbit eccentricity is much lower, only \~0.05, and is not possible to illustrate on a small computer screen: it’ll look like a circle. For the sake of simplicity we’ll be using an ellipse with 0.23 eccentricity, just enough to convey the idea of a non-circular orbit.
 
-<img class="lazyload" data-srcset="/images/illustrations/elliptical-orbit-eccentricity-0-23.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-23@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-23@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.23 and two orbiting planetary bodies">
+<img loading="lazy" src="/images/illustrations/elliptical-orbit-eccentricity-0-23.png" srcset="/images/illustrations/elliptical-orbit-eccentricity-0-23.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-23@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-23@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.23 and two orbiting planetary bodies">
 
 The Moon is travelling around the Earth along such an elliptic orbit with  two focal points: one occupied by the Earth and another **invisible second point that is located about 42,500 kilometres away** from the Earth’s centre.
 
-<img class="lazyload" data-srcset="/images/illustrations/elliptical-orbit-eccentricity-0-23.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-23@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-23@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.23 and two orbiting planetary bodies">
+<img loading="lazy" src="/images/illustrations/elliptical-orbit-eccentricity-0-23.png" srcset="/images/illustrations/elliptical-orbit-eccentricity-0-23.png 1x, /images/illustrations/elliptical-orbit-eccentricity-0-23@2x.png 2x, /images/illustrations/elliptical-orbit-eccentricity-0-23@3x.png 3x" alt="Elliptical orbit with eccentricity of 0.23 and two orbiting planetary bodies">
 
 The illustration below shows that — as seen from the Earth — the second empty focus actually overlaps with the location of the Lunar Apogee, the furthest position of the Moon from Earth. More precisely, both the Lunar Apogee and the Black Moon have equal ecliptic longitude and therefore share same Zodiacal position. The Apogee is behind and much further than the Black Moon.
 
-<img class="lazyload" data-srcset="/images/illustrations/moon-earth-and-black-moon-orbit.png 1x, /images/illustrations/moon-earth-and-black-moon-orbit@2x.png 2x, /images/illustrations/moon-earth-and-black-moon-orbit@3x.png 3x" alt="Elliptical orbit of the Moon around Earth, apogee, perigee and the second focus of lunar orbit">
+<img loading="lazy" src="/images/illustrations/moon-earth-and-black-moon-orbit.png" srcset="/images/illustrations/moon-earth-and-black-moon-orbit.png 1x, /images/illustrations/moon-earth-and-black-moon-orbit@2x.png 2x, /images/illustrations/moon-earth-and-black-moon-orbit@3x.png 3x" alt="Elliptical orbit of the Moon around Earth, apogee, perigee and the second focus of lunar orbit">
 
 As the result of his astrological exploration into the nature and significance of the Lunar Apogee Dom Neroman introduced the term Black Moon to describe the second empty focus of the lunar orbit.
 
-<img class="lazyload" data-srcset="/images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit.png 1x, /images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit@2x.png 2x, /images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit@3x.png 3x" alt="Elliptical orbit of the Moon around Earth and circular orbit of the Black Moon">
+<img loading="lazy" src="/images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit.png" srcset="/images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit.png 1x, /images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit@2x.png 2x, /images/illustrations/moon-earth-elliptical-orbit-and-black-moon-circular-orbit@3x.png 3x" alt="Elliptical orbit of the Moon around Earth and circular orbit of the Black Moon">
 
 Unlike the Moon, the second focus (or the Black Moon) moves in a **perfectly circular orbit** around the Earth and completes each orbit in slightly under 9 years.
 
@@ -86,7 +86,7 @@ The Black Moon represents **hidden and unconscious**.
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/art/art-dr-jekyll-and-mr-hyde.jpg" alt="Actor Richard Mansfield in Strange Case of Dr Jekyll and Mr Hyde">
+        <img loading="lazy" src="/images/art/art-dr-jekyll-and-mr-hyde.jpg" alt="Actor Richard Mansfield in Strange Case of Dr Jekyll and Mr Hyde">
       </div>
     </div>
     <div class="col-6">
@@ -127,7 +127,7 @@ Commonly misunderstood, the Black Moon suffered a double whammy from modern astr
 
 Not only its meaning has been narrowed by using the term Lilith, its most commonly used symbol (or pictogram) is a complete disaster from the standpoint of astrological and occult symbolism.
 
-<img class="lazyload" data-srcset="/images/illustrations/pictograms-of-black-moon-and-asteroid-lilith.png 1x, /images/illustrations/pictograms-of-black-moon-and-asteroid-lilith@2x.png 2x, /images/illustrations/pictograms-of-black-moon-and-asteroid-lilith@3x.png 3x" alt="Pictograms of the Black Moon, the Moon and asteroid Lilith">
+<img loading="lazy" src="/images/illustrations/pictograms-of-black-moon-and-asteroid-lilith.png" srcset="/images/illustrations/pictograms-of-black-moon-and-asteroid-lilith.png 1x, /images/illustrations/pictograms-of-black-moon-and-asteroid-lilith@2x.png 2x, /images/illustrations/pictograms-of-black-moon-and-asteroid-lilith@3x.png 3x" alt="Pictograms of the Black Moon, the Moon and asteroid Lilith">
 
 In visual symbolic language, the **cross signifies matter**. All planets are material objects and they all have a cross as a part of their pictograms (Mars’ cross eventually became an arrow). Same applies to all asteroids that have a cross at the base to highlight the fact that they are rocky formations.
 
@@ -145,7 +145,7 @@ What is a good time to look into your hidden self? Obviously the time when the B
 
 One can’t see the “real” Black Moon with their physical sight but one can feel how the Moon takes on some of the Black Moon’s qualities. Those times are great openings into the “shadow” or Alter Ego of oneself, and they happen quite regularly, once per lunation or every 27.3 days. Observing the Moon’s cycle of apogees opens the door to the new dimension of astrological insights and interpretations.
 
-<img class="lazyload" data-srcset="/images/charts/time-nomad-moon-on-apogee.png 1x, /images/charts/time-nomad-moon-on-apogee@2x.png 2x, /images/charts/time-nomad-moon-on-apogee@3x.png 3x" alt="Time Nomad lunar cycle widget with dates of lunar apogee and perigee">
+<img loading="lazy" src="/images/charts/time-nomad-moon-on-apogee.png" srcset="/images/charts/time-nomad-moon-on-apogee.png 1x, /images/charts/time-nomad-moon-on-apogee@2x.png 2x, /images/charts/time-nomad-moon-on-apogee@3x.png 3x" alt="Time Nomad lunar cycle widget with dates of lunar apogee and perigee">
 
 Time Nomad app helps to keep track of the moments when the Moon is on its Apogee and therefore aligned with the Black Moon. The easiest approach is to add a “Chart of Today” widget to the Notification Center (the lock screen) of your iPhone or iPad, this way you don’t even need to open the app. For more detailed information, use the “Dashboard” screen that contains the same widget that can be “tapped” to reveal dates and Zodiacal locations of those events.
 

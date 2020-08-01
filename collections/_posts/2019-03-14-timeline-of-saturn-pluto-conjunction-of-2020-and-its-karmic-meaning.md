@@ -35,7 +35,7 @@ The god Saturn is the Roman equivalent of the Greek god Kronos (Κρόνος). S
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-saturn-kronos.png" alt="Greek God Kronos/Saturnus with sickle">
+      	<img loading="lazy" src="/images/art/art-saturn-kronos.png" alt="Greek God Kronos/Saturnus with sickle">
       </div>
     </div>
     <div class="col-6">
@@ -55,7 +55,7 @@ The force of Saturn relates to earthy and structural elements, for example, the 
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-victorian-vaulted-roof.jpg" alt="Vaulted roof from the Victorian era">
+      	<img loading="lazy" src="/images/art/art-victorian-vaulted-roof.jpg" alt="Vaulted roof from the Victorian era">
       </div>
     </div>
     <div class="col-6">
@@ -86,7 +86,7 @@ Saturn is also closely linked to the **notion of karma**, the spiritual principl
 
 The god Pluto (its Greek equivalent being Hades) rules over the Underworld, the mythological place deep inside the Earth where no light can penetrate, it’s so dense that no mortal human can reach its depths.
 
-<img class="lazyload" data-srcset="/images/art/art-jan-brueghel-orpheus-in-the-underworld.jpg" alt="Orpheus in the Underworld by Jan Brueghel (I)">
+<img loading="lazy" src="/images/art/art-jan-brueghel-orpheus-in-the-underworld.jpg" alt="Orpheus in the Underworld by Jan Brueghel (I)">
 <small class="post-pullout-box-copyright">Artwork: <em>Orpheus in the Underworld</em> by Jan Brueghel (I)</small>
 
 The astrological force of Pluto presides over the underground world full of immense riches composed from both mineral and geological wealth and the wealth of human possessions that fall into Hades after individual souls depart the Earth.
@@ -105,7 +105,7 @@ The two planets meet together approximately every 33–38 years, and those conju
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-don_davis_planetary_collision.jpg" alt="Planetary Collision by Don Davis">
+      	<img loading="lazy" src="/images/art/art-don_davis_planetary_collision.jpg" alt="Planetary Collision by Don Davis">
       </div>
     </div>
     <div class="col-6">

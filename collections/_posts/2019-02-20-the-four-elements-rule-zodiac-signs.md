@@ -38,7 +38,7 @@ It is simple and natural to think along the lines:
 
 Many an alchemical treatise state that there are four Elements and all things made out of combination of those. Every body is a combination of certain amounts of fire, earth, water and air.
 
-<img class="lazyload" data-srcset="/images/illustrations/the-four-elements.png 1x, /images/illustrations/the-four-elements@2x.png 2x, /images/illustrations/the-four-elements@3x.png 3x" alt="The four elements: fire, earth, air and water">
+<img loading="lazy" src="/images/illustrations/the-four-elements.png" srcset="/images/illustrations/the-four-elements.png 1x, /images/illustrations/the-four-elements@2x.png 2x, /images/illustrations/the-four-elements@3x.png 3x" alt="The four elements: fire, earth, air and water">
 
 Some time ago we have discussed the Elements in the story ["The four Elements and their powers"]({% post_url 2018-10-28-four-elements-and-their-powers %}). The story touched upon the basic qualities of the Elements: Fire is hot, Earth is dry, Water is cold, Air is moist.
 
@@ -58,7 +58,7 @@ The Elements are not static, they are transmutable, meaning that applying certai
 
 The natural cycle of `Fire ➝ Earth ➝ Water ➝ Air` makes sense from the physical standpoint:
 
-<img class="lazyload" data-srcset="/images/illustrations/the-four-elements-cycle.png 1x, /images/illustrations/the-four-elements-cycle@2x.png 2x, /images/illustrations/the-four-elements-cycle@3x.png 3x" alt="The cycle of the elements and their qualities">
+<img loading="lazy" src="/images/illustrations/the-four-elements-cycle.png" srcset="/images/illustrations/the-four-elements-cycle.png 1x, /images/illustrations/the-four-elements-cycle@2x.png 2x, /images/illustrations/the-four-elements-cycle@3x.png 3x" alt="The cycle of the elements and their qualities">
 
 The `Fire ➝ Earth ➝ Water ➝ Air` sequence is the basis of many natural cycles:
 
@@ -93,23 +93,23 @@ To achieve the state of duality and thus “kickstart” the manifested universe
 
 Symbolically this line can be drawn between the signs of Cancer and Leo. It makes sense since Leo is ruled by the Sun and Cancer is ruled by the Moon. This way we are beginning with the two luminaries that rule over both day and night.
 
-<img class="lazyload" data-srcset="/images/illustrations/zodiac-ruling-planets-1.png 1x, /images/illustrations/zodiac-ruling-planets-1@2x.png 2x, /images/illustrations/zodiac-ruling-planets-1@3x.png 3x" alt="Zodiac ruling planets">
+<img loading="lazy" src="/images/illustrations/zodiac-ruling-planets-1.png" srcset="/images/illustrations/zodiac-ruling-planets-1.png 1x, /images/illustrations/zodiac-ruling-planets-1@2x.png 2x, /images/illustrations/zodiac-ruling-planets-1@3x.png 3x" alt="Zodiac ruling planets">
 
 The Sun entering the tropical sign of Cancer marks the beginning of summer (the 22nd of June) when the warmth arrives. Then follows the tropical sign of Leo (the 23rd of July) with its heat.
 
 Equipped with this new model, we can venture forward and make the second attempt at distributing the Elements along the Zodiac wheel.
 
-<img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-step-1.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-1@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-1@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 1">
+<img loading="lazy" src="/images/illustrations/zodiac-and-elements-distribution-step-1.png" srcset="/images/illustrations/zodiac-and-elements-distribution-step-1.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-1@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-1@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 1">
 
 The sign of Cancer ruled by the Moon receives the Water Element. The sign of Leo ruled by the Sun receives the Fire Element. What’s next?
 
 Following the circle of transmutations of the Elements, fire gets cooled into the earth, water gets evaporated into the air. 
 
-<img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-step-2.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-2@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-2@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 2">
+<img loading="lazy" src="/images/illustrations/zodiac-and-elements-distribution-step-2.png" srcset="/images/illustrations/zodiac-and-elements-distribution-step-2.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-2@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-2@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 2">
 
 And that’s pretty much it, we can repeat the letters around the circle to get the full mapping of the Elements to the Zodiac signs.
 
-<img class="lazyload" data-srcset="/images/illustrations/zodiac-and-elements-distribution-step-3.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-3@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-3@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 3">
+<img loading="lazy" src="/images/illustrations/zodiac-and-elements-distribution-step-3.png" srcset="/images/illustrations/zodiac-and-elements-distribution-step-3.png 1x, /images/illustrations/zodiac-and-elements-distribution-step-3@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-step-3@3x.png 3x" alt="Distribution of the Elements around the Zodiac wheel, step 3">
 
 This method also produced a nice three-fold division of the circle along the fire-water boundaries. In ancient mythology the two core principles — one of **Cosmic Fire** and another of **Cosmic Waters** — are seen as the foundational forces out of which everything has been created. Both duality and unity of _God-father_ and _God-mother_.
 

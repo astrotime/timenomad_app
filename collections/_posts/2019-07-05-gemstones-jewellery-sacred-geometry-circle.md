@@ -39,7 +39,7 @@ Lapis Lazuli is the undeniable “alpha” gemstone when it comes to all things 
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-lapis-lazuli-01.jpg" alt="Lapis Lazuli natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-lapis-lazuli-01.jpg" alt="Lapis Lazuli natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -60,7 +60,7 @@ This unique and rare gemstone was only recently found in the Dominican Republic.
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-larimar-02.jpg" alt="Larimar natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-larimar-02.jpg" alt="Larimar natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -81,7 +81,7 @@ In the domain of healing powers, pink opal gemstone is an undeniable source of c
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-pink-opal-01.jpg" alt="Pink Opal natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-pink-opal-01.jpg" alt="Pink Opal natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -102,7 +102,7 @@ Onyx connects its wearer to the powers of the Underworld and activates deep rest
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-black-onyx-01.jpg" alt="Black Onyx natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-black-onyx-01.jpg" alt="Black Onyx natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -123,7 +123,7 @@ Rarely stones fascinate and wow us as much as labradorite does with its infinite
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-labradorite-02.jpg" alt="Labradorite natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-labradorite-02.jpg" alt="Labradorite natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -144,7 +144,7 @@ Unbeatably stunning and luxurious golden spikes encrusted inside a slab of quart
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-rutile-quartz-02.jpg" alt="Rutilated Quartz natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-rutile-quartz-02.jpg" alt="Rutilated Quartz natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -166,7 +166,7 @@ Seemingly simple yet perfectly blending with your outfit, snowflake obsidian evo
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-snowflake-obsidian-01.jpg" alt="Snowflake Obsidian natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-snowflake-obsidian-01.jpg" alt="Snowflake Obsidian natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">
@@ -187,7 +187,7 @@ The gemstone of purity and structure, eternally youthful in its simplicity yet a
   <div class="row">
     <div class="col-8">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/jewellery/gis-pendant-dancing-orbit-white-howlite-01.jpg" alt="White Howlite natural gemstone silver circle designer necklace by Gems In Style jewellery">
+      	<img loading="lazy" src="/images/jewellery/gis-pendant-dancing-orbit-white-howlite-01.jpg" alt="White Howlite natural gemstone silver circle designer necklace by Gems In Style jewellery">
       </div>
     </div>
     <div class="col-4">

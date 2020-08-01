@@ -37,7 +37,7 @@ In the earlier story [“Astrological aspects and sacred geometry”]({% post_ur
 
 In so many ways the power of major aspects rests on them being derived from the most basic and pure principles. The easiest way to see that is visualise the relationship between numerology and the major aspects, as illustrated below.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspects-major-numerology.png 1x, /images/illustrations/astrology-aspects-major-numerology@2x.png 2x, /images/illustrations/astrology-aspects-major-numerology@3x.png 3x" alt="Astrological major aspects in connection with numerology">
+<img loading="lazy" src="/images/illustrations/astrology-aspects-major-numerology.png" srcset="/images/illustrations/astrology-aspects-major-numerology.png 1x, /images/illustrations/astrology-aspects-major-numerology@2x.png 2x, /images/illustrations/astrology-aspects-major-numerology@3x.png 3x" alt="Astrological major aspects in connection with numerology">
 
 The aspects of **conjunction, opposition, trine and square** — the **four most important major aspects** directly correspond to the most “primal” sequence of numbers: **1, 2, 3, 4**. The sextile aspect is connected to the number 6 and is somewhat of an outcast since it’s a composite of two trines. But still, experientially the sextile is holding up as a major aspect, there is little doubt about its nature and influence.
 
@@ -67,7 +67,7 @@ This world never ceases to astound us with its ever increasing complexity that c
 
 The **potent sharpness of astral energies** has its own symbol — it’s a **star**. There are many types of stars and they all have their subtle differences.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-sacred-geometry-stars.png 1x, /images/illustrations/astrology-sacred-geometry-stars@2x.png 2x, /images/illustrations/astrology-sacred-geometry-stars@3x.png 3x" alt="Pentagram, heptagram, enneagram, decagram, vigintigram polygons">
+<img loading="lazy" src="/images/illustrations/astrology-sacred-geometry-stars.png" srcset="/images/illustrations/astrology-sacred-geometry-stars.png 1x, /images/illustrations/astrology-sacred-geometry-stars@2x.png 2x, /images/illustrations/astrology-sacred-geometry-stars@3x.png 3x" alt="Pentagram, heptagram, enneagram, decagram, vigintigram polygons">
 
 The **self-intersecting geometric nature of all stars** is what makes them so different from he primal shapes behind the numbers 1, 2, 3, 4 and astrological aspects of conjunction, opposition, trine and square.
 
@@ -91,7 +91,7 @@ The first star among many others is a 5-point star also known as a pentagram, wh
   <div class="row">
     <div class="col-12">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-pentagram-examples-of-use.png 1x, /images/art/art-pentagram-examples-of-use@2x.png 2x, /images/art/art-pentagram-examples-of-use@2x.png 3x" alt="Use of pentagram star symbol for occult and power">
+      	<img loading="lazy" src="/images/art/art-pentagram-examples-of-use.png" srcset="/images/art/art-pentagram-examples-of-use.png 1x, /images/art/art-pentagram-examples-of-use@2x.png 2x, /images/art/art-pentagram-examples-of-use@2x.png 3x" alt="Use of pentagram star symbol for occult and power">
       </div>
     </div>
   </div>
@@ -159,7 +159,7 @@ We are now going to look into meaning and symbolism of each of those aspects…
 
 Inconjunction is formed by two planets positioned 150º from each other. It’s the second widest aspect after the major opposition aspect with 180º angular distance. 
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-inconjunction.png 1x, /images/illustrations/astrology-aspect-minor-inconjunction@2x.png 2x, /images/illustrations/astrology-aspect-minor-inconjunction@3x.png 3x" alt="Astrological minor aspect of inconjunction">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-inconjunction.png" srcset="/images/illustrations/astrology-aspect-minor-inconjunction.png 1x, /images/illustrations/astrology-aspect-minor-inconjunction@2x.png 2x, /images/illustrations/astrology-aspect-minor-inconjunction@3x.png 3x" alt="Astrological minor aspect of inconjunction">
 
 Inconjunction isn’t a regular division of a circle and therefore doesn’t have a number associated to it. At the same time the power of inconjunction stems from it being equal to the angular distance of five Zodiac signs: 150° = 5 × 30º. All aspects related to the number five produce strong influences at certain times and in certain configurations.
 
@@ -171,7 +171,7 @@ Sesquisquare is formed by two planets being 135º apart. As illustrated by its p
 
 Notice that the illustration below shows that sesquisquare is actually a four-pointed star called an “octagram” that is made out of two squares — thus becoming an **intense “super square” aspect**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-sesquisquare.png 1x, /images/illustrations/astrology-aspect-minor-sesquisquare@2x.png 2x, /images/illustrations/astrology-aspect-minor-sesquisquare@3x.png 3x" alt="Astrological minor aspect of sesquisquare">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-sesquisquare.png" srcset="/images/illustrations/astrology-aspect-minor-sesquisquare.png 1x, /images/illustrations/astrology-aspect-minor-sesquisquare@2x.png 2x, /images/illustrations/astrology-aspect-minor-sesquisquare@3x.png 3x" alt="Astrological minor aspect of sesquisquare">
 
 While the square aspect represents active conflict between two types of planetary energies, the sesquisquare aspect takes the conflict to the next level, the one of karma. Sesquisquare aspects often act as **karmic keys in the natal chart**, they point at an active yet somewhat hidden conflict of values between involved planets. Such a conflict tends to play out at a semi-conscious to subconscious levels and bringing one’s awareness to that background tension may result in powerful healing effect.
 

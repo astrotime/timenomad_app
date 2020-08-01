@@ -41,7 +41,7 @@ Simply put the Zodiac is the area of the sky surrounding the path that the Sun t
 
 The illustration below shows the Earth (green) moving counterclockwise in its orbit around the Sun. From the Earth’s standpoint the Sun is moving clockwise in relationships to the stars.
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-sun-annual-movement-from-earth.png 1x, /images/illustrations/ecliptic-sun-annual-movement-from-earth@2x.png 2x, /images/illustrations/ecliptic-sun-annual-movement-from-earth@3x.png 3x" alt="Annual movement of the Sun along the ecliptic path as observed from the Earth">
+<img loading="lazy" src="/images/illustrations/ecliptic-sun-annual-movement-from-earth.png" srcset="/images/illustrations/ecliptic-sun-annual-movement-from-earth.png 1x, /images/illustrations/ecliptic-sun-annual-movement-from-earth@2x.png 2x, /images/illustrations/ecliptic-sun-annual-movement-from-earth@3x.png 3x" alt="Annual movement of the Sun along the ecliptic path as observed from the Earth">
 
 The ecliptic plane is actually the plane where all of the major planets travel, thus making the Solar System more akin to **a disc** than to a sphere. 
 
@@ -49,7 +49,7 @@ Having all major planets concentrated in it, the ecliptic plane is the area of s
 
 The ancient observers noticed that different areas of the starry sky have different qualities and modify the influence of planets travelling through them. The ancients had an inspiration to **divide the ecliptic into twelve parts**, and if you’re interested why the twelve-fold division actually makes sense, read the [story about the planetary hours]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}).
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac.png 1x, /images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac@2x.png 2x, /images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac@3x.png 3x" alt="The ecliptic divided into twelve sectors">
+<img loading="lazy" src="/images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac.png" srcset="/images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac.png 1x, /images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac@2x.png 2x, /images/illustrations/ecliptic-divided-into-12-sectors-of-zodiac@3x.png 3x" alt="The ecliptic divided into twelve sectors">
 
 The parts were chosen in such a way that they coincided with certain asterisms, or simply put groups of stars, that visually and experientially formed a constellation with a certain degree of uniformity.
 
@@ -57,7 +57,7 @@ As nothing really exists in the human consciousness until it’s been given a na
 
 As you can see the constellations are **mostly of animal nature** with some exceptions: **Gemini** are the twin brothers, **Virgo** being a maiden, **Libra** is a weighing scales, **Aquarius** is a water bearer. It makes for an interesting observation that each of group of three signs has one element of a non-animal nature. 
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-and-12-zodiac-signs.png 1x, /images/illustrations/ecliptic-and-12-zodiac-signs@2x.png 2x, /images/illustrations/ecliptic-and-12-zodiac-signs@3x.png 3x" alt="The ecliptic and the twelve Zodiac signs">
+<img loading="lazy" src="/images/illustrations/ecliptic-and-12-zodiac-signs.png" srcset="/images/illustrations/ecliptic-and-12-zodiac-signs.png 1x, /images/illustrations/ecliptic-and-12-zodiac-signs@2x.png 2x, /images/illustrations/ecliptic-and-12-zodiac-signs@3x.png 3x" alt="The ecliptic and the twelve Zodiac signs">
 
 The totality of the twelve constellations was called the **Zodiac**. The word “zodiac” originates from the Ancient Greek zōidiakòs kýklos (ζῳδιακός κύκλος) meaning “cycle or circle of little animals”.
 
@@ -76,7 +76,7 @@ Geometrically speaking, the equinox is the point of intersection between **the e
 
 The illustration below superimposes the geometrical and zodiacal view of the celestial sphere.
 
-<img class="lazyload" data-srcset="/images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices.png 1x, /images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices@2x.png 2x, /images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices@3x.png 3x" alt="The ecliptic and the zodiac with points of equinoxes and solstices">
+<img loading="lazy" src="/images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices.png" srcset="/images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices.png 1x, /images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices@2x.png 2x, /images/illustrations/ecliptic-with-zodiac-and-equinoxes-solstices@3x.png 3x" alt="The ecliptic and the zodiac with points of equinoxes and solstices">
 
 As one can notice there are two intersections between the ecliptic and the celestial equator marking the **two equinoxes** when day and night have **equal length**. And the two points of maximum separation marking the **two solstices** when either day or night reach their **maximum duration**.
 
@@ -102,7 +102,7 @@ But… there was a problem as it’s not possible to see the Sun and the stars a
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/photos/star-spica.jpg" alt="Star Spica, Alpha Virginis">
+      	<img loading="lazy" src="/images/photos/star-spica.jpg" alt="Star Spica, Alpha Virginis">
       </div>
     </div>
     <div class="col-6">
@@ -139,7 +139,7 @@ But the stars are never still, they constantly move albeit very slowly. To make 
   <div class="row">
     <div class="col-6">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/art/art-astronomical-observations-in-alexandria.jpg" alt="Ancient astronomer and astrologer observe the night sky in Alexandria">
+      	<img loading="lazy" src="/images/art/art-astronomical-observations-in-alexandria.jpg" alt="Ancient astronomer and astrologer observe the night sky in Alexandria">
       </div>
     </div>
     <div class="col-6">
@@ -156,7 +156,7 @@ The rate of precession is about 1º per each 72 years. Given that the average sp
 
 The precession of equinoxes effectively separated the tropical Zodiac from its initial sidereal alignment. Again, this difference is called ayanamsa and its current value using the Lahiri ayanamsa is 24º07’ as of March 2019. 
 
-<img class="lazyload" data-srcset="/images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes.png 1x, /images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes@2x.png 2x, /images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes@3x.png 3x" alt="The tropical and sidereal zodiac and the precession of equinoxes">
+<img loading="lazy" src="/images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes.png" srcset="/images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes.png 1x, /images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes@2x.png 2x, /images/illustrations/tropical-and-sidereal-zodiac-precession-of-equinoxes@3x.png 3x" alt="The tropical and sidereal zodiac and the precession of equinoxes">
 
 The illustration above shows the two Zodiacs, tropical and sidereal, side by side. The tropical Zodiac begins its 0º Aries countdown when the Sun is at the moment of the vernal Equinox. The sidereal Zodiac is built upon 0º Aries being opposite to the position of the star Spica at the year of 285 AD (Lahiri ayanamsa method) and is currently nearly one sign away from its initial tropical alignment.
 

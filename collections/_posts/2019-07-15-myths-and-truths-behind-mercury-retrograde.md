@@ -37,7 +37,7 @@ In order to get a better understanding of Mercury energies, one needs to look at
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/art/art-hermes-ancient-greek-lekythos.png 1x, /images/art/art-hermes-ancient-greek-lekythos@2x.png 2x, /images/art/art-hermes-ancient-greek-lekythos@3x.png 3x" alt="Ancient Greek depiction of Hermes">
+        <img loading="lazy" src="/images/art/art-hermes-ancient-greek-lekythos.png" srcset="/images/art/art-hermes-ancient-greek-lekythos.png 1x, /images/art/art-hermes-ancient-greek-lekythos@2x.png 2x, /images/art/art-hermes-ancient-greek-lekythos@3x.png 3x" alt="Ancient Greek depiction of Hermes">
       </div>
     </div>
     <div class="col-6">
@@ -84,7 +84,7 @@ We believe that **“direct” is a more symbolically correct term**, it clearly
 
 The famous symbol of Mercury is his staff called the caduceus that comes from Latin _“cādūceus”_ that in its turn comes from Greek _kērū́keion_ (κηρύκειον) meaning “herald’s wand”. Hermes–Mercury received his staff in his famous trade deal with his half-brother Apollo.
 
-<img class="lazyload" data-srcset="/images/illustrations/caduceus-of-mercury-outline.png 1x, /images/illustrations/caduceus-of-mercury-outline@2x.png 2x, /images/illustrations/caduceus-of-mercury-outline@3x.png 3x" alt="Caduceus staff of Mercury">
+<img loading="lazy" src="/images/illustrations/caduceus-of-mercury-outline.png" srcset="/images/illustrations/caduceus-of-mercury-outline.png 1x, /images/illustrations/caduceus-of-mercury-outline@2x.png 2x, /images/illustrations/caduceus-of-mercury-outline@3x.png 3x" alt="Caduceus staff of Mercury">
 
 The caduceus carries a rich symbolism that can be read in several ways:
 
@@ -102,7 +102,7 @@ Mercury has the powers to move from the world of visible to the world of invisib
   <div class="row">
     <div class="col-8">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/art/art-hermes-mercurius-trismegistus-of-siena-cathedral.jpg" alt="Hermes Mercurius Trismegistus, floor mosaic in the Cathedral of Sienna">
+        <img loading="lazy" src="/images/art/art-hermes-mercurius-trismegistus-of-siena-cathedral.jpg" alt="Hermes Mercurius Trismegistus, floor mosaic in the Cathedral of Sienna">
       </div>
     </div>
     <div class="col-4">
@@ -117,14 +117,14 @@ Mercury has the powers to move from the world of visible to the world of invisib
 
 Turned on its side, the caduceus offers further clues to the nature of Mercurial energies. 
 
-<img class="lazyload" data-srcset="/images/illustrations/caduceus-of-mercury-sine-wave.png 1x, /images/illustrations/caduceus-of-mercury-sine-wave@2x.png 2x, /images/illustrations/caduceus-of-mercury-sine-wave@3x.png 3x" alt="Caduceus staff of Mercury with sine waves overlayed">
+<img loading="lazy" src="/images/illustrations/caduceus-of-mercury-sine-wave.png" srcset="/images/illustrations/caduceus-of-mercury-sine-wave.png 1x, /images/illustrations/caduceus-of-mercury-sine-wave@2x.png 2x, /images/illustrations/caduceus-of-mercury-sine-wave@3x.png 3x" alt="Caduceus staff of Mercury with sine waves overlayed">
 
 The two oscillating sinusoidal waves point at the powers that control transition between **visible and invisible**, **external and internal**.
 
 Even though Saturn is the ultimate measurer of time, Mercury embodies the function of regulating the passage through time crossings and pivotal moments. This function if well visible in this illustration borrowed from earlier story [“What is Planetary Hours, part 2”]({% post_url 2018-12-03-what-is-planetary-hours-part-two %}).
 
 <br><br>
-<img class="lazyload" style="width:380px;" data-srcset="/images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph.png 1x, /images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph@2x.png 2x, /images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph@3x.png 3x" alt="Planetary hours and days of the week">
+<img loading="lazy" style="width:380px;" src="/images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph.png" srcset="/images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph.png 1x, /images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph@2x.png 2x, /images/illustrations/time-nomad-fig-planetary-hours-weekdays-graph@3x.png 3x" alt="Planetary hours and days of the week">
 <br><br>
 
 The caduceus principle is easily recognisable in this graph of the sequence of the days of the week. Mercury is not only the “axis” along which the unfoldment of time is happening, **Mercury controls crossings between periods of time**.
@@ -141,7 +141,7 @@ While all classical planets have a clear masculine/feminine separation, it’s n
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-srcset="/images/art/art-hendrick-goltzius-mercury.jpg" alt="Mercury, a painting by Hendric Goltzius">
+        <img loading="lazy" src="/images/art/art-hendrick-goltzius-mercury.jpg" alt="Mercury, a painting by Hendric Goltzius">
       </div>
     </div>
     <div class="col-6">

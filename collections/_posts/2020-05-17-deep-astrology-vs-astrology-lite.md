@@ -82,7 +82,7 @@ Ironically, the **economical “liberation” has began under the sign of… Lib
   <div class="row">
     <div class="col-12">
       <div class="row">
-      	<img class="lazyload" data-srcset="/images/photos/journalism-reagan-and-thatcher-during-working-luncheon-1984.jpg" alt="US President Ronald Reagan with British Prime Minister Margaret Thatcher at Camp David, 1984">
+      	<img loading="lazy" src="/images/photos/journalism-reagan-and-thatcher-during-working-luncheon-1984.jpg" alt="US President Ronald Reagan with British Prime Minister Margaret Thatcher at Camp David, 1984">
       </div>
     </div>
   </div>
