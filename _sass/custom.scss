@@ -16,6 +16,64 @@ $imagedir:'/images/';
 }
 
 /**
+ * Specifying image dimensions.
+ * https://github.com/aFarkas/lazysizes
+ * https://mademyday.de/height-equals-width-with-pure-css/
+ */
+
+/* .ratio-box required HTML attribute set */
+.ratio-box {
+  position: relative;
+  height: 0;
+  display: block;
+  width: 100%;
+  /* padding-bottom is calculated and rendered in HTML */
+  /* 740 x 470 = 63.51% = calc(740 / 470 * 100%) */
+}
+
+.ratio-box img,
+.ratio-box iframe,
+.ratio-box video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.ratio-box-mt2-mb-2 {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+/* .ratio-container comes with predefined ratios, default is 1x1 */
+.ratio-container {
+    position: relative;
+}
+.ratio-container:after {
+    content: '';
+    display: block;
+    height: 0;
+    width: 100%;
+    padding-bottom: 100%; /* default is 1x1 */
+}
+.ratio-container > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.ratio-container-1x1:after {
+  @extend .ratio-container, :after;
+  /* 16:9 = 56.25% = calc(9 / 16 * 100%) */
+  padding-bottom: 100%;
+}
+
+/**
  * Site navigation
  */
 
@@ -188,8 +246,6 @@ skybar#appPromo, skybar#newsletterPromo {
   flex: 1;
 
   img.promo {
-    margin-top: 1em;
-    margin-bottom: 2em;
     border-radius: 5px;
   }
 }
