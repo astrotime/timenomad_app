@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-24 12:00:00 +1000
-modified: 2019-02-24 12:00:00 +1000
+modified: 2020-08-10 12:00:00 +1000
 title: How to calculate astrological events — aspects, transits and retrogrades
 description: When working with astrological events like aspects, transits and planetary retrogrades, an astrologer often needs to know when does the aspect begins, becomes exact and eventually diminishes.
 comments: true
@@ -60,7 +60,7 @@ _Chart Event Explorer_ builds precise astrological chart for the specific moment
 
 The tool also calculates the chart of your transits thus enabling you to see what transits take place at that time.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-02.jpg 1x, /images/docs/astro-chart-event-explorer-02@2x.jpg 2x" alt="Saturn Pluto conjunction astrological aspect developing for year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-02.jpg" srcset="/images/docs/astro-chart-event-explorer-02.jpg 1x, /images/docs/astro-chart-event-explorer-02@2x.jpg 2x" alt="Saturn Pluto conjunction astrological aspect developing for year 2020">
 
 _Chart Event Explorer_ is able to perform precise calculations in real-time delivering nearly instant answers to your astrological questions.
 
@@ -70,30 +70,30 @@ _Chart Event Explorer_ calculator can be activated if you force-tap or long-tap 
 
 For example, the event can be phase of the Moon or some specific transit or some aspect, as Saturn Pluto conjunction shown in the example below. **Force-tap** or **long-tap** or **simply tap** on the event and the _Chart Event Explorer_ will immediately show up. 
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-01.jpg 1x, /images/docs/astro-chart-event-explorer-01@2x.jpg 2x" alt="Analysing Saturn Pluto astrological aspect">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-01.jpg" srcset="/images/docs/astro-chart-event-explorer-01.jpg 1x, /images/docs/astro-chart-event-explorer-01@2x.jpg 2x" alt="Analysing Saturn Pluto astrological aspect">
 
 There is a lot of information and interactive chart functionality packed in the tool. Let’s starting from the top of the screen.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-03.jpg 1x, /images/docs/astro-chart-event-explorer-03@2x.jpg 2x" alt="Astrological chart with Saturn Pluto conjunction aspect, year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-03.jpg" srcset="/images/docs/astro-chart-event-explorer-03.jpg 1x, /images/docs/astro-chart-event-explorer-03@2x.jpg 2x" alt="Astrological chart with Saturn Pluto conjunction aspect, year 2020">
 
 The top dropdown shows the list of timeline of the event, whether possible including beginning and end of the event, its exact moment and possible stationary states of involved planets.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-04.jpg 1x, /images/docs/astro-chart-event-explorer-04@2x.jpg 2x" alt="Dates of Saturn Pluto conjunction for the year of 2019 and 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-04.jpg" srcset="/images/docs/astro-chart-event-explorer-04.jpg 1x, /images/docs/astro-chart-event-explorer-04@2x.jpg 2x" alt="Dates of Saturn Pluto conjunction for the year of 2019 and 2020">
 
 Bottom controls allow to switch between a regular chart and a chart of transits. Use “Show” to configure each chart’s view. Use the slider (either drag or tap) to select aspects to be shown.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-05.jpg 1x, /images/docs/astro-chart-event-explorer-05@2x.jpg 2x" alt="User interface element: scroller">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-05.jpg" srcset="/images/docs/astro-chart-event-explorer-05.jpg 1x, /images/docs/astro-chart-event-explorer-05@2x.jpg 2x" alt="User interface element: scroller">
 
 
 The chart highlights planets involved in the event using yellow and purple colour coding where purple highlights transited planet.
 
 A useful feature — tap on blue time distance label to instantly move Time Nomad to that moment in time so that you can explore that event in more details.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-06.jpg 1x, /images/docs/astro-chart-event-explorer-06@2x.jpg 2x" alt="Astrological chart with future date">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-06.jpg" srcset="/images/docs/astro-chart-event-explorer-06.jpg 1x, /images/docs/astro-chart-event-explorer-06@2x.jpg 2x" alt="Astrological chart with future date">
 
 At the bottom of the chart you can find the Zodiac position of highlighted planets (on the left) as well as their houses (on the right).
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-07.jpg 1x, /images/docs/astro-chart-event-explorer-07@2x.jpg 2x" alt="Planets in the Zodiac signs and astrological houses">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-07.jpg" srcset="/images/docs/astro-chart-event-explorer-07.jpg 1x, /images/docs/astro-chart-event-explorer-07@2x.jpg 2x" alt="Planets in the Zodiac signs and astrological houses">
 
 _Chart Event Explorer_ is a highly interactive tool that enables in-depth exploration of a wide variety of astrological events, right from the convenience of your pocket.
 
@@ -104,24 +104,24 @@ The upcoming conjunction of Saturn and Pluto that will happen in January 2020 pr
 
 Locate an approximate date when Saturn and Pluto planets form a conjunction aspect. The aspect doesn’t need to be exact, any orb of that aspect will suffice. Use the “Chart for Now” screen to scroll through time until the planets form an aspect of interest.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-case-01-01.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-01@2x.jpg 2x" alt="Astrological chart with Saturn Pluto conjunction for year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-case-01-01.jpg" srcset="/images/docs/astro-chart-event-explorer-case-01-01.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-01@2x.jpg 2x" alt="Astrological chart with Saturn Pluto conjunction for year 2020">
 
 Then go to the “Aspects List” screen and tap on the row with that aspect and then switch to “Chart” view (the button at the bottom left). In fact, you can simply force-tap or long-tap to instantly jump to that view.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-case-01-02.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-02@2x.jpg 2x" alt="List of astrological aspects for Saturn Pluto conjunction for year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-case-01-02.jpg" srcset="/images/docs/astro-chart-event-explorer-case-01-02.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-02@2x.jpg 2x" alt="List of astrological aspects for Saturn Pluto conjunction for year 2020">
 
 A _Chart Event Explorer_ popup will appear and required calculations will be automatically performed to find out the exact dates of the aspect unfoldment.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-case-01-03.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-03@2x.jpg 2x" alt="List of astrological aspects for Saturn Pluto conjunction for year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-case-01-03.jpg" srcset="/images/docs/astro-chart-event-explorer-case-01-03.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-03@2x.jpg 2x" alt="List of astrological aspects for Saturn Pluto conjunction for year 2020">
 
 Tap on the top dropdown to reveal the list of those events. The list will also include any moments in time when either planet is stationary direct or stationary retrograde.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-case-01-04.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-04@2x.jpg 2x" alt="List of astrological aspects for Saturn Pluto conjunction for year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-case-01-04.jpg" srcset="/images/docs/astro-chart-event-explorer-case-01-04.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-04@2x.jpg 2x" alt="List of astrological aspects for Saturn Pluto conjunction for year 2020">
 
 Moving through the list you can see how the chart will look like for each of those moments.
 
 There's more, with a single tap you can switch between the chart of moment and the chart of your personal transits. allowing you to see what this moment in time will mean for you.
 
-<img class="lazyload" data-srcset="/images/docs/astro-chart-event-explorer-case-01-05.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-05@2x.jpg 2x" alt="Interactive astrological chart with Saturn Pluto conjunction for year 2020">
+<img loading="lazy" src="/images/docs/astro-chart-event-explorer-case-01-05.jpg" srcset="/images/docs/astro-chart-event-explorer-case-01-05.jpg 1x, /images/docs/astro-chart-event-explorer-case-01-05@2x.jpg 2x" alt="Interactive astrological chart with Saturn Pluto conjunction for year 2020">
 
 If further exploration of a specific moment is required, tap on the blue date offset indicator and Time Nomad will jump to that date so you can analyse that moment in time with the full set of Time Nomad tools.

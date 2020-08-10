@@ -29,7 +29,7 @@ The default view is the watch face that displays planetary hours in the circular
 
 Note that the sequence of planetary hours is “disconnected” at the bottom of the watch face that corresponds to midnight. The planetary hours from the sunset to midnight belong to the current day. But the planetary hours after midnight actually belong to the previous day, those are the hours that precede the sunrise of the current day.
 
-<img class="lazyload" data-srcset="/images/docs/planetary-hours-calculator-01.jpg 1x, /images/docs/planetary-hours-calculator-01@2x.jpg 2x" alt="Planetary hours calculator watch face mode">
+<img loading="lazy" src="/images/docs/planetary-hours-calculator-01.jpg" srcset="/images/docs/planetary-hours-calculator-01.jpg 1x, /images/docs/planetary-hours-calculator-01@2x.jpg 2x" alt="Planetary hours calculator watch face mode">
 
 The **planetary day of the week** is identified by the planet at the moment of sunrise. On the screenshot above Saturn is the planet that rules Saturday.
 
@@ -41,7 +41,7 @@ Use the **scroller below the watch face** to move to different screens that offe
 
 This screen presents a more detailed information about all planetary hours for any given “today” in a convenient table format that gets calculated updated in real-time.
 
-<img class="lazyload" data-srcset="/images/docs/planetary-hours-calculator-02.jpg 1x, /images/docs/planetary-hours-calculator-02@2x.jpg 2x" alt="List of planetary hours for a day of the week">
+<img loading="lazy" src="/images/docs/planetary-hours-calculator-02.jpg" srcset="/images/docs/planetary-hours-calculator-02.jpg 1x, /images/docs/planetary-hours-calculator-02@2x.jpg 2x" alt="List of planetary hours for a day of the week">
 
 The current planetary hour is automatically highlighted. Each planetary hour has its starting and ending time conveniently presented in both 24-hour and 12-hour formats.
 
@@ -51,7 +51,7 @@ The list of planetary hours is a powerful tool if you need to plan your day in a
 
 The two heptagrams  screens calculate a graphical view of the sequence of planetary hours for the given time and geographic location.
 
-<img class="lazyload" data-srcset="/images/docs/planetary-hours-calculator-03.jpg 1x, /images/docs/planetary-hours-calculator-03@2x.jpg 2x" alt="Heptagram of planetary hours for a planetary day of the week">
+<img loading="lazy" src="/images/docs/planetary-hours-calculator-03.jpg" srcset="/images/docs/planetary-hours-calculator-03.jpg 1x, /images/docs/planetary-hours-calculator-03@2x.jpg 2x" alt="Heptagram of planetary hours for a planetary day of the week">
 
 There are two types of heptagrams:
 
@@ -71,7 +71,7 @@ Planetary hours alarm allows to stay notified about planetary hours changes. The
 
 To access the alarm functionality move the slider all the way to the left.
 
-<img class="lazyload" data-srcset="/images/docs/planetary-hours-alarm-01.jpg 1x, /images/docs/planetary-hours-alarm-01@2x.jpg 2x" alt="Planetary hour calculator alarm functionality">
+<img loading="lazy" src="/images/docs/planetary-hours-alarm-01.jpg" srcset="/images/docs/planetary-hours-alarm-01.jpg 1x, /images/docs/planetary-hours-alarm-01@2x.jpg 2x" alt="Planetary hour calculator alarm functionality">
 
 The alarm has two modes:
 
@@ -81,6 +81,6 @@ The alarm has two modes:
 
 Planetary hours alarm can be further configured by selecting what planetary hours you are interested to be notified about.
 
-<img class="lazyload" data-srcset="/images/docs/planetary-hours-alarm-02.jpg 1x, /images/docs/planetary-hours-alarm-02@2x.jpg 2x" alt="Planetary hour calculator alarm classical planets selector">
+<img loading="lazy" src="/images/docs/planetary-hours-alarm-02.jpg" srcset="/images/docs/planetary-hours-alarm-02.jpg 1x, /images/docs/planetary-hours-alarm-02@2x.jpg 2x" alt="Planetary hour calculator alarm classical planets selector">
 
 In some situations it makes sense to only receive, for example, the Sun hour and the Moon hour. Another example could be that only Saturn hour alarms are of interest. Any combination of planets is allowed.

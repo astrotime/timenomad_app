@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-04-18 12:00:00 +1000
-modified: 2019-04-18 12:00:00 +1000
+modified: 2020-08-10 12:00:00 +1000
 title: How to work with the fixed stars in astrological chart
 description: Fixed stars astrology adds an extra layer of precise information to your natal chart or any other astrological chart for specific time and place. Learn how to work with the fixed stars using Time Nomad — enrich your chart interpretations with very specific knowledge of stellar influences.
 comments: true
@@ -57,7 +57,7 @@ Those are the **most powerful and influential fixed stars** known since ancient 
 
 Those fifteen stars are more or less evenly distributed along the zodiacal circle. The illustration below shows Time Nomad chart with Behenian stars placed along the Zodiac.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-chart-with-behenian-stars.jpg 1x, /images/docs/fixed-stars-chart-with-behenian-stars@2x.jpg 2x" alt="Astrological chart with Behenian stars">
+<img loading="lazy" src="/images/docs/fixed-stars-chart-with-behenian-stars.jpg" srcset="/images/docs/fixed-stars-chart-with-behenian-stars.jpg 1x, /images/docs/fixed-stars-chart-with-behenian-stars@2x.jpg 2x" alt="Astrological chart with Behenian stars">
 
 The table below lists fifteen Behenian stars and their properties.
 
@@ -88,7 +88,7 @@ The second type of fixed stars are not really “stars” but rather huge format
 
 Time Nomad supports several major Messier objects, the illustration below shows their positions on the Zodiac.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-chart-with-messier-objects.jpg 1x, /images/docs/fixed-stars-chart-with-messier-objects@2x.jpg 2x" alt="Astrological chart with Messier objects like galaxies, nebulae and clusters">
+<img loading="lazy" src="/images/docs/fixed-stars-chart-with-messier-objects.jpg" srcset="/images/docs/fixed-stars-chart-with-messier-objects.jpg 1x, /images/docs/fixed-stars-chart-with-messier-objects@2x.jpg 2x" alt="Astrological chart with Messier objects like galaxies, nebulae and clusters">
 
 Ancient astrologers held a rather negative view about objects like nebulae, associating their quality of nebulosity with blindness and other physical defects. This is perhaps a somewhat outdated view. In the modern astrological parlance nebulosity can be translated into weak sight, lack of discernment and indecisiveness in general.
 
@@ -112,25 +112,25 @@ But from the standpoint of geometry, **any aspect is possible**. It’s a matter
 
 Time Nomad allows to work with any aspects, both major and minor. The illustration below shows the app settings where the user can select stellar aspects they wish to calculate.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-settings-of-aspects.jpg 1x, /images/docs/fixed-stars-settings-of-aspects@2x.jpg 2x" alt="Selection of astrological aspects for the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-settings-of-aspects.jpg" srcset="/images/docs/fixed-stars-settings-of-aspects.jpg 1x, /images/docs/fixed-stars-settings-of-aspects@2x.jpg 2x" alt="Selection of astrological aspects for the fixed stars">
 
 ## Viewing aspects to the fixed stars
 
 In order to visually inspect aspects to the fixed stars, head over to **“Chart for now”** or **“Natal chart”** screens where you can activate the stellar ring and also turn on aspects to the fixed stars using the popup under “Show” menu.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-chart-view-options.jpg 1x, /images/docs/fixed-stars-chart-view-options@2x.jpg 2x" alt="Configuring astrological chart with the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-chart-view-options.jpg" srcset="/images/docs/fixed-stars-chart-view-options.jpg 1x, /images/docs/fixed-stars-chart-view-options@2x.jpg 2x" alt="Configuring astrological chart with the fixed stars">
 
 Once the stellar aspect turned on, their connecting lines will be displayed on the chart, just like regular aspects.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-chart-with-aspects.jpg 1x, /images/docs/fixed-stars-chart-with-aspects@2x.jpg 2x" alt="Astrological chart with aspects to the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-chart-with-aspects.jpg" srcset="/images/docs/fixed-stars-chart-with-aspects.jpg 1x, /images/docs/fixed-stars-chart-with-aspects@2x.jpg 2x" alt="Astrological chart with aspects to the fixed stars">
 
 The wheel chart provides a good overview of the aspects but if you need to see the aspects in a list format, head over to **“Fixed stars”** or **“Natal fixed stars”** screens that provide a rich reporting functionality.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-list-of-aspects.jpg 1x, /images/docs/fixed-stars-list-of-aspects@2x.jpg 2x" alt="List of astrological aspects to the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-list-of-aspects.jpg" srcset="/images/docs/fixed-stars-list-of-aspects.jpg 1x, /images/docs/fixed-stars-list-of-aspects@2x.jpg 2x" alt="List of astrological aspects to the fixed stars">
 
 In addition to aspects, the reports also contain **parallels** to the fixed stars. Time Nomad doesn’t offer contra-parallels to the fixed stars as they don’t seem to carry much astrological weight.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-list-of-parallels.jpg 1x, /images/docs/fixed-stars-list-of-parallels@2x.jpg 2x" alt="List of astrological parallels to the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-list-of-parallels.jpg" srcset="/images/docs/fixed-stars-list-of-parallels.jpg 1x, /images/docs/fixed-stars-list-of-parallels@2x.jpg 2x" alt="List of astrological parallels to the fixed stars">
 
 ## Fixed stars specific to chart geographic location
 
@@ -142,7 +142,7 @@ The most important are those stars that are:
 * **culminating** by crossing the local meridian
 * **setting** below the horizon
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-list-rising-culminating-setting.jpg 1x, /images/docs/fixed-stars-list-rising-culminating-setting@2x.jpg 2x" alt="List of rising, culminating and setting fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-list-rising-culminating-setting.jpg" srcset="/images/docs/fixed-stars-list-rising-culminating-setting.jpg 1x, /images/docs/fixed-stars-list-rising-culminating-setting@2x.jpg 2x" alt="List of rising, culminating and setting fixed stars">
 
 The most significant influence is attributed to rising and culminating stars. Setting stars give much more subtle and nuanced clues to their influence. Culminating star  signifies maturation and maximum of unfoldment of its energies. Rising star brings a youthful punch and sets the dynamic direction for the chart.
 
@@ -150,10 +150,10 @@ The most significant influence is attributed to rising and culminating stars. Se
 
 Every listing — be it aspects, parallels, rise-culmination-set or general star informations — can be further filtered and customised by tapping on the “Show” button.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-list-filter.jpg 1x, /images/docs/fixed-stars-list-filter@2x.jpg 2x" alt="Filtering options for list of the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-list-filter.jpg" srcset="/images/docs/fixed-stars-list-filter.jpg 1x, /images/docs/fixed-stars-list-filter@2x.jpg 2x" alt="Filtering options for list of the fixed stars">
 
 The popup menu allows to **exclude or include stars by their magnitude** as well as to choose if you want to work with the pre-selected set of stars (as per app settings) or the whole available list of the fixed stars.
 
-<img class="lazyload" data-srcset="/images/docs/fixed-stars-calculator-for-date.jpg 1x, /images/docs/fixed-stars-calculator-for-date@2x.jpg 2x" alt="Calculator of astronomical and astrological positions of the fixed stars">
+<img loading="lazy" src="/images/docs/fixed-stars-calculator-for-date.jpg" srcset="/images/docs/fixed-stars-calculator-for-date.jpg 1x, /images/docs/fixed-stars-calculator-for-date@2x.jpg 2x" alt="Calculator of astronomical and astrological positions of the fixed stars">
 
 The filtering functionality helps to narrow down the search, for example, if only stars of certain magnitudes are of interest.
