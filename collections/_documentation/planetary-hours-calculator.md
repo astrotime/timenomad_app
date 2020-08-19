@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-24 12:00:00 +1000
-modified: 2019-02-24 12:00:00 +1000
+modified: 2020-08-10 12:00:00 +1000
 title: Planetary hours calculator
 description: Learn how to use planetary hours calculator, planetary hours alarm and other tools to work with planetary days of the week.
 comments: true
