@@ -70,7 +70,7 @@ The underworlds over which Pluto/Hades rules is a magical kingdom deep down in t
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        Meeting of Saturn and Pluto is always the moment of <b>reevaluation of currencies</b>. The current economical order was established just before the 1947 Saturn–Pluto conjunction. The value of US dollar has been pegged to the gold standard at the **rate of $35 per ounce**.
+        Meeting of Saturn and Pluto is always the moment of <b>reevaluation of currencies</b>. The current economical order was established just before the 1947 Saturn–Pluto conjunction. The value of US dollar has been pegged to the gold standard at the <b>rate of $35 per ounce</b>.
       </div>
     </div>
   </div>
