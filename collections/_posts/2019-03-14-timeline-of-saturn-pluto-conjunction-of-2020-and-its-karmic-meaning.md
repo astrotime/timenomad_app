@@ -161,7 +161,7 @@ In the current time we witness some rather serious challenges to the current soc
 * globalisation **redistributed the wealth** towards the elites and a small number of newly minted super-rich while effectively wiping out economic opportunities for the middle class and the stability that has been achieved in the post-WWII years
 * the economical model that was built on addiction to eternal economical growth and borrowing from the future faces an **unsurmountable amount of debt**
 
-A follow up article [“Value of Gold in the time of Saturn–Pluto conjunction”]({% post_url 2020-08-19-value-of-gold-sin-the-time-of-saturn-pluto-conjunction %}) looks further into the topic of gold, its symbolism and its ability to preserve value during times of crisis.
+A follow up article [“Value of Gold in the time of Saturn–Pluto conjunction”]({% post_url 2020-08-19-value-of-gold-in-the-time-of-saturn-pluto-conjunction %}) looks further into the topic of gold, its symbolism and its ability to preserve value during times of crisis.
 
 As a separate topic, foundational **tensions between India and Pakistan** are currently running at peak levels, already resulting in loss of lives and limited military actions. The two nuclear-armed nations are extremely bitter towards each other and one can only imagine that any kind of “Archduke Franz Ferdinand” incident can tip the situation out of the balance.
 
