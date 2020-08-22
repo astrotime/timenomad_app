@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190314
 date: 2019-03-14 12:00:00 +1000
-modified: 2020-08-19 12:00:00 +1000
+modified: 2020-08-22 12:00:00 +1000
 title: The timeline of Saturn – Pluto conjunction of years 2019–2020–2021 and its karmic meaning
 description: Every occurrence of Saturn – Pluto conjunction is a relatively rare event that happens approximately every 33–38 years and lasts slightly over two years. Saturn – Pluto conjunction can be seen as a “global Saturn return” or karmic nature that applies to the whole world.
 categories: posts astrology event
@@ -122,6 +122,32 @@ The two planets meet together approximately every 33–38 years, and those conju
 There is something rather grinding about how this aspect is unfolding. Its effects aren’t really visible at first and only certain intuitions may tell us that we are due for a “correction” of some kind. The Saturn – Pluto archetype is the one of constrained and slow explosion, or rather an **implosion when structures built by Saturn need to undergo the test of time**. During the period of testing the pressure will increase to match the deep volcanic nature of Pluto. The structures may pass the test if they are strong and truthful. But anything false and superficial is more than likely to collapse as it won’t hold the absolute fire that Pluto brings.
 
 As much as those events could be painful, it is important to realise that they are the action of cosmic necessity that ensures the health and survival of the bigger system. They are akin to the principle of **Darwinian selection** — taken to the global and societal scale.
+
+## A timeline of Saturn–Pluto cycles
+
+<div class="container post-pullout-box">
+  <div class="row">
+    <div class="col-12">
+      <div class="row">
+        <img loading="lazy" src="/images/statistics/graph-usa-net-investment-position-1900-2020.png" alt="Graph of USA net investment position for years 1900-2020">
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="row text-photo-caption-serif">
+     <small class="post-pullout-box-copyright">Original graph source: Ray Dalio, The Changing World Order. Saturn–Pluto cycles added by Time Nomad.</small>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
+
+Superimposing **Saturn–Pluto cycles** over the graph of the **USA net investment position** helps to see a bigger picture. Net investment position reflects how much assets the country holds as opposed to what it owes to foreign entities. The US is in negative zone since about 1990.
+
+The pattern so far has been clear. The World Wars 1 and 2 brought a lot of money during **1914–1947** which resulted in a stable and prosperous post-war period of **1947–1982** (the last decade of that period was on decline). Aggressive economical reforms during 70s and 80s produced modern financial industry that was pretty much running the last cycle of **1982–2020** by the means of speculative investment and globalisation.
+
+What will **2020–2053** cycle look like? Make your bets!
 
 ## The years 1914–1915 — a triple conjunction
 

@@ -91,6 +91,27 @@ By the year of 2020 the **dollar became extremely diluted** in its “real value
 
 Reevaluation and establishing a new economic model is the cosmic function of pretty much every Saturn–Pluto conjunction. The old ways have to be let go and the new ways need to be agreed by all major world actors.
 
+<div class="container post-pullout-box">
+  <div class="row">
+    <div class="col-12">
+      <div class="row">
+      	<img loading="lazy" src="/images/statistics/graph-usa-net-investment-position-1900-2020.png" alt="Graph of USA net investment position for years 1900-2020">
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="row text-photo-caption-serif">
+		 Superimposing <b>Saturn–Pluto cycles</b> over the graph of the <b>USA net investment position</b> helps to see a bigger picture. Net investment position reflects how much assets the country holds as opposed to what it owes to foreign entities. The US is in negative zone since about 1990.<br><br>
+		 The pattern so far has been clear. The World Wars 1 and 2 brought a lot of money during <b>1914–1947</b> which resulted in a stable and prosperous post-war period of <b>1947–1982</b> (the last decade of that period was on decline). Aggressive economical reforms during 70s and 80s produced modern financial industry that was pretty much running the last cycle of <b>1982–2020</b> by the means of speculative investment and globalisation.<br><br>
+		 What will <b>2020–2053</b> cycle look like? Make your bets!<br><br>
+		 <small class="post-pullout-box-copyright">Original graph source: Ray Dalio, The Changing World Order. Saturn–Pluto cycles added by Time Nomad.</small>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
+
 A **good example was 1944** when the world has prepared itself by agreeing on a new monetary system during talks in Bretton Woods, Hampshire. The dollar was pegged to the gold standard at $35 per ounce price mark. Then closely following Saturn–Pluto conjunction of 1947 ushered the world into the new era of prosperity.
 
 The last decade of that era witnessed a **breakdown of dollar-gold relationship in 1971** that followed by an economically rough decade that took us to the 1982 Saturn–Pluto conjunction. 
