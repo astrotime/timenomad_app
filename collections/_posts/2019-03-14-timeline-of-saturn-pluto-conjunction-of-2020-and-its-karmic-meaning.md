@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190314
 date: 2019-03-14 12:00:00 +1000
-modified: 2020-08-22 12:00:00 +1000
+modified: 2020-08-23 12:00:00 +1000
 title: The timeline of Saturn – Pluto conjunction of years 2019–2020–2021 and its karmic meaning
 description: Every occurrence of Saturn – Pluto conjunction is a relatively rare event that happens approximately every 33–38 years and lasts slightly over two years. Saturn – Pluto conjunction can be seen as a “global Saturn return” or karmic nature that applies to the whole world.
 categories: posts astrology event
@@ -143,11 +143,11 @@ As much as those events could be painful, it is important to realise that they a
 </div>
 <div class="float-clear"></div>
 
-Superimposing **Saturn–Pluto cycles** over the graph of the **USA net international investment position** helps to see the big picture. Net international investment position reflects how much foreign assets the country holds as opposed to what it owes to foreign entities. One can think of that as a reflection of country‘s reserves and savings. The US is in negative zone since about 1990.
+Superimposing **Saturn–Pluto cycles** over the graph of the **USA net international investment position** helps to see the big picture. Net international investment position reflects how much foreign assets the country holds as opposed to what it owes to foreign entities. One can think of that as a reflection of **country‘s reserves and savings**. The US is in negative zone since about 1990.
 
 The pattern so far has been clear. The World Wars 1 and 2 brought a lot of money during **1914–1947** which resulted in a stable and prosperous post-war period of **1947–1982** (the last decade of that period was on decline). Aggressive economical reforms during 70s and 80s produced modern financial industry that was pretty much running the last cycle of **1982–2020** by the means of speculative investment and globalisation.
 
-What will **2020–2053** cycle look like? Make your bets!
+What will **2020–2053** cycle look like? Place your bets!
 
 ## The years 1914–1915 — a triple conjunction
 

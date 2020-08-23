@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20200819
 date: 2020-08-19 12:00:00 +1000
-modified: 2020-08-19 12:00:00 +1000
+modified: 2020-08-23 12:00:00 +1000
 title: Value of Gold in the time of Saturn–Pluto conjunction
 description: "In not so distant past there was a time when an ounce of gold was… $35. Just compare that to 2020’s gold price tag reaching $2,000. Mind boggles! Did something go wrong and if so, can astrology blame it all on the Saturn–Pluto conjunction?"
 categories: posts astrology event
@@ -102,9 +102,9 @@ Reevaluation and establishing a new economic model is the cosmic function of pre
   <div class="row">
     <div class="col-12">
       <div class="row text-photo-caption-serif">
-		 Superimposing <b>Saturn–Pluto cycles</b> over the graph of the <b>USA net international investment position</b> helps to see the big picture. Net international investment position reflects how much foreign assets the country holds as opposed to what it owes to foreign entities. One can think of that as a reflection of country‘s reserves and savings. The US is in negative zone since about 1990.<br><br>
+		 Superimposing <b>Saturn–Pluto cycles</b> over the graph of the <b>USA net international investment position</b> helps to see the big picture. Net international investment position reflects how much foreign assets the country holds as opposed to what it owes to foreign entities. One can think of that as a reflection of <b>country‘s reserves and savings</b>. The US is in negative zone since about 1990.<br><br>
 		 The pattern so far has been clear. The World Wars 1 and 2 brought a lot of money during <b>1914–1947</b> which resulted in a stable and prosperous post-war period of <b>1947–1982</b> (the last decade of that period was on decline). Aggressive economical reforms during 70s and 80s produced modern financial industry that was pretty much running the last cycle of <b>1982–2020</b> by the means of speculative investment and globalisation.<br><br>
-		 What will <b>2020–2053</b> cycle look like? Make your bets!<br><br>
+		 What will <b>2020–2053</b> cycle look like? Place your bets!<br><br>
 		 <small class="post-pullout-box-copyright">Original graph source: Ray Dalio, The Changing World Order. Saturn–Pluto cycles added by Time Nomad.</small>
       </div>
     </div>
