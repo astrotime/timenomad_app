@@ -143,7 +143,7 @@ As much as those events could be painful, it is important to realise that they a
 </div>
 <div class="float-clear"></div>
 
-Superimposing **Saturn–Pluto cycles** over the graph of the **USA net investment position** helps to see the big picture. Net investment position reflects how much assets the country holds as opposed to what it owes to foreign entities. The US is in negative zone since about 1990.
+Superimposing **Saturn–Pluto cycles** over the graph of the **USA net international investment position** helps to see the big picture. Net international investment position reflects how much foreign assets the country holds as opposed to what it owes to foreign entities. One can think of that as a reflection of country‘s reserves and savings. The US is in negative zone since about 1990.
 
 The pattern so far has been clear. The World Wars 1 and 2 brought a lot of money during **1914–1947** which resulted in a stable and prosperous post-war period of **1947–1982** (the last decade of that period was on decline). Aggressive economical reforms during 70s and 80s produced modern financial industry that was pretty much running the last cycle of **1982–2020** by the means of speculative investment and globalisation.
 
