@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 permalink: /posts/
 date: 2018-09-01 12:00:00 +1000
-modified: 2019-04-21 12:00:00 +1000
+modified: 2020-09-22 12:00:00 +1000
 description: Astrological news and an ongoing astrology course on the foundations of astrology and metaphysics.
 image: /images/summary-cards/time-nomad-card.png
 list_title: Recent stories
@@ -21,9 +21,11 @@ schema:
     height: 760
 ---
 
-<h1 class="post-title p-name" itemprop="name headline">Exploring Astrology, past and future</h1>
+<h1 class="post-title p-name" itemprop="name headline">Exploring Astrology</h1>
 
-Time Nomad publishes regularly updated **short educational essays** that constitute both **astrological news** and an ongoing **astrology course** at the same time.
+Time Nomad publishes regularly updated **short educational essays** that constitute a **free astrology training** focusing on a variety of topics helping both students and astrology enthusiasts to learn about the principles behind the astrological discipline.
+
+The essays are written using **plain language, kept short and to the point**. We hoping that you, the reader, will (re)discover some valuable information by browsing this combination of ancient and modern knowledge. Your comments and thoughts are very welcome!
 
 <div class="container float-clear" style="border: 1px solid #d9ddff; background: #f6f8f8; border-radius: 6px; padding: 8px 8px 8px 16px;">
 	  <div class="row">
@@ -35,15 +37,3 @@ Time Nomad publishes regularly updated **short educational essays** that constit
 	  	</div>
 	</div>
 </div>
-
-The essays constitute a **free astrology training** focusing on a variety of topics helping both students and astrology enthusiasts to learn about the principles behind:
-
-* astrology and astronomy
-* metaphysics
-* alchemy and magic
-
-The essays aim to answer the question **“what is astrology”** and pave the way to become a professional astrologer.
-
-The essays are written using **plain language, kept short and to the point**. We hoping that you, the reader, will (re)discover some valuable information by browsing this combination of ancient and modern knowledge.
-
-Your comments and thoughts are very welcome!
