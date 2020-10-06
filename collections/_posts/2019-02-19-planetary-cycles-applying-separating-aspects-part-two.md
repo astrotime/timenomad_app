@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190219
 date: 2019-02-19 12:00:00 +1000
-modified: 2019-02-19 12:00:00 +1000
+modified: 2020-10-06 12:00:00 +1000
 title: "Understanding planetary cycles: applying and separating aspects, part 2"
 description: Applying and separating aspects, together with waxing and waning aspects, are the building blocks of a planetary cycle that is literally just a sequence of astrological aspects.
 categories: posts astrology philosophy
@@ -30,11 +30,11 @@ That is why looking at an individual aspect doesn’t necessarily provides the f
 
 ## From the Moon cycle to other planets
 
-Pretty much everybody is aware about the phases of the Moon and the lunar month that starts with the New Moon, proceeds to the Full Moon and completes at the next New Moon ready for the next lunar month.
+Pretty much everybody is aware about the phases of the Moon and the lunar month that starts with the New Moon, culminates at the Full Moon and completes at the next New Moon ready for the next lunar month.
 
 ![The four phases of the Moon](/images/illustrations/moon-phases-dark.png "The four phases of the Moon as observed from the Earth")
 
-The sequence of the phases of the Moon is but the planetary cycle between the Moon and the Sun. The **New Moon** marks the moment of **conjunction** between the two luminaries, the **Full Moon** is the moment of their **opposition**. The **First and the Last Quarter** are **square** aspects.
+The sequence of the phases of the Moon is the planetary cycle between the Moon and the Sun. The **New Moon** marks the moment of **conjunction** between the two luminaries, the **Full Moon** is the moment of their **opposition**. The **First and the Last Quarter** are **square** aspects.
 
 Same idea can be applied to any other pair of planets, for example:
 
@@ -62,7 +62,7 @@ For an observant eye, the effects of Mercury and Moon are easily noticeable. The
 
 ## Faster planet applies its force
 
-For any pair of planets, there is always a faster one that “applies” its force to the planetary qualities of the slower planet and also “gathers” the qualities of the slower planet in accordance with the nature of aspect.
+For any pair of planets, there is always a faster one that “applies” its force to the planetary qualities of the slower planet and also “gathers” the qualities of the slower planet in accordance with the nature of the aspect.
 
 This simple fact allows us, for example, to say “Venus – Saturn” and not “Saturn – Venus” aspect. The faster planet defines the dynamics of the aspect.
 
@@ -72,7 +72,7 @@ If we continue with the Venus and Saturn pair then for any aspect there are thre
 * **exact** momentous event of the “pure aspect”
 * **separating** phase when Venus is separating (moving away) from Saturn
 
-Now let's illustrate this idea using the planetary cycle between the Sun and Pluto. Being and extremely slow planet, Pluto is a good candidate because it doesn’t move too much. The Sun can form two trine aspects (120º) with the Pluto and both of those aspects will have **applying and separating periods**:
+Now let's illustrate this idea using the planetary cycle between the Sun and Pluto. Being an extremely slow planet, Pluto is a good candidate because it doesn’t move too much. The Sun can form two trine aspects (120º) with the Pluto and both of those aspects will have **applying and separating periods**:
 
 ![Applying and separating trine aspects between the Sun and Pluto](/images/illustrations/aspect-applying-separating-sun-pluto.png "Applying and separating trine aspects between the Sun and Pluto")
 
