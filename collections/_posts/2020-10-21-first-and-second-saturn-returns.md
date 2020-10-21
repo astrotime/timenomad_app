@@ -27,7 +27,7 @@ schema:
     height: 760
 ---
 
-The average life span of a human being is more or less equally divided into three large chapters: 
+The average life span of a human being is more or less equally divided into **three large chapters**: 
 
 * 0 to \~29 years old
 * \~30 to \~60 years old
@@ -39,13 +39,13 @@ These broad **Grand Chapters of human life** are delineated by what is known as 
 * building and accomplishing
 * retrospection and wisdom.
 
-Each of these three descriptions represent a different aspect of Saturnian energy, and the three of them combined pass the sense of a **spiral-like development** of every human being that (provided you accept the model of reincarnations) follows the infinite progression:
+Each of these three descriptions represent a different aspect of Saturnian energy, and the three of them combined pass the sense of a **spiral-like development** of every human being that (provided you accept the **model of reincarnation**) follows the infinite progression:
 
 ```
 … ➝ birth ➝ growth ➝ accomplishments ➝ wisdom ➝ birth ➝ … 
 ```
 
-This repeating spiralling cycle ensures that the human soul is busy attaining ever **greater degrees of sophistication and accomplishment**. It effectively guards against stagnation that naturally develops during the age of wisdom since the renewable energy of striving and learning belongs to the young.
+This repeating spiralling cycle ensures that the human soul is busy attaining ever **greater degrees of sophistication and accomplishment**. It effectively guards against stagnation that naturally develops during the age of wisdom since the renewable energy of striving and learning **belongs to the young**.
 
 And if we to toss aside the model of reincarnations, Saturn returns still offer a useful way to perceive each human life in terms of **succession of meaningful periods** that may shed some light at the mysterious “meaning of life” question.
 
@@ -109,9 +109,9 @@ A much shorter **single pass** Saturn transit of about 3 months culminates at th
 
 Saturn is a Roman name of the ancient Greek god Kronos that rules over **boundaries, structure and time**. Modern words like chronometry, chronometer (time measurement) and chronic (as in disease) all come from the principle of Kronos.
 
-An interesting side note: While Kronos establishes boundaries, Mercury (Greek Hermes) rules over the [principle of **crossing** the boundaries]({% post_url 2019-07-15-myths-and-truths-behind-mercury-retrograde %}).
+An interesting side note: While **Kronos establishes boundaries**, Mercury (Greek Hermes) rules over the [principle of **crossing the boundaries**]({% post_url 2019-07-15-myths-and-truths-behind-mercury-retrograde %}).
 
-To really understand Saturn return one needs to learn appreciate the **core actions of Saturn**:
+To better understand Saturn returns one needs to learn appreciate the **core actions of Saturn**:
 
 * making time **measurable**
 * using time to **form structures**, giving shape to things, forming patterns
@@ -129,9 +129,9 @@ The outcome of a Saturn return isn’t really punishing. Saturn acts in an **imp
 
 Movement of Saturn around the Zodiacal circle is akin to the **movement of a watch hand**. Using astrological houses makes more sense than using Zodiac signs: houses are more specific to each individual than more generic Zodiac signs.
 
-Depending on what **house system** one uses, Saturn will spend varying amounts of time in each sector of the circle. House models that are based on equal divisions of houses and don’t use the midheaven point (for example, whole sign, equal house) take Saturn \~2.5 years to cross.
+Depending on what **house system** one uses, Saturn will spend **varying amounts of time** in each sector of the circle. **Simpler house models** that are based on equal divisions of houses and don’t use the midheaven point (for example, whole sign, equal house) take Saturn \~2.5 years to cross.
 
-More sophisticated house models (for example, Placidus, Koch, Regiomontanus, Campanus) produce houses of varying size depending on geographic location and date of the natal chart. They are more complex but traditionally trusted to be more specific as they reflect more of celestial mechanics.
+More **sophisticated house models** (for example, Placidus, Koch, Regiomontanus, Campanus) produce houses of varying size depending on geographic location and date of the natal chart. They are more complex but traditionally trusted to be more specific as they reflect more of celestial mechanics.
 
 ## Approaching the First Saturn return at 27-31 years
 
@@ -165,7 +165,7 @@ This period enjoys **return to the roots**, perhaps in the form of extended fami
 
 During that period Saturn is making its third and final traversing of the houses, beginning from the natal position. This gives a third precious opportunity to **review what has been experienced** and perhaps **correct certain things** for better.
 
-> In the advertising industry they say it takes three times for a person to see an advertisement before they can finally remember it. And that’s the essence of Saturn: **rinse and repeat until core lessons learned** and progress is made.
+> In the advertising industry they say **it takes three times** for a viewer to see an advertisement before they can finally remember it. And that’s the essence of Saturn: **rinse and repeat until core lessons learned** and progress is made.
 
 ## “The seven ages of man” – another way to slice life
 
@@ -173,10 +173,10 @@ A human life is made out of a **number of cycles** and arguably each planet intr
 
 One more interesting way to divide one’s life is described in an earlier story [“The seven ages of man”]({% post_url 2019-01-01-seven-ages-of-man-and-woman %}). This is an experiential method that is based on the idea of the soul travelling through the **planetary spheres** in a linear matter.
 
-So here we go, travelling in spiralling circles and along a line, both are wonderful metaphors of one’s life development.
+So here we go, **travelling in spiralling circles and along a line**, both are wonderful metaphors of one’s life development.
 
 ## Knowing Saturn is knowing Time
 
 Saturn functions as a celestial rhythm setter that has always been associated with **everything “chronological”** – plans, obligations, commitments and ultimately dividends translated either into a monetary equivalent or a lasting bond of loyalty.
 
-It does pay back to **cultivate a sense of timing and long term obligations** — the attitude naturally supported by Saturn. The fruit aren’t gathered instantly, instead they will **reveal themselves over a longer period of time**. Saturn return is one of those milestones along the life’s path that celebrate and support long term commitments that may take many forms: from enduring personal relationships to thorough studies and focused professional development. 
+It does pay back to **cultivate a sense of timing and long term obligations** — the attitude naturally supported by Saturn. The fruit aren’t gathered instantly, instead they will **reveal themselves over a longer period of time**. Saturn return is one of those milestones along the life’s path that **celebrate and support long term commitments** that may take many forms: from enduring personal relationships to thorough studies and focused professional development. 
