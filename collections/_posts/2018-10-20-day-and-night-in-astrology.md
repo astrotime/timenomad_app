@@ -82,7 +82,7 @@ Using Ptolemy’s view the summary may look like so:
 
 The qualities of time and gender can also assigned to the zodiac signs.
 
-Aries and opposing Libra cusps mark the northern and southern equinoxes (spring impulse in each hemisphere) and thus considered to be diurnal and masculine.
+Aries and opposing Libra cusps mark the northern and southern equinoxes (spring impulse in corresponding hemisphere) and thus considered to be diurnal and masculine.
 
 Qualities of the rest of signs distributed in an alternating order.
 
