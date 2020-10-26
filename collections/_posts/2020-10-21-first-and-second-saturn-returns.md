@@ -27,7 +27,7 @@ schema:
     height: 760
 ---
 
-The average life span of a human being is more or less equally divided into **three large chapters**: 
+The average lifespan of a human being is more or less equally divided into **three large chapters**: 
 
 * 0 to \~29 years old
 * \~30 to \~60 years old
@@ -47,7 +47,7 @@ Each of these three descriptions represent a different aspect of Saturnian energ
 
 This repeating spiralling cycle ensures that the human soul is busy attaining ever **greater degrees of sophistication and accomplishment**. It effectively guards against stagnation that naturally develops during the age of wisdom since the renewable energy of striving and learning **belongs to the young**.
 
-And if we to toss aside the model of reincarnations, Saturn returns still offer a useful way to perceive each human life in terms of **succession of meaningful periods** that may shed some light at the mysterious “meaning of life” question.
+And if we toss aside the model of reincarnations, Saturn returns still offer a useful way to perceive each human life in terms of **succession of meaningful periods** that may shed some light at the mysterious “meaning of life” question.
 
 ## Saturn returns have a reputation of being challenging
 
@@ -95,7 +95,7 @@ A much shorter **single pass** Saturn transit of about 3 months culminates at th
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        In Time Nomad app one can use the <b>Chart Event Explorer</b> tool to find out exact dates of each Saturn return and its possible retrograde movements.<br><br>
+        In the Time Nomad app one can use the <b>Chart Event Explorer</b> tool to find out exact dates of each Saturn return and its possible retrograde movements.<br><br>
         Simply set the date to around 29th or 60th birthday when Saturn is roughly conjunct with its natal position.<br><br>
         Then long tap on Saturn transit item on the <i>Transits list</i> screen.<br><br>
         For more information read <a href="/documentation/how-to-calculate-astrological-aspects-transits-retrogrades.html" target="_blank">How to calculate astrological events — aspects, transits and retrogrades</a>.
@@ -117,7 +117,7 @@ To better understand Saturn returns one needs to learn appreciate the **core act
 * using time to **form structures**, giving shape to things, forming patterns
 * introducing the principle of **accountability** for time spent.
 
-Saturn performs a function of a “celestial accountant” through its nature of **precise measurement** and the ensuing **sense of responsibility** towards all kind of resources that it cultivates in human minds.
+Saturn performs a function of a “celestial accountant” through its nature of **precise measurement** and the ensuing **sense of responsibility** towards all kinds of resources that it cultivates in human minds.
 
 ## “Don’t come unprepared”
 
