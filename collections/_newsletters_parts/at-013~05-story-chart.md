@@ -12,7 +12,7 @@ The current chart presents at least two chapters that are worthy of discussion:
 
 Let’s look at each.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-05-18.jpg" alt="Astrological chart of Full Moon at the moment of Venus–Uranus conjunction">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-05-18.jpg" alt="Astrological chart of Full Moon at the moment of Venus–Uranus conjunction">
 
 ### The Moon and Mercury: separating emotions from reason
 

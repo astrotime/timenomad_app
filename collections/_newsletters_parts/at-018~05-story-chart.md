@@ -7,7 +7,7 @@ social: time-nomad-discuss twitter-follow
 
 The regal month of August enjoys the long-awaited Sun–Venus conjunction that promises to gift us with the feelings of love and harmony richly supported by the **Sun travelling through its own sign, Leo** the king of all animals.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-08-01.png" alt="Astrological chart for the 31st of July with the New Moon and 15th of August 2019 with the Full Moon and Sun–Venus–Mars triple conjunction">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-08-01.png" alt="Astrological chart for the 31st of July with the New Moon and 15th of August 2019 with the Full Moon and Sun–Venus–Mars triple conjunction">
 
 But, love or not… **Venus is a passionate and hot “pressure cooker” planet**, one shouldn’t rush to paint it pink and oversimplify its mighty potential. Powered by the exalted Sun energy Venus may equally manifest itself as the **force of vanity and indulgence**, especially knowing that it is still in square with often tense and abrupt Uranus until August 7 — pretty much until the moment of its exact conjunction with the Sun.
 

@@ -8,7 +8,7 @@ We are still moving through the **critical Mars – Uranus conjunction**. I have
  
 Now let’s look at the current chart…
 
-<img class="lazyload section-image-wide" data-srcset="/images/newsletters/tn-chart-2019-02-19.jpg" alt="Astrological chart with the Supermoon and the Black Moon near conjunction with the Sun">
+<img loading="lazy" class="section-image-wide" src="/images/newsletters/tn-chart-2019-02-19.jpg" alt="Astrological chart with the Supermoon and the Black Moon near conjunction with the Sun">
 
 #### Highlight #1 – the Black Moon
 

@@ -18,7 +18,7 @@ The **beginning of the next Moon cycle** is marked by two events, one before the
 
 Let’s look at each.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-05-04.jpg" alt="Astrological chart with Mars–Jupiter opposition">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-05-04.jpg" alt="Astrological chart with Mars–Jupiter opposition">
 
 ### Mars–Jupiter opposition
 

@@ -5,7 +5,7 @@ title: Intoxication and addiction — true challenges of Neptune
 social: twitter-follow
 ---
 
-<img class="lazyload inline" data-srcset="/images/newsletters/ivan-aivazovsky-the-ninth-wave-crop.jpg" alt="Ivan Aivazovsky, the Ninth Wave, a fragment">
+<img loading="lazy" class="inline" src="/images/newsletters/ivan-aivazovsky-the-ninth-wave-crop.jpg" alt="Ivan Aivazovsky, the Ninth Wave, a fragment">
 
 As an addition to what the _Featured Story_ passed about **Neptunian challenges**, I wanted to share a true story that has just happened and actually **coincided** with the current Sun – Neptune conjunction.
  

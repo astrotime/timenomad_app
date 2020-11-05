@@ -4,7 +4,7 @@ supertitle: Upcoming astrological event
 title: The great void and the Big Bang
 ---
 
-<img class="lazyload section-image-wide" data-srcset="/images/newsletters/tn-chart-2019-03-06.jpg" alt="Astrological chart with the Sun – Neptune conjunction square to Jupiter in Sagittarius">
+<img loading="lazy" class="section-image-wide" src="/images/newsletters/tn-chart-2019-03-06.jpg" alt="Astrological chart with the Sun – Neptune conjunction square to Jupiter in Sagittarius">
 
 The annual **Sun – Neptune conjunction** happened on the **6th of March** at 7:59 PM (EST), or **9 hours after the New Moon** took place in tropical **Pisces**.
 

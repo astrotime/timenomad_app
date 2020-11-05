@@ -7,7 +7,7 @@ social: twitter-follow
 
 There is certainly a **growing feeling of suspense as this February** moves through hard aspects like Mars – Pluto square, Mars – Uranus conjunct and Mars – Eris conjunct. What can this configuration bring? 
 
-<img class="lazyload section-image-wide" data-srcset="/images/newsletters/tn-chart-2019-02-11.jpg" alt="Astrological chart with Mars Uranus conjunction, alongside with Saturn Pluto conjunction and the North Node aligned with the fixed star Procyon">
+<img loading="lazy" class="section-image-wide" src="/images/newsletters/tn-chart-2019-02-11.jpg" alt="Astrological chart with Mars Uranus conjunction, alongside with Saturn Pluto conjunction and the North Node aligned with the fixed star Procyon">
 
 #### Highlight #1
 

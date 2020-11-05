@@ -8,6 +8,6 @@ I want to share this **excellently produced video that takes apart Saturn–Plut
 
 [Watch “Saturn–Pluto & Galactic Center Alignment”](https://www.youtube.com/watch?v=PB02FKtyDbs){: target="_blank"} and make some comments, it brings good karma!
 
-<a href="https://www.youtube.com/watch?v=PB02FKtyDbs" target="_blank"><img class="lazyload inline border" data-srcset="/images/newsletters/saturn-pluto-galactic-center-alignment-video.jpg" alt="Saturn–Pluto & Galactic Center Alignment of Jan. 12, 2020"></a>
+<a href="https://www.youtube.com/watch?v=PB02FKtyDbs" target="_blank"><img loading="lazy" class="inline border" src="/images/newsletters/saturn-pluto-galactic-center-alignment-video.jpg" alt="Saturn–Pluto & Galactic Center Alignment of Jan. 12, 2020"></a>
 
 Check out other videos produced by Claudio in his [YouTube channel](https://www.youtube.com/channel/UC8QQ5TmpIBYaFbfbLDcOjkA/featured){: target="_blank"}.

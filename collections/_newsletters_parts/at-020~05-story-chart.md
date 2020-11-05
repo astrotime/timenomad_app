@@ -11,7 +11,7 @@ Current New Moon chart comes with a potent combination of aspects and patterns, 
 * the **Moon and Black Moon–Neptune opposition** upheld by a Jupiter square
 * a **grand trine** formed by the New Moon cluster, Saturn and Uranus
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-08-30.png" alt="Astrological charts for September 2019 with the New and Full Moon phases when the Moon is on the perigee and later on the apogee">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-08-30.png" alt="Astrological charts for September 2019 with the New and Full Moon phases when the Moon is on the perigee and later on the apogee">
 
 Firstly, as the **Black Moon holds the key to this chart** I’d like to offer a refresher article on the Black Moon titled [“In the “shadow” of the Black Moon”](https://timenomad.app/posts/astrology/philosophy/2019/07/31/the-shadow-of-the-black-moon.html). The Black Moon isn’t necessary easy to grasp but it’s worth knowing some key facts about its existence and influence.
 

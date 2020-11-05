@@ -11,7 +11,7 @@ We are currently in the period dominated by a few **“hard” planets**.
 
 The most notable is **Mars that is squeezed between Eris and Uranus**. Mars has just completed its exact conjunction with Eris and now moving towards Uranus. It’s always worth remembering that **Uranus brings surprises**, its effects are always sudden and least expected. So we are bracing ourselves for this from now until the **13th of Feb** when Mars will reach **exact conjunction with Uranus**… 
 
-<img class="lazyload section-image-wide" data-srcset="/images/newsletters/tn-chart-2019-02-04.jpg" alt="Astrological chart with Mars, Uranus and Eris conjunction, alongside with Saturn Pluto conjunction">
+<img loading="lazy" class="section-image-wide" src="/images/newsletters/tn-chart-2019-02-04.jpg" alt="Astrological chart with Mars, Uranus and Eris conjunction, alongside with Saturn Pluto conjunction">
 
 #### Looking at the chart
 

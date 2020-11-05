@@ -31,7 +31,7 @@ Before one can find an answer to the question _“what does my future hold for m
   <div class="row">
     <div class="col-3">
       <div class="row">
-        <img class="lazyload post-icon" data-src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node">
+        <img loading="lazy" class="post-icon" src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node">
       </div>
     </div>
     <div class="col-9">
@@ -227,7 +227,7 @@ Either way, each planet can unfold its influence in either enabling or disabling
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-src="/images/charts/time-nomad-chart-sun-south-node.png" alt="Astrological natal chart with the Sun conjunct to the South Node">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-sun-south-node.png" alt="Astrological natal chart with the Sun conjunct to the South Node">
       </div>
     </div>
     <div class="col-6">
@@ -282,7 +282,7 @@ The case of **square signifies that the planetary force is actively influencing 
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-src="/images/charts/time-nomad-chart-venus-square-nodes.png" alt="Astrological natal chart with Venus square to the lunar nodes">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-venus-square-nodes.png" alt="Astrological natal chart with Venus square to the lunar nodes">
       </div>
     </div>
     <div class="col-6">
@@ -301,7 +301,7 @@ A **trine–sextile configuration stands for benevolent help from the planet inv
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-src="/images/charts/time-nomad-chart-mars-trine-sextile-nodes.png" alt="Astrological natal chart with Mars both trine and sextile to the lunar nodes">
+        <img loading="lazy" src="/images/charts/time-nomad-chart-mars-trine-sextile-nodes.png" alt="Astrological natal chart with Mars both trine and sextile to the lunar nodes">
       </div>
     </div>
     <div class="col-6">

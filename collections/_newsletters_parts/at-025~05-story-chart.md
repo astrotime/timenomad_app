@@ -15,5 +15,5 @@ A Venus–Jupiter conjunction brings an excellent opportunity for those with **a
 
 Whichever path you will choose, the two diamonds will be shining bright in the sky just **two days before the following New Moon** thus giving us a perfect wrap up for the current lunar cycle that is in its full bloom right now.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-11-12.png" alt="Astrological charts for November 2019 lunation with the Full Moon phase, Venus–Jupiter conjunction and Mars–Uranus opposition">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-11-12.png" alt="Astrological charts for November 2019 lunation with the Full Moon phase, Venus–Jupiter conjunction and Mars–Uranus opposition">
 

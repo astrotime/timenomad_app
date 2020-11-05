@@ -9,7 +9,7 @@ The current chart is not defined by contradictions, quite the opposite, the **pl
 
 Let’s look into what it all means…
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-06-03.png" alt="Astrological chart of New Moon at the moment of Jupiter opposition">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-06-03.png" alt="Astrological chart of New Moon at the moment of Jupiter opposition">
 
 ### Mars on the North Node
 

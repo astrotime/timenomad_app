@@ -75,9 +75,9 @@ As we always do, let’s begin from Aries since it’s the Vernal Equinox sign a
 
 Using the usual `Fire ➝ Earth ➝ Water ➝ Air` (FEWA) sequence gives us a problem right away: Gemini isn’t watery and Cancer isn’t airy! Cancer is ruled by the Moon and is watery, while Gemini is airy.
 
-<img class="lazyload snake" data-srcset="/images/illustrations/zodiac-and-elements-distribution-incorrect.png 1x, /images/illustrations/zodiac-and-elements-distribution-incorrect@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-incorrect@3x.png 3x" alt="Distribution of the Elements along the Zodiac circle, incorrect version">
+<img loading="lazy" class="snake" src="/images/illustrations/zodiac-and-elements-distribution-incorrect.png" srcset="/images/illustrations/zodiac-and-elements-distribution-incorrect.png 1x, /images/illustrations/zodiac-and-elements-distribution-incorrect@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-incorrect@3x.png 3x" alt="Distribution of the Elements along the Zodiac circle, incorrect version">
 
-<img class="lazyload snake-tail" data-srcset="/images/illustrations/zodiac-and-elements-distribution-correct.png 1x, /images/illustrations/zodiac-and-elements-distribution-correct@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-correct@3x.png 3x" alt="Distribution of the Elements along the Zodiac circle, correct version">
+<img loading="lazy" class="snake-tail" src="/images/illustrations/zodiac-and-elements-distribution-correct.png" srcset="/images/illustrations/zodiac-and-elements-distribution-correct.png 1x, /images/illustrations/zodiac-and-elements-distribution-correct@2x.png 2x, /images/illustrations/zodiac-and-elements-distribution-correct@3x.png 3x" alt="Distribution of the Elements along the Zodiac circle, correct version">
 
 The correct sequence turns out to be `Fire ➝ Earth ➝ Air ➝ Water` (or FEAW). But this sequence “breaks” the natural order of the transmutations of the Elements. Where is the problem?
 
@@ -127,13 +127,13 @@ Each triplicity corresponds to one of the Elements. The Zodiac signs within each
 
 4. **Cancer** is the beginning of **water**, **Scorpio** is the progress and increase, **Pisces** is the end.
 
-<img class="lazyload snake" data-srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire@2x.png 2x, /images/illustrations/zodiac-triplicity-fire@3x.png 3x" alt="The Zodiac triplicity of Fire. The signs of Aries, Leo, Saggitarius.">
+<img loading="lazy" class="snake" src="/images/illustrations/zodiac-triplicity-fire.png" srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire@2x.png 2x, /images/illustrations/zodiac-triplicity-fire@3x.png 3x" alt="The Zodiac triplicity of Fire. The signs of Aries, Leo, Saggitarius.">
 
-<img class="lazyload snake" data-srcset="/images/illustrations/zodiac-triplicity-earth.png 1x, /images/illustrations/zodiac-triplicity-earth@2x.png 2x, /images/illustrations/zodiac-triplicity-earth@3x.png 3x" alt="The Zodiac triplicity of Earth. The signs of Taurus, Virgo, Capricorn.">
+<img loading="lazy" class="snake" src="/images/illustrations/zodiac-triplicity-earth.png" srcset="/images/illustrations/zodiac-triplicity-earth.png 1x, /images/illustrations/zodiac-triplicity-earth@2x.png 2x, /images/illustrations/zodiac-triplicity-earth@3x.png 3x" alt="The Zodiac triplicity of Earth. The signs of Taurus, Virgo, Capricorn.">
 
-<img class="lazyload snake" data-srcset="/images/illustrations/zodiac-triplicity-air.png 1x, /images/illustrations/zodiac-triplicity-air@2x.png 2x, /images/illustrations/zodiac-triplicity-air@3x.png 3x" alt="The Zodiac triplicity of Air. The signs of Gemini, Libra, Aquarius.">
+<img loading="lazy" class="snake" src="/images/illustrations/zodiac-triplicity-air.png" srcset="/images/illustrations/zodiac-triplicity-air.png 1x, /images/illustrations/zodiac-triplicity-air@2x.png 2x, /images/illustrations/zodiac-triplicity-air@3x.png 3x" alt="The Zodiac triplicity of Air. The signs of Gemini, Libra, Aquarius.">
 
-<img class="lazyload snake-tail" data-srcset="/images/illustrations/zodiac-triplicity-water.png 1x, /images/illustrations/zodiac-triplicity-water@2x.png 2x, /images/illustrations/zodiac-triplicity-water@3x.png 3x" alt="The Zodiac triplicity of Water. The signs of Cancer, Scorpio, Pisces.">
+<img loading="lazy" class="snake-tail" src="/images/illustrations/zodiac-triplicity-water.png" srcset="/images/illustrations/zodiac-triplicity-water.png 1x, /images/illustrations/zodiac-triplicity-water@2x.png 2x, /images/illustrations/zodiac-triplicity-water@3x.png 3x" alt="The Zodiac triplicity of Water. The signs of Cancer, Scorpio, Pisces.">
 
 An interesting observation is that this time fire starts with Aries, how come? It does make sense since Aries, being the sign of vernal Equinox, marks the beginning of spring when the fire of the Sun starts to melt frozen waters. The sign of Leo, or rather Leo – Cancer boundary, marks the culmination of the movement of fire.
 
@@ -145,4 +145,4 @@ A good reflection that follows out of this story is that in astrology we tend to
 
 Click on the image below to download a high-resolution poster image of the Zodiac triplicities. Print it and use it to memorise the triplicities and dive deeper into the Zodiac signs.
 
-[<img class="lazyload" src="/images/illustrations/zodiac-and-elements-triplicities.png" style="border: 1px solid gray;" alt="The Zodiac sign triplicities of Fire, Earth, Air and Water">](/images/illustrations/zodiac-and-elements-triplicities@2x.png)
+[<img loading="lazy" src="/images/illustrations/zodiac-and-elements-triplicities.png" style="border: 1px solid gray;" alt="The Zodiac sign triplicities of Fire, Earth, Air and Water">](/images/illustrations/zodiac-and-elements-triplicities@2x.png)

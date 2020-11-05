@@ -29,7 +29,7 @@ Next… a much faster aspect is **Venus–Uranus conjunction** that takes place 
 <div class="section group newsl-grid">
   <div class="col span_8_of_12 column-1-color">
     <div class="column-pad">
-		<img class="lazyload" data-srcset="/images/newsletters/tn-chart-2020-03-09-full-moon.png" alt="Astrological charts for the Full Moon of 9 March 2020">
+		<img loading="lazy" src="/images/newsletters/tn-chart-2020-03-09-full-moon.png" alt="Astrological charts for the Full Moon of 9 March 2020">
     </div>
   </div>
   <div class="col span_4_of_12 column-2-color">
@@ -44,7 +44,7 @@ On top of all that, we have the **red headed Mars’ arrow piercing** through th
 <div class="section group newsl-grid">
   <div class="col span_8_of_12 column-1-color">
     <div class="column-pad">
-		<img class="lazyload" data-srcset="/images/newsletters/tn-chart-2020-03-19-equinox.png" alt="Astrological charts for Vernal Equinox of 2020, March 19">
+		<img loading="lazy" src="/images/newsletters/tn-chart-2020-03-19-equinox.png" alt="Astrological charts for Vernal Equinox of 2020, March 19">
     </div>
   </div>
   <div class="col span_4_of_12 column-2-color">

@@ -13,7 +13,7 @@ In other words we can expect the **whole of 2020 to be rather interesting** in t
 
 The nature is becoming increasingly less invisible and complacent with human actions. **Perhaps nature is the new “variable” that humanity has to learn to take into respectful equation.** So far we lived with the idea that we can bend the nature to our will… well it turns out to be the other way round. Time to take the beating and change our ways?
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-saturn-pluto-2020.png" alt="Astrological charts for October 2020 with Saturn-Pluto conjunction">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-saturn-pluto-2020.png" alt="Astrological charts for October 2020 with Saturn-Pluto conjunction">
 
 An overview of important Saturn-Pluto dates for 2020. Note that October 4 event when Pluto turns from retrograde to direct is **strengthened by Jupiter conjunction and multiple squares** with Mars, Eris, the Black Moon and the Sun. That’s pretty hot!
 

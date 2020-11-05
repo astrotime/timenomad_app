@@ -3,7 +3,7 @@
 <div class="newsl-section line-top">
 <h2>{{ doc.supertitle | escape }}</h2>
 <h3>{{ doc.title | escape }}</h3>
-<img class="lazyload section-image-wide" data-srcset="{{ doc.image.url }}" alt="{{ doc.image.alt }}">
+<img loading="lazy" class="section-image-wide" srcset="{{ doc.image.url }}" alt="{{ doc.image.alt }}">
 
 {{ doc.content | markdownify }}
 

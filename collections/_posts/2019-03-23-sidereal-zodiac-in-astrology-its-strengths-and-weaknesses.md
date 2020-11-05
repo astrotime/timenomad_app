@@ -220,7 +220,7 @@ The fixed stars is a fascinating topic and more stories about the influence and 
   <div class="row">
     <div class="col-3">
       <div class="row">
-        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-fixed-stars-1x1.jpg" alt="Fixed stars in astrology">
+        <img loading="lazy" class="post-icon" src="/images/schema/time-nomad-docs-fixed-stars-1x1.jpg" alt="Fixed stars in astrology">
       </div>
     </div>
     <div class="col-9">

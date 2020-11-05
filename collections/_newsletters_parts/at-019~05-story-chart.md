@@ -11,7 +11,7 @@ Mars and Regulus go together well. Regulus is a triple fixed star, it’s the ma
 
 We can expect actions of military nature or acts that bring public prominence and reflect strong personality. Mark this day in your calendar and see where astrological energies will take you and the larger world around us.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-08-15.png" alt="Astrological chart for the August 2019 with the Full Moon and Sun–Venus–Mars triple conjunction">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-08-15.png" alt="Astrological chart for the August 2019 with the Full Moon and Sun–Venus–Mars triple conjunction">
 
 ### What to do with passionate Mars–Venus?
 

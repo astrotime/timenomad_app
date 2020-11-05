@@ -13,7 +13,7 @@ If this Full Moon is so fiery that’s due to some recent and still developing p
 
 Looking at the chart for **19 April 2019** depicting the moment of the Full Moon…
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-04-19.jpg" alt="Astrological chart with the Sun conjunct Uranus opposite and the Full Moon; Saturn-Pluto conjunction on the South Node">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-04-19.jpg" alt="Astrological chart with the Sun conjunct Uranus opposite and the Full Moon; Saturn-Pluto conjunction on the South Node">
 
 The **Moon swung past Regulus** a few days ago on April 15, an event that has, with little doubt, contributed to [the fire of Notre-Dame Cathedral in Paris](/posts/astrology/event/2019/04/15/influence-of-fixed-stars-case-of-notre-dame-fire.html). The encounter with Regulus filled the Moon with the **energies of Sun, Uranus and Mars**. Regulus is known as both the **“Lion’s heart”** and the **“Crushing Foot”**. Pick the one you prefer the most!
 

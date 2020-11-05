@@ -14,7 +14,7 @@ July lunar cycle promises to be an important period characterised by Uranian fla
 
 The New Moon’s chart looks simple and almost symmetrical yet it clearly passes a sense of surprising and unexpected possibilities. 
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-07-04.png" alt="Astrological chart for the 4th of July 2019, New York, Saturn on the South Node">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-07-04.png" alt="Astrological chart for the 4th of July 2019, New York, Saturn on the South Node">
 
 Several planets form a square with Uranus during July, most notably Mars and the Sun. A **Sun–Uranus square brings great ideas** and introduces revolutionary concepts while **Mars–Uranus is often seen as a recipe for blind violence** and letting wild forces spin out of control. 
 

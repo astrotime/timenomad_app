@@ -179,7 +179,7 @@ While the square aspect represents active conflict between two types of planetar
 
 Quintile is formed by two planets located 72º apart, the aspect is directly related to number five.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-quintile.png 1x, /images/illustrations/astrology-aspect-minor-quintile@2x.png 2x, /images/illustrations/astrology-aspect-minor-quintile@3x.png 3x" alt="Astrological minor aspect of quintile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-quintile.png" srcset="/images/illustrations/astrology-aspect-minor-quintile.png 1x, /images/illustrations/astrology-aspect-minor-quintile@2x.png 2x, /images/illustrations/astrology-aspect-minor-quintile@3x.png 3x" alt="Astrological minor aspect of quintile">
 
 Paradoxically, the quintile aspect isn’t as powerful as its closest relative, the biquintile. Quintile is somewhat akin to sextile that is a softer version of trine.
 
@@ -189,7 +189,7 @@ Quintile “likes” to make, to shape, to form. Due to its native interest in a
 
 Biqiuintile is formed by two planets located 144º apart, meaning the distance of two quintiles. **Biquintile is directly related to the number five and the powers of pentagram**.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-biquintile.png 1x, /images/illustrations/astrology-aspect-minor-biquintile@2x.png 2x, /images/illustrations/astrology-aspect-minor-biquintile@3x.png 3x" alt="Astrological minor aspect of biquintile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-biquintile.png" srcset="/images/illustrations/astrology-aspect-minor-biquintile.png 1x, /images/illustrations/astrology-aspect-minor-biquintile@2x.png 2x, /images/illustrations/astrology-aspect-minor-biquintile@3x.png 3x" alt="Astrological minor aspect of biquintile">
 
 As illustrated above, five 144º degrees lines form a pentagram, the symbol for astral forces fuelling everything occult, magic and power related.
 
@@ -211,7 +211,7 @@ Rare minor aspects provide further fine-grained details to the natal chart. Yet 
 
 Septile formed by dividing circle into seven equal parts and symbolically relates to the heptagram and its meaning that we have discussed at length in [“What is Planetary Hours”]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}).
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-septile.png 1x, /images/illustrations/astrology-aspect-minor-septile@2x.png 2x, /images/illustrations/astrology-aspect-minor-septile@3x.png 3x" alt="Astrological minor aspect of septile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-septile.png" srcset="/images/illustrations/astrology-aspect-minor-septile.png 1x, /images/illustrations/astrology-aspect-minor-septile@2x.png 2x, /images/illustrations/astrology-aspect-minor-septile@3x.png 3x" alt="Astrological minor aspect of septile">
 
 The heptagram is connected to the seven planetary spheres and the notion of unfoldment of time. The septile aspect could well be indicating our dealings with time and the overall state of incarnation that is symbolised by the sequence of the planetary spheres.
 
@@ -221,7 +221,7 @@ When dealing with minor aspects that form regular “something-gram” stars, on
 
 The smallest practically applicable aspect is perhaps the vigintile, 18°, a twentieth of a circle.
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-vigintile.png 1x, /images/illustrations/astrology-aspect-minor-vigintile@2x.png 2x, /images/illustrations/astrology-aspect-minor-vigintile@3x.png 3x" alt="Astrological minor aspect of vigintile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-vigintile.png" srcset="/images/illustrations/astrology-aspect-minor-vigintile.png 1x, /images/illustrations/astrology-aspect-minor-vigintile@2x.png 2x, /images/illustrations/astrology-aspect-minor-vigintile@3x.png 3x" alt="Astrological minor aspect of vigintile">
 
 Prominent astronomer Johannes Kepler, who was also a prolific astrologer, introduced most of minor aspects including the vigintile.
 
@@ -229,9 +229,9 @@ Prominent astronomer Johannes Kepler, who was also a prolific astrologer, introd
 
 Decile is formed by two planets positioned 36º apart. Novile is formed by a 40º angular difference. **Do you see the problem?**
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-decile.png 1x, /images/illustrations/astrology-aspect-minor-decile@2x.png 2x, /images/illustrations/astrology-aspect-minor-decile@3x.png 3x" alt="Astrological minor aspect of decile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-decile.png" srcset="/images/illustrations/astrology-aspect-minor-decile.png 1x, /images/illustrations/astrology-aspect-minor-decile@2x.png 2x, /images/illustrations/astrology-aspect-minor-decile@3x.png 3x" alt="Astrological minor aspect of decile">
 
-<img class="lazyload" data-srcset="/images/illustrations/astrology-aspect-minor-novile.png 1x, /images/illustrations/astrology-aspect-minor-novile@2x.png 2x, /images/illustrations/astrology-aspect-minor-novile@3x.png 3x" alt="Astrological minor aspect of novile">
+<img loading="lazy" src="/images/illustrations/astrology-aspect-minor-novile.png" srcset="/images/illustrations/astrology-aspect-minor-novile.png 1x, /images/illustrations/astrology-aspect-minor-novile@2x.png 2x, /images/illustrations/astrology-aspect-minor-novile@3x.png 3x" alt="Astrological minor aspect of novile">
 
 The problem is that the planetary positions for both aspects are simply too close to each other with only 4º difference. This calls for a very careful attitude towards interpreting those fine-grained aspects, especially when it comes to planets that have an inherently imprecise position. The margin of error being too high will not add real value to the natal chart interpretation.
 

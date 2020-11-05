@@ -11,5 +11,5 @@ Regardless of retrograde movement, **Mercury and Venus combine their energies we
 
 In any case, enjoy the **heightened sense of aesthetics and harmony** that this celestial couple passes so well — **and keep your spirit young.**
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-10-27.png" alt="Astrological charts for November 2019 lunation with the New and  Full Moon phases">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-10-27.png" alt="Astrological charts for November 2019 lunation with the New and  Full Moon phases">
 

@@ -239,7 +239,7 @@ The current Saturn – Pluto conjunction will finally **complete on Jan 31, 2021
   <div class="row">
     <div class="col-3">
       <div class="row">
-        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg" alt="Astrological chart explorer">
+        <img loading="lazy" class="post-icon" src="/images/schema/time-nomad-docs-chart-event-explorer-1x1.jpg" alt="Astrological chart explorer">
       </div>
     </div>
     <div class="col-9">

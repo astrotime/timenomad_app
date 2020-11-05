@@ -7,7 +7,7 @@ social: twitter-follow
 
 The current chart is **predominantly influencing the Moon Nodes axis** with the energies of the Sun and Eris forming a hard square to the Nodes, while Pluto and Saturn firmly holding onto the Dragon's Tail.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-04-12.jpg" alt="Astrological chart with the Sun square Moon Nodes and Saturn-Pluto conjunct the South Node">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-04-12.jpg" alt="Astrological chart with the Sun square Moon Nodes and Saturn-Pluto conjunct the South Node">
 
 #### Firstly, a few key observations
 

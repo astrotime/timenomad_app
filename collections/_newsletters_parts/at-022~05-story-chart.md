@@ -7,7 +7,7 @@ social: twitter-follow
 
 Much of October is influenced by Venus–Uranus opposition supported by a good injection of Mercury’s inherent talent for handling dualities of all kinds.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-09-28.png" alt="Astrological charts for October 2019 lunation with the New and Full Moon phases">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-09-28.png" alt="Astrological charts for October 2019 lunation with the New and Full Moon phases">
 
 **Mercury is a master of many trades** as it knows how to cross the boundaries and thus an excellent helper in both ideation and mediation processes. Our earlier story [“Myths and truths behind Mercury retrogrades”](https://timenomad.app/posts/astrology/philosophy/2019/07/15/myths-and-truths-behind-mercury-retrograde.html){: target="_blank"} digs into  exceedingly flexible nature of Mercury that makes it such a source of special astrological know how.
 

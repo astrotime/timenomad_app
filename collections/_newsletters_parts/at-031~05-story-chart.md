@@ -6,7 +6,7 @@ title: The Black Moon and Chiron — when healing is needed
 
 One can’t truly aspire to move forward without first resolving their past. And the past is something **we are designed to forget**. This last lunation happens under the influence of the Black Moon–Chiron conjunction, and will culminate during the next New Moon with the Sun and the Moon joining their forces and producing a powerful cluster of four planets square to the lunar nodes. All that in the **fiery sign of Aries**.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-new-moon-2020-feb-mar.png" alt="Astrological charts for New Moons of 23 February 2020 and 24 March 2020">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-new-moon-2020-feb-mar.png" alt="Astrological charts for New Moons of 23 February 2020 and 24 March 2020">
 
 **How to better understand this cosmic puzzle?**
 

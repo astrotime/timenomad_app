@@ -4,7 +4,7 @@ supertitle: Astrological commentary
 title: Highlights of the current chart
 ---
 
-<img class="lazyload inline" data-srcset="/images/newsletters/electric-car-tesla-in-flames.jpg" alt="Tesla car accident in Florida">
+<img loading="lazy" class="inline" src="/images/newsletters/electric-car-tesla-in-flames.jpg" alt="Tesla car accident in Florida">
 
 A case in point, as I have mentioned a couple of issues back, anything Uranian usually affects the electric and erratic side of Elon Musk. Tesla is a great company that is under direct rulership of Uranus for good and for bad — **Uranus rules over electricity and innovation**.
  

@@ -4,7 +4,7 @@ supertitle: Astrological Commentary
 title: "The 4th of July: Judgement of Saturn on the South Node"
 ---
 
-<img class="lazyload inline" data-src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node" style="max-width: 50%; margin-right: 1em;">
+<img loading="lazy" class="inline" src="/images/art/art-usa-flag-south-node.jpg" alt="United States flag with the Moon South Node" style="max-width: 50%; margin-right: 1em;">
 
 A major astrological storm of the second half of June and first half of July unfolds itself along the lunar nodal line and the planets that are **crossing this line**: **Mars** on June 17, **Saturn** on July 4 and **the Sun** on July 9.
 
@@ -12,7 +12,7 @@ The Northern Solstice is happening on June, 21 and is going to be a special mome
 
 On the fiery side, **Mars is felt strongly** a few times during this period. Its conjunctions with Mercury, the North Node and later **exact square with Uranus on July 11** — while staying conjunct with **Mercury, this time retrograde** — may bring about unwelcome events of extreme, forceful and aggressive nature. That’s if one doesn’t control one’s mind and communication skills.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-07-02.png" alt="Astrological chart of total solar eclipse of July 2, 2019">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-07-02.png" alt="Astrological chart of total solar eclipse of July 2, 2019">
 
 ### Lunar nodes bring eclipses
 
@@ -26,7 +26,7 @@ With so many planets on the lunar nodes, the upcoming total solar eclipse of Jul
 
 **What can possibly go wrong?**
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-07-04.png" alt="Astrological chart for the 4th of July 2019, New York, Saturn on the South Node">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-07-04.png" alt="Astrological chart for the 4th of July 2019, New York, Saturn on the South Node">
 
 ### And perhaps the most intriguing piece of cosmic news…
 

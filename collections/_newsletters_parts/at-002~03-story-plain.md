@@ -13,7 +13,7 @@ Looking at the upcoming planetary alignments, one may notice that we’re enteri
 
 Digging into the details of the two upcoming “hard” aspects… 
 
-<img class="lazyload section-image-wide" data-srcset="/images/newsletters/dragon-breathing-fire-01.jpg" alt="Dragon breathing fire">
+<img loading="lazy" class="section-image-wide" src="/images/newsletters/dragon-breathing-fire-01.jpg" alt="Dragon breathing fire">
 
 #### Mars Pluto square
 

@@ -28,20 +28,9 @@ In the app you can access the feed by navigating to the announcement menu in the
 
 Enjoy and stay engaged!
 
-<img class="lazyload" data-srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire@2x.png 2x," alt="The Zodiac triplicity of Fire. The signs of Aries, Leo, Saggitarius.">
+<img loading="lazy" src="/images/illustrations/zodiac-triplicity-fire.png" srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire@2x.png 2x," alt="The Zodiac triplicity of Fire. The signs of Aries, Leo, Saggitarius.">
 
-<img src="/images/illustrations/zodiac-triplicity-fire.png" srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire@2x.png 2x">
-
-{% comment %}
-<img
-    src="/images/illustrations/zodiac-triplicity-fire.png"
-    srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-	data-srcset="/images/illustrations/zodiac-triplicity-fire.png 277w,
-		/images/illustrations/zodiac-triplicity-fire.png 277w,
-	    /images/illustrations/zodiac-triplicity-fire@2x.png 554w"
-	data-sizes="auto"
-	class="lazyload" />
-{% endcomment %}
+<img loading="lazy" src="/images/illustrations/zodiac-triplicity-fire.png" srcset="/images/illustrations/zodiac-triplicity-fire.png 1x, /images/illustrations/zodiac-triplicity-fire@2x.png 2x">
 
 {% include tn-heptagrams-animated-debug.html %}
 

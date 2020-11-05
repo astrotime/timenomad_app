@@ -5,7 +5,7 @@ message: >-
   with the Sun-Earth orbital plane. This [Wikipedia](https://en.wikipedia.org/wiki/Orbital_elements) image provides a much better visual explanation:
 
   ![Keplerian orbital
-  elements](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/800px-Orbit1.svg.png){: class="lazyload"}
+  elements](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/800px-Orbit1.svg.png){: loading="lazy"}
 name: Time Nomad
 email: 7d889e62c2c83b88ee77a003fc071935
 url: ''

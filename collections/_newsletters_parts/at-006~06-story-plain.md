@@ -5,7 +5,7 @@ title: The big dreams of the Sun – Neptune conjunction
 social: twitter-follow
 ---
 
-<img class="lazyload section-image-wide" data-srcset="/images/newsletters/tn-chart-2019-02-27.jpg" alt="Astrological chart with the Sun – Neptune conjunction">
+<img loading="lazy" class="section-image-wide" src="/images/newsletters/tn-chart-2019-02-27.jpg" alt="Astrological chart with the Sun – Neptune conjunction">
 
 The **Sun – Neptune conjunction** is a big and beautiful event in its own right that happens once a year around the first week of March.
 

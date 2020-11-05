@@ -15,7 +15,7 @@ In other words, the second half of October and the first weeks of November come 
 
 Paradoxically, unexpected difficulties during this period may originate from **unresolved fears and inhibitions** — and we all have them! Stuff-ups tend to happen when one’s cautious attitude is due to underlying fears as opposed to confident appreciation of the reality and mature respect of personal limits — defined by the “here and now” world and family contexts we inhabit.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-10-13.png" alt="Astrological charts for October 2019 lunation with the Full and New Moon phases">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-10-13.png" alt="Astrological charts for October 2019 lunation with the Full and New Moon phases">
 
 ### Moon and Pluto — visible and hidden
 

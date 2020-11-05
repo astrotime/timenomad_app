@@ -137,7 +137,7 @@ And… we are not done with the heptagrams yet! The next story covers the topic 
   <div class="row">
     <div class="col-3">
       <div class="row">
-        <img class="lazyload post-icon" data-src="/images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg" alt="Planetary hours calculator">
+        <img loading="lazy" class="post-icon" src="/images/schema/time-nomad-docs-planetary-hours-calculator-1x1.jpg" alt="Planetary hours calculator">
       </div>
     </div>
     <div class="col-9">

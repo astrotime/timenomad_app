@@ -7,7 +7,7 @@ social: time-nomad-discuss twitter-follow
 
 June 16 **eclipsed Full Moon** is nearly perfectly aligned with the middle of the calendar year and thus the **middle of the northern hemisphere summer**. During this short and focused astrological period we are traversing the **peak of annual development**. Intentions have been firmly planted and the second half of the year will reap the outcomes of both wise and foolish decisions.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-07-16.png" alt="Astrological chart for the 16th of July 2019, New York, the Full Moon conjunct Pluto">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-07-16.png" alt="Astrological chart for the 16th of July 2019, New York, the Full Moon conjunct Pluto">
 
 The chart is **beautifully sharp and present**. Truly one of its kind. Curious astrologer can write heaps about its chapters, forces and predict potential outcomes. 
 

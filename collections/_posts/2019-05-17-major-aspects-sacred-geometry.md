@@ -109,7 +109,7 @@ Sacred geometry is connected to the source. And the source can be nothing more t
   <div class="row">
     <div class="col-6">
       <div class="row">
-        <img class="lazyload" data-src="/images/art/art-william-blake-ancient-of-days.jpg" alt="William Blake, Ancient of Days painting">
+        <img loading="lazy" src="/images/art/art-william-blake-ancient-of-days.jpg" alt="William Blake, Ancient of Days painting">
       </div>
     </div>
     <div class="col-6">
@@ -217,7 +217,7 @@ Sextiles can be seen as half-trines. They are **“on their way”** to start ma
 
 Putting all major aspects side by side a following image in emerging.
 
-<img class="lazyload border-black" data-srcset="/images/illustrations/astrology-aspects-major.png 1x, /images/illustrations/astrology-aspects-major@2x.png 2x, /images/illustrations/astrology-aspects-major@3x.png 3x" alt="Astrological major aspects: conjunction, opposition, trine, square, sextile. Corresponding houses, geometrical shapes, colours and numerological numbers.">
+<img loading="lazy" class="border-black" src="/images/illustrations/astrology-aspects-major.png" srcset="/images/illustrations/astrology-aspects-major.png 1x, /images/illustrations/astrology-aspects-major@2x.png 2x, /images/illustrations/astrology-aspects-major@3x.png 3x" alt="Astrological major aspects: conjunction, opposition, trine, square, sextile. Corresponding houses, geometrical shapes, colours and numerological numbers.">
 
 What immediately stands out is that there are only four aspects that are “major-major”, namely:
 

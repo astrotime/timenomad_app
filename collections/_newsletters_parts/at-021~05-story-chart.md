@@ -7,7 +7,7 @@ social: twitter-follow
 
 The autumn equinox (in the Northern Hemisphere) happens shorty after the Last Quarter of this lunation and falls on September 23. **The Moon’s position is quite auspicious** since it’s aligned with its North Node in Cancer setting future trajectory toward the values of growth and care and away from the opposing slow grind of Saturn–Pluto conjunction.
 
-<img class="lazyload inline border" data-srcset="/images/newsletters/tn-chart-2019-09-14.png" alt="Astrological charts for September 2019 with the Full Moon on the apogee and September Equinox">
+<img loading="lazy" class="inline border" src="/images/newsletters/tn-chart-2019-09-14.png" alt="Astrological charts for September 2019 with the Full Moon on the apogee and September Equinox">
 
 What’s more, there is a **helpful Mercury–Venus square** that softens that Moon–Saturn–Pluto opposition. Even though square is usually seen as an aspect of challenge, it actually lends a helping hand to the Moon during this Equinox by infusing the values of harmony and creativity into the second half of the Solar cycle.
 
