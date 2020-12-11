@@ -299,6 +299,19 @@ blockquote {
   border-left: 4px solid #374fe8;
 }
 
+/**
+ * Table
+ */
+
+table.compact { 
+
+    tr:nth-child(even) { background-color: #f7f7f7; }
+    th { padding: 10px; padding-left: 15px; } 
+    td { padding: 0; padding-left: 15px; }
+    th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+    td { border: 1px solid #e8e8e8; }
+    td.pop { background-color: $base0e; font-weight: bold; }
+}
 
 /**
  * Pre-formatted code blocks
