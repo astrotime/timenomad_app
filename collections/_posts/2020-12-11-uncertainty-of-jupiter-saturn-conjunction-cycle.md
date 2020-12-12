@@ -4,7 +4,7 @@ uuid: P-20201211
 date: 2020-12-11 12:00:00 +1000
 modified: 2020-12-11 12:00:00 +1000
 title: From here to uncertainty — meet the Jupiter–Saturn conjunction cycle
-description: "Jupiter–Saturn conjunctions traditionally signify beginning of a new phase of economical reality, just remember 2000, 1980 1961, 1940, 1920? Both planets are intricately linked to the societal norms and functions, shaping our own experiences of working and making money in this physical world made out of contradictions and limitations."
+description: "More often than not Jupiter–Saturn conjunctions coincide with unfoldment of a new phase of economical reality, remember 2000, 1980 1961, 1940, 1920? Both planets are intricately linked to the societal norms and functions, shaping our own experiences of working and making money in this physical world made out of contradictions and limitations."
 categories: posts astrology philosophy
 comments: true
 # App feed
