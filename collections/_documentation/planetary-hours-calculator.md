@@ -25,6 +25,8 @@ schema:
 
 ## Using Planetary Hours calculator
 
+> Your are reading about the in-app planetary hour calculator. If you‘re interested in the **Planetary Hour widget** please read the article [“Planetary hour widget and alarm”](/documentation/planetary-hour-widget-and-alarm.html).
+
 The default view is the watch face that displays planetary hours in the circular arrangement with the lower darker portion of the circle representing night time, and the upper white part of the circle representing day time hours.
 
 Note that the sequence of planetary hours is “disconnected” at the bottom of the watch face that corresponds to midnight. The planetary hours from the sunset to midnight belong to the current day. But the planetary hours after midnight actually belong to the previous day, those are the hours that precede the sunrise of the current day.
@@ -66,6 +68,8 @@ The heptagrams allow to identify the dominant planet for that specific time:
 To learn more about the heptagrams, read the mini series [What is Planetary Hours]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}) that takes a deep dive into the fascinating topic of time, numerology, planetary spheres and planetary hours.
 
 ## Planetary hours alarm
+
+> Please note that this functionality is only available for older pre-iOS 14 devices. For iOS 14 use the **Planetary Hour widget** that is covered in the article [“Planetary hour widget and alarm”](/documentation/planetary-hour-widget-and-alarm.html).
 
 Planetary hours alarm allows to stay notified about planetary hours changes. The alarm will produce a notification with a unique sound for each of the seven classical planets.
 
