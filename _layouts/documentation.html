@@ -36,7 +36,8 @@ layout: default
     <h2 class="post-list-heading space-before">{{ page.list_title | default: "How-To articles" }}</h2>
     {% endcomment %}
     <ul class="post-list">
-      {%- for post in site.documentation -%}
+      {%- assign sortedPosts = site.documentation | sort: 'order' -%}
+      {%- for post in sortedPosts -%}
       <li itemscope itemtype="http://schema.org/Article">
         <link itemprop="mainEntityOfPage" href="{{ post.url | absolute_url }}">
         <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
