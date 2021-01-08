@@ -842,6 +842,11 @@ aside.latest-news-related-posts {
         max-width: 40%;
         min-width: 40%;
       }
+      div.news {
+        p {
+          margin-bottom: 0;
+        }
+      }
     }
     div.posts {
       h2 {

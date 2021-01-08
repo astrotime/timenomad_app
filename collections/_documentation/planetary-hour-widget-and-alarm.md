@@ -45,11 +45,11 @@ The family to planetary hour widgets consists of two individual widgets:
 </div>
 <div class="float-clear"></div>
 
-Two points before diving into widgets activation and usage…
+**Two points** before diving into widgets activation and usage…
 
-Detailed knowledge behind planetary hours and planetary days is unfolded in the multi-part article [“What is Planetary Hours”]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}). It is an impressive and beautiful ancient wisdom well worth your reading time!
+Detailed **knowledge behind planetary hours** and planetary days is unfolded in the multi-part article [“What is Planetary Hours”]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}). It is an impressive and beautiful ancient wisdom well worth your reading time!
 
-At the very end of this article we shall talk about using planetary hours alarm for the [purposes of mindfulness](#use-planetary-hours-alarm-for-enhanced-mindfulness) and keeping the thread of active awareness throughout the day.
+For those who are into the **practice of mindfulness**. At the very end of this article we shall talk about using planetary hours alarm for the [purposes of mindfulness](#use-planetary-hours-alarm-for-enhanced-mindfulness) and keeping the thread of active awareness throughout the day.
 
 ## How to add the widgets 
 

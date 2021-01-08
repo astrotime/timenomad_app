@@ -17,6 +17,50 @@ TODO: Add next story URL:
 {%- endfor -%}
 
 {% case include.mode %} 
+{% when 'featureAndPosts' %}
+
+{% assign ftUri = '/documentation/planetary-hour-widget-and-alarm.html' %}
+{% unless excludeUrl == ftUri %}
+
+	{% assign ftUrl = site.url | append: ftUri %}
+	{% assign ftTitle = 'NEW Planetary Hour widgets' %}
+	{% assign ftBody = 'Add widgets to your home screen: **Planetary Hour** & **Weekday** + alarm.' %}
+
+	{% assign ftImgs = "mars, venus, mercury, moon" | split: ", " %}
+	{% assign ftImgSuffix = ftImgs | sample %}
+	{% assign ftImg = "/images/docs/widget-planetary-hour-" | append: ftImgSuffix | append: '.png' %}
+	{% assign ftImgUrl = site.url | append: ftImg %}
+	{% assign ftImgAlt = 'Planetary hour widget' %}
+
+	<aside id="latest-news-related-posts" class="latest-news-related-posts">
+		<div class="section group">
+		  <div class="col span_6_of_12">
+		  	<div class="box">
+		  		<div class="news-thumb"><a href="{{ ftUrl }}"><img class="border-gray" src="{{ ftImgUrl }}" alt="{{ ftImgAlt }}"></a></div>
+		  		<div class="news">
+		  			<h2>{{ ftTitle }}</h2>
+		  			<p>{{ ftBody | markdownify }} <a href="{{ ftUrl }}">Learn more…</a></p>
+		  		</div>
+		  	</div>
+		  </div>
+		  <div class="col span_6_of_12">
+		  	<div class="posts">
+		  		<h2>Featured stories you may like</h2>
+		  	</div>
+		  	<div class="box">
+		  	{%- for idx in (1..4) -%}
+				{% assign url = urls[idx] %}
+				{% assign post = site.posts | where: "url", url | first %}
+					<div class="post-thumb"><div><a href="{{ post.url | relative_url }}"><img class="border-gray" src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a></div>
+					<div><p class="line-clamp">{{ post.title }}</p><p class="act line-clamp"><a href="{{ post.url | relative_url }}">Read…</a></p></div>
+					</div>
+				{%- endfor -%}
+		  	</div>
+		  </div>
+		</div>
+	</aside>
+{% endunless %}
+
 {% when 'newsAndPosts' %}
 {% assign nl = site.posts.first %}
 {% assign nlUrl = site.url | append: nl.url %}
