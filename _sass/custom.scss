@@ -891,6 +891,61 @@ aside.related-posts {
 */
 
 /**
+ * Feature promo
+ */
+/**
+ * Users reviews summary
+ */
+
+.feature-promo {
+  font-size: 14px;
+  padding-left: 2.5em;
+  margin-bottom: 2em;
+  background-color: #484553;
+  border-radius: 5px;
+  color: #ffffff;
+
+  .col-img {
+    margin-top: 32px;
+    margin-bottom: 0;
+
+    img {
+      margin: 0;
+    }
+  }
+
+  p.title {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-size: 22px;
+    line-height: 1.0;
+  }
+
+  p {
+    margin-bottom: 0.5em;
+    line-height: 1.8;
+  }
+
+  .cta {
+    margin-bottom: 1.5em;
+
+    a:link, a:visited, a:active {
+        color: #ffffff;
+        text-decoration: none;
+        padding-bottom: 4px;
+        border-bottom: 1px solid $grey-color-light;
+    }
+
+    a:hover {
+        color: #ffffff;
+        text-decoration: none;
+        padding-bottom: 4px;
+        border-bottom: 4px solid $grey-color-light;
+    }
+  }
+}
+
+/**
  * Banner promo
  */
 

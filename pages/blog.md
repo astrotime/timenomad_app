@@ -37,3 +37,5 @@ The essays are written using **plain language, kept short and to the point**. We
 	  	</div>
 	</div>
 </div>
+
+{% include feature-widget-planetary-hour.html %}
