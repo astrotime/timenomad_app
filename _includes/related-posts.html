@@ -48,7 +48,7 @@ TODO: Add next story URL:
 		  		<h2>Featured stories you may like</h2>
 		  	</div>
 		  	<div class="box">
-		  	{%- for idx in (1..4) -%}
+		  	{%- for idx in (0..3) -%}
 				{% assign url = urls[idx] %}
 				{% assign post = site.posts | where: "url", url | first %}
 					<div class="post-thumb"><div><a href="{{ post.url | relative_url }}"><img class="border-gray" src="{{ post.schema.image_1x1.url }}" alt="{{ post.schema.images.alt }}"></a></div>
