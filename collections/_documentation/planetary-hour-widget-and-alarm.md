@@ -38,7 +38,7 @@ The family to planetary hour widgets consists of two individual widgets:
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-      	The widgets display current planetary hour information for the geographic location of your device.
+      	The widgets display current planetary hour information for the geographic location of your device.  The <b>Planetary Hour</b> widget can be configured to produce an <b>audio alarm or a text notification</b> at the beginning of each hour.
       </div>
     </div>
   </div>
