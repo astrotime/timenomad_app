@@ -7,14 +7,6 @@ title: Planetary hour widget and alarm
 description: Planetary hour family of widgets display current hour on your device home screen as well as a planetary weekday with sunrise/sunset. Both widgets are FREE.
 comments: true
 # Extra info for structured data
-#og:
-#  image:
-#    url: /images/og/og-time-nomad-card.jpg
-#    width: 400
-#    height: 300
-#twitter:
-#  card: summary_large_image
-#  image: /images/og/og-time-nomad-doc-planetary-hour-widget.jpg
 schema:
   images:
     alt: Planetary hours widget
