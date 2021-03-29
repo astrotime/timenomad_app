@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190405
 date: 2019-04-05 12:00:00 +1000
-modified: 2019-04-05 12:00:00 +1000
+modified: 2021-03-29 12:00:00 +1000
 title: Equinoxes, Solstices and the idea of universal consciousness
 description: "In each year there are four days, or rather precise moments: the two Equinoxes and two Solstices that carry a very special astrological meaning. The Equinoxes and Solstices are brief windows in time and space that connect us to the broader experience of universal consciousness."
 categories: posts astrology philosophy
@@ -27,7 +27,7 @@ Understanding one’s own mind begins with making a connection between “me and
 
 Like no other times of the year, the moments of Equinoxes and Solstices carry very special energies that enable us to “peek” into the cosmic expanse.
 
-This story will explore what makes Equinoxes and Solstices such a **powerful time windows** and how those experiences can enhance our own individual consciousness.
+This story will explore what makes Equinoxes and Solstices such **powerful time windows** and how those experiences can enhance our own individual consciousness.
 
 ## An illusion of the 1st of January
 
@@ -123,7 +123,7 @@ As of today, the Solar Hijri calendar is the official calendar in Iran and Afgha
 
 What even more beautiful is that each month corresponds to a Zodiac sign! A perfect astrological measurement instrument.
 
-It is worth noting that this is a Sun-based calendar as opposed to Lunar-based calendars still used the Old World countries. The strength of the Sun-based calendar is its unbeatable precision and the Solar Hijri calendar is no exception still being **the most accurate solar calendar** in world.
+It is worth noting that this is a Sun-based calendar as opposed to Lunar-based calendars still used in the Old World countries. The strength of the Sun-based calendar is its unbeatable precision and the Solar Hijri calendar is no exception still being **the most accurate solar calendar** in the world.
 
 ## Equinox as the window to universal consciousness
 
@@ -133,7 +133,7 @@ Pondering further on the principle of the two intersecting circles, one may intu
 
 Symbolically speaking, the equinox is not only a “cosmic conjunction” for the Earth they are also the moments of **maximum alignment between the Earth’s day and night**, the most fundamental dualism we have discussed in [“Day and Night in the Western astrological chart”]({% post_url 2018-10-20-day-and-night-in-astrology %}) story a few months ago.
 
-Having such moments of alignment opens up a brief time window into the workings of the universal scale that are usually are conspicuous and being obscured by the noise of daily life.
+Having such moments of alignment opens up a brief time window into the workings of the universal scale that are usually conspicuous and being obscured by the noise of daily life.
 
 One may visualise the astrological year as a continuous sine-like wave ever oscillating between the **moments of maximum and minimum of daytime duration** (solstices), while briefly passing through the **“zero” moments** at the times of equinoxes when day and night have equal length.
 
@@ -204,7 +204,7 @@ And we believe that the Pisces–Aries dialectic is what makes the **vernal (Mar
 
 ## A few practical points
 
-Don’t take the New Year’s Eve too seriously, it has not much cosmic meaning. No point in making resolutions that aren’t aligned with the grand scheme of things.
+Don’t take New Year’s Eve too seriously, it does not have much cosmic meaning. No point in making resolutions that aren’t aligned with the grand scheme of things.
 
 Be serious about the vernal (March) Equinox. That’s when the seed of your intentions may have a higher chance of success:
 
