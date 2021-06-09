@@ -188,8 +188,8 @@ If, on the other hand, a significant change of location has happened and the wid
 The Planetary Hour widget can be configured to produce three kinds of notifications:
 
 * audio tune for each planetary hour accompanied by a **voice speaking the name** of the planet
-* audio tune for each planetary hour _(coming soon)_
-* text notification specifying the hour and its duration _(coming soon)_
+* audio tune for each planetary hour
+* text notification specifying the hour and its duration
 
 Notifications can be configured in the Time Nomad app using the “Widgets” as described in the previous chapter about configuring geographic location.
 
