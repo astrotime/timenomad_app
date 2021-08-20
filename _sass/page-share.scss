@@ -6,17 +6,23 @@
     .page__share {
       position: relative;
       float: left;
-      margin-left: 0;
-      margin-right: 0;
+      //margin-left: 0;
+      //margin-right: 0;
       width: 100%;
       clear: both;
+
+      background-color: aliceblue;
+      border: 1px solid gray;
+      border-radius: 4px;
+      text-align: center;
     }
 }
 
 .page__share {
   //margin-top: 2em;
-  padding-top: 1.4em;
-  border-top: 1px solid $border-color;
+  //padding-top: 1.4em;
+  //border-top: 1px solid $border-color;
+  padding: 1.4em;
 
   a.btn svg {
     margin-top: 5px;
@@ -49,6 +55,11 @@
   font-size: $base-font-size * 1.5;
 }
 
+.page__share-title-follow {
+  //margin-bottom: 20px;
+  font-size: $base-font-size * 1.5;
+}
+
 @include media-query($on-palm) {
   .post {
     .page__share {
@@ -58,6 +69,13 @@
   .page__share-title {
     margin-bottom: 20px;
     font-size: $type-size-6;
+    span {
+      vertical-align: top;
+    }
+  }
+  .page__share-title-follow {
+    //margin-bottom: 20px;
+    //font-size: $type-size-6;
     span {
       vertical-align: top;
     }
