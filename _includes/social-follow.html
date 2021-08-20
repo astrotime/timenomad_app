@@ -1,3 +1,5 @@
+{% assign mode=include.mode %}
+
 <section class="page__share">
 
     <h4 class="page__share-title-follow"><svg width="56" height="20" viewBox="0 0 149 53" xmlns="http://www.w3.org/2000/svg"><path d="M127.394 47.65c3.135 0 5.328-.247 6.777-.847 1.367-.567 1.792-1.271 1.51-2.767-.937-4.982-8.952-22.117-13.327-28.44-5.437-7.856-10.953-10.733-25.217-10.733H6.029C9.452 12.601 16.55 16.46 27.723 16.46h58.7a2 2 0 1 1 0 4H32.8c2.584 7.773 9.223 11.596 20.394 11.596h55.435a2 2 0 0 1 0 4h-53.16c3.444 7.762 10.553 11.596 21.703 11.596h50.223zm4.563 3.769c-.279.148-.597.232-.935.232H77.17c-13.406 0-22.232-5.25-26.031-15.639-12.176-.519-19.837-5.744-22.519-15.553h-.898c-12.65 0-21.233-4.666-25.352-13.977A4 4 0 0 1 6.029.863h91.107c15.575 0 22.321 3.519 28.507 12.457 4.67 6.748 12.916 24.378 13.97 29.976.647 3.438-.863 5.939-3.91 7.202-1.08.448-2.306.742-3.746.921z" fill="#000" fill-rule="nonzero"/></svg> <span>{{ site.data.ui-text[site.locale].follow_on_label | default: "Follow us" }}</span> <svg width="56" height="20" viewBox="0 0 149 53" xmlns="http://www.w3.org/2000/svg"><path d="M127.394 47.65c3.135 0 5.328-.247 6.777-.847 1.367-.567 1.792-1.271 1.51-2.767-.937-4.982-8.952-22.117-13.327-28.44-5.437-7.856-10.953-10.733-25.217-10.733H6.029C9.452 12.601 16.55 16.46 27.723 16.46h58.7a2 2 0 1 1 0 4H32.8c2.584 7.773 9.223 11.596 20.394 11.596h55.435a2 2 0 0 1 0 4h-53.16c3.444 7.762 10.553 11.596 21.703 11.596h50.223zm4.563 3.769c-.279.148-.597.232-.935.232H77.17c-13.406 0-22.232-5.25-26.031-15.639-12.176-.519-19.837-5.744-22.519-15.553h-.898c-12.65 0-21.233-4.666-25.352-13.977A4 4 0 0 1 6.029.863h91.107c15.575 0 22.321 3.519 28.507 12.457 4.67 6.748 12.916 24.378 13.97 29.976.647 3.438-.863 5.939-3.91 7.202-1.08.448-2.306.742-3.746.921z" fill="#000" fill-rule="nonzero" transform="scale(-1,1) translate(-149,0)"/></svg></h4>
@@ -11,4 +13,15 @@
 
 	<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}" class="btn btn--twitter"><svg width="20px" height="20px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z" fill="#FFFFFF"/></svg><span> Twitter</span></a>
 
+	{% if mode == "home" %}
+	<div style="margin-top: 1em; text-align: left;">
+	<p>Let’s Connect! Join our vibrant community on Facebook & Instagram:</p>
+	<ul style="inline">
+		<li>Regular updates on astro weather</li>
+		<li>Ask any question and engage in conversation with the team behind Time Nomad app</li>
+		<li>Don’t miss the release of new widgets and features</li>
+		<li>Learn astrology and astronomy in clarity and style</li>
+	</ul>
+	</div>
+	{% endif %}
 </section>

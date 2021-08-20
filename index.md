@@ -37,6 +37,10 @@ The Time Nomad astrology app is **free for all its core functionality**. All add
 
 {% include feature-widget-planetary-hour.html %}
 
+{% include social-follow.html mode="home" %}
+
+<div class="float-clear"></div>
+
 ## Join thousands of satisfied users
 
 Time Nomad is proud to serve the astrological community by providing this top notch free astrological and astronomical software to everybody who wants to understand movements of celestial bodies and learn the symbolic language of astrology and mythology behind this ancient branch of human knowledge.

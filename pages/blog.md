@@ -32,6 +32,7 @@ The essays are written using **plain language, kept short and to the point**. We
 </div>
 
 {% comment %}
+<!-- Subscribe: Off -->
 <div class="container float-clear" style="border: 1px solid #d9ddff; background: #f6f8f8; border-radius: 6px; padding: 8px 8px 8px 16px;">
 	  <div class="row">
 	  	<div class="col-2">
