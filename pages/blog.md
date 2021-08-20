@@ -27,6 +27,11 @@ Time Nomad publishes regularly updated **short educational essays** that constit
 
 The essays are written using **plain language, kept short and to the point**. We hoping that you, the reader, will (re)discover some valuable information by browsing this combination of ancient and modern knowledge. Your comments and thoughts are very welcome!
 
+<div class="social-follow">
+{% include social-follow.html %}
+</div>
+
+{% comment %}
 <div class="container float-clear" style="border: 1px solid #d9ddff; background: #f6f8f8; border-radius: 6px; padding: 8px 8px 8px 16px;">
 	  <div class="row">
 	  	<div class="col-2">
@@ -37,5 +42,6 @@ The essays are written using **plain language, kept short and to the point**. We
 	  	</div>
 	</div>
 </div>
+{% endcomment %}
 
 {% include feature-widget-planetary-hour.html %}
