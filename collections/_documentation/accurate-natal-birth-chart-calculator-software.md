@@ -2,7 +2,7 @@
 layout: post
 date: 2019-02-24 12:00:00 +1000
 modified: 2020-08-10 12:00:00 +1000
-order: 2
+order: 3
 title: Accurate natal or birth chart calculator software
 description: An accurate astrological natal chart, also known as a birth chart, is built by performing precise astronomical calculations of planetary positions using fast software algorithms.
 comments: true

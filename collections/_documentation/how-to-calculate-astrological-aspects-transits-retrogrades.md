@@ -2,7 +2,7 @@
 layout: post
 date: 2019-02-24 12:00:00 +1000
 modified: 2020-08-10 12:00:00 +1000
-order: 3
+order: 4
 title: How to calculate astrological events — aspects, transits and retrogrades
 description: When working with astrological events like aspects, transits and planetary retrogrades, an astrologer often needs to know when does the aspect begins, becomes exact and eventually diminishes.
 comments: true

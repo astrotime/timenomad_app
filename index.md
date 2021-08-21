@@ -35,7 +35,13 @@ The Time Nomad astrology app is **free for all its core functionality**. All add
 
 {% include icon-appstore.html appname=site.my_app_store_name %}
 
+<div class="float-clear"></div>
+
 {% include feature-widget-planetary-hour.html %}
+
+{% include feature-widget-chart.html %}
+
+<div class="float-clear"></div>
 
 {% include social-follow.html mode="home" %}
 

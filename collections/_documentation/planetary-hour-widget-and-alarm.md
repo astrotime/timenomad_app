@@ -2,7 +2,7 @@
 layout: post
 date: 2021-01-07 12:00:00 +1000
 modified: 2021-01-07 12:00:00 +1000
-order: 1
+order: 2
 title: Planetary hour widget and alarm
 description: Planetary hour family of widgets display current hour on your device home screen as well as a planetary weekday with sunrise/sunset. Both widgets are FREE.
 comments: true
@@ -46,6 +46,10 @@ The family to planetary hour widgets consists of two individual widgets:
 Detailed **knowledge behind planetary hours** and planetary days is unfolded in the multi-part article [“What is Planetary Hours”]({% post_url 2018-11-23-what-is-planetary-hours-part-one %}). It is an impressive and beautiful ancient wisdom well worth your reading time!
 
 For those who are into the **practice of mindfulness**. At the very end of this article we shall talk about using planetary hours alarm for the [purposes of mindfulness](#use-planetary-hours-alarm-for-enhanced-mindfulness) and keeping the thread of active awareness throughout the day.
+
+<div class="float-clear"></div>
+
+{% include feature-widget-chart.html %}
 
 ## How to add the widgets 
 
@@ -129,7 +133,7 @@ Why the days were named this way and their correspondence to the planetary hours
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-      	An example of <b>Planetary Weekday</b> widget showing the day of Jupiter that is the 5th day of the week (counting from Sunday). Surise is at 5:52 AM and is the hour of Jupiter (hence the day of Jupiter). Sunset is at 8:10 PM at the hour of the Moon. The Sun crosses the midheaven at 1:01 PM at the 6th hour of the day that is the hour of Saturn.
+      	An example of <b>Planetary Weekday</b> widget showing the day of Jupiter that is the 5th day of the week (counting from Sunday). Sunrise is at 5:52 AM and is the hour of Jupiter (hence the day of Jupiter). Sunset is at 8:10 PM at the hour of the Moon. The Sun crosses the midheaven at 1:01 PM at the 6th hour of the day that is the hour of Saturn.
       </div>
     </div>
   </div>
@@ -150,7 +154,7 @@ A combination of **the number, the colour and the planetary sphere** is a powerf
 
 ## How to configure widgets – geographic location
 
-Planetary hour calculations depend on **knowledge of current geographic location**, specifically its coordinate expressed as latitude and longitude. The widgets need to obtain **user permissions** to access that information.
+Planetary hour calculations depend on the **knowledge of current geographic location**, specifically its coordinate expressed as latitude and longitude. The widgets need to obtain **user permissions** to access that information.
 
 Widgets configuration can be accessed through the **Time Nomad application**. 
 
