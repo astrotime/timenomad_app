@@ -1,0 +1,9 @@
+_id: 1d0076f0-1a23-11ec-b0e6-abce6c9b3f20
+_parent: /documentation/fixed-stars-in-astrological-chart.html
+message: "Example of the old days. For example, we could maintain all the codebases of the old project but start using the linter, later just use the tool for testing \r\nand, maybe as the last one, use the bundler. NextJS, for example,\r\nprovides you with a whole framework in a single piece that \r\nrequires to be adopted at once. For example, from Webpack 1 to \r\nthe actual Webpack 5 we haven’t had to do great changes and \r\nwe haven’t had to create many majors of @s-ui/bundler for the users to adopt it.\r\nWe created a new tool called @s-ui/bundler \r\nto unify the way of creating it based on Webpack, as it was \r\nthe de-facto way of bundling apps in the frontend. Also, we \r\nwanted to offer our developers a very easy way to create a Server-side rendering experience for their products.\r\n\r\nWe needed the build our platform to be as modular as possible to be adopted \r\nby all the products step by step. We saw these tools like our AAAS (Architecture as a Software) and focused on following the Unix rules to make the tools \r\nas modular, independent and, replaceable as possible."
+name: www.improbable.com
+email: faab8157a0387ef1f9c8ed75e84f8be0
+url: 'https://www.improbable.com/page/1147/?sfc-channel-file=1'
+replying_to: ''
+hidden: ''
+date: 1632149866
