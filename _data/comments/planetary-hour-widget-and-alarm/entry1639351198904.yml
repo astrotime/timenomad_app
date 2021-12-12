@@ -1,0 +1,13 @@
+_id: 060ede30-5ba2-11ec-b75c-7935f0af8d8f
+_parent: /documentation/planetary-hour-widget-and-alarm.html
+message: >-
+  I've noticed that sometimes the system can lower the volume of alerts and make
+  them inaudible. To fix that open the Settings app, scroll down to "Sounds &
+  Haptics" and increase the volume of "Ringer and alerts". That should make the
+  sound loud enough to be heard.
+name: Time Nomad
+email: 7d889e62c2c83b88ee77a003fc071935
+url: ''
+replying_to: '7'
+hidden: ''
+date: 1639351198
