@@ -143,7 +143,7 @@ The lesser aspects called the **“minor aspects”** that can be further divide
 
 The **“rare minor aspects”** is a subcategory of minor aspects, their meaning is rather obscure and is a subject of ongoing debate and investigation:
 
-* **Tridecile**, 108°, three deciles (see “decile” below)
+* **Tridecile** (tredecile, tri-decile), 108°, three deciles (see “decile” below)
 * **Septile**, 51.4°, a seventh of a circle
 * **Semisquare**, 45°, half a square
 * **Novile**, 40°, a ninth of a circle
