@@ -2,7 +2,6 @@
 layout: appfeed
 uuid: AF-20180902
 date: 2022-08-31 12:00:00 +1000
-scope: dev
 present: must
 title: Planetos – a new App from me
 description: Something different. An app I’ve made for pure enjoyment — try out Planetos — a high-definition visual dive into Nature. It’s free.
