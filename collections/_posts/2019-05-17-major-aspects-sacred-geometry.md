@@ -2,7 +2,7 @@
 layout: post
 uuid: P-20190517
 date: 2019-05-17 12:00:00 +1000
-modified: 2019-05-17 12:00:00 +1000
+modified: 2022-04-07 12:00:00 +1000
 title: Astrological aspects and sacred geometry
 description: Aspects that the bodies of an astrological chart form between themselves provide a rich underlying framework for natal chart interpretations. The power of aspects comes directly from the domain of sacred geometry, a universal set of principles that connects us with structure of the Universe.
 categories: posts astrology philosophy
