@@ -4,53 +4,45 @@ uuid: AF-20220831
 date: 2022-08-31 12:00:00 +1000
 present: must
 title: Planetos – a new App from me
-description: Something different. An app I’ve made for pure enjoyment — try out Planetos — a high-definition visual dive into Nature. It’s free.
+description: Something different. An app I’ve made for pure enjoyment — try out Planetos — a high-definition virtual gallery devoted to Nature. It’s free.
 appname: planetos-nature-photography/id1641440963
 ---
 
 ### An immersive high-definition photographic dive into nature.
 
-**It’s free**. Made out of passion.
+**It’s free**. A virtual gallery made out of passion.
 
-Open the _Planetos_ app each day to discover a new set of original photography that is designed to put you in the state of flow. Or bring peace. Or take your mind on a creative journey.
+_Planetos_ is my artistic endeavour, a virtual space filled with nature images that I’ve made over the years.
+
+It‘s a different kind of user experience, a visual gallery with an “atmosphere” that immerses the viewer into a flow of images.
+
+No distractions, no ads and no practical purpose. Just pure experience. There has to be space for impractical things in life.
 
 That’s the app where’s nothing “to do” but allowing the experience to shape your consciousness. Mother Nature gets it right every time.
 
-High quality uncompressed true-to-nature images can work wonders on your state of mind.
+**High quality uncompressed true-to-nature** images can work wonders on your state of mind.
 
 <a href="https://apps.apple.com/au/app/{{ page.appname }}"><img src="/images/apps/planetos-app-banner.jpg" alt="Planetos nature photography app for iPhone"></a>
 
 ## Original photography
 
-All photographs are taken & processed by myself, exclusively for the _Planetos_ app. No stock photography of any kind is being used.
+All photographs are crafted by myself exclusively for the _Planetos_ app. No stock photography of any kind is being used.
 
 Regular nature photography has been the source of my inspiration for a number of years and I want to share that feeling with you.
 
-## Relaxation & creative stimulation
-
-Zone-out and let your mind drift through animated visual sequences of full resolution quality visual sequences.
-
-Creativity flows when your mind is free from stress and anxiety of the modern world. Nothing induces that better than mother nature. Allow yourself a 5-10 minute session to discover that precious feeling.
-
-## Make inspired notes
-
-Whenever you‘re experiencing a flow of ideas write a quick note for yourself by returning the app to portrait view and tapping on ”Write a Note” in the main menu.
-
-All notes are stored in your iCloud account and are truly yours, no external storage or signing up is involved. Your notes remain yours.
-
 {% include icon-appstore.html appname=page.appname %}
 
-## Features at a glance
+## Plus a newsletter on visual symbolism
 
-The _Planetos_ app offers:
+Symbolism and its language is the “big thing” that drives interpretaions of astrological charts. That's how I learn to “see” things in the chart — by building visual correspondences.
 
-* Regularly updated streams of photographic images
-* Note making faculty
-* Push notifications about visual content updates
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Angel‘s wings on Planetos <a href="https://t.co/7fiXjCjC8k">https://t.co/7fiXjCjC8k</a></p>&mdash; deze (@deze333) <a href="https://twitter.com/deze333/status/1565664996163567616?ref_src=twsrc%5Etfw">September 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Got a feedback or an idea?
+The newsletter is experimental. I won‘t talk astrology as such but rather immerse into the art of visual association. Pretty much everything we see has a hidden — or “occult” in the original meaning of the word — meaning behind it. Deciphering the language of symbols is the domain I‘d like to explore.
 
-Use _“Contact Author”_ in the _Planetos_ app’s main menu to get in touch with me.
+Join the [Planetos newsletter](https://planetos.substack.com/) on Substack.
 
 Cheers & enjoy,  
 Denis
+
+<iframe src="https://planetos.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
