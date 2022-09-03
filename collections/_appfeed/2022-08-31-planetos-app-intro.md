@@ -34,7 +34,7 @@ Regular nature photography has been the source of my inspiration for a number of
 
 ## Plus a newsletter on visual symbolism
 
-Symbolism and its language is the “big thing” that drives interpretaions of astrological charts. That's how I learn to “see” things in the chart — by building visual correspondences.
+Symbolism and its language is the “big thing” that drives interpretation of astrological charts. That's how I learn to “see” things in the chart — by building visual correspondences.
 
 <blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Angel‘s wings on Planetos <a href="https://t.co/7fiXjCjC8k">https://t.co/7fiXjCjC8k</a></p>&mdash; deze (@deze333) <a href="https://twitter.com/deze333/status/1565664996163567616?ref_src=twsrc%5Etfw">September 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
