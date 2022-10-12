@@ -94,6 +94,7 @@ staticman:
 
 # Google Analytics
 google_analytics: UA-125404162-1
+google_analytics_tag: G-LHEM05LLBN
 
 # Structured Data
 structured_data:
