@@ -2,7 +2,7 @@
 layout: post
 date: 2019-04-18 12:00:00 +1000
 modified: 2020-08-10 12:00:00 +1000
-order: 5
+order: 6
 title: How to work with the fixed stars in astrological chart
 description: Fixed stars astrology adds an extra layer of precise information to your natal chart or any other astrological chart for specific time and place. Learn how to work with the fixed stars using Time Nomad — enrich your chart interpretations with very specific knowledge of stellar influences.
 comments: true
