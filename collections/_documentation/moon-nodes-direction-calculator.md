@@ -83,3 +83,20 @@ The nodes movement information is smoothly integrated into the variety of astrol
 * Numeric chart event details
 * Aspects and transits listings
 * Current Chart widget for the Home screen
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img loading="lazy" class="post-icon" src="/images/schema/time-nomad-post-20221013-moon-nodes-direct-1x1.jpg" alt="The Moon nodes movement direction calculator">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>When the Moon Nodes turn direct</h3>
+        <p>Alternating retrograde and direct movement of the Moon Nodes reveals polarity of the flow of time. <a href="/posts/astrology/philosophy/2022/10/13/when-the-moon-nodes-turn-direct.html">Read the article…</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
