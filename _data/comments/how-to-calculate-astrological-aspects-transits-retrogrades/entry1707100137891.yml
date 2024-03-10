@@ -1,0 +1,9 @@
+_id: 505e9840-c3ce-11ee-b63c-7b428c186244
+_parent: /documentation/how-to-calculate-astrological-aspects-transits-retrogrades.html
+message: "Discrepancy in transits is usually due to the two factors: the birth time and location of the natal chart. And most likely it's due to the UTC time being manually edited and made the same as the local time (don't do that).\r\n\r\nTo compare apples to apples, make sure the UTC time of your Time Nomad profile matches the UTC time in the other astrology app.\r\n\r\nThe second point is to check that geographic coordinates more or less match. They don't need to be exactly the same but close enough is good enough. Time Nomad uses maps allowing one to specify their birth location down to the house level. Other apps may just use the \"middle of the city\" coordinate. This introduces another source of discrepancies.\r\n\r\nAnd if still confused please send me an email with some screenshots of your profile and the natal chart, I can look into that. Use \"Contact developer\" in the app (under top left corner cogwheel icon)."
+name: Time Nomad
+email: 7d889e62c2c83b88ee77a003fc071935
+url: ''
+replying_to: '13'
+hidden: ''
+date: 1707100137
