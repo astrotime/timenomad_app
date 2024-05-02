@@ -115,15 +115,9 @@ The “power and passion” of Jupiter-Venus magnetism is the principle that sha
 
 <div class="container post-pullout-box">
   <div class="row">
-    <div class="col-6">
-      <div class="row">
-      	<img src="/images/art/art-house-of-cards-triangle.jpg" alt="House of Cards, Frank Underwood, Zoe Barnes, Claire Underwood">
-      </div>
-    </div>
-    <div class="col-6">
+    <div class="col-12">
       <div class="row text-photo-caption-serif">
-      	 The first season of <strong>“The House of Cards”</strong> series portrayed a love triangle really well. The triangle between powerful politician Francis Underwood, his equally powerful wife Claire and a young, clever and sexy journalist Zoe —  a convincing portrayal of Jupiter-Venus forces at play.<br><br>
-		<small class="post-pullout-box-copyright">Image source: hdwallpaperim.com</small>
+      	 The first season of the <strong>“The House of Cards”</strong> series portrayed a love triangle really well. The triangle between powerful politician Francis Underwood, his equally powerful wife Claire and a young, clever and sexy journalist Zoe —  a convincing portrayal of Jupiter-Venus forces at play.
       </div>
     </div>
   </div>
