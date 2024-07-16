@@ -49,6 +49,7 @@ The essays are written using **plain language, kept short and to the point**. We
 
 <div class="float-clear"></div>
 
-{% include feature-widget-planetary-hour.html %}
+{% include feature-widget-moon-cycle.html %}
 {% include feature-widget-chart.html %}
+{% include feature-widget-planetary-hour.html %}
 

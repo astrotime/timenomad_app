@@ -19,18 +19,23 @@ TODO: Add next story URL:
 {% case include.mode %} 
 {% when 'featureAndPosts' %}
 
-{% assign ftUri = '/documentation/planetary-hour-widget-and-alarm.html' %}
+{% assign ftUri = '/documentation/moon-phase-and-cycle-widget.html' %}
 {% unless excludeUrl == ftUri %}
 
 	{% assign ftUrl = site.url | append: ftUri %}
-	{% assign ftTitle = 'NEW Planetary Hour widgets' %}
-	{% assign ftBody = 'Add widgets to your home screen: **Planetary Hour** & **Weekday** + alarm.' %}
+	{% assign ftTitle = 'NEW Moon Cycle widget' %}
+	{% assign ftBody = 'Widget family for Lock & Home screen: **Moon Phase & Cycle**.' %}
 
+	{% comment %}
 	{% assign ftImgs = "mars, venus, mercury, moon" | split: ", " %}
 	{% assign ftImgSuffix = ftImgs | sample %}
 	{% assign ftImg = "/images/promo/widget-planetary-hour-" | append: ftImgSuffix | append: '-promo.png' %}
 	{% assign ftImgUrl = site.url | append: ftImg %}
-	{% assign ftImgAlt = 'Planetary hour widget' %}
+	{% assign ftImgAlt = 'Moon phase & cycle widget' %}
+	{% endcomment %}
+	{% assign ftImg = "/images/promo/widget-moon-cycle-promo-home-small.png" %}
+	{% assign ftImgUrl = site.url | append: ftImg %}
+	{% assign ftImgAlt = 'Moon phase & cycle widget' %}
 
 	<aside id="latest-news-related-posts" class="latest-news-related-posts">
 		<div class="section group">

@@ -38,10 +38,9 @@ The Time Nomad astrology app is **free for all its core functionality**. All add
 <div class="float-clear"></div>
 
 {% include feature-widget-moon-cycle.html %}
-
 {% include feature-widget-chart.html %}
-
 {% include feature-widget-planetary-hour.html %}
+{% include feature-widget-nakshatra.html %}
 
 <div class="float-clear"></div>
 

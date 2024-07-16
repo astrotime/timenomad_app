@@ -14,6 +14,8 @@ Welcome to the app’s features overview. You can use this page as a quick “ch
 
 Each feature offers a “read more” link that will take you to a detailed explanation of the functionality behind each feature.
 
+{% include feature-widget-moon-cycle.html %}
+{% include feature-widget-chart.html %}
 {% include feature-widget-planetary-hour.html %}
 
 ## Screen layout
