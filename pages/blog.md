@@ -27,9 +27,11 @@ Time Nomad publishes regularly updated **short educational essays** that constit
 
 The essays are written using **plain language, kept short and to the point**. We hoping that you, the reader, will (re)discover some valuable information by browsing this combination of ancient and modern knowledge. Your comments and thoughts are very welcome!
 
+{% comment %}
 <div class="social-follow">
 {% include social-follow.html %}
 </div>
+{% endcomment %}
 
 {% comment %}
 <!-- Subscribe: Off -->

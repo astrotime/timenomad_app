@@ -37,15 +37,18 @@ The Time Nomad astrology app is **free for all its core functionality**. All add
 
 <div class="float-clear"></div>
 
-{% include feature-widget-planetary-hour.html %}
+{% include feature-widget-moon-cycle.html %}
 
 {% include feature-widget-chart.html %}
 
+{% include feature-widget-planetary-hour.html %}
+
 <div class="float-clear"></div>
 
+{% comment %}
 {% include social-follow.html mode="home" %}
-
 <div class="float-clear"></div>
+{% endcomment %}
 
 ## Join thousands of satisfied users
 
@@ -258,4 +261,6 @@ You can use Time Nomad to better understand astrology and **answer the question 
 
 [The Time Nomad blog]({{ "/posts" | relative_url }}) is a virtual astrology training for those who are interested in astrological studies or simply curious about **how and why astrology works**. Time Nomad will provide you with regular weekly astrology lessons and predictions. The app will be your virtual astrology teacher for years to come.
 
+{% comment %}
 [Subscribe to a regular newsletter](#mc_embed_signup) covering topics of astrological knowledge and current astrological events.
+{% endcomment %}

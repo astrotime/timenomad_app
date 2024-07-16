@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-12 12:00:00 +1000
-modified: 2023-02-12 12:00:00 +1000
+modified: 2024-07-15 12:00:00 +1000
 order: 100
 title: Restoring previous purchases
 description: How to restore previously made Time Nomad purchases.
@@ -26,6 +26,8 @@ schema:
 
 First, please briefly review these two important principles:
 
+> Begin with a **restart** of your device. Then visit the **Settings** app, tap on your _iCloud_ credentials to make sure no outstanding Apple agreements are pending.
+
 > Apple links all purchases to **your Apple ID** so you have to be on the same ID that was used to make purchases.
 
 > Developers **cannot** view/modify/refund/transfer purchases as explained below in [”Can you restore my purchases…”](#can-you-restore-my-purchases).
@@ -34,13 +36,9 @@ First, please briefly review these two important principles:
 
 There’s a **“Restore”** button in the top right corner of the “Add-ons” screen in Time Nomad.
 
-The restore menu offers two actions:
+The restore menu contains the **“Restore all purchases”** button that initiates a new signing into _iCloud_ services and restoration of all previously purchased add-ons.
 
-1. The **“Restore all purchases”** button requests the latest receipt from Apple and **activates** all previously purchased add-ons.
-
-2. The **“Active add-ons summary”** button shows all Time Nomad purchases made by the current Apple ID. The receipt is supplied by Apple. 
-
-Now you may need to **restart the app** as described below in [“Add-ons still don’t work…”](#add-ons-still-dont-work)
+Now you may need to either **restart your phone** or **restart the app** as described below in [“Add-ons still don’t work…”](#add-ons-still-dont-work)
 
 Scroll down for a step-by-step guide…
 
@@ -62,7 +60,7 @@ Scroll down for a step-by-step guide…
 
 ### “Add-ons still don’t work…”
 
-If the purchases have been restored but wouldn’t work, the **app should be restarted.**
+If the purchases have been restored but wouldn’t work, the **app should be restarted**, or even better, **restart your device** as the first step.
 
 We recommend to **avoid deleting and reinstalling the app**. While that is certainly possible, it is **not** the recommended approach.
 
