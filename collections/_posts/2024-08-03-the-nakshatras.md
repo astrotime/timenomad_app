@@ -537,7 +537,7 @@ And not forgetting to say a few words about [Abhijit](#abhijit) that belongs to 
 
 ## Abhijit
 
-The Abhijit nakshatra does not belong to the standard 27 nakshatras. It is the remnant of the ancient 28 nakshatra system. Abhijit enjoys a special popular attention for perhaps purely nostalgic reasons. The has to be something “extra special” after all. Abhijit is the 22nd nakshatra of the 28 nakshatra system.
+The Abhijit nakshatra does not belong to the standard 27 nakshatras. It is the remnant of the ancient 28 nakshatra system. Abhijit enjoys a special popular attention for perhaps purely nostalgic reasons. There has to be something “extra special” after all. Abhijit is the 22nd nakshatra of the 28 nakshatra system.
 
 From the experiential sky gazing standpoint Abhijit isn’t that prominent or active as it is based on the asterism of the star Vega of the constellation of Lyra that is exceedingly far from the path travelled by the Moon. The ecliptic latitude of Vega is about 62º and the Moon never ventures further than just a few degrees from the ecliptic plane, its maximum inclination is 5.30º
 
