@@ -2,14 +2,14 @@
 layout: post
 date: 2024-07-16 12:00:00 +1000
 modified: 2024-07-16 12:00:00 +1000
-order: 1
+order: 3
 title: The Nakshatras (lunar mansions)
 description: Track the nakshatras (lunar mansions) of the Moon and other planets of astrological chart using a Home Screen widget and an app extension.
 comments: true
 # Extra info for structured data
 schema:
   images:
-    alt: Moon phase and cycle widget
+    alt: The Nakshatras (lunar mansions) widget
   image:
     url: /images/og/og-time-nomad-doc-nakshatra-widget.jpg
     width: 1200
@@ -95,3 +95,20 @@ Tapping on the date at the top of pretty much every screen brings up the **Numer
 <img loading="lazy" src="/images/docs/nakshatra-numeric-chart-details-01.jpg" srcset="/images/docs/nakshatra-numeric-chart-details-01.jpg 1x, /images/docs/nakshatra-numeric-chart-details-01@2x.jpg 2x" alt="Current Moon nakshatra listing in the Chart Numeric Details report.">
 
 The “Summary” section includes current Moon nakshatra.
+
+<div class="container doc-ref-box">
+  <div class="row">
+    <div class="col-3">
+      <div class="row">
+        <img loading="lazy" class="post-icon" src="/images/schema/time-nomad-post-20240803-the-27-nakshatras-1x1.jpg" alt="The 27 Nakshatras of Vedic astrology">
+      </div>
+    </div>
+    <div class="col-9">
+      <div class="row">
+        <h3>The Nakshatras and their asterisms</h3>
+        <p>The 27 Nakshatras are the stations of the Moon, aka lunar mansions, that are evenly distributed along the sidereal zodiac that forms the basis of Vedic astrology. <a href="/documentation/nakshatras.html">Read the article…</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="float-clear"></div>
