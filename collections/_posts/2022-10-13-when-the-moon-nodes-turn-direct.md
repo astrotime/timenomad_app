@@ -7,6 +7,12 @@ title: When the Moon Nodes turn direct
 description: Alternating retrograde and direct movement of the Moon Nodes reveals polarity of the flow of time. Symbolism behind the transiting nodes. Interpreting direct lunar nodes in natal astrological charts.
 categories: posts astrology philosophy
 comments: true
+# App feed
+app:
+  scope: 
+  present: must
+  title: When the Moon Nodes turn direct
+  description: Exploring polarity of the flow of time.
 # Extra info for structured data
 schema:
   images:

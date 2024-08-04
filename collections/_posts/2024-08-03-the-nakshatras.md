@@ -7,6 +7,12 @@ title: The Nakshatras and their asterisms
 description: The 27 Nakshatras are the stations of the Moon, aka lunar mansions, that are evenly distributed along the sidereal zodiac that forms the basis of Vedic astrology.
 categories: posts astrology philosophy
 comments: true
+# App feed
+app:
+  scope: 
+  present: must
+  title: The 27 Nakshatras & their asterisms
+  description: Demystifying sidereal lunar mansions.
 # Extra info for structured data
 schema:
   images:
