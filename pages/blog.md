@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 permalink: /posts/
 date: 2018-09-01 12:00:00 +1000
-modified: 2020-09-22 12:00:00 +1000
+modified: 2024-08-07 12:00:00 +1000
 description: Astrological news and an ongoing astrology course on the foundations of astrology and metaphysics.
 image: /images/summary-cards/time-nomad-card.png
 list_title: Recent stories

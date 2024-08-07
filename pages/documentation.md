@@ -1,9 +1,9 @@
 ---
 layout: documentation
-title: How-To
+title: Guides
 permalink: /documentation/
 date: 2019-02-24 12:00:00 +1000
-modified: 2019-02-24 12:00:00 +1000
+modified: 2024-08-07 12:00:00 +1000
 description: Series of articles on how to perform precise astrological calculations, build charts for any date and natal charts, find astrological aspects, transits and retrograde planets.
 image: /images/summary-cards/time-nomad-card.png
 list_title: How-to articles

@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2024-07-15 12:00:00 +1000
-modified: 2024-07-15 12:00:00 +1000
+modified: 2024-08-07 12:00:00 +1000
 order: 1
-title: Current Moon phase and cycle widget for your Lock Screen and Home Screen
-description: The “Moon Cycle” widget can be added to any screen on iPhone or iPad, including Lock Screen. The widget presents current Moon phase within its overall lunation cycle.
+title: Current Moon phase and cycle widgets for your Lock Screen and Home Screen
+description: The “Moon Cycle” widgets can be added to any screen on iPhone or iPad, including Lock Screen. The widgets present current Moon phase within its overall lunation cycle.
 comments: true
 # Extra info for structured data
 schema:
@@ -31,7 +31,7 @@ This Lock Screen and Home Screen family of widgets covers current lunation, Moon
     </div>
     <div class="col-6">
       <div class="row text-photo-caption-serif">
-        The widget family consists of two Lock screen widgets and several sizes of Home Screen widgets. Both dark and light schemes are supported. The widgets shown illustrate upcoming partial lunar eclipse.
+        The widget family consists of <b>three Lock Screen widgets</b> and <b>several sizes of Home Screen widgets</b>. Both dark and light schemes are supported. The widgets shown illustrate upcoming partial lunar eclipse.
       </div>
     </div>
   </div>
@@ -42,17 +42,36 @@ This Lock Screen and Home Screen family of widgets covers current lunation, Moon
 
 The Lock Screen widgets are always visible, just tap the screen. The widgets offer the following information in a concise visual format:
 
-* Moon phase
-* Moon lunation timeline
-* any solar and lunar eclipses that may take place during lunation, including eclipse types
-* Moon applying and separating conjunctions with planets and points of a chart
-* future and past conjunctions with planets
-* Moon transit through constellations
-* Moon conjunctions with fixed stars in the vicinity of the ecliptic
+* Sun and Moon zodiac sign and degree, tropical or sidereal
+* Solar-lunar arc, ie the angle between the Sun and the Moon
+* Past and upcoming Moon phase
+* Complete Moon lunation timeline, from last New Moon to next New Moon
+* Solar and lunar eclipses that may take place during current lunation, including eclipse types
+* Moon‘s current applying and separating conjunctions with planets and points of a chart
+* Future and past conjunctions with planets
+* Moon‘s current transit through constellations
+* Moon‘s current conjunctions with fixed stars in the vicinity of the ecliptic
 
-<img loading="lazy" src="/images/docs/moon-cycle-widget-lock-screen-01.png" srcset="/images/docs/moon-cycle-widget-lock-screen-01.png 1x, /images/docs/moon-cycle-widget-lock-screen-01@2x.png 2x" alt="Moon phase and lunation widgets for the Lock Screen.">
+<img loading="lazy" src="/images/docs/moon-cycle-widget-lock-screen-01.png" srcset="/images/docs/moon-cycle-widget-lock-screen-01.png 1x, /images/docs/moon-cycle-widget-lock-screen-01@2x.png 2x" alt="Sun & Moon zodiac sign and degree, Moon phase and lunation widgets for iOS or iPadOS Lock Screen.">
 
-Lock Screen with both widgets added. Peruse [Apple online guide](https://support.apple.com/en-us/118610) on how to add widgets to the Lock Screen.
+### 1\. Lock Screen widget — Luminaries
+
+Lock Screen with all three widgets added. Peruse [Apple online guide](https://support.apple.com/en-us/118610) on how to add widgets to the Lock Screen.
+
+<img loading="lazy" src="/images/docs/moon-cycle-widget-lock-screen-04.png" srcset="/images/docs/moon-cycle-widget-lock-screen-04.png 1x, /images/docs/moon-cycle-widget-lock-screen-04@2x.png 2x" alt="Lock Screen rectangluar accessory widget displaying Sun and Moon zodiac signs, degrees and a solar-lunar arc which is the angle between the Sun and the Moon.">
+
+The super compact ”above the clock” rectangluar accessory widget displaying current values for:
+
+* Zodiac sign and degree of the Sun
+* Zodiac sign and degree of the Moon
+* Angle between the Moon and the Sun, aka the solar-lunar arc
+
+There are **two versions** of the widget, install the one that matches your preferred sodiac system:
+
+* Tropical zodiac system
+* Sidereal zodiac system
+
+### 2\. Lock Screen widget — Moon phase
 
 <img loading="lazy" src="/images/docs/moon-cycle-widget-lock-screen-02.png" srcset="/images/docs/moon-cycle-widget-lock-screen-02.png 1x, /images/docs/moon-cycle-widget-lock-screen-02@2x.png 2x" alt="Moon phase  widget displaying partial lunar eclipse and total solar eclipse.">
 
@@ -61,6 +80,8 @@ Moon phase widget displaying partial lunar eclipse and total solar eclipse.
 The widget highlights current intermediary phase and shows the countdown to the next phase.
 
 Solar and lunar eclipses are indicated by corresponding icons and a short legend. Scroll to the bottom of this guide for the full explanation of eclipses.
+
+### 3\. Lock Screen widget — Moon conjuncitons
 
 <img loading="lazy" src="/images/docs/moon-cycle-widget-lock-screen-03.png" srcset="/images/docs/moon-cycle-widget-lock-screen-03.png 1x, /images/docs/moon-cycle-widget-lock-screen-03@2x.png 2x" alt="Widget displaying conjunctions of the Moon with planets, fixed stars and Moon constellation transit.">
 

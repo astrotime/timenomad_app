@@ -18,7 +18,7 @@ seo:
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
-  dateModified: 2020-07-23
+  dateModified: 2024-08-07
 ---
 
 # Astrologer’s companion app for iPhone & iPad
