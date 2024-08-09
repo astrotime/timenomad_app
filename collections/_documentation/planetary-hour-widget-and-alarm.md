@@ -53,6 +53,8 @@ For those who are into the **practice of mindfulness**. At the very end of this 
 
 ## How to add the widgets 
 
+{% include video-youtube.html id="yu1fjUYQy84" %}
+
 Follow these steps to add the widgets to your device home screen:
 
 * Long tap anywhere on the screen.

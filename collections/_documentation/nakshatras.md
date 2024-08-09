@@ -31,6 +31,10 @@ The Nakshatras tool is comprised of several components:
 * a **Chart Details** component that accompanies every chart and lists all nakshatras and planets within them
 * a **Numeric Chart Details** popup entry for current Moon nakshatra
 
+## How to install the widgets
+
+{% include video-youtube.html id="yu1fjUYQy84" %}
+
 ## Moon Nakshatra widget
 
 The Home Screen widget tracks the Moon‘s current nakshatra.

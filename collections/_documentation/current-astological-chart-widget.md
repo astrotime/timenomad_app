@@ -40,6 +40,8 @@ schema:
 
 ## How to add the widget
 
+{% include video-youtube.html id="yu1fjUYQy84" %}
+
 Follow these steps to add the widgets to your device home screen:
 
 * Long tap anywhere on the screen.

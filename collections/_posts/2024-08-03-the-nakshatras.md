@@ -46,8 +46,8 @@ The videos below should be watched in the **HD (high definition) mode** to enabl
 
 The two videos below present the nakshatras tour from both **northern and southern hemispheres**.
 
-{% include video-youtube.html w="700" h="394" id="-iI8mnh9xfU" %}
-{% include video-youtube.html w="700" h="394" id="d29tv1xd2_k" %}
+{% include video-youtube.html id="-iI8mnh9xfU" %}
+{% include video-youtube.html id="d29tv1xd2_k" %}
 
 ## The two Moon cycles
 

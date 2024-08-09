@@ -38,6 +38,10 @@ This Lock Screen and Home Screen family of widgets covers current lunation, Moon
 </div>
 <div class="float-clear"></div>
 
+## How to install the widgets
+
+{% include video-youtube.html id="yu1fjUYQy84" %}
+
 ## Lock Screen widgets 
 
 The Lock Screen widgets are always visible, just tap the screen. The widgets offer the following information in a concise visual format:
