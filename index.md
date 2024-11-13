@@ -14,7 +14,7 @@ linkRelNext: /reviews/
 
 # Extra info for SEO plugin
 seo:
-  title: Time Nomad FREE astrology app for iPhone and iPad
+  title: Time Nomad astrology app for iPhone and iPad
   type: MobileApplication
   applicationCategory: Lifestyle
   datePublished: 2016-03-24
@@ -31,7 +31,7 @@ Time Nomad is a fine astrology app that is always with you, **right in your pock
 
 ## Explore astrology and astronomy in clarity and style
 
-The Time Nomad astrology app is **free for all its core functionality**. All additional features are optional and don't obstruct your use of the app in any way. Create as many astrological profiles as you need. You will own all your data as it is stored on your iCloud account, no registration, login or password is ever needed — you can start using it right away — either for yourself or for your astrological practice.
+Create as many astrological profiles as you need. You will own all your data as it is stored on your iCloud account, no registration, login or password is ever needed — you can start using it right away — either for yourself or for your astrological practice.
 
 {% include icon-appstore.html appname=site.my_app_store_name %}
 
@@ -51,7 +51,7 @@ The Time Nomad astrology app is **free for all its core functionality**. All add
 
 ## Join thousands of satisfied users
 
-Time Nomad is proud to serve the astrological community by providing this top notch free astrological and astronomical software to everybody who wants to understand movements of celestial bodies and learn the symbolic language of astrology and mythology behind this ancient branch of human knowledge.
+Time Nomad is proud to serve the astrological community by providing this top notch astrological and astronomical software to everybody who wants to understand movements of celestial bodies and learn the symbolic language of astrology and mythology behind this ancient branch of human knowledge.
 
 {% include reviews-by-users-summary.html link="reviews" %}
 
