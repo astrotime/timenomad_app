@@ -71,7 +71,7 @@ Each semi-circle acts as a domain for either diurnal or nocturnal polarity. Cons
 
 <img loading="lazy" src="/images/illustrations/zodiac-ruling-planets-1.png" srcset="/images/illustrations/zodiac-ruling-planets-1.png 1x, /images/illustrations/zodiac-ruling-planets-1@2x.png 2x, /images/illustrations/zodiac-ruling-planets-1@3x.png 3x" alt="Zodiac ruling planets">
 
-Now, beginning with Saturn which is the most distant and cold  body in both planetary spheres and the classical planets. Saturn becomes the ruler of the opposite pair of signs — Aquarius and Capricorn.
+Now, beginning with Saturn which is the most distant and cold  body in both planetary spheres and the classical planets. Saturn becomes the ruler of the opposite (with respect to the solar-lunar dividing line) pair of signs — Aquarius and Capricorn. 
 
 <img loading="lazy" src="/images/illustrations/zodiac-ruling-planets-2.png" srcset="/images/illustrations/zodiac-ruling-planets-2.png 1x, /images/illustrations/zodiac-ruling-planets-2@2x.png 2x, /images/illustrations/zodiac-ruling-planets-2@3x.png 3x" alt="Zodiac ruling planets">
 
