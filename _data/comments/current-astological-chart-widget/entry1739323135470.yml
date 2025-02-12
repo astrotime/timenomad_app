@@ -1,0 +1,9 @@
+_id: 53aa3770-e8df-11ef-8c4f-95de001340b5
+_parent: /documentation/current-astological-chart-widget.html
+message: "Question translation: Is there a setting for the real sidereal constellation boundaries of the IAU in the zodiac settings?\r\n\r\nBy definition the zodiac is the division of the ecliptic into 12 equal segments. While the zodiac model can somewhat overlap with the constellations (as in the sidereal zodiac model), it is not required to do so. \r\n\r\nThe widget works with the zodiac, not IAU constellations.\r\n\r\nZodiac is time based divisions while the constellations are space based divisions. Two different things.\r\n\r\nTime Nomad offers both tropical and sidereal zodiac models. Constellation boundaries aren't supported at this stage simply because they have little to do with astrology. They are purely scientific concepts."
+name: Time Nomad
+email: 7d889e62c2c83b88ee77a003fc071935
+url: ''
+replying_to: '2'
+hidden: ''
+date: 1739323135
