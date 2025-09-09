@@ -17,6 +17,7 @@ layout: null
 			"blurb": "{{ item.description }}"
 		},
 		{% endfor %}
+		{% comment %}
 		{% assign item = site.pages | where: "permalink", "/posts/" | first %}{% if item %}
 		{
 			"uuid": "{{ item.feedUUID }}",
@@ -27,6 +28,7 @@ layout: null
 			"description": "{{ item.description }}",
 			"blurb": "{{ item.description }}"
 		},{% endif %}
+		{% endcomment %}
 	],
 
 	"posts": [
